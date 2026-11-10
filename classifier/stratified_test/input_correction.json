@@ -1,0 +1,16 @@
+{
+ "original_prediction": {
+  "id": 327,
+  "stratum": "cubic",
+  "space_group_number": 223,
+  "setting": "Pm-3n",
+  "scaffold": "edq",
+  "floppy": "tep",
+  "shift": null,
+  "error": "ValueError: data must be of shape (n, m), where there are n points of dimension m | spacegroup Pm-3n"
+ },
+ "corrected_names": [
+  "tep"
+ ],
+ "reason": "CGD tep uses ATOM and EDGE atom-id target-coordinate syntax; old parser only recognized NODE and six-coordinate EDGE. No new or substituted pair; roles and coordinates unchanged."
+}

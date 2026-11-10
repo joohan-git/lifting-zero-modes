@@ -1,0 +1,1713 @@
+{
+ "rows": [
+  {
+   "a": "acs",
+   "b": "gra",
+   "scaffold": "acs",
+   "floppy": "gra",
+   "gen_mech_scaffold": 0,
+   "gen_mech_floppy": 4,
+   "n_contacts": 10,
+   "contacts_per_floppy_vertex": 2.5,
+   "min_clearance": 0.4714,
+   "shift": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "unlifted_mech_median": 0,
+   "lifted_eig_range": [
+    0.75,
+    2.0
+   ],
+   "band_spread_rel": 0.0,
+   "mech_vertex_locality": 0.75
+  },
+  {
+   "a": "alb-x",
+   "b": "alb-x-d",
+   "scaffold": "alb-x",
+   "floppy": "alb-x-d",
+   "gen_mech_scaffold": 0,
+   "gen_mech_floppy": 16,
+   "n_contacts": 28,
+   "contacts_per_floppy_vertex": 1.75,
+   "min_clearance": 0.2356,
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "unlifted_mech_median": 3,
+   "lifted_eig_range": [
+    -0.0,
+    1.4109
+   ],
+   "band_spread_rel": 0.117,
+   "mech_vertex_locality": 0.19
+  },
+  {
+   "a": "ast",
+   "b": "ast-d",
+   "scaffold": "ast-d",
+   "floppy": "ast",
+   "gen_mech_scaffold": 0,
+   "gen_mech_floppy": 40,
+   "n_contacts": 96,
+   "contacts_per_floppy_vertex": 2.4,
+   "min_clearance": 0.2719,
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "unlifted_mech_median": 20,
+   "lifted_eig_range": [
+    -0.0,
+    1.7131
+   ],
+   "band_spread_rel": 0.1035,
+   "mech_vertex_locality": 0.115
+  },
+  {
+   "a": "ats",
+   "b": "sta",
+   "scaffold": "sta",
+   "floppy": "ats",
+   "gen_mech_scaffold": 0,
+   "gen_mech_floppy": 2,
+   "n_contacts": 26,
+   "contacts_per_floppy_vertex": 4.333333333333333,
+   "min_clearance": 0.4714,
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "unlifted_mech_median": 2,
+   "lifted_eig_range": [
+    0.0,
+    0.0
+   ],
+   "band_spread_rel": 0.0,
+   "mech_vertex_locality": 1.0
+  },
+  {
+   "a": "bct",
+   "b": "xbe",
+   "scaffold": "bct",
+   "floppy": "xbe",
+   "gen_mech_scaffold": 0,
+   "gen_mech_floppy": 16,
+   "n_contacts": 16,
+   "contacts_per_floppy_vertex": 1.3333333333333333,
+   "min_clearance": 0.2537,
+   "shift": [
+    0.0,
+    0.0,
+    0.375
+   ],
+   "unlifted_mech_median": 4,
+   "lifted_eig_range": [
+    -0.0,
+    1.92
+   ],
+   "band_spread_rel": 0.0124,
+   "mech_vertex_locality": 0.627
+  },
+  {
+   "a": "bcu",
+   "b": "nbo",
+   "scaffold": "bcu",
+   "floppy": "nbo",
+   "gen_mech_scaffold": 0,
+   "gen_mech_floppy": 6,
+   "n_contacts": 12,
+   "contacts_per_floppy_vertex": 2.0,
+   "min_clearance": 0.4714,
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "unlifted_mech_median": 0,
+   "lifted_eig_range": [
+    2.0,
+    2.0
+   ],
+   "band_spread_rel": 0.0,
+   "mech_vertex_locality": 0.86
+  },
+  {
+   "a": "bcu-x",
+   "b": "nbo-a",
+   "scaffold": "bcu-x",
+   "floppy": "nbo-a",
+   "gen_mech_scaffold": 0,
+   "gen_mech_floppy": 36,
+   "n_contacts": 48,
+   "contacts_per_floppy_vertex": 2.0,
+   "min_clearance": 0.1586,
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "unlifted_mech_median": 6,
+   "lifted_eig_range": [
+    -0.0,
+    1.842
+   ],
+   "band_spread_rel": 0.0035,
+   "mech_vertex_locality": 0.581
+  },
+  {
+   "a": "bcu-x",
+   "b": "sod",
+   "scaffold": "bcu-x",
+   "floppy": "sod",
+   "gen_mech_scaffold": 0,
+   "gen_mech_floppy": 12,
+   "n_contacts": 48,
+   "contacts_per_floppy_vertex": 4.0,
+   "min_clearance": 0.2707,
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "unlifted_mech_median": 0,
+   "lifted_eig_range": [
+    0.8023,
+    1.6
+   ],
+   "band_spread_rel": 0.0524,
+   "mech_vertex_locality": 0.201
+  },
+  {
+   "a": "bcu-x-a",
+   "b": "xag",
+   "scaffold": "bcu-x-a",
+   "floppy": "xag",
+   "gen_mech_scaffold": 22,
+   "gen_mech_floppy": 42,
+   "n_contacts": 112,
+   "contacts_per_floppy_vertex": 2.9473684210526314,
+   "min_clearance": 0.4984,
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "unlifted_mech_median": 0,
+   "lifted_eig_range": [
+    0.1408,
+    2.7495
+   ],
+   "band_spread_rel": 0.1061,
+   "mech_vertex_locality": 0.261
+  },
+  {
+   "a": "bet",
+   "b": "mep",
+   "scaffold": "bet",
+   "floppy": "mep",
+   "gen_mech_scaffold": 0,
+   "gen_mech_floppy": 46,
+   "n_contacts": 112,
+   "contacts_per_floppy_vertex": 2.4347826086956523,
+   "min_clearance": 0.3068,
+   "shift": [
+    0.5,
+    0.5,
+    0.5
+   ],
+   "unlifted_mech_median": 0,
+   "lifted_eig_range": [
+    0.4351,
+    1.3927
+   ],
+   "band_spread_rel": 0.0308,
+   "mech_vertex_locality": 0.133
+  },
+  {
+   "a": "bnn",
+   "b": "hex",
+   "scaffold": "hex",
+   "floppy": "bnn",
+   "gen_mech_scaffold": 0,
+   "gen_mech_floppy": 1,
+   "n_contacts": 12,
+   "contacts_per_floppy_vertex": 6.0,
+   "min_clearance": 0.5774,
+   "shift": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "unlifted_mech_median": 0,
+   "lifted_eig_range": [
+    1.7143,
+    1.7143
+   ],
+   "band_spread_rel": 0.0,
+   "mech_vertex_locality": 0.5
+  },
+  {
+   "a": "bod",
+   "b": "xbs",
+   "scaffold": "xbs",
+   "floppy": "bod",
+   "gen_mech_scaffold": 0,
+   "gen_mech_floppy": 15,
+   "n_contacts": 14,
+   "contacts_per_floppy_vertex": 1.4,
+   "min_clearance": 0.1282,
+   "shift": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "unlifted_mech_median": 5,
+   "lifted_eig_range": [
+    -0.0,
+    1.561
+   ],
+   "band_spread_rel": 0.2031,
+   "mech_vertex_locality": 0.441
+  },
+  {
+   "a": "bor",
+   "b": "xbs",
+   "scaffold": "xbs",
+   "floppy": "bor",
+   "gen_mech_scaffold": 0,
+   "gen_mech_floppy": 9,
+   "n_contacts": 15,
+   "contacts_per_floppy_vertex": 2.142857142857143,
+   "min_clearance": 0.221,
+   "shift": [
+    0.25,
+    0.5,
+    0.5
+   ],
+   "unlifted_mech_median": 0,
+   "lifted_eig_range": [
+    0.0885,
+    1.6364
+   ],
+   "band_spread_rel": 0.1168,
+   "mech_vertex_locality": 0.385
+  },
+  {
+   "a": "bsn",
+   "b": "dia-f",
+   "scaffold": "bsn",
+   "floppy": "dia-f",
+   "gen_mech_scaffold": 0,
+   "gen_mech_floppy": 24,
+   "n_contacts": 16,
+   "contacts_per_floppy_vertex": 1.0,
+   "min_clearance": 0.3003,
+   "shift": [
+    0.125,
+    0.25,
+    0.0
+   ],
+   "unlifted_mech_median": 8,
+   "lifted_eig_range": [
+    -0.0,
+    0.8788
+   ],
+   "band_spread_rel": 0.1124,
+   "mech_vertex_locality": 0.513
+  },
+  {
+   "a": "bsn",
+   "b": "lig",
+   "scaffold": "bsn",
+   "floppy": "lig",
+   "gen_mech_scaffold": 0,
+   "gen_mech_floppy": 24,
+   "n_contacts": 32,
+   "contacts_per_floppy_vertex": 2.0,
+   "min_clearance": 0.5413,
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "unlifted_mech_median": 0,
+   "lifted_eig_range": [
+    0.0001,
+    1.7297
+   ],
+   "band_spread_rel": 0.024,
+   "mech_vertex_locality": 0.469
+  },
+  {
+   "a": "bsn",
+   "b": "lvt",
+   "scaffold": "bsn",
+   "floppy": "lvt",
+   "gen_mech_scaffold": 0,
+   "gen_mech_floppy": 8,
+   "n_contacts": 16,
+   "contacts_per_floppy_vertex": 2.0,
+   "min_clearance": 0.4841,
+   "shift": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "unlifted_mech_median": 0,
+   "lifted_eig_range": [
+    1.6447,
+    1.6447
+   ],
+   "band_spread_rel": 0.0,
+   "mech_vertex_locality": 0.577
+  },
+  {
+   "a": "bto",
+   "b": "qzd",
+   "scaffold": "qzd",
+   "floppy": "bto",
+   "gen_mech_scaffold": 3,
+   "gen_mech_floppy": 9,
+   "n_contacts": 18,
+   "contacts_per_floppy_vertex": 3.0,
+   "min_clearance": 0.4999,
+   "shift": [
+    0.0,
+    0.0,
+    0.125
+   ],
+   "unlifted_mech_median": 0,
+   "lifted_eig_range": [
+    0.0,
+    1.859
+   ],
+   "band_spread_rel": 0.2362,
+   "mech_vertex_locality": 0.684
+  },
+  {
+   "a": "cab",
+   "b": "reo-d",
+   "scaffold": "reo-d",
+   "floppy": "cab",
+   "gen_mech_scaffold": 0,
+   "gen_mech_floppy": 3,
+   "n_contacts": 6,
+   "contacts_per_floppy_vertex": 1.0,
+   "min_clearance": 0.265,
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "unlifted_mech_median": 3,
+   "lifted_eig_range": [
+    0.0,
+    0.0
+   ],
+   "band_spread_rel": 0.0,
+   "mech_vertex_locality": 0.227
+  },
+  {
+   "a": "cai",
+   "b": "sve",
+   "scaffold": "sve",
+   "floppy": "cai",
+   "gen_mech_scaffold": 0,
+   "gen_mech_floppy": 2,
+   "n_contacts": 24,
+   "contacts_per_floppy_vertex": 4.0,
+   "min_clearance": 0.4913,
+   "shift": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "unlifted_mech_median": 0,
+   "lifted_eig_range": [
+    1.2101,
+    1.2254
+   ],
+   "band_spread_rel": 0.0092,
+   "mech_vertex_locality": 0.268
+  },
+  {
+   "a": "cal",
+   "b": "cal-d",
+   "scaffold": "cal",
+   "floppy": "cal-d",
+   "gen_mech_scaffold": 0,
+   "gen_mech_floppy": 68,
+   "n_contacts": 112,
+   "contacts_per_floppy_vertex": 1.6470588235294117,
+   "min_clearance": 0.2776,
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "unlifted_mech_median": 0,
+   "lifted_eig_range": [
+    0.0,
+    1.0825
+   ],
+   "band_spread_rel": 0.0806,
+   "mech_vertex_locality": 0.13
+  },
+  {
+   "a": "ccu",
+   "b": "doh",
+   "scaffold": "ccu",
+   "floppy": "doh",
+   "gen_mech_scaffold": 0,
+   "gen_mech_floppy": 34,
+   "n_contacts": 64,
+   "contacts_per_floppy_vertex": 1.8823529411764706,
+   "min_clearance": 0.2623,
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "unlifted_mech_median": 0,
+   "lifted_eig_range": [
+    0.2385,
+    1.1819
+   ],
+   "band_spread_rel": 0.0534,
+   "mech_vertex_locality": 0.143
+  },
+  {
+   "a": "cla",
+   "b": "cla-d",
+   "scaffold": "cla-d",
+   "floppy": "cla",
+   "gen_mech_scaffold": 0,
+   "gen_mech_floppy": 82,
+   "n_contacts": 88,
+   "contacts_per_floppy_vertex": 1.0731707317073171,
+   "min_clearance": 0.1242,
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "unlifted_mech_median": 10,
+   "lifted_eig_range": [
+    -0.0,
+    1.0879
+   ],
+   "band_spread_rel": 0.0355,
+   "mech_vertex_locality": 0.142
+  },
+  {
+   "a": "cnw",
+   "b": "fsm",
+   "scaffold": "fsm",
+   "floppy": "cnw",
+   "gen_mech_scaffold": 8,
+   "gen_mech_floppy": 16,
+   "n_contacts": 24,
+   "contacts_per_floppy_vertex": 1.5,
+   "min_clearance": 0.4112,
+   "shift": [
+    0.0,
+    0.5,
+    0.0
+   ],
+   "unlifted_mech_median": 0,
+   "lifted_eig_range": [
+    0.0,
+    1.2405
+   ],
+   "band_spread_rel": 0.2747,
+   "mech_vertex_locality": 0.216
+  },
+  {
+   "a": "crs",
+   "b": "crs-d",
+   "skip": "floppy subnet has no generic mechanisms"
+  },
+  {
+   "a": "ctn-x",
+   "b": "thp",
+   "scaffold": "thp",
+   "floppy": "ctn-x",
+   "gen_mech_scaffold": 0,
+   "gen_mech_floppy": 20,
+   "n_contacts": 96,
+   "contacts_per_floppy_vertex": 3.4285714285714284,
+   "min_clearance": 0.3077,
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "unlifted_mech_median": 0,
+   "lifted_eig_range": [
+    1.3167,
+    1.557
+   ],
+   "band_spread_rel": 0.0206,
+   "mech_vertex_locality": 0.124
+  },
+  {
+   "a": "ddi",
+   "b": "jph",
+   "scaffold": "ddi",
+   "floppy": "jph",
+   "gen_mech_scaffold": 0,
+   "gen_mech_floppy": 28,
+   "n_contacts": 40,
+   "contacts_per_floppy_vertex": 2.0,
+   "min_clearance": 0.2255,
+   "shift": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "unlifted_mech_median": 0,
+   "lifted_eig_range": [
+    0.0001,
+    2.0
+   ],
+   "band_spread_rel": 0.1612,
+   "mech_vertex_locality": 0.506
+  },
+  {
+   "a": "deh",
+   "b": "deh-d",
+   "scaffold": "deh-d",
+   "floppy": "deh",
+   "gen_mech_scaffold": 0,
+   "gen_mech_floppy": 48,
+   "n_contacts": 32,
+   "contacts_per_floppy_vertex": 1.0,
+   "min_clearance": 0.2858,
+   "shift": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "unlifted_mech_median": 16,
+   "lifted_eig_range": [
+    -0.0,
+    0.9932
+   ],
+   "band_spread_rel": 0.1852,
+   "mech_vertex_locality": 0.594
+  },
+  {
+   "a": "deh-d",
+   "b": "gis",
+   "scaffold": "deh-d",
+   "floppy": "gis",
+   "gen_mech_scaffold": 0,
+   "gen_mech_floppy": 16,
+   "n_contacts": 32,
+   "contacts_per_floppy_vertex": 2.0,
+   "min_clearance": 0.3329,
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "unlifted_mech_median": 0,
+   "lifted_eig_range": [
+    0.0192,
+    1.1939
+   ],
+   "band_spread_rel": 0.2623,
+   "mech_vertex_locality": 0.271
+  },
+  {
+   "a": "dmp",
+   "b": "utp",
+   "scaffold": "dmp",
+   "floppy": "utp",
+   "gen_mech_scaffold": 4,
+   "gen_mech_floppy": 12,
+   "n_contacts": 8,
+   "contacts_per_floppy_vertex": 1.0,
+   "min_clearance": 0.501,
+   "shift": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "unlifted_mech_median": 4,
+   "lifted_eig_range": [
+    -0.0,
+    0.9915
+   ],
+   "band_spread_rel": 0.0535,
+   "mech_vertex_locality": 0.485
+  },
+  {
+   "a": "eca",
+   "b": "xbd",
+   "scaffold": "eca",
+   "floppy": "xbd",
+   "gen_mech_scaffold": 0,
+   "gen_mech_floppy": 10,
+   "n_contacts": 18,
+   "contacts_per_floppy_vertex": 2.25,
+   "min_clearance": 0.317,
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "unlifted_mech_median": 2,
+   "lifted_eig_range": [
+    -0.0,
+    1.4266
+   ],
+   "band_spread_rel": 0.0,
+   "mech_vertex_locality": 0.658
+  },
+  {
+   "a": "epv",
+   "b": "ild",
+   "scaffold": "ild",
+   "floppy": "epv",
+   "gen_mech_scaffold": 0,
+   "gen_mech_floppy": 18,
+   "n_contacts": 27,
+   "contacts_per_floppy_vertex": 1.125,
+   "min_clearance": 0.1302,
+   "shift": [
+    0.0,
+    0.25,
+    0.0
+   ],
+   "unlifted_mech_median": 3,
+   "lifted_eig_range": [
+    0.0,
+    0.4118
+   ],
+   "band_spread_rel": 0.0262,
+   "mech_vertex_locality": 0.365
+  },
+  {
+   "a": "eta",
+   "b": "qzd",
+   "scaffold": "qzd",
+   "floppy": "eta",
+   "gen_mech_scaffold": 3,
+   "gen_mech_floppy": 9,
+   "n_contacts": 24,
+   "contacts_per_floppy_vertex": 4.0,
+   "min_clearance": 0.5254,
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "unlifted_mech_median": 0,
+   "lifted_eig_range": [
+    0.203,
+    1.9011
+   ],
+   "band_spread_rel": 0.2352,
+   "mech_vertex_locality": 0.639
+  },
+  {
+   "a": "etc",
+   "b": "gra",
+   "scaffold": "gra",
+   "floppy": "etc",
+   "gen_mech_scaffold": 4,
+   "gen_mech_floppy": 12,
+   "n_contacts": 8,
+   "contacts_per_floppy_vertex": 1.0,
+   "min_clearance": 0.5826,
+   "shift": [
+    0.0,
+    0.0,
+    0.375
+   ],
+   "unlifted_mech_median": 6,
+   "lifted_eig_range": [
+    -0.0,
+    1.0
+   ],
+   "band_spread_rel": 0.1113,
+   "mech_vertex_locality": 0.62
+  },
+  {
+   "a": "etd",
+   "b": "unj",
+   "scaffold": "unj",
+   "floppy": "etd",
+   "gen_mech_scaffold": 6,
+   "gen_mech_floppy": 18,
+   "n_contacts": 12,
+   "contacts_per_floppy_vertex": 1.0,
+   "min_clearance": 0.5765,
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "unlifted_mech_median": 6,
+   "lifted_eig_range": [
+    -0.0,
+    0.9994
+   ],
+   "band_spread_rel": 0.0104,
+   "mech_vertex_locality": 0.527
+  },
+  {
+   "a": "fcu",
+   "b": "flu",
+   "scaffold": "fcu",
+   "floppy": "flu",
+   "gen_mech_scaffold": 0,
+   "gen_mech_floppy": 4,
+   "n_contacts": 56,
+   "contacts_per_floppy_vertex": 4.666666666666667,
+   "min_clearance": 0.3536,
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "unlifted_mech_median": 0,
+   "lifted_eig_range": [
+    1.5556,
+    1.5556
+   ],
+   "band_spread_rel": 0.0,
+   "mech_vertex_locality": 0.136
+  },
+  {
+   "a": "fsc",
+   "b": "mot",
+   "scaffold": "fsc",
+   "floppy": "mot",
+   "gen_mech_scaffold": 1,
+   "gen_mech_floppy": 3,
+   "n_contacts": 6,
+   "contacts_per_floppy_vertex": 2.0,
+   "min_clearance": 0.5154,
+   "shift": [
+    0.0,
+    0.125,
+    0.5
+   ],
+   "unlifted_mech_median": 1,
+   "lifted_eig_range": [
+    -0.0,
+    1.7778
+   ],
+   "band_spread_rel": 0.0,
+   "mech_vertex_locality": 0.782
+  },
+  {
+   "a": "fse",
+   "b": "xux",
+   "scaffold": "fse",
+   "floppy": "xux",
+   "gen_mech_scaffold": 2,
+   "gen_mech_floppy": 14,
+   "n_contacts": 20,
+   "contacts_per_floppy_vertex": 2.0,
+   "min_clearance": 0.4272,
+   "shift": [
+    0.0,
+    0.5,
+    0.25
+   ],
+   "unlifted_mech_median": 2,
+   "lifted_eig_range": [
+    -0.0,
+    1.9232
+   ],
+   "band_spread_rel": 0.163,
+   "mech_vertex_locality": 0.457
+  },
+  {
+   "a": "gan",
+   "b": "lcs",
+   "scaffold": "gan",
+   "floppy": "lcs",
+   "gen_mech_scaffold": 8,
+   "gen_mech_floppy": 24,
+   "n_contacts": 96,
+   "contacts_per_floppy_vertex": 4.0,
+   "min_clearance": 0.6488,
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "unlifted_mech_median": 0,
+   "lifted_eig_range": [
+    0.6667,
+    2.65
+   ],
+   "band_spread_rel": 0.2291,
+   "mech_vertex_locality": 0.182
+  },
+  {
+   "a": "gan",
+   "b": "vab",
+   "scaffold": "gan",
+   "floppy": "vab",
+   "gen_mech_scaffold": 8,
+   "gen_mech_floppy": 72,
+   "n_contacts": 96,
+   "contacts_per_floppy_vertex": 2.0,
+   "min_clearance": 0.3244,
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "unlifted_mech_median": 0,
+   "lifted_eig_range": [
+    0.6667,
+    0.6667
+   ],
+   "band_spread_rel": 0.0,
+   "mech_vertex_locality": 0.624
+  },
+  {
+   "a": "gra",
+   "b": "lon",
+   "scaffold": "lon",
+   "floppy": "gra",
+   "gen_mech_scaffold": 4,
+   "gen_mech_floppy": 4,
+   "n_contacts": 16,
+   "contacts_per_floppy_vertex": 4.0,
+   "min_clearance": 0.7857,
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "unlifted_mech_median": 0,
+   "lifted_eig_range": [
+    1.1707,
+    2.0
+   ],
+   "band_spread_rel": 0.0,
+   "mech_vertex_locality": 0.75
+  },
+  {
+   "a": "hcp",
+   "b": "hcp-d",
+   "scaffold": "hcp",
+   "floppy": "hcp-d",
+   "gen_mech_scaffold": 0,
+   "gen_mech_floppy": 2,
+   "n_contacts": 16,
+   "contacts_per_floppy_vertex": 2.6666666666666665,
+   "min_clearance": 0.2426,
+   "shift": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "unlifted_mech_median": 0,
+   "lifted_eig_range": [
+    0.6774,
+    1.0003
+   ],
+   "band_spread_rel": 0.3051,
+   "mech_vertex_locality": 0.407
+  },
+  {
+   "a": "hcp",
+   "b": "seh",
+   "skip": "floppy subnet has no generic mechanisms"
+  },
+  {
+   "a": "hxg",
+   "b": "hxg-d",
+   "scaffold": "hxg-d",
+   "floppy": "hxg",
+   "gen_mech_scaffold": 0,
+   "gen_mech_floppy": 4,
+   "n_contacts": 8,
+   "contacts_per_floppy_vertex": 2.0,
+   "min_clearance": 0.3736,
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "unlifted_mech_median": 0,
+   "lifted_eig_range": [
+    2.0,
+    2.0
+   ],
+   "band_spread_rel": 0.0,
+   "mech_vertex_locality": 0.559
+  },
+  {
+   "a": "jsm",
+   "b": "uoc",
+   "scaffold": "jsm",
+   "floppy": "uoc",
+   "gen_mech_scaffold": 0,
+   "gen_mech_floppy": 8,
+   "n_contacts": 16,
+   "contacts_per_floppy_vertex": 2.0,
+   "min_clearance": 0.3042,
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "unlifted_mech_median": 0,
+   "lifted_eig_range": [
+    0.0274,
+    1.35
+   ],
+   "band_spread_rel": 0.5688,
+   "mech_vertex_locality": 0.446
+  },
+  {
+   "a": "kag",
+   "b": "kag-d",
+   "skip": "floppy subnet has no generic mechanisms"
+  },
+  {
+   "a": "keb",
+   "b": "xak",
+   "skip": "floppy subnet has no generic mechanisms"
+  },
+  {
+   "a": "mcd",
+   "b": "mcf",
+   "scaffold": "mcf",
+   "floppy": "mcd",
+   "gen_mech_scaffold": 8,
+   "gen_mech_floppy": 8,
+   "n_contacts": 16,
+   "contacts_per_floppy_vertex": 2.0,
+   "min_clearance": 0.5352,
+   "shift": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "unlifted_mech_median": 2,
+   "lifted_eig_range": [
+    -0.0,
+    1.0917
+   ],
+   "band_spread_rel": 0.2257,
+   "mech_vertex_locality": 0.444
+  },
+  {
+   "a": "mcf",
+   "b": "mcf-d",
+   "scaffold": "mcf-d",
+   "floppy": "mcf",
+   "gen_mech_scaffold": 4,
+   "gen_mech_floppy": 8,
+   "n_contacts": 8,
+   "contacts_per_floppy_vertex": 1.0,
+   "min_clearance": 0.5139,
+   "shift": [
+    0.25,
+    0.25,
+    0.25
+   ],
+   "unlifted_mech_median": 0,
+   "lifted_eig_range": [
+    0.0,
+    0.9062
+   ],
+   "band_spread_rel": 0.6782,
+   "mech_vertex_locality": 0.38
+  },
+  {
+   "a": "mgc-x",
+   "b": "mtn",
+   "scaffold": "mgc-x",
+   "floppy": "mtn",
+   "gen_mech_scaffold": 0,
+   "gen_mech_floppy": 136,
+   "n_contacts": 320,
+   "contacts_per_floppy_vertex": 2.3529411764705883,
+   "min_clearance": 0.314,
+   "shift": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "unlifted_mech_median": 0,
+   "lifted_eig_range": [
+    0.3019,
+    1.1937
+   ],
+   "band_spread_rel": 0.0176,
+   "mech_vertex_locality": 0.119
+  },
+  {
+   "a": "mgz-x",
+   "b": "mgz-x-d",
+   "scaffold": "mgz-x",
+   "floppy": "mgz-x-d",
+   "gen_mech_scaffold": 0,
+   "gen_mech_floppy": 68,
+   "n_contacts": 148,
+   "contacts_per_floppy_vertex": 2.176470588235294,
+   "min_clearance": 0.3132,
+   "shift": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "unlifted_mech_median": 0,
+   "lifted_eig_range": [
+    0.2028,
+    1.1985
+   ],
+   "band_spread_rel": 0.0239,
+   "mech_vertex_locality": 0.125
+  },
+  {
+   "a": "nas",
+   "b": "nas-d",
+   "scaffold": "nas",
+   "floppy": "nas-d",
+   "gen_mech_scaffold": 0,
+   "gen_mech_floppy": 232,
+   "n_contacts": 512,
+   "contacts_per_floppy_vertex": 2.206896551724138,
+   "min_clearance": 0.2151,
+   "shift": [
+    0.5,
+    0.5,
+    0.5
+   ],
+   "unlifted_mech_median": 0,
+   "lifted_eig_range": [
+    0.187,
+    1.643
+   ],
+   "band_spread_rel": 0.0107,
+   "mech_vertex_locality": 0.122
+  },
+  {
+   "a": "nba",
+   "b": "reo-d",
+   "scaffold": "reo-d",
+   "floppy": "nba",
+   "gen_mech_scaffold": 0,
+   "gen_mech_floppy": 21,
+   "n_contacts": 30,
+   "contacts_per_floppy_vertex": 2.0,
+   "min_clearance": 0.2295,
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "unlifted_mech_median": 3,
+   "lifted_eig_range": [
+    -0.0,
+    2.0
+   ],
+   "band_spread_rel": 0.0074,
+   "mech_vertex_locality": 0.593
+  },
+  {
+   "a": "nbo-x",
+   "b": "nbo-x-d",
+   "skip": "floppy subnet has no generic mechanisms"
+  },
+  {
+   "a": "nia",
+   "b": "nia-d",
+   "scaffold": "nia",
+   "floppy": "nia-d",
+   "gen_mech_scaffold": 0,
+   "gen_mech_floppy": 2,
+   "n_contacts": 10,
+   "contacts_per_floppy_vertex": 2.5,
+   "min_clearance": 0.4714,
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "unlifted_mech_median": 0,
+   "lifted_eig_range": [
+    2.0,
+    2.0
+   ],
+   "band_spread_rel": 0.0,
+   "mech_vertex_locality": 1.0
+  },
+  {
+   "a": "nod",
+   "b": "sxb",
+   "scaffold": "sxb",
+   "floppy": "nod",
+   "gen_mech_scaffold": 0,
+   "gen_mech_floppy": 24,
+   "n_contacts": 32,
+   "contacts_per_floppy_vertex": 2.0,
+   "min_clearance": 0.3751,
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "unlifted_mech_median": 0,
+   "lifted_eig_range": [
+    0.0,
+    1.4377
+   ],
+   "band_spread_rel": 0.1617,
+   "mech_vertex_locality": 0.507
+  },
+  {
+   "a": "nof",
+   "b": "sxb",
+   "scaffold": "sxb",
+   "floppy": "nof",
+   "gen_mech_scaffold": 0,
+   "gen_mech_floppy": 24,
+   "n_contacts": 16,
+   "contacts_per_floppy_vertex": 1.0,
+   "min_clearance": 0.2618,
+   "shift": [
+    0.0,
+    0.25,
+    0.125
+   ],
+   "unlifted_mech_median": 8,
+   "lifted_eig_range": [
+    -0.0,
+    0.9826
+   ],
+   "band_spread_rel": 0.094,
+   "mech_vertex_locality": 0.507
+  },
+  {
+   "a": "ntv",
+   "b": "xbk",
+   "scaffold": "xbk",
+   "floppy": "ntv",
+   "gen_mech_scaffold": 24,
+   "gen_mech_floppy": 60,
+   "n_contacts": 176,
+   "contacts_per_floppy_vertex": 2.933333333333333,
+   "min_clearance": 0.3037,
+   "shift": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "unlifted_mech_median": 0,
+   "lifted_eig_range": [
+    0.6347,
+    1.3716
+   ],
+   "band_spread_rel": 0.0347,
+   "mech_vertex_locality": 0.147
+  },
+  {
+   "a": "odf",
+   "b": "odf-d",
+   "scaffold": "odf-d",
+   "floppy": "odf",
+   "gen_mech_scaffold": 0,
+   "gen_mech_floppy": 260,
+   "n_contacts": 272,
+   "contacts_per_floppy_vertex": 1.0461538461538462,
+   "min_clearance": 0.0988,
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "unlifted_mech_median": 26,
+   "lifted_eig_range": [
+    -0.0,
+    1.0259
+   ],
+   "band_spread_rel": 0.0144,
+   "mech_vertex_locality": 0.112
+  },
+  {
+   "a": "pcu",
+   "b": "urk",
+   "scaffold": "pcu",
+   "floppy": "urk",
+   "gen_mech_scaffold": 0,
+   "gen_mech_floppy": 3,
+   "n_contacts": 7,
+   "contacts_per_floppy_vertex": 1.0,
+   "min_clearance": 0.3536,
+   "shift": [
+    0.25,
+    0.25,
+    0.25
+   ],
+   "unlifted_mech_median": 0,
+   "lifted_eig_range": [
+    0.3333,
+    0.3333
+   ],
+   "band_spread_rel": 0.0,
+   "mech_vertex_locality": 0.651
+  },
+  {
+   "a": "qtz",
+   "b": "qzd",
+   "scaffold": "qzd",
+   "floppy": "qtz",
+   "gen_mech_scaffold": 3,
+   "gen_mech_floppy": 3,
+   "n_contacts": 12,
+   "contacts_per_floppy_vertex": 4.0,
+   "min_clearance": 0.5,
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "unlifted_mech_median": 0,
+   "lifted_eig_range": [
+    0.0748,
+    2.0
+   ],
+   "band_spread_rel": 0.5772,
+   "mech_vertex_locality": 0.509
+  },
+  {
+   "a": "qtz-h",
+   "b": "qzd",
+   "scaffold": "qzd",
+   "floppy": "qtz-h",
+   "gen_mech_scaffold": 3,
+   "gen_mech_floppy": 18,
+   "n_contacts": 12,
+   "contacts_per_floppy_vertex": 1.0,
+   "min_clearance": 0.451,
+   "shift": [
+    0.0,
+    0.0,
+    0.375
+   ],
+   "unlifted_mech_median": 6,
+   "lifted_eig_range": [
+    -0.0,
+    0.9995
+   ],
+   "band_spread_rel": 0.035,
+   "mech_vertex_locality": 0.572
+  },
+  {
+   "a": "qtz-x",
+   "b": "uom",
+   "scaffold": "qtz-x",
+   "floppy": "uom",
+   "gen_mech_scaffold": 0,
+   "gen_mech_floppy": 6,
+   "n_contacts": 12,
+   "contacts_per_floppy_vertex": 2.0,
+   "min_clearance": 0.4841,
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "unlifted_mech_median": 0,
+   "lifted_eig_range": [
+    1.4706,
+    1.4706
+   ],
+   "band_spread_rel": 0.0,
+   "mech_vertex_locality": 0.56
+  },
+  {
+   "a": "qzd",
+   "b": "uog",
+   "scaffold": "qzd",
+   "floppy": "uog",
+   "gen_mech_scaffold": 3,
+   "gen_mech_floppy": 6,
+   "n_contacts": 12,
+   "contacts_per_floppy_vertex": 2.0,
+   "min_clearance": 0.4774,
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "unlifted_mech_median": 0,
+   "lifted_eig_range": [
+    0.0073,
+    1.0463
+   ],
+   "band_spread_rel": 0.3482,
+   "mech_vertex_locality": 0.487
+  },
+  {
+   "a": "reo",
+   "b": "reo-d",
+   "skip": "floppy subnet has no generic mechanisms"
+  },
+  {
+   "a": "sgt",
+   "b": "tsl",
+   "scaffold": "tsl",
+   "floppy": "sgt",
+   "gen_mech_scaffold": 0,
+   "gen_mech_floppy": 64,
+   "n_contacts": 96,
+   "contacts_per_floppy_vertex": 1.5,
+   "min_clearance": 0.2627,
+   "shift": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "unlifted_mech_median": 4,
+   "lifted_eig_range": [
+    -0.0,
+    1.1638
+   ],
+   "band_spread_rel": 0.1247,
+   "mech_vertex_locality": 0.15
+  },
+  {
+   "a": "she",
+   "b": "she-d",
+   "scaffold": "she-d",
+   "floppy": "she",
+   "gen_mech_scaffold": 0,
+   "gen_mech_floppy": 20,
+   "n_contacts": 88,
+   "contacts_per_floppy_vertex": 4.4,
+   "min_clearance": 0.277,
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "unlifted_mech_median": 0,
+   "lifted_eig_range": [
+    2.0,
+    2.6667
+   ],
+   "band_spread_rel": 0.0,
+   "mech_vertex_locality": 0.221
+  },
+  {
+   "a": "spn",
+   "b": "xbr",
+   "scaffold": "xbr",
+   "floppy": "spn",
+   "gen_mech_scaffold": 0,
+   "gen_mech_floppy": 48,
+   "n_contacts": 48,
+   "contacts_per_floppy_vertex": 1.0,
+   "min_clearance": 0.1928,
+   "shift": [
+    0.0,
+    0.125,
+    0.25
+   ],
+   "unlifted_mech_median": 0,
+   "lifted_eig_range": [
+    0.0,
+    0.9999
+   ],
+   "band_spread_rel": 0.1763,
+   "mech_vertex_locality": 0.104
+  },
+  {
+   "a": "svn",
+   "b": "svn-d",
+   "scaffold": "svn",
+   "floppy": "svn-d",
+   "gen_mech_scaffold": 0,
+   "gen_mech_floppy": 36,
+   "n_contacts": 48,
+   "contacts_per_floppy_vertex": 1.7142857142857142,
+   "min_clearance": 0.3889,
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "unlifted_mech_median": 0,
+   "lifted_eig_range": [
+    0.0,
+    1.0002
+   ],
+   "band_spread_rel": 0.0604,
+   "mech_vertex_locality": 0.402
+  },
+  {
+   "a": "tof",
+   "b": "xbt",
+   "scaffold": "xbt",
+   "floppy": "tof",
+   "gen_mech_scaffold": 2,
+   "gen_mech_floppy": 14,
+   "n_contacts": 32,
+   "contacts_per_floppy_vertex": 2.2857142857142856,
+   "min_clearance": 0.3575,
+   "shift": [
+    0.5,
+    0.5,
+    0.5
+   ],
+   "unlifted_mech_median": 0,
+   "lifted_eig_range": [
+    0.4268,
+    1.0481
+   ],
+   "band_spread_rel": 0.1079,
+   "mech_vertex_locality": 0.192
+  },
+  {
+   "a": "tsi",
+   "b": "xbj",
+   "scaffold": "tsi",
+   "floppy": "xbj",
+   "gen_mech_scaffold": 0,
+   "gen_mech_floppy": 4,
+   "n_contacts": 32,
+   "contacts_per_floppy_vertex": 4.0,
+   "min_clearance": 0.5512,
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "unlifted_mech_median": 0,
+   "lifted_eig_range": [
+    0.4255,
+    1.8053
+   ],
+   "band_spread_rel": 0.7166,
+   "mech_vertex_locality": 0.243
+  },
+  {
+   "a": "ttt",
+   "b": "xbp",
+   "scaffold": "xbp",
+   "floppy": "ttt",
+   "gen_mech_scaffold": 0,
+   "gen_mech_floppy": 12,
+   "n_contacts": 20,
+   "contacts_per_floppy_vertex": 1.0,
+   "min_clearance": 0.249,
+   "shift": [
+    0.0,
+    0.0,
+    0.25
+   ],
+   "unlifted_mech_median": 11,
+   "lifted_eig_range": [
+    0.0,
+    0.0
+   ],
+   "band_spread_rel": 2.6048,
+   "mech_vertex_locality": 0.21
+  },
+  {
+   "a": "uni",
+   "b": "uni-d",
+   "scaffold": "uni",
+   "floppy": "uni-d",
+   "gen_mech_scaffold": 6,
+   "gen_mech_floppy": 18,
+   "n_contacts": 24,
+   "contacts_per_floppy_vertex": 2.0,
+   "min_clearance": 0.6947,
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "unlifted_mech_median": 0,
+   "lifted_eig_range": [
+    0.0002,
+    1.9793
+   ],
+   "band_spread_rel": 0.0107,
+   "mech_vertex_locality": 0.491
+  },
+  {
+   "a": "wzz",
+   "b": "xaa",
+   "scaffold": "wzz",
+   "floppy": "xaa",
+   "gen_mech_scaffold": 0,
+   "gen_mech_floppy": 120,
+   "n_contacts": 176,
+   "contacts_per_floppy_vertex": 2.2,
+   "min_clearance": 0.3961,
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "unlifted_mech_median": 48,
+   "lifted_eig_range": [
+    -0.0,
+    1.0
+   ],
+   "band_spread_rel": 0.0035,
+   "mech_vertex_locality": 0.466
+  },
+  {
+   "a": "xaf",
+   "b": "xag",
+   "scaffold": "xaf",
+   "floppy": "xag",
+   "gen_mech_scaffold": 6,
+   "gen_mech_floppy": 42,
+   "n_contacts": 108,
+   "contacts_per_floppy_vertex": 2.8421052631578947,
+   "min_clearance": 0.4663,
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "unlifted_mech_median": 24,
+   "lifted_eig_range": [
+    -0.0,
+    2.5489
+   ],
+   "band_spread_rel": 0.1491,
+   "mech_vertex_locality": 0.258
+  },
+  {
+   "a": "xbp",
+   "b": "xbz",
+   "scaffold": "xbp",
+   "floppy": "xbz",
+   "gen_mech_scaffold": 0,
+   "gen_mech_floppy": 44,
+   "n_contacts": 48,
+   "contacts_per_floppy_vertex": 1.3333333333333333,
+   "min_clearance": 0.1955,
+   "shift": [
+    0.0,
+    0.125,
+    0.25
+   ],
+   "unlifted_mech_median": 0,
+   "lifted_eig_range": [
+    0.0,
+    0.9992
+   ],
+   "band_spread_rel": 0.0727,
+   "mech_vertex_locality": 0.305
+  },
+  {
+   "a": "zra",
+   "b": "zra-d",
+   "scaffold": "zra",
+   "floppy": "zra-d",
+   "gen_mech_scaffold": 0,
+   "gen_mech_floppy": 40,
+   "n_contacts": 96,
+   "contacts_per_floppy_vertex": 2.4,
+   "min_clearance": 0.3075,
+   "shift": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "unlifted_mech_median": 1,
+   "lifted_eig_range": [
+    -0.0,
+    1.2364
+   ],
+   "band_spread_rel": 0.0388,
+   "mech_vertex_locality": 0.141
+  }
+ ],
+ "summary": {
+  "pairs": 76,
+  "computed": 70,
+  "rigid": 49,
+  "lifted": 30,
+  "near_flat": [
+   "acs|gra",
+   "bcu|nbo",
+   "bet|mep",
+   "hex|bnn",
+   "bsn|lig",
+   "bsn|lvt",
+   "sve|cai",
+   "thp|ctn-x",
+   "fcu|flu",
+   "hxg-d|hxg",
+   "mgc-x|mtn",
+   "mgz-x|mgz-x-d",
+   "nas|nas-d",
+   "nia|nia-d",
+   "pcu|urk",
+   "qtz-x|uom",
+   "she-d|she"
+  ],
+  "exact": [
+   "acs|gra",
+   "bcu|nbo",
+   "hex|bnn",
+   "bsn|lvt",
+   "fcu|flu",
+   "hxg-d|hxg",
+   "nia|nia-d",
+   "pcu|urk",
+   "qtz-x|uom",
+   "she-d|she"
+  ],
+  "skips": [
+   [
+    "crs",
+    "crs-d",
+    "floppy subnet has no generic mechanisms"
+   ],
+   [
+    "hcp",
+    "seh",
+    "floppy subnet has no generic mechanisms"
+   ],
+   [
+    "kag",
+    "kag-d",
+    "floppy subnet has no generic mechanisms"
+   ],
+   [
+    "keb",
+    "xak",
+    "floppy subnet has no generic mechanisms"
+   ],
+   [
+    "nbo-x",
+    "nbo-x-d",
+    "floppy subnet has no generic mechanisms"
+   ],
+   [
+    "reo",
+    "reo-d",
+    "floppy subnet has no generic mechanisms"
+   ]
+  ]
+ }
+}

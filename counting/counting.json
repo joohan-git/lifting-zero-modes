@@ -1,0 +1,854 @@
+{
+ "definition": "N_L=dV, N_Ltilde=E_F (strong F bars, NOT weak contacts); A_k=S=blockdiag sum_contact(n n^T). Dimensionless energy=omega^2/k_c. Bound per S eigenvalue a: max(0,n_a-E_F).",
+ "proof": "dim(E_a(S) intersect ker R(q)) >= n_a-rank R(q) >= n_a-E. A common vector is an exact a eigenvector of the chiral block Hamiltonian with onsite S and an exact k_c*a eigenvector of R^H R+k_c S. Does not prove exactness for a moving scaffold.",
+ "cell_warning": "Counts are in the displayed common primitive cell; conventional counts multiply by conventional_multiplicity. No constraint rank substituted for E in the literature bound.",
+ "rows": [
+  {
+   "pair": "acs \u2297 gra",
+   "cohort": "dual",
+   "identifier": 0,
+   "route": "mixed_L_P2",
+   "d": 3,
+   "V": 4,
+   "N_L": 12,
+   "N_Ltilde": 8,
+   "cell": "common primitive",
+   "conventional_multiplicity": 1,
+   "onsite_eigenvalues": [
+    {
+     "value": 0.0,
+     "multiplicity": 6,
+     "count_lower_bound": 0
+    },
+    {
+     "value": 1.5,
+     "multiplicity": 4,
+     "count_lower_bound": 0
+    },
+    {
+     "value": 2.0,
+     "multiplicity": 2,
+     "count_lower_bound": 0
+    }
+   ],
+   "actual_flat_bands": [
+    {
+     "value": 0.75,
+     "multiplicity": 2,
+     "is_S_eigenvalue": false,
+     "count_lower_bound_at_value": 0
+    },
+    {
+     "value": 2.0,
+     "multiplicity": 2,
+     "is_S_eigenvalue": true,
+     "count_lower_bound_at_value": 0
+    }
+   ],
+   "count_total": 0,
+   "M_F": 4,
+   "generic_rank": [
+    8
+   ],
+   "nu": 4,
+   "N_ss": [
+    0
+   ],
+   "classification": "iv",
+   "counting_status": "iii",
+   "has_flat_value_not_in_S": true,
+   "max_branch_range": 2.6645352591003757e-15,
+   "q_seed": 20261132,
+   "nq": 64
+  },
+  {
+   "pair": "bcu \u2297 nbo",
+   "cohort": "dual",
+   "identifier": 5,
+   "route": "L",
+   "d": 3,
+   "V": 3,
+   "N_L": 9,
+   "N_Ltilde": 6,
+   "cell": "common primitive",
+   "conventional_multiplicity": 2,
+   "onsite_eigenvalues": [
+    {
+     "value": 0.0,
+     "multiplicity": 6,
+     "count_lower_bound": 0
+    },
+    {
+     "value": 2.0,
+     "multiplicity": 3,
+     "count_lower_bound": 0
+    }
+   ],
+   "actual_flat_bands": [
+    {
+     "value": 2.0,
+     "multiplicity": 3,
+     "is_S_eigenvalue": true,
+     "count_lower_bound_at_value": 0
+    }
+   ],
+   "count_total": 0,
+   "M_F": 3,
+   "generic_rank": [
+    6
+   ],
+   "nu": 3,
+   "N_ss": [
+    0
+   ],
+   "classification": "iii",
+   "counting_status": "iii",
+   "has_flat_value_not_in_S": false,
+   "max_branch_range": 2.220446049250313e-15,
+   "q_seed": 20261132,
+   "nq": 64
+  },
+  {
+   "pair": "hex \u2297 bnn",
+   "cohort": "dual",
+   "identifier": 10,
+   "route": "U",
+   "d": 3,
+   "V": 2,
+   "N_L": 6,
+   "N_Ltilde": 5,
+   "cell": "common primitive",
+   "conventional_multiplicity": 1,
+   "onsite_eigenvalues": [
+    {
+     "value": 1.7142857142857144,
+     "multiplicity": 4,
+     "count_lower_bound": 0
+    },
+    {
+     "value": 2.571428571428571,
+     "multiplicity": 2,
+     "count_lower_bound": 0
+    }
+   ],
+   "actual_flat_bands": [
+    {
+     "value": 1.7142857142857142,
+     "multiplicity": 1,
+     "is_S_eigenvalue": true,
+     "count_lower_bound_at_value": 0
+    }
+   ],
+   "count_total": 0,
+   "M_F": 1,
+   "generic_rank": [
+    5
+   ],
+   "nu": 1,
+   "N_ss": [
+    0
+   ],
+   "classification": "iii",
+   "counting_status": "iii",
+   "has_flat_value_not_in_S": false,
+   "max_branch_range": 2.886579864025407e-15,
+   "q_seed": 20261132,
+   "nq": 64
+  },
+  {
+   "pair": "bsn \u2297 lvt",
+   "cohort": "dual",
+   "identifier": 15,
+   "route": "L",
+   "d": 3,
+   "V": 4,
+   "N_L": 12,
+   "N_Ltilde": 8,
+   "cell": "common primitive",
+   "conventional_multiplicity": 2,
+   "onsite_eigenvalues": [
+    {
+     "value": 0.0,
+     "multiplicity": 8,
+     "count_lower_bound": 0
+    },
+    {
+     "value": 2.0,
+     "multiplicity": 4,
+     "count_lower_bound": 0
+    }
+   ],
+   "actual_flat_bands": [
+    {
+     "value": 1.6447380200653787,
+     "multiplicity": 4,
+     "is_S_eigenvalue": false,
+     "count_lower_bound_at_value": 0
+    }
+   ],
+   "count_total": 0,
+   "M_F": 4,
+   "generic_rank": [
+    8
+   ],
+   "nu": 4,
+   "N_ss": [
+    0
+   ],
+   "classification": "iv",
+   "counting_status": "iii",
+   "has_flat_value_not_in_S": true,
+   "max_branch_range": 6.217248937900877e-14,
+   "q_seed": 20261132,
+   "nq": 64
+  },
+  {
+   "pair": "fcu \u2297 flu",
+   "cohort": "dual",
+   "identifier": 34,
+   "route": "C",
+   "d": 3,
+   "V": 3,
+   "N_L": 9,
+   "N_Ltilde": 8,
+   "cell": "common primitive",
+   "conventional_multiplicity": 4,
+   "onsite_eigenvalues": [
+    {
+     "value": 1.3333333333333333,
+     "multiplicity": 6,
+     "count_lower_bound": 0
+    },
+    {
+     "value": 2.0,
+     "multiplicity": 3,
+     "count_lower_bound": 0
+    }
+   ],
+   "actual_flat_bands": [
+    {
+     "value": 1.5555555555555554,
+     "multiplicity": 1,
+     "is_S_eigenvalue": false,
+     "count_lower_bound_at_value": 0
+    }
+   ],
+   "count_total": 0,
+   "M_F": 1,
+   "generic_rank": [
+    8
+   ],
+   "nu": 1,
+   "N_ss": [
+    0
+   ],
+   "classification": "iv",
+   "counting_status": "iii",
+   "has_flat_value_not_in_S": true,
+   "max_branch_range": 2.220446049250313e-15,
+   "q_seed": 20261132,
+   "nq": 64
+  },
+  {
+   "pair": "hxg-d \u2297 hxg",
+   "cohort": "dual",
+   "identifier": 42,
+   "route": "L",
+   "d": 3,
+   "V": 4,
+   "N_L": 12,
+   "N_Ltilde": 12,
+   "cell": "common primitive",
+   "conventional_multiplicity": 1,
+   "onsite_eigenvalues": [
+    {
+     "value": 2.2204460492503126e-16,
+     "multiplicity": 8,
+     "count_lower_bound": 0
+    },
+    {
+     "value": 2.0000000000000004,
+     "multiplicity": 4,
+     "count_lower_bound": 0
+    }
+   ],
+   "actual_flat_bands": [
+    {
+     "value": 2.0,
+     "multiplicity": 4,
+     "is_S_eigenvalue": true,
+     "count_lower_bound_at_value": 0
+    }
+   ],
+   "count_total": 0,
+   "M_F": 4,
+   "generic_rank": [
+    8
+   ],
+   "nu": 0,
+   "N_ss": [
+    4
+   ],
+   "classification": "iii",
+   "counting_status": "iii",
+   "has_flat_value_not_in_S": false,
+   "max_branch_range": 5.10702591327572e-15,
+   "q_seed": 20261132,
+   "nq": 64
+  },
+  {
+   "pair": "nia \u2297 nia-d",
+   "cohort": "dual",
+   "identifier": 53,
+   "route": "L",
+   "d": 3,
+   "V": 4,
+   "N_L": 12,
+   "N_Ltilde": 12,
+   "cell": "common primitive",
+   "conventional_multiplicity": 1,
+   "onsite_eigenvalues": [
+    {
+     "value": 0.0,
+     "multiplicity": 6,
+     "count_lower_bound": 0
+    },
+    {
+     "value": 1.5,
+     "multiplicity": 4,
+     "count_lower_bound": 0
+    },
+    {
+     "value": 2.0,
+     "multiplicity": 2,
+     "count_lower_bound": 0
+    }
+   ],
+   "actual_flat_bands": [
+    {
+     "value": 2.0,
+     "multiplicity": 2,
+     "is_S_eigenvalue": true,
+     "count_lower_bound_at_value": 0
+    }
+   ],
+   "count_total": 0,
+   "M_F": 2,
+   "generic_rank": [
+    10
+   ],
+   "nu": 0,
+   "N_ss": [
+    2
+   ],
+   "classification": "iii",
+   "counting_status": "iii",
+   "has_flat_value_not_in_S": false,
+   "max_branch_range": 1.3322676295501878e-15,
+   "q_seed": 20261132,
+   "nq": 64
+  },
+  {
+   "pair": "pcu \u2297 urk",
+   "cohort": "dual",
+   "identifier": 58,
+   "route": "L",
+   "d": 3,
+   "V": 7,
+   "N_L": 21,
+   "N_Ltilde": 18,
+   "cell": "common primitive",
+   "conventional_multiplicity": 1,
+   "onsite_eigenvalues": [
+    {
+     "value": -5.569051800528001e-17,
+     "multiplicity": 14,
+     "count_lower_bound": 0
+    },
+    {
+     "value": 1.0000000000000002,
+     "multiplicity": 7,
+     "count_lower_bound": 0
+    }
+   ],
+   "actual_flat_bands": [
+    {
+     "value": 0.33333333333333326,
+     "multiplicity": 3,
+     "is_S_eigenvalue": false,
+     "count_lower_bound_at_value": 0
+    }
+   ],
+   "count_total": 0,
+   "M_F": 3,
+   "generic_rank": [
+    18
+   ],
+   "nu": 3,
+   "N_ss": [
+    0
+   ],
+   "classification": "iv",
+   "counting_status": "iii",
+   "has_flat_value_not_in_S": true,
+   "max_branch_range": 2.1649348980190553e-15,
+   "q_seed": 20261132,
+   "nq": 64
+  },
+  {
+   "pair": "qtz-x \u2297 uom",
+   "cohort": "dual",
+   "identifier": 61,
+   "route": "L",
+   "d": 3,
+   "V": 6,
+   "N_L": 18,
+   "N_Ltilde": 12,
+   "cell": "common primitive",
+   "conventional_multiplicity": 1,
+   "onsite_eigenvalues": [
+    {
+     "value": 1.619075244245019e-17,
+     "multiplicity": 12,
+     "count_lower_bound": 0
+    },
+    {
+     "value": 1.9999999999999998,
+     "multiplicity": 6,
+     "count_lower_bound": 0
+    }
+   ],
+   "actual_flat_bands": [
+    {
+     "value": 1.4705863431008757,
+     "multiplicity": 6,
+     "is_S_eigenvalue": false,
+     "count_lower_bound_at_value": 0
+    }
+   ],
+   "count_total": 0,
+   "M_F": 6,
+   "generic_rank": [
+    12
+   ],
+   "nu": 6,
+   "N_ss": [
+    0
+   ],
+   "classification": "iv",
+   "counting_status": "iii",
+   "has_flat_value_not_in_S": true,
+   "max_branch_range": 4.196643033083092e-14,
+   "q_seed": 20261132,
+   "nq": 64
+  },
+  {
+   "pair": "she-d \u2297 she",
+   "cohort": "dual",
+   "identifier": 65,
+   "route": "L",
+   "d": 3,
+   "V": 10,
+   "N_L": 30,
+   "N_Ltilde": 24,
+   "cell": "common primitive",
+   "conventional_multiplicity": 2,
+   "onsite_eigenvalues": [
+    {
+     "value": 0.0,
+     "multiplicity": 12,
+     "count_lower_bound": 0
+    },
+    {
+     "value": 2.0,
+     "multiplicity": 6,
+     "count_lower_bound": 0
+    },
+    {
+     "value": 2.6666666666666665,
+     "multiplicity": 12,
+     "count_lower_bound": 0
+    }
+   ],
+   "actual_flat_bands": [
+    {
+     "value": 2.0,
+     "multiplicity": 6,
+     "is_S_eigenvalue": true,
+     "count_lower_bound_at_value": 0
+    },
+    {
+     "value": 2.666666666666665,
+     "multiplicity": 4,
+     "is_S_eigenvalue": true,
+     "count_lower_bound_at_value": 0
+    }
+   ],
+   "count_total": 0,
+   "M_F": 10,
+   "generic_rank": [
+    20
+   ],
+   "nu": 6,
+   "N_ss": [
+    4
+   ],
+   "classification": "iii",
+   "counting_status": "iii",
+   "has_flat_value_not_in_S": false,
+   "max_branch_range": 5.329070518200751e-15,
+   "q_seed": 20261132,
+   "nq": 64
+  },
+  {
+   "pair": "pdb \u2297 xav",
+   "cohort": "test_1",
+   "identifier": 106,
+   "route": null,
+   "d": 3,
+   "V": 14,
+   "N_L": 42,
+   "N_Ltilde": 39,
+   "cell": "common primitive",
+   "conventional_multiplicity": 1,
+   "onsite_eigenvalues": [
+    {
+     "value": 4.590351558103678e-06,
+     "multiplicity": 6,
+     "count_lower_bound": 0
+    },
+    {
+     "value": 0.9971988918973058,
+     "multiplicity": 16,
+     "count_lower_bound": 0
+    },
+    {
+     "value": 1.0056022162053884,
+     "multiplicity": 8,
+     "count_lower_bound": 0
+    },
+    {
+     "value": 3.999997704824222,
+     "multiplicity": 12,
+     "count_lower_bound": 0
+    }
+   ],
+   "actual_flat_bands": [
+    {
+     "value": 4.590351557983627e-06,
+     "multiplicity": 3,
+     "is_S_eigenvalue": true,
+     "count_lower_bound_at_value": 0
+    },
+    {
+     "value": 1.597758654482689,
+     "multiplicity": 1,
+     "is_S_eigenvalue": false,
+     "count_lower_bound_at_value": 0
+    }
+   ],
+   "count_total": 0,
+   "M_F": 4,
+   "generic_rank": [
+    38
+   ],
+   "nu": 3,
+   "N_ss": [
+    1
+   ],
+   "classification": "iv",
+   "counting_status": "iii",
+   "has_flat_value_not_in_S": true,
+   "max_branch_range": 3.1086244689504383e-15,
+   "q_seed": 20261132,
+   "nq": 64
+  },
+  {
+   "pair": "mob \u2297 scp",
+   "cohort": "test_1",
+   "identifier": 187,
+   "route": "L",
+   "d": 3,
+   "V": 8,
+   "N_L": 24,
+   "N_Ltilde": 24,
+   "cell": "common primitive",
+   "conventional_multiplicity": 2,
+   "onsite_eigenvalues": [
+    {
+     "value": 1.3877787807814457e-17,
+     "multiplicity": 4,
+     "count_lower_bound": 0
+    },
+    {
+     "value": 1.333290686013637,
+     "multiplicity": 8,
+     "count_lower_bound": 0
+    },
+    {
+     "value": 1.3334186279727254,
+     "multiplicity": 4,
+     "count_lower_bound": 0
+    },
+    {
+     "value": 1.9998885543256708,
+     "multiplicity": 4,
+     "count_lower_bound": 0
+    },
+    {
+     "value": 2.000111445674329,
+     "multiplicity": 4,
+     "count_lower_bound": 0
+    }
+   ],
+   "actual_flat_bands": [
+    {
+     "value": 1.0917660597324685,
+     "multiplicity": 4,
+     "is_S_eigenvalue": false,
+     "count_lower_bound_at_value": 0
+    },
+    {
+     "value": 1.333418627972725,
+     "multiplicity": 2,
+     "is_S_eigenvalue": true,
+     "count_lower_bound_at_value": 0
+    }
+   ],
+   "count_total": 0,
+   "M_F": 6,
+   "generic_rank": [
+    18
+   ],
+   "nu": 0,
+   "N_ss": [
+    6
+   ],
+   "classification": "iv",
+   "counting_status": "iii",
+   "has_flat_value_not_in_S": true,
+   "max_branch_range": 3.1086244689504383e-15,
+   "q_seed": 20261132,
+   "nq": 64
+  },
+  {
+   "pair": "ith-e \u2297 urg",
+   "cohort": "test_1",
+   "identifier": 206,
+   "route": null,
+   "d": 3,
+   "V": 16,
+   "N_L": 48,
+   "N_Ltilde": 40,
+   "cell": "common primitive",
+   "conventional_multiplicity": 1,
+   "onsite_eigenvalues": [
+    {
+     "value": 0.08491423600065483,
+     "multiplicity": 6,
+     "count_lower_bound": 0
+    },
+    {
+     "value": 1.8669159401649893,
+     "multiplicity": 16,
+     "count_lower_bound": 0
+    },
+    {
+     "value": 1.9575428819996723,
+     "multiplicity": 12,
+     "count_lower_bound": 0
+    },
+    {
+     "value": 2.266168119670022,
+     "multiplicity": 8,
+     "count_lower_bound": 0
+    },
+    {
+     "value": 3.9999999999999996,
+     "multiplicity": 6,
+     "count_lower_bound": 0
+    }
+   ],
+   "actual_flat_bands": [
+    {
+     "value": 0.08491423600065483,
+     "multiplicity": 6,
+     "is_S_eigenvalue": true,
+     "count_lower_bound_at_value": 0
+    },
+    {
+     "value": 1.9057560580941406,
+     "multiplicity": 4,
+     "is_S_eigenvalue": false,
+     "count_lower_bound_at_value": 0
+    }
+   ],
+   "count_total": 0,
+   "M_F": 10,
+   "generic_rank": [
+    38
+   ],
+   "nu": 8,
+   "N_ss": [
+    2
+   ],
+   "classification": "iv",
+   "counting_status": "iii",
+   "has_flat_value_not_in_S": true,
+   "max_branch_range": 3.552713678800501e-15,
+   "q_seed": 20261132,
+   "nq": 64
+  },
+  {
+   "pair": "xfs \u2297 nfc",
+   "cohort": "test_1",
+   "identifier": 263,
+   "route": "L",
+   "d": 3,
+   "V": 8,
+   "N_L": 24,
+   "N_Ltilde": 16,
+   "cell": "common primitive",
+   "conventional_multiplicity": 2,
+   "onsite_eigenvalues": [
+    {
+     "value": -3.846190717446274e-17,
+     "multiplicity": 16,
+     "count_lower_bound": 0
+    },
+    {
+     "value": 2.0,
+     "multiplicity": 8,
+     "count_lower_bound": 0
+    }
+   ],
+   "actual_flat_bands": [
+    {
+     "value": 0.13397866421285354,
+     "multiplicity": 8,
+     "is_S_eigenvalue": false,
+     "count_lower_bound_at_value": 0
+    }
+   ],
+   "count_total": 0,
+   "M_F": 8,
+   "generic_rank": [
+    16
+   ],
+   "nu": 8,
+   "N_ss": [
+    0
+   ],
+   "classification": "iv",
+   "counting_status": "iii",
+   "has_flat_value_not_in_S": true,
+   "max_branch_range": 2.9196089990080054e-13,
+   "q_seed": 20261132,
+   "nq": 64
+  },
+  {
+   "pair": "npo-e \u2297 ybh",
+   "cohort": "test_1",
+   "identifier": 270,
+   "route": "L",
+   "d": 3,
+   "V": 8,
+   "N_L": 24,
+   "N_Ltilde": 24,
+   "cell": "common primitive",
+   "conventional_multiplicity": 1,
+   "onsite_eigenvalues": [
+    {
+     "value": 1.9944863506064028,
+     "multiplicity": 6,
+     "count_lower_bound": 0
+    },
+    {
+     "value": 2.12155466811392,
+     "multiplicity": 6,
+     "count_lower_bound": 0
+    },
+    {
+     "value": 3.1459459565140326,
+     "multiplicity": 4,
+     "count_lower_bound": 0
+    },
+    {
+     "value": 3.8839589812796764,
+     "multiplicity": 6,
+     "count_lower_bound": 0
+    },
+    {
+     "value": 5.708108086971934,
+     "multiplicity": 2,
+     "count_lower_bound": 0
+    }
+   ],
+   "actual_flat_bands": [
+    {
+     "value": 5.708108086971937,
+     "multiplicity": 2,
+     "is_S_eigenvalue": true,
+     "count_lower_bound_at_value": 0
+    }
+   ],
+   "count_total": 0,
+   "M_F": 2,
+   "generic_rank": [
+    22
+   ],
+   "nu": 0,
+   "N_ss": [
+    2
+   ],
+   "classification": "iii",
+   "counting_status": "iii",
+   "has_flat_value_not_in_S": false,
+   "max_branch_range": 1.509903313490213e-14,
+   "q_seed": 20261132,
+   "nq": 64
+  },
+  {
+   "pair": "hxl \u2297 hcb (2D; manuscript hcb\u2297hxl)",
+   "cohort": "2D_reference",
+   "identifier": null,
+   "route": "scalar_S",
+   "d": 2,
+   "V": 2,
+   "N_L": 4,
+   "N_Ltilde": 3,
+   "cell": "primitive 2D",
+   "conventional_multiplicity": 1,
+   "onsite_eigenvalues": [
+    {
+     "value": 1.4999999999999998,
+     "multiplicity": 4,
+     "count_lower_bound": 1
+    }
+   ],
+   "actual_flat_bands": [
+    {
+     "value": 1.5,
+     "multiplicity": 1,
+     "is_S_eigenvalue": true,
+     "count_lower_bound_at_value": 1
+    }
+   ],
+   "count_total": 1,
+   "M_F": 1,
+   "generic_rank": [
+    3
+   ],
+   "nu": 1,
+   "N_ss": [
+    0
+   ],
+   "classification": "i",
+   "counting_status": "i",
+   "has_flat_value_not_in_S": false,
+   "max_branch_range": 1.5543122344752192e-15,
+   "q_seed": 20261132,
+   "nq": 64
+  }
+ ]
+}

@@ -1,0 +1,7262 @@
+{
+ "seed": 20261121,
+ "population_pairs": 139712,
+ "old_unordered_pairs_excluded": 416,
+ "sampling": "Uniform without replacement over ordered distinct CGD names with identical space-group setting strings; exclude all catalogue dual pairs and both orientations of every old pair. No rank, flatness, rigidity, degree or size filter. Roles are sampled, never swapped.",
+ "placement": "Original 8^3 clearance maximization in scaffold physical conventional cell, then 1.05 nearest-vertex contact shell.",
+ "replaced_two_dimensional": [
+  {
+   "id": 46,
+   "cohort": "prospective",
+   "scaffold": "fwe",
+   "floppy": "dhd",
+   "shift": null
+  },
+  {
+   "id": 95,
+   "cohort": "prospective",
+   "scaffold": "hnd",
+   "floppy": "dhe",
+   "shift": null
+  },
+  {
+   "id": 153,
+   "cohort": "prospective",
+   "scaffold": "krf",
+   "floppy": "mth",
+   "shift": null
+  },
+  {
+   "id": 269,
+   "cohort": "prospective",
+   "scaffold": "mtd",
+   "floppy": "dhc",
+   "shift": null
+  },
+  {
+   "id": 272,
+   "cohort": "prospective",
+   "scaffold": "tts-a",
+   "floppy": "stz",
+   "shift": null
+  }
+ ],
+ "replacement_seed_entropy": [
+  20261121,
+  3
+ ],
+ "replacement_method": "Retain all originally selected 3D pairs; uniformly supplement from remaining 3D population, without spectra. Conditional subset plus uniform supplementation is a uniform sample of 300 distinct ordered 3D pairs.",
+ "cell_protocol": "Prospective predictions and all same-group outcomes use the exact common primitive translation cell; retrospective predictions use the conventional cell of the scaffold.",
+ "prospective": [
+  {
+   "id": 0,
+   "cohort": "prospective",
+   "scaffold": "utb",
+   "floppy": "fcg",
+   "shift": null
+  },
+  {
+   "id": 1,
+   "cohort": "prospective",
+   "scaffold": "scg",
+   "floppy": "zbw",
+   "shift": null
+  },
+  {
+   "id": 2,
+   "cohort": "prospective",
+   "scaffold": "bbv",
+   "floppy": "sas",
+   "shift": null
+  },
+  {
+   "id": 3,
+   "cohort": "prospective",
+   "scaffold": "uka",
+   "floppy": "yft",
+   "shift": null
+  },
+  {
+   "id": 4,
+   "cohort": "prospective",
+   "scaffold": "wjw",
+   "floppy": "twt-e",
+   "shift": null
+  },
+  {
+   "id": 5,
+   "cohort": "prospective",
+   "scaffold": "ftu",
+   "floppy": "ntv-a",
+   "shift": null
+  },
+  {
+   "id": 6,
+   "cohort": "prospective",
+   "scaffold": "ats",
+   "floppy": "can-e",
+   "shift": null
+  },
+  {
+   "id": 7,
+   "cohort": "prospective",
+   "scaffold": "wjr",
+   "floppy": "smw",
+   "shift": null
+  },
+  {
+   "id": 8,
+   "cohort": "prospective",
+   "scaffold": "wlm",
+   "floppy": "fua",
+   "shift": null
+  },
+  {
+   "id": 9,
+   "cohort": "prospective",
+   "scaffold": "eab",
+   "floppy": "icm",
+   "shift": null
+  },
+  {
+   "id": 10,
+   "cohort": "prospective",
+   "scaffold": "ibe",
+   "floppy": "icc",
+   "shift": null
+  },
+  {
+   "id": 11,
+   "cohort": "prospective",
+   "scaffold": "dny-a",
+   "floppy": "crs",
+   "shift": null
+  },
+  {
+   "id": 12,
+   "cohort": "prospective",
+   "scaffold": "rhr-a",
+   "floppy": "dnu",
+   "shift": null
+  },
+  {
+   "id": 13,
+   "cohort": "prospective",
+   "scaffold": "unh",
+   "floppy": "wix",
+   "shift": null
+  },
+  {
+   "id": 14,
+   "cohort": "prospective",
+   "scaffold": "vbg",
+   "floppy": "vbh",
+   "shift": null
+  },
+  {
+   "id": 15,
+   "cohort": "prospective",
+   "scaffold": "twf-a",
+   "floppy": "bax",
+   "shift": null
+  },
+  {
+   "id": 16,
+   "cohort": "prospective",
+   "scaffold": "spn",
+   "floppy": "dng-a",
+   "shift": null
+  },
+  {
+   "id": 17,
+   "cohort": "prospective",
+   "scaffold": "lwg-a",
+   "floppy": "crb-e",
+   "shift": null
+  },
+  {
+   "id": 18,
+   "cohort": "prospective",
+   "scaffold": "gcd",
+   "floppy": "cel-a",
+   "shift": null
+  },
+  {
+   "id": 19,
+   "cohort": "prospective",
+   "scaffold": "aea",
+   "floppy": "bam",
+   "shift": null
+  },
+  {
+   "id": 20,
+   "cohort": "prospective",
+   "scaffold": "fva",
+   "floppy": "keb-a",
+   "shift": null
+  },
+  {
+   "id": 21,
+   "cohort": "prospective",
+   "scaffold": "wkx",
+   "floppy": "wkg",
+   "shift": null
+  },
+  {
+   "id": 22,
+   "cohort": "prospective",
+   "scaffold": "dnr-a",
+   "floppy": "spp",
+   "shift": null
+  },
+  {
+   "id": 23,
+   "cohort": "prospective",
+   "scaffold": "agw-a",
+   "floppy": "lon-a",
+   "shift": null
+  },
+  {
+   "id": 24,
+   "cohort": "prospective",
+   "scaffold": "gwe-a",
+   "floppy": "tca",
+   "shift": null
+  },
+  {
+   "id": 25,
+   "cohort": "prospective",
+   "scaffold": "pyd",
+   "floppy": "mtn-e",
+   "shift": null
+  },
+  {
+   "id": 26,
+   "cohort": "prospective",
+   "scaffold": "urk",
+   "floppy": "hee",
+   "shift": null
+  },
+  {
+   "id": 27,
+   "cohort": "prospective",
+   "scaffold": "gra",
+   "floppy": "mgz-x-d-e",
+   "shift": null
+  },
+  {
+   "id": 28,
+   "cohort": "prospective",
+   "scaffold": "ntu",
+   "floppy": "tsc",
+   "shift": null
+  },
+  {
+   "id": 29,
+   "cohort": "prospective",
+   "scaffold": "knb-a",
+   "floppy": "tfz",
+   "shift": null
+  },
+  {
+   "id": 30,
+   "cohort": "prospective",
+   "scaffold": "icf",
+   "floppy": "ecc",
+   "shift": null
+  },
+  {
+   "id": 31,
+   "cohort": "prospective",
+   "scaffold": "bam",
+   "floppy": "dnr",
+   "shift": null
+  },
+  {
+   "id": 32,
+   "cohort": "prospective",
+   "scaffold": "sxq",
+   "floppy": "lcs-a",
+   "shift": null
+  },
+  {
+   "id": 33,
+   "cohort": "prospective",
+   "scaffold": "amu",
+   "floppy": "txt",
+   "shift": null
+  },
+  {
+   "id": 34,
+   "cohort": "prospective",
+   "scaffold": "ttd",
+   "floppy": "epc",
+   "shift": null
+  },
+  {
+   "id": 35,
+   "cohort": "prospective",
+   "scaffold": "unb",
+   "floppy": "tcl",
+   "shift": null
+  },
+  {
+   "id": 36,
+   "cohort": "prospective",
+   "scaffold": "fnz",
+   "floppy": "wkr",
+   "shift": null
+  },
+  {
+   "id": 37,
+   "cohort": "prospective",
+   "scaffold": "tca",
+   "floppy": "fnr",
+   "shift": null
+  },
+  {
+   "id": 38,
+   "cohort": "prospective",
+   "scaffold": "eft",
+   "floppy": "tty",
+   "shift": null
+  },
+  {
+   "id": 39,
+   "cohort": "prospective",
+   "scaffold": "qtz-h",
+   "floppy": "wjw",
+   "shift": null
+  },
+  {
+   "id": 40,
+   "cohort": "prospective",
+   "scaffold": "dnk-a",
+   "floppy": "ftu",
+   "shift": null
+  },
+  {
+   "id": 41,
+   "cohort": "prospective",
+   "scaffold": "wzz",
+   "floppy": "ooe",
+   "shift": null
+  },
+  {
+   "id": 42,
+   "cohort": "prospective",
+   "scaffold": "smr",
+   "floppy": "fvr",
+   "shift": null
+  },
+  {
+   "id": 43,
+   "cohort": "prospective",
+   "scaffold": "mhg",
+   "floppy": "rtw",
+   "shift": null
+  },
+  {
+   "id": 44,
+   "cohort": "prospective",
+   "scaffold": "xaz",
+   "floppy": "nha",
+   "shift": null
+  },
+  {
+   "id": 45,
+   "cohort": "prospective",
+   "scaffold": "ffc",
+   "floppy": "urs-a",
+   "shift": null
+  },
+  {
+   "id": 46,
+   "cohort": "prospective",
+   "scaffold": "xag-a",
+   "floppy": "she",
+   "shift": null
+  },
+  {
+   "id": 47,
+   "cohort": "prospective",
+   "scaffold": "tsi",
+   "floppy": "svr",
+   "shift": null
+  },
+  {
+   "id": 48,
+   "cohort": "prospective",
+   "scaffold": "dnl",
+   "floppy": "num",
+   "shift": null
+  },
+  {
+   "id": 49,
+   "cohort": "prospective",
+   "scaffold": "gwg-a",
+   "floppy": "dmc",
+   "shift": null
+  },
+  {
+   "id": 50,
+   "cohort": "prospective",
+   "scaffold": "llk-a",
+   "floppy": "oge",
+   "shift": null
+  },
+  {
+   "id": 51,
+   "cohort": "prospective",
+   "scaffold": "uni-d",
+   "floppy": "wjo",
+   "shift": null
+  },
+  {
+   "id": 52,
+   "cohort": "prospective",
+   "scaffold": "qdl-e",
+   "floppy": "tcc",
+   "shift": null
+  },
+  {
+   "id": 53,
+   "cohort": "prospective",
+   "scaffold": "frx",
+   "floppy": "mcd",
+   "shift": null
+  },
+  {
+   "id": 54,
+   "cohort": "prospective",
+   "scaffold": "dne",
+   "floppy": "ttt-a",
+   "shift": null
+  },
+  {
+   "id": 55,
+   "cohort": "prospective",
+   "scaffold": "los",
+   "floppy": "xat-a",
+   "shift": null
+  },
+  {
+   "id": 56,
+   "cohort": "prospective",
+   "scaffold": "epp-a",
+   "floppy": "urf",
+   "shift": null
+  },
+  {
+   "id": 57,
+   "cohort": "prospective",
+   "scaffold": "crb-e",
+   "floppy": "mer",
+   "shift": null
+  },
+  {
+   "id": 58,
+   "cohort": "prospective",
+   "scaffold": "mgz",
+   "floppy": "gwe",
+   "shift": null
+  },
+  {
+   "id": 59,
+   "cohort": "prospective",
+   "scaffold": "xfr",
+   "floppy": "yfq",
+   "shift": null
+  },
+  {
+   "id": 60,
+   "cohort": "prospective",
+   "scaffold": "str",
+   "floppy": "dnz-a",
+   "shift": null
+  },
+  {
+   "id": 61,
+   "cohort": "prospective",
+   "scaffold": "dnu",
+   "floppy": "fvf",
+   "shift": null
+  },
+  {
+   "id": 62,
+   "cohort": "prospective",
+   "scaffold": "spp",
+   "floppy": "odj",
+   "shift": null
+  },
+  {
+   "id": 63,
+   "cohort": "prospective",
+   "scaffold": "ant-a",
+   "floppy": "tsl",
+   "shift": null
+  },
+  {
+   "id": 64,
+   "cohort": "prospective",
+   "scaffold": "bbw",
+   "floppy": "dnn-a",
+   "shift": null
+  },
+  {
+   "id": 65,
+   "cohort": "prospective",
+   "scaffold": "bbq",
+   "floppy": "yac",
+   "shift": null
+  },
+  {
+   "id": 66,
+   "cohort": "prospective",
+   "scaffold": "lun",
+   "floppy": "zfw",
+   "shift": null
+  },
+  {
+   "id": 67,
+   "cohort": "prospective",
+   "scaffold": "bpr",
+   "floppy": "ana",
+   "shift": null
+  },
+  {
+   "id": 68,
+   "cohort": "prospective",
+   "scaffold": "dft-e",
+   "floppy": "cdm-e",
+   "shift": null
+  },
+  {
+   "id": 69,
+   "cohort": "prospective",
+   "scaffold": "xfe",
+   "floppy": "snw",
+   "shift": null
+  },
+  {
+   "id": 70,
+   "cohort": "prospective",
+   "scaffold": "pcb-e",
+   "floppy": "bcu-k",
+   "shift": null
+  },
+  {
+   "id": 71,
+   "cohort": "prospective",
+   "scaffold": "fff",
+   "floppy": "tbo",
+   "shift": null
+  },
+  {
+   "id": 72,
+   "cohort": "prospective",
+   "scaffold": "pbg-l",
+   "floppy": "bcv",
+   "shift": null
+  },
+  {
+   "id": 73,
+   "cohort": "prospective",
+   "scaffold": "twf-a",
+   "floppy": "she-a",
+   "shift": null
+  },
+  {
+   "id": 74,
+   "cohort": "prospective",
+   "scaffold": "dnv",
+   "floppy": "ocu-e",
+   "shift": null
+  },
+  {
+   "id": 75,
+   "cohort": "prospective",
+   "scaffold": "bbz",
+   "floppy": "shp",
+   "shift": null
+  },
+  {
+   "id": 76,
+   "cohort": "prospective",
+   "scaffold": "ttc",
+   "floppy": "ecl",
+   "shift": null
+  },
+  {
+   "id": 77,
+   "cohort": "prospective",
+   "scaffold": "baz",
+   "floppy": "sta",
+   "shift": null
+  },
+  {
+   "id": 78,
+   "cohort": "prospective",
+   "scaffold": "mob",
+   "floppy": "deh-d",
+   "shift": null
+  },
+  {
+   "id": 79,
+   "cohort": "prospective",
+   "scaffold": "tzs",
+   "floppy": "svp",
+   "shift": null
+  },
+  {
+   "id": 80,
+   "cohort": "prospective",
+   "scaffold": "tcc-x",
+   "floppy": "fns",
+   "shift": null
+  },
+  {
+   "id": 81,
+   "cohort": "prospective",
+   "scaffold": "hyl",
+   "floppy": "fvr",
+   "shift": null
+  },
+  {
+   "id": 82,
+   "cohort": "prospective",
+   "scaffold": "mon-e",
+   "floppy": "wga",
+   "shift": null
+  },
+  {
+   "id": 83,
+   "cohort": "prospective",
+   "scaffold": "dnv",
+   "floppy": "ftw-t",
+   "shift": null
+  },
+  {
+   "id": 84,
+   "cohort": "prospective",
+   "scaffold": "icm-e",
+   "floppy": "cfd",
+   "shift": null
+  },
+  {
+   "id": 85,
+   "cohort": "prospective",
+   "scaffold": "uos",
+   "floppy": "scp",
+   "shift": null
+  },
+  {
+   "id": 86,
+   "cohort": "prospective",
+   "scaffold": "wjt",
+   "floppy": "bto",
+   "shift": null
+  },
+  {
+   "id": 87,
+   "cohort": "prospective",
+   "scaffold": "xci",
+   "floppy": "alc",
+   "shift": null
+  },
+  {
+   "id": 88,
+   "cohort": "prospective",
+   "scaffold": "smb",
+   "floppy": "kto",
+   "shift": null
+  },
+  {
+   "id": 89,
+   "cohort": "prospective",
+   "scaffold": "ssd",
+   "floppy": "epn-a",
+   "shift": null
+  },
+  {
+   "id": 90,
+   "cohort": "prospective",
+   "scaffold": "ant-a",
+   "floppy": "sgt",
+   "shift": null
+  },
+  {
+   "id": 91,
+   "cohort": "prospective",
+   "scaffold": "sur-a",
+   "floppy": "vbm",
+   "shift": null
+  },
+  {
+   "id": 92,
+   "cohort": "prospective",
+   "scaffold": "bpi",
+   "floppy": "vcz",
+   "shift": null
+  },
+  {
+   "id": 93,
+   "cohort": "prospective",
+   "scaffold": "umr",
+   "floppy": "isu",
+   "shift": null
+  },
+  {
+   "id": 94,
+   "cohort": "prospective",
+   "scaffold": "frz",
+   "floppy": "frx",
+   "shift": null
+  },
+  {
+   "id": 95,
+   "cohort": "prospective",
+   "scaffold": "fti",
+   "floppy": "fit-a",
+   "shift": null
+  },
+  {
+   "id": 96,
+   "cohort": "prospective",
+   "scaffold": "fvi",
+   "floppy": "fuh",
+   "shift": null
+  },
+  {
+   "id": 97,
+   "cohort": "prospective",
+   "scaffold": "xbu-a",
+   "floppy": "ooe",
+   "shift": null
+  },
+  {
+   "id": 98,
+   "cohort": "prospective",
+   "scaffold": "kwh",
+   "floppy": "gah",
+   "shift": null
+  },
+  {
+   "id": 99,
+   "cohort": "prospective",
+   "scaffold": "wkh",
+   "floppy": "nom",
+   "shift": null
+  },
+  {
+   "id": 100,
+   "cohort": "prospective",
+   "scaffold": "fst",
+   "floppy": "eye-a",
+   "shift": null
+  },
+  {
+   "id": 101,
+   "cohort": "prospective",
+   "scaffold": "xbm",
+   "floppy": "reo-e",
+   "shift": null
+  },
+  {
+   "id": 102,
+   "cohort": "prospective",
+   "scaffold": "seh",
+   "floppy": "agw",
+   "shift": null
+  },
+  {
+   "id": 103,
+   "cohort": "prospective",
+   "scaffold": "uro",
+   "floppy": "bcu-x-a",
+   "shift": null
+  },
+  {
+   "id": 104,
+   "cohort": "prospective",
+   "scaffold": "urf",
+   "floppy": "nso",
+   "shift": null
+  },
+  {
+   "id": 105,
+   "cohort": "prospective",
+   "scaffold": "xfp",
+   "floppy": "yfr",
+   "shift": null
+  },
+  {
+   "id": 106,
+   "cohort": "prospective",
+   "scaffold": "pdb",
+   "floppy": "xav",
+   "shift": null
+  },
+  {
+   "id": 107,
+   "cohort": "prospective",
+   "scaffold": "shp-a",
+   "floppy": "xlz-a",
+   "shift": null
+  },
+  {
+   "id": 108,
+   "cohort": "prospective",
+   "scaffold": "vcu",
+   "floppy": "bpa",
+   "shift": null
+  },
+  {
+   "id": 109,
+   "cohort": "prospective",
+   "scaffold": "cej",
+   "floppy": "gme-e",
+   "shift": null
+  },
+  {
+   "id": 110,
+   "cohort": "prospective",
+   "scaffold": "dnl",
+   "floppy": "dia-a",
+   "shift": null
+  },
+  {
+   "id": 111,
+   "cohort": "prospective",
+   "scaffold": "xaj",
+   "floppy": "gee-a",
+   "shift": null
+  },
+  {
+   "id": 112,
+   "cohort": "prospective",
+   "scaffold": "xbj",
+   "floppy": "deh",
+   "shift": null
+  },
+  {
+   "id": 113,
+   "cohort": "prospective",
+   "scaffold": "pts-g",
+   "floppy": "cdl-a",
+   "shift": null
+  },
+  {
+   "id": 114,
+   "cohort": "prospective",
+   "scaffold": "nat",
+   "floppy": "tsi",
+   "shift": null
+  },
+  {
+   "id": 115,
+   "cohort": "prospective",
+   "scaffold": "rra",
+   "floppy": "mjt",
+   "shift": null
+  },
+  {
+   "id": 116,
+   "cohort": "prospective",
+   "scaffold": "xbt",
+   "floppy": "pbz",
+   "shift": null
+  },
+  {
+   "id": 117,
+   "cohort": "prospective",
+   "scaffold": "mgz-x-d",
+   "floppy": "gme-e",
+   "shift": null
+  },
+  {
+   "id": 118,
+   "cohort": "prospective",
+   "scaffold": "nso",
+   "floppy": "bcu-k",
+   "shift": null
+  },
+  {
+   "id": 119,
+   "cohort": "prospective",
+   "scaffold": "gea-a",
+   "floppy": "cej-a",
+   "shift": null
+  },
+  {
+   "id": 120,
+   "cohort": "prospective",
+   "scaffold": "tcj",
+   "floppy": "yao-a",
+   "shift": null
+  },
+  {
+   "id": 121,
+   "cohort": "prospective",
+   "scaffold": "nkf",
+   "floppy": "dft",
+   "shift": null
+  },
+  {
+   "id": 122,
+   "cohort": "prospective",
+   "scaffold": "vba",
+   "floppy": "tcf-x",
+   "shift": null
+  },
+  {
+   "id": 123,
+   "cohort": "prospective",
+   "scaffold": "cee-a",
+   "floppy": "bnn",
+   "shift": null
+  },
+  {
+   "id": 124,
+   "cohort": "prospective",
+   "scaffold": "noq",
+   "floppy": "scg",
+   "shift": null
+  },
+  {
+   "id": 125,
+   "cohort": "prospective",
+   "scaffold": "mds",
+   "floppy": "cec",
+   "shift": null
+  },
+  {
+   "id": 126,
+   "cohort": "prospective",
+   "scaffold": "dnv",
+   "floppy": "dnu",
+   "shift": null
+  },
+  {
+   "id": 127,
+   "cohort": "prospective",
+   "scaffold": "epp",
+   "floppy": "nbo-x",
+   "shift": null
+  },
+  {
+   "id": 128,
+   "cohort": "prospective",
+   "scaffold": "nul",
+   "floppy": "xbr",
+   "shift": null
+  },
+  {
+   "id": 129,
+   "cohort": "prospective",
+   "scaffold": "uox",
+   "floppy": "isu",
+   "shift": null
+  },
+  {
+   "id": 130,
+   "cohort": "prospective",
+   "scaffold": "kcz",
+   "floppy": "mjh",
+   "shift": null
+  },
+  {
+   "id": 131,
+   "cohort": "prospective",
+   "scaffold": "epv",
+   "floppy": "fnc",
+   "shift": null
+  },
+  {
+   "id": 132,
+   "cohort": "prospective",
+   "scaffold": "twf-a",
+   "floppy": "baj",
+   "shift": null
+  },
+  {
+   "id": 133,
+   "cohort": "prospective",
+   "scaffold": "vba",
+   "floppy": "ecv",
+   "shift": null
+  },
+  {
+   "id": 134,
+   "cohort": "prospective",
+   "scaffold": "fvx",
+   "floppy": "hef",
+   "shift": null
+  },
+  {
+   "id": 135,
+   "cohort": "prospective",
+   "scaffold": "agw",
+   "floppy": "tsa-a",
+   "shift": null
+  },
+  {
+   "id": 136,
+   "cohort": "prospective",
+   "scaffold": "ukr",
+   "floppy": "bva",
+   "shift": null
+  },
+  {
+   "id": 137,
+   "cohort": "prospective",
+   "scaffold": "lwh-a",
+   "floppy": "bcu",
+   "shift": null
+  },
+  {
+   "id": 138,
+   "cohort": "prospective",
+   "scaffold": "epf",
+   "floppy": "zfw",
+   "shift": null
+  },
+  {
+   "id": 139,
+   "cohort": "prospective",
+   "scaffold": "phw-a",
+   "floppy": "ncg",
+   "shift": null
+  },
+  {
+   "id": 140,
+   "cohort": "prospective",
+   "scaffold": "und",
+   "floppy": "xfo",
+   "shift": null
+  },
+  {
+   "id": 141,
+   "cohort": "prospective",
+   "scaffold": "asp",
+   "floppy": "uki",
+   "shift": null
+  },
+  {
+   "id": 142,
+   "cohort": "prospective",
+   "scaffold": "brl-a",
+   "floppy": "csq-a",
+   "shift": null
+  },
+  {
+   "id": 143,
+   "cohort": "prospective",
+   "scaffold": "odj",
+   "floppy": "ase-a",
+   "shift": null
+  },
+  {
+   "id": 144,
+   "cohort": "prospective",
+   "scaffold": "xao",
+   "floppy": "mer-e",
+   "shift": null
+  },
+  {
+   "id": 145,
+   "cohort": "prospective",
+   "scaffold": "oso",
+   "floppy": "wkj",
+   "shift": null
+  },
+  {
+   "id": 146,
+   "cohort": "prospective",
+   "scaffold": "fcl",
+   "floppy": "swq",
+   "shift": null
+  },
+  {
+   "id": 147,
+   "cohort": "prospective",
+   "scaffold": "dnx",
+   "floppy": "bcu",
+   "shift": null
+  },
+  {
+   "id": 148,
+   "cohort": "prospective",
+   "scaffold": "baz",
+   "floppy": "sty",
+   "shift": null
+  },
+  {
+   "id": 149,
+   "cohort": "prospective",
+   "scaffold": "zrc",
+   "floppy": "hqy",
+   "shift": null
+  },
+  {
+   "id": 150,
+   "cohort": "prospective",
+   "scaffold": "urr-a",
+   "floppy": "bas",
+   "shift": null
+  },
+  {
+   "id": 151,
+   "cohort": "prospective",
+   "scaffold": "rtl-a",
+   "floppy": "dag",
+   "shift": null
+  },
+  {
+   "id": 152,
+   "cohort": "prospective",
+   "scaffold": "dnu-a",
+   "floppy": "epp-a",
+   "shift": null
+  },
+  {
+   "id": 153,
+   "cohort": "prospective",
+   "scaffold": "mer",
+   "floppy": "tfj-a",
+   "shift": null
+  },
+  {
+   "id": 154,
+   "cohort": "prospective",
+   "scaffold": "tcl",
+   "floppy": "beb",
+   "shift": null
+  },
+  {
+   "id": 155,
+   "cohort": "prospective",
+   "scaffold": "muh",
+   "floppy": "ats",
+   "shift": null
+  },
+  {
+   "id": 156,
+   "cohort": "prospective",
+   "scaffold": "alb-d",
+   "floppy": "kew-a",
+   "shift": null
+  },
+  {
+   "id": 157,
+   "cohort": "prospective",
+   "scaffold": "wgr",
+   "floppy": "yfr",
+   "shift": null
+  },
+  {
+   "id": 158,
+   "cohort": "prospective",
+   "scaffold": "nju-a",
+   "floppy": "baq",
+   "shift": null
+  },
+  {
+   "id": 159,
+   "cohort": "prospective",
+   "scaffold": "cfc-e-a",
+   "floppy": "can-e",
+   "shift": null
+  },
+  {
+   "id": 160,
+   "cohort": "prospective",
+   "scaffold": "xxv",
+   "floppy": "tfg-a",
+   "shift": null
+  },
+  {
+   "id": 161,
+   "cohort": "prospective",
+   "scaffold": "uos",
+   "floppy": "tfm",
+   "shift": null
+  },
+  {
+   "id": 162,
+   "cohort": "prospective",
+   "scaffold": "hfp",
+   "floppy": "cus",
+   "shift": null
+  },
+  {
+   "id": 163,
+   "cohort": "prospective",
+   "scaffold": "alb-x-d",
+   "floppy": "yav-d",
+   "shift": null
+  },
+  {
+   "id": 164,
+   "cohort": "prospective",
+   "scaffold": "xbj",
+   "floppy": "thh",
+   "shift": null
+  },
+  {
+   "id": 165,
+   "cohort": "prospective",
+   "scaffold": "tfe-a",
+   "floppy": "tru-a",
+   "shift": null
+  },
+  {
+   "id": 166,
+   "cohort": "prospective",
+   "scaffold": "xap",
+   "floppy": "hal",
+   "shift": null
+  },
+  {
+   "id": 167,
+   "cohort": "prospective",
+   "scaffold": "toz",
+   "floppy": "unr",
+   "shift": null
+  },
+  {
+   "id": 168,
+   "cohort": "prospective",
+   "scaffold": "knc",
+   "floppy": "fdu-a",
+   "shift": null
+  },
+  {
+   "id": 169,
+   "cohort": "prospective",
+   "scaffold": "gng",
+   "floppy": "epy",
+   "shift": null
+  },
+  {
+   "id": 170,
+   "cohort": "prospective",
+   "scaffold": "ild",
+   "floppy": "etb-e",
+   "shift": null
+  },
+  {
+   "id": 171,
+   "cohort": "prospective",
+   "scaffold": "sow",
+   "floppy": "vcv",
+   "shift": null
+  },
+  {
+   "id": 172,
+   "cohort": "prospective",
+   "scaffold": "ecb",
+   "floppy": "wny",
+   "shift": null
+  },
+  {
+   "id": 173,
+   "cohort": "prospective",
+   "scaffold": "swd",
+   "floppy": "ilc",
+   "shift": null
+  },
+  {
+   "id": 174,
+   "cohort": "prospective",
+   "scaffold": "wno",
+   "floppy": "ahr-a",
+   "shift": null
+  },
+  {
+   "id": 175,
+   "cohort": "prospective",
+   "scaffold": "mot-e-a",
+   "floppy": "cmc",
+   "shift": null
+  },
+  {
+   "id": 176,
+   "cohort": "prospective",
+   "scaffold": "zbr",
+   "floppy": "rna-a",
+   "shift": null
+  },
+  {
+   "id": 177,
+   "cohort": "prospective",
+   "scaffold": "rtl",
+   "floppy": "ftp",
+   "shift": null
+  },
+  {
+   "id": 178,
+   "cohort": "prospective",
+   "scaffold": "nia-d",
+   "floppy": "ats-a",
+   "shift": null
+  },
+  {
+   "id": 179,
+   "cohort": "prospective",
+   "scaffold": "urp-a",
+   "floppy": "nha-a",
+   "shift": null
+  },
+  {
+   "id": 180,
+   "cohort": "prospective",
+   "scaffold": "ffc",
+   "floppy": "bcb",
+   "shift": null
+  },
+  {
+   "id": 181,
+   "cohort": "prospective",
+   "scaffold": "qzd-a",
+   "floppy": "twt",
+   "shift": null
+  },
+  {
+   "id": 182,
+   "cohort": "prospective",
+   "scaffold": "can",
+   "floppy": "icm",
+   "shift": null
+  },
+  {
+   "id": 183,
+   "cohort": "prospective",
+   "scaffold": "bpc",
+   "floppy": "hfp",
+   "shift": null
+  },
+  {
+   "id": 184,
+   "cohort": "prospective",
+   "scaffold": "unn",
+   "floppy": "ung",
+   "shift": null
+  },
+  {
+   "id": 185,
+   "cohort": "prospective",
+   "scaffold": "zfe",
+   "floppy": "svq",
+   "shift": null
+  },
+  {
+   "id": 186,
+   "cohort": "prospective",
+   "scaffold": "ptr-a",
+   "floppy": "hyl-a",
+   "shift": null
+  },
+  {
+   "id": 187,
+   "cohort": "prospective",
+   "scaffold": "mob",
+   "floppy": "scp",
+   "shift": null
+  },
+  {
+   "id": 188,
+   "cohort": "prospective",
+   "scaffold": "gwe",
+   "floppy": "gme-e",
+   "shift": null
+  },
+  {
+   "id": 189,
+   "cohort": "prospective",
+   "scaffold": "gcc",
+   "floppy": "eye-a",
+   "shift": null
+  },
+  {
+   "id": 190,
+   "cohort": "prospective",
+   "scaffold": "mot",
+   "floppy": "fit-e",
+   "shift": null
+  },
+  {
+   "id": 191,
+   "cohort": "prospective",
+   "scaffold": "agw",
+   "floppy": "sta",
+   "shift": null
+  },
+  {
+   "id": 192,
+   "cohort": "prospective",
+   "scaffold": "ftg",
+   "floppy": "tsa",
+   "shift": null
+  },
+  {
+   "id": 193,
+   "cohort": "prospective",
+   "scaffold": "mot",
+   "floppy": "hbm",
+   "shift": null
+  },
+  {
+   "id": 194,
+   "cohort": "prospective",
+   "scaffold": "epn",
+   "floppy": "tfe-a",
+   "shift": null
+  },
+  {
+   "id": 195,
+   "cohort": "prospective",
+   "scaffold": "wga",
+   "floppy": "vtx",
+   "shift": null
+  },
+  {
+   "id": 196,
+   "cohort": "prospective",
+   "scaffold": "jsb",
+   "floppy": "nku",
+   "shift": null
+  },
+  {
+   "id": 197,
+   "cohort": "prospective",
+   "scaffold": "sno",
+   "floppy": "wil",
+   "shift": null
+  },
+  {
+   "id": 198,
+   "cohort": "prospective",
+   "scaffold": "sxo",
+   "floppy": "ibe-a",
+   "shift": null
+  },
+  {
+   "id": 199,
+   "cohort": "prospective",
+   "scaffold": "nul",
+   "floppy": "fav",
+   "shift": null
+  },
+  {
+   "id": 200,
+   "cohort": "prospective",
+   "scaffold": "zmj",
+   "floppy": "eft-a",
+   "shift": null
+  },
+  {
+   "id": 201,
+   "cohort": "prospective",
+   "scaffold": "epu",
+   "floppy": "fog",
+   "shift": null
+  },
+  {
+   "id": 202,
+   "cohort": "prospective",
+   "scaffold": "wmp",
+   "floppy": "wnf",
+   "shift": null
+  },
+  {
+   "id": 203,
+   "cohort": "prospective",
+   "scaffold": "xam",
+   "floppy": "lwh-a",
+   "shift": null
+  },
+  {
+   "id": 204,
+   "cohort": "prospective",
+   "scaffold": "cdj",
+   "floppy": "csi",
+   "shift": null
+  },
+  {
+   "id": 205,
+   "cohort": "prospective",
+   "scaffold": "ood-a",
+   "floppy": "tfz",
+   "shift": null
+  },
+  {
+   "id": 206,
+   "cohort": "prospective",
+   "scaffold": "ith-e",
+   "floppy": "urg",
+   "shift": null
+  },
+  {
+   "id": 207,
+   "cohort": "prospective",
+   "scaffold": "oge",
+   "floppy": "nbo-x",
+   "shift": null
+  },
+  {
+   "id": 208,
+   "cohort": "prospective",
+   "scaffold": "wgy",
+   "floppy": "lbt",
+   "shift": null
+  },
+  {
+   "id": 209,
+   "cohort": "prospective",
+   "scaffold": "sss",
+   "floppy": "stp-a",
+   "shift": null
+  },
+  {
+   "id": 210,
+   "cohort": "prospective",
+   "scaffold": "kag",
+   "floppy": "xai-a",
+   "shift": null
+  },
+  {
+   "id": 211,
+   "cohort": "prospective",
+   "scaffold": "npo-a",
+   "floppy": "acs",
+   "shift": null
+  },
+  {
+   "id": 212,
+   "cohort": "prospective",
+   "scaffold": "ydq-a",
+   "floppy": "dnf",
+   "shift": null
+  },
+  {
+   "id": 213,
+   "cohort": "prospective",
+   "scaffold": "crb",
+   "floppy": "fun",
+   "shift": null
+  },
+  {
+   "id": 214,
+   "cohort": "prospective",
+   "scaffold": "pda",
+   "floppy": "reo-d-a",
+   "shift": null
+  },
+  {
+   "id": 215,
+   "cohort": "prospective",
+   "scaffold": "fsx",
+   "floppy": "mdh",
+   "shift": null
+  },
+  {
+   "id": 216,
+   "cohort": "prospective",
+   "scaffold": "nin",
+   "floppy": "zra",
+   "shift": null
+  },
+  {
+   "id": 217,
+   "cohort": "prospective",
+   "scaffold": "stj-a",
+   "floppy": "zll",
+   "shift": null
+  },
+  {
+   "id": 218,
+   "cohort": "prospective",
+   "scaffold": "tfi-a",
+   "floppy": "tfi",
+   "shift": null
+  },
+  {
+   "id": 219,
+   "cohort": "prospective",
+   "scaffold": "snw",
+   "floppy": "cap",
+   "shift": null
+  },
+  {
+   "id": 220,
+   "cohort": "prospective",
+   "scaffold": "wjg",
+   "floppy": "umm",
+   "shift": null
+  },
+  {
+   "id": 221,
+   "cohort": "prospective",
+   "scaffold": "zfz",
+   "floppy": "wma",
+   "shift": null
+  },
+  {
+   "id": 222,
+   "cohort": "prospective",
+   "scaffold": "pts-e",
+   "floppy": "dmd",
+   "shift": null
+  },
+  {
+   "id": 223,
+   "cohort": "prospective",
+   "scaffold": "dpd",
+   "floppy": "rht-a",
+   "shift": null
+  },
+  {
+   "id": 224,
+   "cohort": "prospective",
+   "scaffold": "wjs",
+   "floppy": "wka",
+   "shift": null
+  },
+  {
+   "id": 225,
+   "cohort": "prospective",
+   "scaffold": "ftm",
+   "floppy": "lwh",
+   "shift": null
+  },
+  {
+   "id": 226,
+   "cohort": "prospective",
+   "scaffold": "dum",
+   "floppy": "alb",
+   "shift": null
+  },
+  {
+   "id": 227,
+   "cohort": "prospective",
+   "scaffold": "wlh",
+   "floppy": "cor",
+   "shift": null
+  },
+  {
+   "id": 228,
+   "cohort": "prospective",
+   "scaffold": "xaj",
+   "floppy": "fuv",
+   "shift": null
+  },
+  {
+   "id": 229,
+   "cohort": "prospective",
+   "scaffold": "hec",
+   "floppy": "kle-a",
+   "shift": null
+  },
+  {
+   "id": 230,
+   "cohort": "prospective",
+   "scaffold": "cla",
+   "floppy": "amn",
+   "shift": null
+  },
+  {
+   "id": 231,
+   "cohort": "prospective",
+   "scaffold": "phw",
+   "floppy": "wjw",
+   "shift": null
+  },
+  {
+   "id": 232,
+   "cohort": "prospective",
+   "scaffold": "gwe",
+   "floppy": "ssa-a",
+   "shift": null
+  },
+  {
+   "id": 233,
+   "cohort": "prospective",
+   "scaffold": "pyf",
+   "floppy": "ncc",
+   "shift": null
+  },
+  {
+   "id": 234,
+   "cohort": "prospective",
+   "scaffold": "umu",
+   "floppy": "zfx",
+   "shift": null
+  },
+  {
+   "id": 235,
+   "cohort": "prospective",
+   "scaffold": "wnj",
+   "floppy": "msi",
+   "shift": null
+  },
+  {
+   "id": 236,
+   "cohort": "prospective",
+   "scaffold": "iph",
+   "floppy": "wge",
+   "shift": null
+  },
+  {
+   "id": 237,
+   "cohort": "prospective",
+   "scaffold": "ast-e",
+   "floppy": "xap",
+   "shift": null
+  },
+  {
+   "id": 238,
+   "cohort": "prospective",
+   "scaffold": "cab-a",
+   "floppy": "xaj-a",
+   "shift": null
+  },
+  {
+   "id": 239,
+   "cohort": "prospective",
+   "scaffold": "dnp-a",
+   "floppy": "tdd",
+   "shift": null
+  },
+  {
+   "id": 240,
+   "cohort": "prospective",
+   "scaffold": "hef",
+   "floppy": "urv-a",
+   "shift": null
+  },
+  {
+   "id": 241,
+   "cohort": "prospective",
+   "scaffold": "mgz-x-d",
+   "floppy": "xcb",
+   "shift": null
+  },
+  {
+   "id": 242,
+   "cohort": "prospective",
+   "scaffold": "sod",
+   "floppy": "jmt",
+   "shift": null
+  },
+  {
+   "id": 243,
+   "cohort": "prospective",
+   "scaffold": "ggl",
+   "floppy": "wnb",
+   "shift": null
+  },
+  {
+   "id": 244,
+   "cohort": "prospective",
+   "scaffold": "xbv",
+   "floppy": "flu-a",
+   "shift": null
+  },
+  {
+   "id": 245,
+   "cohort": "prospective",
+   "scaffold": "fnr",
+   "floppy": "ken",
+   "shift": null
+  },
+  {
+   "id": 246,
+   "cohort": "prospective",
+   "scaffold": "bbx",
+   "floppy": "smc",
+   "shift": null
+  },
+  {
+   "id": 247,
+   "cohort": "prospective",
+   "scaffold": "eca",
+   "floppy": "cat",
+   "shift": null
+  },
+  {
+   "id": 248,
+   "cohort": "prospective",
+   "scaffold": "zjz",
+   "floppy": "fug",
+   "shift": null
+  },
+  {
+   "id": 249,
+   "cohort": "prospective",
+   "scaffold": "fuy",
+   "floppy": "fuz",
+   "shift": null
+  },
+  {
+   "id": 250,
+   "cohort": "prospective",
+   "scaffold": "cen-a",
+   "floppy": "bnn-a",
+   "shift": null
+  },
+  {
+   "id": 251,
+   "cohort": "prospective",
+   "scaffold": "tfp-a",
+   "floppy": "ccu",
+   "shift": null
+  },
+  {
+   "id": 252,
+   "cohort": "prospective",
+   "scaffold": "ncc",
+   "floppy": "cla",
+   "shift": null
+  },
+  {
+   "id": 253,
+   "cohort": "prospective",
+   "scaffold": "dum",
+   "floppy": "tps-a",
+   "shift": null
+  },
+  {
+   "id": 254,
+   "cohort": "prospective",
+   "scaffold": "tbo-a",
+   "floppy": "fcu",
+   "shift": null
+  },
+  {
+   "id": 255,
+   "cohort": "prospective",
+   "scaffold": "ato",
+   "floppy": "hyk",
+   "shift": null
+  },
+  {
+   "id": 256,
+   "cohort": "prospective",
+   "scaffold": "ucy",
+   "floppy": "urw",
+   "shift": null
+  },
+  {
+   "id": 257,
+   "cohort": "prospective",
+   "scaffold": "reo-d-a",
+   "floppy": "bas",
+   "shift": null
+  },
+  {
+   "id": 258,
+   "cohort": "prospective",
+   "scaffold": "xbk-a",
+   "floppy": "ooe",
+   "shift": null
+  },
+  {
+   "id": 259,
+   "cohort": "prospective",
+   "scaffold": "ant",
+   "floppy": "thh",
+   "shift": null
+  },
+  {
+   "id": 260,
+   "cohort": "prospective",
+   "scaffold": "bbn",
+   "floppy": "keb-a",
+   "shift": null
+  },
+  {
+   "id": 261,
+   "cohort": "prospective",
+   "scaffold": "med",
+   "floppy": "gis-e",
+   "shift": null
+  },
+  {
+   "id": 262,
+   "cohort": "prospective",
+   "scaffold": "lwg-a",
+   "floppy": "poz",
+   "shift": null
+  },
+  {
+   "id": 263,
+   "cohort": "prospective",
+   "scaffold": "xfs",
+   "floppy": "nfc",
+   "shift": null
+  },
+  {
+   "id": 264,
+   "cohort": "prospective",
+   "scaffold": "pyb",
+   "floppy": "kfo",
+   "shift": null
+  },
+  {
+   "id": 265,
+   "cohort": "prospective",
+   "scaffold": "sph-a",
+   "floppy": "dny",
+   "shift": null
+  },
+  {
+   "id": 266,
+   "cohort": "prospective",
+   "scaffold": "ftt",
+   "floppy": "ftq",
+   "shift": null
+  },
+  {
+   "id": 267,
+   "cohort": "prospective",
+   "scaffold": "xxv",
+   "floppy": "ftr",
+   "shift": null
+  },
+  {
+   "id": 268,
+   "cohort": "prospective",
+   "scaffold": "sou",
+   "floppy": "vbg",
+   "shift": null
+  },
+  {
+   "id": 269,
+   "cohort": "prospective",
+   "scaffold": "ifi",
+   "floppy": "pmc",
+   "shift": null
+  },
+  {
+   "id": 270,
+   "cohort": "prospective",
+   "scaffold": "npo-e",
+   "floppy": "ybh",
+   "shift": null
+  },
+  {
+   "id": 271,
+   "cohort": "prospective",
+   "scaffold": "acs",
+   "floppy": "mgz-x-d",
+   "shift": null
+  },
+  {
+   "id": 272,
+   "cohort": "prospective",
+   "scaffold": "lrj",
+   "floppy": "nod",
+   "shift": null
+  },
+  {
+   "id": 273,
+   "cohort": "prospective",
+   "scaffold": "tpy",
+   "floppy": "bnn",
+   "shift": null
+  },
+  {
+   "id": 274,
+   "cohort": "prospective",
+   "scaffold": "fau",
+   "floppy": "fvg",
+   "shift": null
+  },
+  {
+   "id": 275,
+   "cohort": "prospective",
+   "scaffold": "pto-a",
+   "floppy": "fto",
+   "shift": null
+  },
+  {
+   "id": 276,
+   "cohort": "prospective",
+   "scaffold": "urv-a",
+   "floppy": "sod-a-a",
+   "shift": null
+  },
+  {
+   "id": 277,
+   "cohort": "prospective",
+   "scaffold": "tfp",
+   "floppy": "tdc",
+   "shift": null
+  },
+  {
+   "id": 278,
+   "cohort": "prospective",
+   "scaffold": "wmp",
+   "floppy": "swd",
+   "shift": null
+  },
+  {
+   "id": 279,
+   "cohort": "prospective",
+   "scaffold": "yav",
+   "floppy": "gcd",
+   "shift": null
+  },
+  {
+   "id": 280,
+   "cohort": "prospective",
+   "scaffold": "wjt",
+   "floppy": "qzd",
+   "shift": null
+  },
+  {
+   "id": 281,
+   "cohort": "prospective",
+   "scaffold": "bcu-k",
+   "floppy": "twf-a",
+   "shift": null
+  },
+  {
+   "id": 282,
+   "cohort": "prospective",
+   "scaffold": "fts",
+   "floppy": "xbh",
+   "shift": null
+  },
+  {
+   "id": 283,
+   "cohort": "prospective",
+   "scaffold": "fit-e",
+   "floppy": "hbm",
+   "shift": null
+  },
+  {
+   "id": 284,
+   "cohort": "prospective",
+   "scaffold": "wgp",
+   "floppy": "zni",
+   "shift": null
+  },
+  {
+   "id": 285,
+   "cohort": "prospective",
+   "scaffold": "iac-d-a",
+   "floppy": "gat-a",
+   "shift": null
+  },
+  {
+   "id": 286,
+   "cohort": "prospective",
+   "scaffold": "umm",
+   "floppy": "sxc",
+   "shift": null
+  },
+  {
+   "id": 287,
+   "cohort": "prospective",
+   "scaffold": "baj",
+   "floppy": "fui",
+   "shift": null
+  },
+  {
+   "id": 288,
+   "cohort": "prospective",
+   "scaffold": "icd-a",
+   "floppy": "pbg-l",
+   "shift": null
+  },
+  {
+   "id": 289,
+   "cohort": "prospective",
+   "scaffold": "rht-x",
+   "floppy": "gdm",
+   "shift": null
+  },
+  {
+   "id": 290,
+   "cohort": "prospective",
+   "scaffold": "xfe",
+   "floppy": "ngc",
+   "shift": null
+  },
+  {
+   "id": 291,
+   "cohort": "prospective",
+   "scaffold": "stx",
+   "floppy": "urt",
+   "shift": null
+  },
+  {
+   "id": 292,
+   "cohort": "prospective",
+   "scaffold": "vcb",
+   "floppy": "vcc",
+   "shift": null
+  },
+  {
+   "id": 293,
+   "cohort": "prospective",
+   "scaffold": "ffb",
+   "floppy": "hex",
+   "shift": null
+  },
+  {
+   "id": 294,
+   "cohort": "prospective",
+   "scaffold": "elb",
+   "floppy": "vbr",
+   "shift": null
+  },
+  {
+   "id": 295,
+   "cohort": "prospective",
+   "scaffold": "xaz",
+   "floppy": "she",
+   "shift": null
+  },
+  {
+   "id": 296,
+   "cohort": "prospective",
+   "scaffold": "iph",
+   "floppy": "snl",
+   "shift": null
+  },
+  {
+   "id": 297,
+   "cohort": "prospective",
+   "scaffold": "fit-a",
+   "floppy": "mer-e",
+   "shift": null
+  },
+  {
+   "id": 298,
+   "cohort": "prospective",
+   "scaffold": "gar",
+   "floppy": "vab",
+   "shift": null
+  },
+  {
+   "id": 299,
+   "cohort": "prospective",
+   "scaffold": "fit-a",
+   "floppy": "crb-a",
+   "shift": null
+  }
+ ],
+ "retrospective": [
+  {
+   "id": 0,
+   "cohort": "dual",
+   "scaffold": "acs",
+   "floppy": "gra",
+   "shift": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "screen_index": 0
+  },
+  {
+   "id": 1,
+   "cohort": "dual",
+   "scaffold": "alb-x",
+   "floppy": "alb-x-d",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 1
+  },
+  {
+   "id": 2,
+   "cohort": "dual",
+   "scaffold": "ast-d",
+   "floppy": "ast",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 2
+  },
+  {
+   "id": 3,
+   "cohort": "dual",
+   "scaffold": "sta",
+   "floppy": "ats",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 3
+  },
+  {
+   "id": 4,
+   "cohort": "dual",
+   "scaffold": "bct",
+   "floppy": "xbe",
+   "shift": [
+    0.0,
+    0.0,
+    0.375
+   ],
+   "screen_index": 4
+  },
+  {
+   "id": 5,
+   "cohort": "dual",
+   "scaffold": "bcu",
+   "floppy": "nbo",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 5
+  },
+  {
+   "id": 6,
+   "cohort": "dual",
+   "scaffold": "bcu-x",
+   "floppy": "nbo-a",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 6
+  },
+  {
+   "id": 7,
+   "cohort": "dual",
+   "scaffold": "bcu-x",
+   "floppy": "sod",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 7
+  },
+  {
+   "id": 8,
+   "cohort": "dual",
+   "scaffold": "bcu-x-a",
+   "floppy": "xag",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 8
+  },
+  {
+   "id": 9,
+   "cohort": "dual",
+   "scaffold": "bet",
+   "floppy": "mep",
+   "shift": [
+    0.5,
+    0.5,
+    0.5
+   ],
+   "screen_index": 9
+  },
+  {
+   "id": 10,
+   "cohort": "dual",
+   "scaffold": "hex",
+   "floppy": "bnn",
+   "shift": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "screen_index": 10
+  },
+  {
+   "id": 11,
+   "cohort": "dual",
+   "scaffold": "xbs",
+   "floppy": "bod",
+   "shift": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "screen_index": 11
+  },
+  {
+   "id": 12,
+   "cohort": "dual",
+   "scaffold": "xbs",
+   "floppy": "bor",
+   "shift": [
+    0.25,
+    0.5,
+    0.5
+   ],
+   "screen_index": 12
+  },
+  {
+   "id": 13,
+   "cohort": "dual",
+   "scaffold": "bsn",
+   "floppy": "dia-f",
+   "shift": [
+    0.125,
+    0.25,
+    0.0
+   ],
+   "screen_index": 13
+  },
+  {
+   "id": 14,
+   "cohort": "dual",
+   "scaffold": "bsn",
+   "floppy": "lig",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 14
+  },
+  {
+   "id": 15,
+   "cohort": "dual",
+   "scaffold": "bsn",
+   "floppy": "lvt",
+   "shift": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "screen_index": 15
+  },
+  {
+   "id": 16,
+   "cohort": "dual",
+   "scaffold": "qzd",
+   "floppy": "bto",
+   "shift": [
+    0.0,
+    0.0,
+    0.125
+   ],
+   "screen_index": 16
+  },
+  {
+   "id": 17,
+   "cohort": "dual",
+   "scaffold": "reo-d",
+   "floppy": "cab",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 17
+  },
+  {
+   "id": 18,
+   "cohort": "dual",
+   "scaffold": "sve",
+   "floppy": "cai",
+   "shift": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "screen_index": 18
+  },
+  {
+   "id": 19,
+   "cohort": "dual",
+   "scaffold": "cal",
+   "floppy": "cal-d",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 19
+  },
+  {
+   "id": 20,
+   "cohort": "dual",
+   "scaffold": "ccu",
+   "floppy": "doh",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 20
+  },
+  {
+   "id": 21,
+   "cohort": "dual",
+   "scaffold": "cla-d",
+   "floppy": "cla",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 21
+  },
+  {
+   "id": 22,
+   "cohort": "dual",
+   "scaffold": "fsm",
+   "floppy": "cnw",
+   "shift": [
+    0.0,
+    0.5,
+    0.0
+   ],
+   "screen_index": 22
+  },
+  {
+   "id": 23,
+   "cohort": "dual",
+   "scaffold": "crs",
+   "floppy": "crs-d",
+   "shift": null,
+   "screen_index": 23
+  },
+  {
+   "id": 24,
+   "cohort": "dual",
+   "scaffold": "thp",
+   "floppy": "ctn-x",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 24
+  },
+  {
+   "id": 25,
+   "cohort": "dual",
+   "scaffold": "ddi",
+   "floppy": "jph",
+   "shift": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "screen_index": 25
+  },
+  {
+   "id": 26,
+   "cohort": "dual",
+   "scaffold": "deh-d",
+   "floppy": "deh",
+   "shift": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "screen_index": 26
+  },
+  {
+   "id": 27,
+   "cohort": "dual",
+   "scaffold": "deh-d",
+   "floppy": "gis",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 27
+  },
+  {
+   "id": 28,
+   "cohort": "dual",
+   "scaffold": "dmp",
+   "floppy": "utp",
+   "shift": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "screen_index": 28
+  },
+  {
+   "id": 29,
+   "cohort": "dual",
+   "scaffold": "eca",
+   "floppy": "xbd",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 29
+  },
+  {
+   "id": 30,
+   "cohort": "dual",
+   "scaffold": "ild",
+   "floppy": "epv",
+   "shift": [
+    0.0,
+    0.25,
+    0.0
+   ],
+   "screen_index": 30
+  },
+  {
+   "id": 31,
+   "cohort": "dual",
+   "scaffold": "qzd",
+   "floppy": "eta",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 31
+  },
+  {
+   "id": 32,
+   "cohort": "dual",
+   "scaffold": "gra",
+   "floppy": "etc",
+   "shift": [
+    0.0,
+    0.0,
+    0.375
+   ],
+   "screen_index": 32
+  },
+  {
+   "id": 33,
+   "cohort": "dual",
+   "scaffold": "unj",
+   "floppy": "etd",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 33
+  },
+  {
+   "id": 34,
+   "cohort": "dual",
+   "scaffold": "fcu",
+   "floppy": "flu",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 34
+  },
+  {
+   "id": 35,
+   "cohort": "dual",
+   "scaffold": "fsc",
+   "floppy": "mot",
+   "shift": [
+    0.0,
+    0.125,
+    0.5
+   ],
+   "screen_index": 35
+  },
+  {
+   "id": 36,
+   "cohort": "dual",
+   "scaffold": "fse",
+   "floppy": "xux",
+   "shift": [
+    0.0,
+    0.5,
+    0.25
+   ],
+   "screen_index": 36
+  },
+  {
+   "id": 37,
+   "cohort": "dual",
+   "scaffold": "gan",
+   "floppy": "lcs",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 37
+  },
+  {
+   "id": 38,
+   "cohort": "dual",
+   "scaffold": "gan",
+   "floppy": "vab",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 38
+  },
+  {
+   "id": 39,
+   "cohort": "dual",
+   "scaffold": "lon",
+   "floppy": "gra",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 39
+  },
+  {
+   "id": 40,
+   "cohort": "dual",
+   "scaffold": "hcp",
+   "floppy": "hcp-d",
+   "shift": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "screen_index": 40
+  },
+  {
+   "id": 41,
+   "cohort": "dual",
+   "scaffold": "hcp",
+   "floppy": "seh",
+   "shift": null,
+   "screen_index": 41
+  },
+  {
+   "id": 42,
+   "cohort": "dual",
+   "scaffold": "hxg-d",
+   "floppy": "hxg",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 42
+  },
+  {
+   "id": 43,
+   "cohort": "dual",
+   "scaffold": "jsm",
+   "floppy": "uoc",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 43
+  },
+  {
+   "id": 44,
+   "cohort": "dual",
+   "scaffold": "kag",
+   "floppy": "kag-d",
+   "shift": null,
+   "screen_index": 44
+  },
+  {
+   "id": 45,
+   "cohort": "dual",
+   "scaffold": "keb",
+   "floppy": "xak",
+   "shift": null,
+   "screen_index": 45
+  },
+  {
+   "id": 46,
+   "cohort": "dual",
+   "scaffold": "mcf",
+   "floppy": "mcd",
+   "shift": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "screen_index": 46
+  },
+  {
+   "id": 47,
+   "cohort": "dual",
+   "scaffold": "mcf-d",
+   "floppy": "mcf",
+   "shift": [
+    0.25,
+    0.25,
+    0.25
+   ],
+   "screen_index": 47
+  },
+  {
+   "id": 48,
+   "cohort": "dual",
+   "scaffold": "mgc-x",
+   "floppy": "mtn",
+   "shift": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "screen_index": 48
+  },
+  {
+   "id": 49,
+   "cohort": "dual",
+   "scaffold": "mgz-x",
+   "floppy": "mgz-x-d",
+   "shift": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "screen_index": 49
+  },
+  {
+   "id": 50,
+   "cohort": "dual",
+   "scaffold": "nas",
+   "floppy": "nas-d",
+   "shift": [
+    0.5,
+    0.5,
+    0.5
+   ],
+   "screen_index": 50
+  },
+  {
+   "id": 51,
+   "cohort": "dual",
+   "scaffold": "reo-d",
+   "floppy": "nba",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 51
+  },
+  {
+   "id": 52,
+   "cohort": "dual",
+   "scaffold": "nbo-x",
+   "floppy": "nbo-x-d",
+   "shift": null,
+   "screen_index": 52
+  },
+  {
+   "id": 53,
+   "cohort": "dual",
+   "scaffold": "nia",
+   "floppy": "nia-d",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 53
+  },
+  {
+   "id": 54,
+   "cohort": "dual",
+   "scaffold": "sxb",
+   "floppy": "nod",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 54
+  },
+  {
+   "id": 55,
+   "cohort": "dual",
+   "scaffold": "sxb",
+   "floppy": "nof",
+   "shift": [
+    0.0,
+    0.25,
+    0.125
+   ],
+   "screen_index": 55
+  },
+  {
+   "id": 56,
+   "cohort": "dual",
+   "scaffold": "xbk",
+   "floppy": "ntv",
+   "shift": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "screen_index": 56
+  },
+  {
+   "id": 57,
+   "cohort": "dual",
+   "scaffold": "odf-d",
+   "floppy": "odf",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 57
+  },
+  {
+   "id": 58,
+   "cohort": "dual",
+   "scaffold": "pcu",
+   "floppy": "urk",
+   "shift": [
+    0.25,
+    0.25,
+    0.25
+   ],
+   "screen_index": 58
+  },
+  {
+   "id": 59,
+   "cohort": "dual",
+   "scaffold": "qzd",
+   "floppy": "qtz",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 59
+  },
+  {
+   "id": 60,
+   "cohort": "dual",
+   "scaffold": "qzd",
+   "floppy": "qtz-h",
+   "shift": [
+    0.0,
+    0.0,
+    0.375
+   ],
+   "screen_index": 60
+  },
+  {
+   "id": 61,
+   "cohort": "dual",
+   "scaffold": "qtz-x",
+   "floppy": "uom",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 61
+  },
+  {
+   "id": 62,
+   "cohort": "dual",
+   "scaffold": "qzd",
+   "floppy": "uog",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 62
+  },
+  {
+   "id": 63,
+   "cohort": "dual",
+   "scaffold": "reo-d",
+   "floppy": "reo",
+   "shift": null,
+   "screen_index": 63
+  },
+  {
+   "id": 64,
+   "cohort": "dual",
+   "scaffold": "tsl",
+   "floppy": "sgt",
+   "shift": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "screen_index": 64
+  },
+  {
+   "id": 65,
+   "cohort": "dual",
+   "scaffold": "she-d",
+   "floppy": "she",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 65
+  },
+  {
+   "id": 66,
+   "cohort": "dual",
+   "scaffold": "xbr",
+   "floppy": "spn",
+   "shift": [
+    0.0,
+    0.125,
+    0.25
+   ],
+   "screen_index": 66
+  },
+  {
+   "id": 67,
+   "cohort": "dual",
+   "scaffold": "svn",
+   "floppy": "svn-d",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 67
+  },
+  {
+   "id": 68,
+   "cohort": "dual",
+   "scaffold": "xbt",
+   "floppy": "tof",
+   "shift": [
+    0.5,
+    0.5,
+    0.5
+   ],
+   "screen_index": 68
+  },
+  {
+   "id": 69,
+   "cohort": "dual",
+   "scaffold": "tsi",
+   "floppy": "xbj",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 69
+  },
+  {
+   "id": 70,
+   "cohort": "dual",
+   "scaffold": "xbp",
+   "floppy": "ttt",
+   "shift": [
+    0.0,
+    0.0,
+    0.25
+   ],
+   "screen_index": 70
+  },
+  {
+   "id": 71,
+   "cohort": "dual",
+   "scaffold": "uni",
+   "floppy": "uni-d",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 71
+  },
+  {
+   "id": 72,
+   "cohort": "dual",
+   "scaffold": "wzz",
+   "floppy": "xaa",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 72
+  },
+  {
+   "id": 73,
+   "cohort": "dual",
+   "scaffold": "xaf",
+   "floppy": "xag",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 73
+  },
+  {
+   "id": 74,
+   "cohort": "dual",
+   "scaffold": "xbp",
+   "floppy": "xbz",
+   "shift": [
+    0.0,
+    0.125,
+    0.25
+   ],
+   "screen_index": 74
+  },
+  {
+   "id": 75,
+   "cohort": "dual",
+   "scaffold": "zra",
+   "floppy": "zra-d",
+   "shift": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "screen_index": 75
+  },
+  {
+   "id": 76,
+   "cohort": "nondual",
+   "scaffold": "sod-h",
+   "floppy": "hxg",
+   "shift": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "screen_index": 76
+  },
+  {
+   "id": 77,
+   "cohort": "nondual",
+   "scaffold": "pbz",
+   "floppy": "hxg",
+   "shift": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "screen_index": 77
+  },
+  {
+   "id": 78,
+   "cohort": "nondual",
+   "scaffold": "uks",
+   "floppy": "hxg",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 78
+  },
+  {
+   "id": 79,
+   "cohort": "nondual",
+   "scaffold": "pbz-e",
+   "floppy": "hxg",
+   "shift": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "screen_index": 79
+  },
+  {
+   "id": 80,
+   "cohort": "nondual",
+   "scaffold": "fnp",
+   "floppy": "hxg",
+   "shift": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "screen_index": 80
+  },
+  {
+   "id": 81,
+   "cohort": "nondual",
+   "scaffold": "toc",
+   "floppy": "hxg",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 81
+  },
+  {
+   "id": 82,
+   "cohort": "nondual",
+   "scaffold": "fuf",
+   "floppy": "hxg",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 82
+  },
+  {
+   "id": 83,
+   "cohort": "nondual",
+   "scaffold": "fuj",
+   "floppy": "hxg",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 83
+  },
+  {
+   "id": 84,
+   "cohort": "nondual",
+   "scaffold": "ful",
+   "floppy": "hxg",
+   "shift": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "screen_index": 84
+  },
+  {
+   "id": 85,
+   "cohort": "nondual",
+   "scaffold": "fuy",
+   "floppy": "hxg",
+   "shift": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "screen_index": 85
+  },
+  {
+   "id": 86,
+   "cohort": "nondual",
+   "scaffold": "fuz",
+   "floppy": "hxg",
+   "shift": [
+    0.25,
+    0.25,
+    0.25
+   ],
+   "screen_index": 86
+  },
+  {
+   "id": 87,
+   "cohort": "nondual",
+   "scaffold": "fvq",
+   "floppy": "hxg",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 87
+  },
+  {
+   "id": 88,
+   "cohort": "nondual",
+   "scaffold": "ftz",
+   "floppy": "hxg",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 88
+  },
+  {
+   "id": 89,
+   "cohort": "nondual",
+   "scaffold": "toc-a",
+   "floppy": "hxg",
+   "shift": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "screen_index": 89
+  },
+  {
+   "id": 90,
+   "cohort": "nondual",
+   "scaffold": "toc-e",
+   "floppy": "hxg",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 90
+  },
+  {
+   "id": 91,
+   "cohort": "nondual",
+   "scaffold": "pbz-m",
+   "floppy": "hxg",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 91
+  },
+  {
+   "id": 92,
+   "cohort": "nondual",
+   "scaffold": "pbz-l",
+   "floppy": "hxg",
+   "shift": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "screen_index": 92
+  },
+  {
+   "id": 93,
+   "cohort": "nondual",
+   "scaffold": "xab",
+   "floppy": "hxg",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 93
+  },
+  {
+   "id": 94,
+   "cohort": "nondual",
+   "scaffold": "xac",
+   "floppy": "hxg",
+   "shift": [
+    0.25,
+    0.25,
+    0.25
+   ],
+   "screen_index": 94
+  },
+  {
+   "id": 95,
+   "cohort": "nondual",
+   "scaffold": "xbt",
+   "floppy": "hxg",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 95
+  },
+  {
+   "id": 96,
+   "cohort": "nondual",
+   "scaffold": "tof",
+   "floppy": "hxg",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 96
+  },
+  {
+   "id": 97,
+   "cohort": "nondual",
+   "scaffold": "xab-a",
+   "floppy": "hxg",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 97
+  },
+  {
+   "id": 98,
+   "cohort": "nondual",
+   "scaffold": "pbz-l-l",
+   "floppy": "hxg",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 98
+  },
+  {
+   "id": 99,
+   "cohort": "nondual",
+   "scaffold": "dnj",
+   "floppy": "hxg",
+   "shift": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "screen_index": 99
+  },
+  {
+   "id": 100,
+   "cohort": "nondual",
+   "scaffold": "dnj-a",
+   "floppy": "hxg",
+   "shift": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "screen_index": 100
+  },
+  {
+   "id": 101,
+   "cohort": "nondual",
+   "scaffold": "dia-f",
+   "floppy": "lvt",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 101
+  },
+  {
+   "id": 102,
+   "cohort": "nondual",
+   "scaffold": "lvt-a",
+   "floppy": "lvt",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 102
+  },
+  {
+   "id": 103,
+   "cohort": "nondual",
+   "scaffold": "lig",
+   "floppy": "lvt",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 103
+  },
+  {
+   "id": 104,
+   "cohort": "nondual",
+   "scaffold": "ths",
+   "floppy": "lvt",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 104
+  },
+  {
+   "id": 105,
+   "cohort": "nondual",
+   "scaffold": "gis",
+   "floppy": "lvt",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 105
+  },
+  {
+   "id": 106,
+   "cohort": "nondual",
+   "scaffold": "umu",
+   "floppy": "lvt",
+   "shift": [
+    0.0,
+    0.25,
+    0.0
+   ],
+   "screen_index": 106
+  },
+  {
+   "id": 107,
+   "cohort": "nondual",
+   "scaffold": "uos",
+   "floppy": "lvt",
+   "shift": [
+    0.0,
+    0.25,
+    0.125
+   ],
+   "screen_index": 107
+  },
+  {
+   "id": 108,
+   "cohort": "nondual",
+   "scaffold": "mon",
+   "floppy": "lvt",
+   "shift": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "screen_index": 108
+  },
+  {
+   "id": 109,
+   "cohort": "nondual",
+   "scaffold": "uoz",
+   "floppy": "lvt",
+   "shift": [
+    0.0,
+    0.25,
+    0.0
+   ],
+   "screen_index": 109
+  },
+  {
+   "id": 110,
+   "cohort": "nondual",
+   "scaffold": "asf",
+   "floppy": "lvt",
+   "shift": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "screen_index": 110
+  },
+  {
+   "id": 111,
+   "cohort": "nondual",
+   "scaffold": "nat",
+   "floppy": "lvt",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 111
+  },
+  {
+   "id": 112,
+   "cohort": "nondual",
+   "scaffold": "bsv",
+   "floppy": "lvt",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 112
+  },
+  {
+   "id": 113,
+   "cohort": "nondual",
+   "scaffold": "ths-e",
+   "floppy": "lvt",
+   "shift": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "screen_index": 113
+  },
+  {
+   "id": 114,
+   "cohort": "nondual",
+   "scaffold": "ban",
+   "floppy": "lvt",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 114
+  },
+  {
+   "id": 115,
+   "cohort": "nondual",
+   "scaffold": "bda",
+   "floppy": "lvt",
+   "shift": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "screen_index": 115
+  },
+  {
+   "id": 116,
+   "cohort": "nondual",
+   "scaffold": "fnj",
+   "floppy": "lvt",
+   "shift": [
+    0.125,
+    0.125,
+    0.5
+   ],
+   "screen_index": 116
+  },
+  {
+   "id": 117,
+   "cohort": "nondual",
+   "scaffold": "fnl",
+   "floppy": "lvt",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 117
+  },
+  {
+   "id": 118,
+   "cohort": "nondual",
+   "scaffold": "snk",
+   "floppy": "lvt",
+   "shift": [
+    0.0,
+    0.25,
+    0.0
+   ],
+   "screen_index": 118
+  },
+  {
+   "id": 119,
+   "cohort": "nondual",
+   "scaffold": "snl",
+   "floppy": "lvt",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 119
+  },
+  {
+   "id": 120,
+   "cohort": "nondual",
+   "scaffold": "snw",
+   "floppy": "lvt",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 120
+  },
+  {
+   "id": 121,
+   "cohort": "nondual",
+   "scaffold": "gis-e",
+   "floppy": "lvt",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 121
+  },
+  {
+   "id": 122,
+   "cohort": "nondual",
+   "scaffold": "sgt",
+   "floppy": "lvt",
+   "shift": [
+    0.0,
+    0.0,
+    0.375
+   ],
+   "screen_index": 122
+  },
+  {
+   "id": 123,
+   "cohort": "nondual",
+   "scaffold": "ant",
+   "floppy": "lvt",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 123
+  },
+  {
+   "id": 124,
+   "cohort": "nondual",
+   "scaffold": "svh",
+   "floppy": "lvt",
+   "shift": [
+    0.0,
+    0.0,
+    0.125
+   ],
+   "screen_index": 124
+  },
+  {
+   "id": 125,
+   "cohort": "nondual",
+   "scaffold": "svr",
+   "floppy": "lvt",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 125
+  },
+  {
+   "id": 126,
+   "cohort": "nondual",
+   "scaffold": "lta",
+   "floppy": "urk",
+   "shift": [
+    0.25,
+    0.25,
+    0.25
+   ],
+   "screen_index": 126
+  },
+  {
+   "id": 127,
+   "cohort": "nondual",
+   "scaffold": "bas",
+   "floppy": "urk",
+   "shift": [
+    0.25,
+    0.25,
+    0.25
+   ],
+   "screen_index": 127
+  },
+  {
+   "id": 128,
+   "cohort": "nondual",
+   "scaffold": "bat",
+   "floppy": "urk",
+   "shift": [
+    0.25,
+    0.25,
+    0.25
+   ],
+   "screen_index": 128
+  },
+  {
+   "id": 129,
+   "cohort": "nondual",
+   "scaffold": "cab",
+   "floppy": "urk",
+   "shift": [
+    0.25,
+    0.25,
+    0.25
+   ],
+   "screen_index": 129
+  },
+  {
+   "id": 130,
+   "cohort": "nondual",
+   "scaffold": "pcu-i",
+   "floppy": "urk",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 130
+  },
+  {
+   "id": 131,
+   "cohort": "nondual",
+   "scaffold": "reo-e",
+   "floppy": "urk",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 131
+  },
+  {
+   "id": 132,
+   "cohort": "nondual",
+   "scaffold": "ftw-a",
+   "floppy": "urk",
+   "shift": [
+    0.25,
+    0.25,
+    0.25
+   ],
+   "screen_index": 132
+  },
+  {
+   "id": 133,
+   "cohort": "nondual",
+   "scaffold": "tfe",
+   "floppy": "urk",
+   "shift": [
+    0.0,
+    0.0,
+    0.25
+   ],
+   "screen_index": 133
+  },
+  {
+   "id": 134,
+   "cohort": "nondual",
+   "scaffold": "tfg",
+   "floppy": "urk",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 134
+  },
+  {
+   "id": 135,
+   "cohort": "nondual",
+   "scaffold": "the-a",
+   "floppy": "urk",
+   "shift": [
+    0.0,
+    0.0,
+    0.25
+   ],
+   "screen_index": 135
+  },
+  {
+   "id": 136,
+   "cohort": "nondual",
+   "scaffold": "reo",
+   "floppy": "urk",
+   "shift": [
+    0.25,
+    0.25,
+    0.25
+   ],
+   "screen_index": 136
+  },
+  {
+   "id": 137,
+   "cohort": "nondual",
+   "scaffold": "the",
+   "floppy": "urk",
+   "shift": [
+    0.0,
+    0.25,
+    0.25
+   ],
+   "screen_index": 137
+  },
+  {
+   "id": 138,
+   "cohort": "nondual",
+   "scaffold": "ftw",
+   "floppy": "urk",
+   "shift": [
+    0.25,
+    0.25,
+    0.25
+   ],
+   "screen_index": 138
+  },
+  {
+   "id": 139,
+   "cohort": "nondual",
+   "scaffold": "ftr",
+   "floppy": "urk",
+   "shift": [
+    0.25,
+    0.25,
+    0.25
+   ],
+   "screen_index": 139
+  },
+  {
+   "id": 140,
+   "cohort": "nondual",
+   "scaffold": "fty",
+   "floppy": "urk",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 140
+  },
+  {
+   "id": 141,
+   "cohort": "nondual",
+   "scaffold": "fue",
+   "floppy": "urk",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 141
+  },
+  {
+   "id": 142,
+   "cohort": "nondual",
+   "scaffold": "fug",
+   "floppy": "urk",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 142
+  },
+  {
+   "id": 143,
+   "cohort": "nondual",
+   "scaffold": "fus",
+   "floppy": "urk",
+   "shift": [
+    0.0,
+    0.0,
+    0.25
+   ],
+   "screen_index": 143
+  },
+  {
+   "id": 144,
+   "cohort": "nondual",
+   "scaffold": "fut",
+   "floppy": "urk",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 144
+  },
+  {
+   "id": 145,
+   "cohort": "nondual",
+   "scaffold": "fuv",
+   "floppy": "urk",
+   "shift": [
+    0.0,
+    0.0,
+    0.25
+   ],
+   "screen_index": 145
+  },
+  {
+   "id": 146,
+   "cohort": "nondual",
+   "scaffold": "lta-e",
+   "floppy": "urk",
+   "shift": [
+    0.25,
+    0.25,
+    0.25
+   ],
+   "screen_index": 146
+  },
+  {
+   "id": 147,
+   "cohort": "nondual",
+   "scaffold": "reo-d",
+   "floppy": "urk",
+   "shift": [
+    0.0,
+    0.25,
+    0.25
+   ],
+   "screen_index": 147
+  },
+  {
+   "id": 148,
+   "cohort": "nondual",
+   "scaffold": "nba",
+   "floppy": "urk",
+   "shift": [
+    0.25,
+    0.25,
+    0.25
+   ],
+   "screen_index": 148
+  },
+  {
+   "id": 149,
+   "cohort": "nondual",
+   "scaffold": "reo-t",
+   "floppy": "urk",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 149
+  },
+  {
+   "id": 150,
+   "cohort": "nondual",
+   "scaffold": "urk-a",
+   "floppy": "urk",
+   "shift": [
+    0.25,
+    0.25,
+    0.25
+   ],
+   "screen_index": 150
+  },
+  {
+   "id": 151,
+   "cohort": "nondual",
+   "scaffold": "qtz-f",
+   "floppy": "uom",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 151
+  },
+  {
+   "id": 152,
+   "cohort": "nondual",
+   "scaffold": "qtz-g",
+   "floppy": "uom",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 152
+  },
+  {
+   "id": 153,
+   "cohort": "nondual",
+   "scaffold": "qtz-h",
+   "floppy": "uom",
+   "shift": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "screen_index": 153
+  },
+  {
+   "id": 154,
+   "cohort": "nondual",
+   "scaffold": "eta",
+   "floppy": "uom",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 154
+  },
+  {
+   "id": 155,
+   "cohort": "nondual",
+   "scaffold": "bto",
+   "floppy": "uom",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 155
+  },
+  {
+   "id": 156,
+   "cohort": "nondual",
+   "scaffold": "twt",
+   "floppy": "uom",
+   "shift": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "screen_index": 156
+  },
+  {
+   "id": 157,
+   "cohort": "nondual",
+   "scaffold": "qtz",
+   "floppy": "uom",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 157
+  },
+  {
+   "id": 158,
+   "cohort": "nondual",
+   "scaffold": "qtz-a",
+   "floppy": "uom",
+   "shift": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "screen_index": 158
+  },
+  {
+   "id": 159,
+   "cohort": "nondual",
+   "scaffold": "umg",
+   "floppy": "uom",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 159
+  },
+  {
+   "id": 160,
+   "cohort": "nondual",
+   "scaffold": "umj",
+   "floppy": "uom",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 160
+  },
+  {
+   "id": 161,
+   "cohort": "nondual",
+   "scaffold": "umm",
+   "floppy": "uom",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 161
+  },
+  {
+   "id": 162,
+   "cohort": "nondual",
+   "scaffold": "uof",
+   "floppy": "uom",
+   "shift": [
+    0.25,
+    0.5,
+    0.0
+   ],
+   "screen_index": 162
+  },
+  {
+   "id": 163,
+   "cohort": "nondual",
+   "scaffold": "uog",
+   "floppy": "uom",
+   "shift": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "screen_index": 163
+  },
+  {
+   "id": 164,
+   "cohort": "nondual",
+   "scaffold": "uon",
+   "floppy": "uom",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 164
+  },
+  {
+   "id": 165,
+   "cohort": "nondual",
+   "scaffold": "uoo",
+   "floppy": "uom",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 165
+  },
+  {
+   "id": 166,
+   "cohort": "nondual",
+   "scaffold": "uop",
+   "floppy": "uom",
+   "shift": [
+    0.0,
+    0.0,
+    0.25
+   ],
+   "screen_index": 166
+  },
+  {
+   "id": 167,
+   "cohort": "nondual",
+   "scaffold": "uoq",
+   "floppy": "uom",
+   "shift": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "screen_index": 167
+  },
+  {
+   "id": 168,
+   "cohort": "nondual",
+   "scaffold": "ukf",
+   "floppy": "uom",
+   "shift": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "screen_index": 168
+  },
+  {
+   "id": 169,
+   "cohort": "nondual",
+   "scaffold": "ukh",
+   "floppy": "uom",
+   "shift": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "screen_index": 169
+  },
+  {
+   "id": 170,
+   "cohort": "nondual",
+   "scaffold": "qzd",
+   "floppy": "uom",
+   "shift": [
+    0.25,
+    0.625,
+    0.125
+   ],
+   "screen_index": 170
+  },
+  {
+   "id": 171,
+   "cohort": "nondual",
+   "scaffold": "qdl",
+   "floppy": "uom",
+   "shift": [
+    0.25,
+    0.625,
+    0.0
+   ],
+   "screen_index": 171
+  },
+  {
+   "id": 172,
+   "cohort": "nondual",
+   "scaffold": "bto-e",
+   "floppy": "uom",
+   "shift": [
+    0.0,
+    0.0,
+    0.125
+   ],
+   "screen_index": 172
+  },
+  {
+   "id": 173,
+   "cohort": "nondual",
+   "scaffold": "twt-e",
+   "floppy": "uom",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 173
+  },
+  {
+   "id": 174,
+   "cohort": "nondual",
+   "scaffold": "oso",
+   "floppy": "uom",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 174
+  },
+  {
+   "id": 175,
+   "cohort": "nondual",
+   "scaffold": "iss",
+   "floppy": "uom",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 175
+  },
+  {
+   "id": 176,
+   "cohort": "nondual",
+   "scaffold": "lon",
+   "floppy": "gra",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 176
+  },
+  {
+   "id": 177,
+   "cohort": "nondual",
+   "scaffold": "acs-a",
+   "floppy": "gra",
+   "shift": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "screen_index": 177
+  },
+  {
+   "id": 178,
+   "cohort": "nondual",
+   "scaffold": "npo",
+   "floppy": "gra",
+   "shift": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "screen_index": 178
+  },
+  {
+   "id": 179,
+   "cohort": "nondual",
+   "scaffold": "gme",
+   "floppy": "gra",
+   "shift": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "screen_index": 179
+  },
+  {
+   "id": 180,
+   "cohort": "nondual",
+   "scaffold": "can",
+   "floppy": "gra",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 180
+  },
+  {
+   "id": 181,
+   "cohort": "nondual",
+   "scaffold": "ucn",
+   "floppy": "gra",
+   "shift": [
+    0.0,
+    0.375,
+    0.25
+   ],
+   "screen_index": 181
+  },
+  {
+   "id": 182,
+   "cohort": "nondual",
+   "scaffold": "afx",
+   "floppy": "gra",
+   "shift": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "screen_index": 182
+  },
+  {
+   "id": 183,
+   "cohort": "nondual",
+   "scaffold": "eab",
+   "floppy": "gra",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 183
+  },
+  {
+   "id": 184,
+   "cohort": "nondual",
+   "scaffold": "eri",
+   "floppy": "gra",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 184
+  },
+  {
+   "id": 185,
+   "cohort": "nondual",
+   "scaffold": "maz",
+   "floppy": "gra",
+   "shift": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "screen_index": 185
+  },
+  {
+   "id": 186,
+   "cohort": "nondual",
+   "scaffold": "cfc",
+   "floppy": "gra",
+   "shift": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "screen_index": 186
+  },
+  {
+   "id": 187,
+   "cohort": "nondual",
+   "scaffold": "tpd",
+   "floppy": "gra",
+   "shift": [
+    0.0,
+    0.5,
+    0.0
+   ],
+   "screen_index": 187
+  },
+  {
+   "id": 188,
+   "cohort": "nondual",
+   "scaffold": "lon-a",
+   "floppy": "gra",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 188
+  },
+  {
+   "id": 189,
+   "cohort": "nondual",
+   "scaffold": "los",
+   "floppy": "gra",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 189
+  },
+  {
+   "id": 190,
+   "cohort": "nondual",
+   "scaffold": "npo-a",
+   "floppy": "gra",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 190
+  },
+  {
+   "id": 191,
+   "cohort": "nondual",
+   "scaffold": "bbp",
+   "floppy": "gra",
+   "shift": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "screen_index": 191
+  },
+  {
+   "id": 192,
+   "cohort": "nondual",
+   "scaffold": "bbq",
+   "floppy": "gra",
+   "shift": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "screen_index": 192
+  },
+  {
+   "id": 193,
+   "cohort": "nondual",
+   "scaffold": "bbw",
+   "floppy": "gra",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 193
+  },
+  {
+   "id": 194,
+   "cohort": "nondual",
+   "scaffold": "fnr",
+   "floppy": "gra",
+   "shift": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "screen_index": 194
+  },
+  {
+   "id": 195,
+   "cohort": "nondual",
+   "scaffold": "snx",
+   "floppy": "gra",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 195
+  },
+  {
+   "id": 196,
+   "cohort": "nondual",
+   "scaffold": "sny",
+   "floppy": "gra",
+   "shift": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "screen_index": 196
+  },
+  {
+   "id": 197,
+   "cohort": "nondual",
+   "scaffold": "smv",
+   "floppy": "gra",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 197
+  },
+  {
+   "id": 198,
+   "cohort": "nondual",
+   "scaffold": "nia",
+   "floppy": "gra",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 198
+  },
+  {
+   "id": 199,
+   "cohort": "nondual",
+   "scaffold": "sta",
+   "floppy": "gra",
+   "shift": [
+    0.0,
+    0.5,
+    0.5
+   ],
+   "screen_index": 199
+  },
+  {
+   "id": 200,
+   "cohort": "nondual",
+   "scaffold": "lon-e",
+   "floppy": "gra",
+   "shift": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "screen_index": 200
+  },
+  {
+   "id": 201,
+   "cohort": "nondual",
+   "scaffold": "hal",
+   "floppy": "flu",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 201
+  },
+  {
+   "id": 202,
+   "cohort": "nondual",
+   "scaffold": "ast",
+   "floppy": "flu",
+   "shift": [
+    0.0,
+    0.0,
+    0.25
+   ],
+   "screen_index": 202
+  },
+  {
+   "id": 203,
+   "cohort": "nondual",
+   "scaffold": "tsc",
+   "floppy": "flu",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 203
+  },
+  {
+   "id": 204,
+   "cohort": "nondual",
+   "scaffold": "bak",
+   "floppy": "flu",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 204
+  },
+  {
+   "id": 205,
+   "cohort": "nondual",
+   "scaffold": "flu-a",
+   "floppy": "flu",
+   "shift": [
+    0.0,
+    0.0,
+    0.25
+   ],
+   "screen_index": 205
+  },
+  {
+   "id": 206,
+   "cohort": "nondual",
+   "scaffold": "bar",
+   "floppy": "flu",
+   "shift": [
+    0.0,
+    0.0,
+    0.25
+   ],
+   "screen_index": 206
+  },
+  {
+   "id": 207,
+   "cohort": "nondual",
+   "scaffold": "ubt",
+   "floppy": "flu",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 207
+  },
+  {
+   "id": 208,
+   "cohort": "nondual",
+   "scaffold": "flu-e",
+   "floppy": "flu",
+   "shift": [
+    0.0,
+    0.0,
+    0.25
+   ],
+   "screen_index": 208
+  },
+  {
+   "id": 209,
+   "cohort": "nondual",
+   "scaffold": "ast-e",
+   "floppy": "flu",
+   "shift": [
+    0.0,
+    0.0,
+    0.25
+   ],
+   "screen_index": 209
+  },
+  {
+   "id": 210,
+   "cohort": "nondual",
+   "scaffold": "tbo",
+   "floppy": "flu",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 210
+  },
+  {
+   "id": 211,
+   "cohort": "nondual",
+   "scaffold": "tfb",
+   "floppy": "flu",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 211
+  },
+  {
+   "id": 212,
+   "cohort": "nondual",
+   "scaffold": "tbo-a",
+   "floppy": "flu",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 212
+  },
+  {
+   "id": 213,
+   "cohort": "nondual",
+   "scaffold": "ftq",
+   "floppy": "flu",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 213
+  },
+  {
+   "id": 214,
+   "cohort": "nondual",
+   "scaffold": "fts",
+   "floppy": "flu",
+   "shift": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "screen_index": 214
+  },
+  {
+   "id": 215,
+   "cohort": "nondual",
+   "scaffold": "ftt",
+   "floppy": "flu",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 215
+  },
+  {
+   "id": 216,
+   "cohort": "nondual",
+   "scaffold": "ftu",
+   "floppy": "flu",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 216
+  },
+  {
+   "id": 217,
+   "cohort": "nondual",
+   "scaffold": "tbd",
+   "floppy": "flu",
+   "shift": [
+    0.0,
+    0.125,
+    0.25
+   ],
+   "screen_index": 217
+  },
+  {
+   "id": 218,
+   "cohort": "nondual",
+   "scaffold": "ast-d",
+   "floppy": "flu",
+   "shift": [
+    0.0,
+    0.125,
+    0.125
+   ],
+   "screen_index": 218
+  },
+  {
+   "id": 219,
+   "cohort": "nondual",
+   "scaffold": "fab",
+   "floppy": "flu",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 219
+  },
+  {
+   "id": 220,
+   "cohort": "nondual",
+   "scaffold": "fla",
+   "floppy": "flu",
+   "shift": [
+    0.0,
+    0.125,
+    0.25
+   ],
+   "screen_index": 220
+  },
+  {
+   "id": 221,
+   "cohort": "nondual",
+   "scaffold": "fff",
+   "floppy": "flu",
+   "shift": [
+    0.0,
+    0.0,
+    0.125
+   ],
+   "screen_index": 221
+  },
+  {
+   "id": 222,
+   "cohort": "nondual",
+   "scaffold": "rht",
+   "floppy": "flu",
+   "shift": [
+    0.0,
+    0.0,
+    0.25
+   ],
+   "screen_index": 222
+  },
+  {
+   "id": 223,
+   "cohort": "nondual",
+   "scaffold": "rht-a",
+   "floppy": "flu",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 223
+  },
+  {
+   "id": 224,
+   "cohort": "nondual",
+   "scaffold": "wzz",
+   "floppy": "flu",
+   "shift": [
+    0.0,
+    0.125,
+    0.25
+   ],
+   "screen_index": 224
+  },
+  {
+   "id": 225,
+   "cohort": "nondual",
+   "scaffold": "xaa",
+   "floppy": "flu",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 225
+  },
+  {
+   "id": 226,
+   "cohort": "nondual",
+   "scaffold": "ltl",
+   "floppy": "bnn",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 226
+  },
+  {
+   "id": 227,
+   "cohort": "nondual",
+   "scaffold": "brl",
+   "floppy": "bnn",
+   "shift": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "screen_index": 227
+  },
+  {
+   "id": 228,
+   "cohort": "nondual",
+   "scaffold": "bam",
+   "floppy": "bnn",
+   "shift": [
+    0.0,
+    0.5,
+    0.5
+   ],
+   "screen_index": 228
+  },
+  {
+   "id": 229,
+   "cohort": "nondual",
+   "scaffold": "bao",
+   "floppy": "bnn",
+   "shift": [
+    0.0,
+    0.375,
+    0.0
+   ],
+   "screen_index": 229
+  },
+  {
+   "id": 230,
+   "cohort": "nondual",
+   "scaffold": "bay",
+   "floppy": "bnn",
+   "shift": [
+    0.0,
+    0.375,
+    0.0
+   ],
+   "screen_index": 230
+  },
+  {
+   "id": 231,
+   "cohort": "nondual",
+   "scaffold": "alb-a",
+   "floppy": "bnn",
+   "shift": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "screen_index": 231
+  },
+  {
+   "id": 232,
+   "cohort": "nondual",
+   "scaffold": "bba",
+   "floppy": "bnn",
+   "shift": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "screen_index": 232
+  },
+  {
+   "id": 233,
+   "cohort": "nondual",
+   "scaffold": "bbb",
+   "floppy": "bnn",
+   "shift": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "screen_index": 233
+  },
+  {
+   "id": 234,
+   "cohort": "nondual",
+   "scaffold": "bby",
+   "floppy": "bnn",
+   "shift": [
+    0.0,
+    0.5,
+    0.0
+   ],
+   "screen_index": 234
+  },
+  {
+   "id": 235,
+   "cohort": "nondual",
+   "scaffold": "bbz",
+   "floppy": "bnn",
+   "shift": [
+    0.0,
+    0.5,
+    0.0
+   ],
+   "screen_index": 235
+  },
+  {
+   "id": 236,
+   "cohort": "nondual",
+   "scaffold": "bca",
+   "floppy": "bnn",
+   "shift": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "screen_index": 236
+  },
+  {
+   "id": 237,
+   "cohort": "nondual",
+   "scaffold": "ttw",
+   "floppy": "bnn",
+   "shift": [
+    0.0,
+    0.5,
+    0.5
+   ],
+   "screen_index": 237
+  },
+  {
+   "id": 238,
+   "cohort": "nondual",
+   "scaffold": "fst",
+   "floppy": "bnn",
+   "shift": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "screen_index": 238
+  },
+  {
+   "id": 239,
+   "cohort": "nondual",
+   "scaffold": "kag",
+   "floppy": "bnn",
+   "shift": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "screen_index": 239
+  },
+  {
+   "id": 240,
+   "cohort": "nondual",
+   "scaffold": "tfs",
+   "floppy": "bnn",
+   "shift": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "screen_index": 240
+  },
+  {
+   "id": 241,
+   "cohort": "nondual",
+   "scaffold": "alb-x-d",
+   "floppy": "bnn",
+   "shift": [
+    0.0,
+    0.375,
+    0.5
+   ],
+   "screen_index": 241
+  },
+  {
+   "id": 242,
+   "cohort": "nondual",
+   "scaffold": "zra-d",
+   "floppy": "bnn",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 242
+  },
+  {
+   "id": 243,
+   "cohort": "nondual",
+   "scaffold": "stp",
+   "floppy": "bnn",
+   "shift": [
+    0.0,
+    0.5,
+    0.0
+   ],
+   "screen_index": 243
+  },
+  {
+   "id": 244,
+   "cohort": "nondual",
+   "scaffold": "fsa",
+   "floppy": "bnn",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 244
+  },
+  {
+   "id": 245,
+   "cohort": "nondual",
+   "scaffold": "fsb",
+   "floppy": "bnn",
+   "shift": [
+    0.0,
+    0.375,
+    0.5
+   ],
+   "screen_index": 245
+  },
+  {
+   "id": 246,
+   "cohort": "nondual",
+   "scaffold": "ffb",
+   "floppy": "bnn",
+   "shift": [
+    0.0,
+    0.5,
+    0.5
+   ],
+   "screen_index": 246
+  },
+  {
+   "id": 247,
+   "cohort": "nondual",
+   "scaffold": "stp-a",
+   "floppy": "bnn",
+   "shift": [
+    0.0,
+    0.5,
+    0.0
+   ],
+   "screen_index": 247
+  },
+  {
+   "id": 248,
+   "cohort": "nondual",
+   "scaffold": "shp-a",
+   "floppy": "bnn",
+   "shift": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "screen_index": 248
+  },
+  {
+   "id": 249,
+   "cohort": "nondual",
+   "scaffold": "shp",
+   "floppy": "bnn",
+   "shift": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "screen_index": 249
+  },
+  {
+   "id": 250,
+   "cohort": "nondual",
+   "scaffold": "alb",
+   "floppy": "bnn",
+   "shift": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "screen_index": 250
+  },
+  {
+   "id": 251,
+   "cohort": "nondual",
+   "scaffold": "nbo-a",
+   "floppy": "she",
+   "shift": [
+    0.125,
+    0.125,
+    0.125
+   ],
+   "screen_index": 251
+  },
+  {
+   "id": 252,
+   "cohort": "nondual",
+   "scaffold": "sod-f",
+   "floppy": "she",
+   "shift": [
+    0.0,
+    0.0,
+    0.25
+   ],
+   "screen_index": 252
+  },
+  {
+   "id": 253,
+   "cohort": "nondual",
+   "scaffold": "rhr-a",
+   "floppy": "she",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 253
+  },
+  {
+   "id": 254,
+   "cohort": "nondual",
+   "scaffold": "pbp",
+   "floppy": "she",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 254
+  },
+  {
+   "id": 255,
+   "cohort": "nondual",
+   "scaffold": "nbo",
+   "floppy": "she",
+   "shift": [
+    0.125,
+    0.125,
+    0.125
+   ],
+   "screen_index": 255
+  },
+  {
+   "id": 256,
+   "cohort": "nondual",
+   "scaffold": "sod-a",
+   "floppy": "she",
+   "shift": [
+    0.0,
+    0.0,
+    0.25
+   ],
+   "screen_index": 256
+  },
+  {
+   "id": 257,
+   "cohort": "nondual",
+   "scaffold": "wse",
+   "floppy": "she",
+   "shift": [
+    0.0,
+    0.0,
+    0.25
+   ],
+   "screen_index": 257
+  },
+  {
+   "id": 258,
+   "cohort": "nondual",
+   "scaffold": "rho",
+   "floppy": "she",
+   "shift": [
+    0.0,
+    0.0,
+    0.25
+   ],
+   "screen_index": 258
+  },
+  {
+   "id": 259,
+   "cohort": "nondual",
+   "scaffold": "kfi",
+   "floppy": "she",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 259
+  },
+  {
+   "id": 260,
+   "cohort": "nondual",
+   "scaffold": "pcb",
+   "floppy": "she",
+   "shift": [
+    0.0,
+    0.0,
+    0.25
+   ],
+   "screen_index": 260
+  },
+  {
+   "id": 261,
+   "cohort": "nondual",
+   "scaffold": "sod",
+   "floppy": "she",
+   "shift": [
+    0.0,
+    0.0,
+    0.25
+   ],
+   "screen_index": 261
+  },
+  {
+   "id": 262,
+   "cohort": "nondual",
+   "scaffold": "rhr",
+   "floppy": "she",
+   "shift": [
+    0.0,
+    0.0,
+    0.375
+   ],
+   "screen_index": 262
+  },
+  {
+   "id": 263,
+   "cohort": "nondual",
+   "scaffold": "sst",
+   "floppy": "she",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 263
+  },
+  {
+   "id": 264,
+   "cohort": "nondual",
+   "scaffold": "pbp-e",
+   "floppy": "she",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 264
+  },
+  {
+   "id": 265,
+   "cohort": "nondual",
+   "scaffold": "bag",
+   "floppy": "she",
+   "shift": [
+    0.125,
+    0.125,
+    0.125
+   ],
+   "screen_index": 265
+  },
+  {
+   "id": 266,
+   "cohort": "nondual",
+   "scaffold": "bah",
+   "floppy": "she",
+   "shift": [
+    0.0,
+    0.0,
+    0.25
+   ],
+   "screen_index": 266
+  },
+  {
+   "id": 267,
+   "cohort": "nondual",
+   "scaffold": "baj",
+   "floppy": "she",
+   "shift": [
+    0.0,
+    0.0,
+    0.25
+   ],
+   "screen_index": 267
+  },
+  {
+   "id": 268,
+   "cohort": "nondual",
+   "scaffold": "baq",
+   "floppy": "she",
+   "shift": [
+    0.0,
+    0.0,
+    0.25
+   ],
+   "screen_index": 268
+  },
+  {
+   "id": 269,
+   "cohort": "nondual",
+   "scaffold": "baw",
+   "floppy": "she",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 269
+  },
+  {
+   "id": 270,
+   "cohort": "nondual",
+   "scaffold": "bax",
+   "floppy": "she",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 270
+  },
+  {
+   "id": 271,
+   "cohort": "nondual",
+   "scaffold": "bcj",
+   "floppy": "she",
+   "shift": [
+    0.0,
+    0.0,
+    0.25
+   ],
+   "screen_index": 271
+  },
+  {
+   "id": 272,
+   "cohort": "nondual",
+   "scaffold": "nbo-a-e",
+   "floppy": "she",
+   "shift": [
+    0.125,
+    0.125,
+    0.125
+   ],
+   "screen_index": 272
+  },
+  {
+   "id": 273,
+   "cohort": "nondual",
+   "scaffold": "sst-e",
+   "floppy": "she",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 273
+  },
+  {
+   "id": 274,
+   "cohort": "nondual",
+   "scaffold": "nbo-h",
+   "floppy": "she",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 274
+  },
+  {
+   "id": 275,
+   "cohort": "nondual",
+   "scaffold": "bcu-l",
+   "floppy": "she",
+   "shift": [
+    0.0,
+    0.0,
+    0.375
+   ],
+   "screen_index": 275
+  },
+  {
+   "id": 276,
+   "cohort": "nondual",
+   "scaffold": "lon",
+   "floppy": "nia-d",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 276
+  },
+  {
+   "id": 277,
+   "cohort": "nondual",
+   "scaffold": "acs-a",
+   "floppy": "nia-d",
+   "shift": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "screen_index": 277
+  },
+  {
+   "id": 278,
+   "cohort": "nondual",
+   "scaffold": "npo",
+   "floppy": "nia-d",
+   "shift": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "screen_index": 278
+  },
+  {
+   "id": 279,
+   "cohort": "nondual",
+   "scaffold": "gme",
+   "floppy": "nia-d",
+   "shift": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "screen_index": 279
+  },
+  {
+   "id": 280,
+   "cohort": "nondual",
+   "scaffold": "can",
+   "floppy": "nia-d",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 280
+  },
+  {
+   "id": 281,
+   "cohort": "nondual",
+   "scaffold": "ucn",
+   "floppy": "nia-d",
+   "shift": [
+    0.0,
+    0.375,
+    0.25
+   ],
+   "screen_index": 281
+  },
+  {
+   "id": 282,
+   "cohort": "nondual",
+   "scaffold": "afx",
+   "floppy": "nia-d",
+   "shift": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "screen_index": 282
+  },
+  {
+   "id": 283,
+   "cohort": "nondual",
+   "scaffold": "eab",
+   "floppy": "nia-d",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 283
+  },
+  {
+   "id": 284,
+   "cohort": "nondual",
+   "scaffold": "eri",
+   "floppy": "nia-d",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 284
+  },
+  {
+   "id": 285,
+   "cohort": "nondual",
+   "scaffold": "maz",
+   "floppy": "nia-d",
+   "shift": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "screen_index": 285
+  },
+  {
+   "id": 286,
+   "cohort": "nondual",
+   "scaffold": "cfc",
+   "floppy": "nia-d",
+   "shift": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "screen_index": 286
+  },
+  {
+   "id": 287,
+   "cohort": "nondual",
+   "scaffold": "tpd",
+   "floppy": "nia-d",
+   "shift": [
+    0.0,
+    0.5,
+    0.0
+   ],
+   "screen_index": 287
+  },
+  {
+   "id": 288,
+   "cohort": "nondual",
+   "scaffold": "lon-a",
+   "floppy": "nia-d",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 288
+  },
+  {
+   "id": 289,
+   "cohort": "nondual",
+   "scaffold": "los",
+   "floppy": "nia-d",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 289
+  },
+  {
+   "id": 290,
+   "cohort": "nondual",
+   "scaffold": "npo-a",
+   "floppy": "nia-d",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 290
+  },
+  {
+   "id": 291,
+   "cohort": "nondual",
+   "scaffold": "bbp",
+   "floppy": "nia-d",
+   "shift": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "screen_index": 291
+  },
+  {
+   "id": 292,
+   "cohort": "nondual",
+   "scaffold": "bbq",
+   "floppy": "nia-d",
+   "shift": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "screen_index": 292
+  },
+  {
+   "id": 293,
+   "cohort": "nondual",
+   "scaffold": "bbw",
+   "floppy": "nia-d",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 293
+  },
+  {
+   "id": 294,
+   "cohort": "nondual",
+   "scaffold": "fnr",
+   "floppy": "nia-d",
+   "shift": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "screen_index": 294
+  },
+  {
+   "id": 295,
+   "cohort": "nondual",
+   "scaffold": "acs",
+   "floppy": "nia-d",
+   "shift": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "screen_index": 295
+  },
+  {
+   "id": 296,
+   "cohort": "nondual",
+   "scaffold": "snx",
+   "floppy": "nia-d",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 296
+  },
+  {
+   "id": 297,
+   "cohort": "nondual",
+   "scaffold": "sny",
+   "floppy": "nia-d",
+   "shift": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "screen_index": 297
+  },
+  {
+   "id": 298,
+   "cohort": "nondual",
+   "scaffold": "smv",
+   "floppy": "nia-d",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 298
+  },
+  {
+   "id": 299,
+   "cohort": "nondual",
+   "scaffold": "sta",
+   "floppy": "nia-d",
+   "shift": [
+    0.0,
+    0.5,
+    0.5
+   ],
+   "screen_index": 299
+  },
+  {
+   "id": 300,
+   "cohort": "nondual",
+   "scaffold": "lon-e",
+   "floppy": "nia-d",
+   "shift": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "screen_index": 300
+  },
+  {
+   "id": 301,
+   "cohort": "nondual",
+   "scaffold": "nbo-a",
+   "floppy": "nbo",
+   "shift": [
+    0.25,
+    0.25,
+    0.25
+   ],
+   "screen_index": 301
+  },
+  {
+   "id": 302,
+   "cohort": "nondual",
+   "scaffold": "sod-f",
+   "floppy": "nbo",
+   "shift": [
+    0.25,
+    0.25,
+    0.25
+   ],
+   "screen_index": 302
+  },
+  {
+   "id": 303,
+   "cohort": "nondual",
+   "scaffold": "rhr-a",
+   "floppy": "nbo",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 303
+  },
+  {
+   "id": 304,
+   "cohort": "nondual",
+   "scaffold": "pbp",
+   "floppy": "nbo",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 304
+  },
+  {
+   "id": 305,
+   "cohort": "nondual",
+   "scaffold": "sod-a",
+   "floppy": "nbo",
+   "shift": [
+    0.25,
+    0.25,
+    0.25
+   ],
+   "screen_index": 305
+  },
+  {
+   "id": 306,
+   "cohort": "nondual",
+   "scaffold": "wse",
+   "floppy": "nbo",
+   "shift": [
+    0.25,
+    0.25,
+    0.25
+   ],
+   "screen_index": 306
+  },
+  {
+   "id": 307,
+   "cohort": "nondual",
+   "scaffold": "rho",
+   "floppy": "nbo",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 307
+  },
+  {
+   "id": 308,
+   "cohort": "nondual",
+   "scaffold": "kfi",
+   "floppy": "nbo",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 308
+  },
+  {
+   "id": 309,
+   "cohort": "nondual",
+   "scaffold": "pcb",
+   "floppy": "nbo",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 309
+  },
+  {
+   "id": 310,
+   "cohort": "nondual",
+   "scaffold": "sod",
+   "floppy": "nbo",
+   "shift": [
+    0.25,
+    0.25,
+    0.25
+   ],
+   "screen_index": 310
+  },
+  {
+   "id": 311,
+   "cohort": "nondual",
+   "scaffold": "rhr",
+   "floppy": "nbo",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 311
+  },
+  {
+   "id": 312,
+   "cohort": "nondual",
+   "scaffold": "sst",
+   "floppy": "nbo",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 312
+  },
+  {
+   "id": 313,
+   "cohort": "nondual",
+   "scaffold": "pbp-e",
+   "floppy": "nbo",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 313
+  },
+  {
+   "id": 314,
+   "cohort": "nondual",
+   "scaffold": "bag",
+   "floppy": "nbo",
+   "shift": [
+    0.25,
+    0.25,
+    0.25
+   ],
+   "screen_index": 314
+  },
+  {
+   "id": 315,
+   "cohort": "nondual",
+   "scaffold": "bah",
+   "floppy": "nbo",
+   "shift": [
+    0.25,
+    0.25,
+    0.25
+   ],
+   "screen_index": 315
+  },
+  {
+   "id": 316,
+   "cohort": "nondual",
+   "scaffold": "baj",
+   "floppy": "nbo",
+   "shift": [
+    0.25,
+    0.25,
+    0.25
+   ],
+   "screen_index": 316
+  },
+  {
+   "id": 317,
+   "cohort": "nondual",
+   "scaffold": "baq",
+   "floppy": "nbo",
+   "shift": [
+    0.25,
+    0.25,
+    0.25
+   ],
+   "screen_index": 317
+  },
+  {
+   "id": 318,
+   "cohort": "nondual",
+   "scaffold": "baw",
+   "floppy": "nbo",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 318
+  },
+  {
+   "id": 319,
+   "cohort": "nondual",
+   "scaffold": "bax",
+   "floppy": "nbo",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 319
+  },
+  {
+   "id": 320,
+   "cohort": "nondual",
+   "scaffold": "bcj",
+   "floppy": "nbo",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 320
+  },
+  {
+   "id": 321,
+   "cohort": "nondual",
+   "scaffold": "nbo-a-e",
+   "floppy": "nbo",
+   "shift": [
+    0.25,
+    0.25,
+    0.25
+   ],
+   "screen_index": 321
+  },
+  {
+   "id": 322,
+   "cohort": "nondual",
+   "scaffold": "sst-e",
+   "floppy": "nbo",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 322
+  },
+  {
+   "id": 323,
+   "cohort": "nondual",
+   "scaffold": "nbo-h",
+   "floppy": "nbo",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "screen_index": 323
+  },
+  {
+   "id": 324,
+   "cohort": "nondual",
+   "scaffold": "bcu-l",
+   "floppy": "nbo",
+   "shift": [
+    0.25,
+    0.25,
+    0.25
+   ],
+   "screen_index": 324
+  },
+  {
+   "id": 325,
+   "cohort": "nondual",
+   "scaffold": "sod-e",
+   "floppy": "nbo",
+   "shift": [
+    0.25,
+    0.25,
+    0.25
+   ],
+   "screen_index": 325
+  },
+  {
+   "id": 326,
+   "cohort": "unbiased_dual",
+   "scaffold": "xaf",
+   "floppy": "xag",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "control_index": 0
+  },
+  {
+   "id": 327,
+   "cohort": "unbiased_nondual",
+   "scaffold": "sod-e",
+   "floppy": "xag",
+   "shift": null,
+   "control_index": 1
+  },
+  {
+   "id": 328,
+   "cohort": "unbiased_nondual",
+   "scaffold": "tam",
+   "floppy": "xag",
+   "shift": null,
+   "control_index": 2
+  },
+  {
+   "id": 329,
+   "cohort": "unbiased_nondual",
+   "scaffold": "dna",
+   "floppy": "xag",
+   "shift": null,
+   "control_index": 3
+  },
+  {
+   "id": 330,
+   "cohort": "unbiased_dual",
+   "scaffold": "thp",
+   "floppy": "ctn-x",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "control_index": 4
+  },
+  {
+   "id": 331,
+   "cohort": "unbiased_nondual",
+   "scaffold": "fnn",
+   "floppy": "ctn-x",
+   "shift": null,
+   "control_index": 5
+  },
+  {
+   "id": 332,
+   "cohort": "unbiased_nondual",
+   "scaffold": "thp-a",
+   "floppy": "ctn-x",
+   "shift": null,
+   "control_index": 6
+  },
+  {
+   "id": 333,
+   "cohort": "unbiased_nondual",
+   "scaffold": "ctn-d",
+   "floppy": "ctn-x",
+   "shift": null,
+   "control_index": 7
+  },
+  {
+   "id": 334,
+   "cohort": "unbiased_dual",
+   "scaffold": "qzd",
+   "floppy": "eta",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "control_index": 8
+  },
+  {
+   "id": 335,
+   "cohort": "unbiased_nondual",
+   "scaffold": "qtz-g",
+   "floppy": "eta",
+   "shift": null,
+   "control_index": 9
+  },
+  {
+   "id": 336,
+   "cohort": "unbiased_nondual",
+   "scaffold": "oso",
+   "floppy": "eta",
+   "shift": null,
+   "control_index": 10
+  },
+  {
+   "id": 337,
+   "cohort": "unbiased_nondual",
+   "scaffold": "sml",
+   "floppy": "eta",
+   "shift": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "control_index": 11
+  },
+  {
+   "id": 338,
+   "cohort": "unbiased_dual",
+   "scaffold": "mcd",
+   "floppy": "mcf",
+   "shift": null,
+   "control_index": 12
+  },
+  {
+   "id": 339,
+   "cohort": "unbiased_nondual",
+   "scaffold": "mog",
+   "floppy": "mcf",
+   "shift": null,
+   "control_index": 13
+  },
+  {
+   "id": 340,
+   "cohort": "unbiased_nondual",
+   "scaffold": "tfc-e",
+   "floppy": "mcf",
+   "shift": null,
+   "control_index": 14
+  },
+  {
+   "id": 341,
+   "cohort": "unbiased_nondual",
+   "scaffold": "svk",
+   "floppy": "mcf",
+   "shift": [
+    0.25,
+    0.25,
+    0.25
+   ],
+   "control_index": 15
+  },
+  {
+   "id": 342,
+   "cohort": "unbiased_dual",
+   "scaffold": "mot",
+   "floppy": "fsc",
+   "shift": null,
+   "control_index": 16
+  },
+  {
+   "id": 343,
+   "cohort": "unbiased_nondual",
+   "scaffold": "scu",
+   "floppy": "fsc",
+   "shift": null,
+   "control_index": 17
+  },
+  {
+   "id": 344,
+   "cohort": "unbiased_nondual",
+   "scaffold": "fte",
+   "floppy": "fsc",
+   "shift": null,
+   "control_index": 18
+  },
+  {
+   "id": 345,
+   "cohort": "unbiased_nondual",
+   "scaffold": "mot-e-a",
+   "floppy": "fsc",
+   "shift": null,
+   "control_index": 19
+  },
+  {
+   "id": 346,
+   "cohort": "unbiased_dual",
+   "scaffold": "qzd",
+   "floppy": "qtz",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "control_index": 20
+  },
+  {
+   "id": 347,
+   "cohort": "unbiased_nondual",
+   "scaffold": "uon",
+   "floppy": "qtz",
+   "shift": null,
+   "control_index": 21
+  },
+  {
+   "id": 348,
+   "cohort": "unbiased_nondual",
+   "scaffold": "uom",
+   "floppy": "qtz",
+   "shift": null,
+   "control_index": 22
+  },
+  {
+   "id": 349,
+   "cohort": "unbiased_nondual",
+   "scaffold": "oso",
+   "floppy": "qtz",
+   "shift": null,
+   "control_index": 23
+  },
+  {
+   "id": 350,
+   "cohort": "unbiased_dual",
+   "scaffold": "bct",
+   "floppy": "xbe",
+   "shift": [
+    0.0,
+    0.0,
+    0.375
+   ],
+   "control_index": 24
+  },
+  {
+   "id": 351,
+   "cohort": "unbiased_nondual",
+   "scaffold": "tee",
+   "floppy": "xbe",
+   "shift": null,
+   "control_index": 25
+  },
+  {
+   "id": 352,
+   "cohort": "unbiased_nondual",
+   "scaffold": "flt",
+   "floppy": "xbe",
+   "shift": null,
+   "control_index": 26
+  },
+  {
+   "id": 353,
+   "cohort": "unbiased_nondual",
+   "scaffold": "ylf",
+   "floppy": "xbe",
+   "shift": null,
+   "control_index": 27
+  },
+  {
+   "id": 354,
+   "cohort": "unbiased_dual",
+   "scaffold": "jsm",
+   "floppy": "uoc",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "control_index": 28
+  },
+  {
+   "id": 355,
+   "cohort": "unbiased_nondual",
+   "scaffold": "uob",
+   "floppy": "uoc",
+   "shift": null,
+   "control_index": 29
+  },
+  {
+   "id": 356,
+   "cohort": "unbiased_nondual",
+   "scaffold": "yan",
+   "floppy": "uoc",
+   "shift": [
+    0.0,
+    0.0,
+    0.25
+   ],
+   "control_index": 30
+  },
+  {
+   "id": 357,
+   "cohort": "unbiased_nondual",
+   "scaffold": "yfj",
+   "floppy": "uoc",
+   "shift": null,
+   "control_index": 31
+  },
+  {
+   "id": 358,
+   "cohort": "unbiased_dual",
+   "scaffold": "bet",
+   "floppy": "mep",
+   "shift": [
+    0.5,
+    0.5,
+    0.5
+   ],
+   "control_index": 32
+  },
+  {
+   "id": 359,
+   "cohort": "unbiased_nondual",
+   "scaffold": "pto",
+   "floppy": "mep",
+   "shift": null,
+   "control_index": 33
+  },
+  {
+   "id": 360,
+   "cohort": "unbiased_nondual",
+   "scaffold": "hbo",
+   "floppy": "mep",
+   "shift": null,
+   "control_index": 34
+  },
+  {
+   "id": 361,
+   "cohort": "unbiased_nondual",
+   "scaffold": "pop-a",
+   "floppy": "mep",
+   "shift": null,
+   "control_index": 35
+  },
+  {
+   "id": 362,
+   "cohort": "unbiased_dual",
+   "scaffold": "fcu",
+   "floppy": "flu",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "control_index": 36
+  },
+  {
+   "id": 363,
+   "cohort": "unbiased_nondual",
+   "scaffold": "xbk",
+   "floppy": "flu",
+   "shift": null,
+   "control_index": 37
+  },
+  {
+   "id": 364,
+   "cohort": "unbiased_nondual",
+   "scaffold": "gdl-a",
+   "floppy": "flu",
+   "shift": null,
+   "control_index": 38
+  },
+  {
+   "id": 365,
+   "cohort": "unbiased_nondual",
+   "scaffold": "dnc",
+   "floppy": "flu",
+   "shift": [
+    0.0,
+    0.0,
+    0.25
+   ],
+   "control_index": 39
+  },
+  {
+   "id": 366,
+   "cohort": "unbiased_dual",
+   "scaffold": "sve",
+   "floppy": "cai",
+   "shift": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "control_index": 40
+  },
+  {
+   "id": 367,
+   "cohort": "unbiased_nondual",
+   "scaffold": "tbr",
+   "floppy": "cai",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "control_index": 41
+  },
+  {
+   "id": 368,
+   "cohort": "unbiased_nondual",
+   "scaffold": "mhg",
+   "floppy": "cai",
+   "shift": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "control_index": 42
+  },
+  {
+   "id": 369,
+   "cohort": "unbiased_nondual",
+   "scaffold": "wxs-a",
+   "floppy": "cai",
+   "shift": null,
+   "control_index": 43
+  },
+  {
+   "id": 370,
+   "cohort": "unbiased_dual",
+   "scaffold": "bcu",
+   "floppy": "nbo",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "control_index": 44
+  },
+  {
+   "id": 371,
+   "cohort": "unbiased_nondual",
+   "scaffold": "sod-a-a-a",
+   "floppy": "nbo",
+   "shift": null,
+   "control_index": 45
+  },
+  {
+   "id": 372,
+   "cohort": "unbiased_nondual",
+   "scaffold": "oge",
+   "floppy": "nbo",
+   "shift": null,
+   "control_index": 46
+  },
+  {
+   "id": 373,
+   "cohort": "unbiased_nondual",
+   "scaffold": "baj",
+   "floppy": "nbo",
+   "shift": [
+    0.25,
+    0.25,
+    0.25
+   ],
+   "control_index": 47
+  },
+  {
+   "id": 374,
+   "cohort": "unbiased_dual",
+   "scaffold": "bcu-x",
+   "floppy": "nbo-a",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "control_index": 48
+  },
+  {
+   "id": 375,
+   "cohort": "unbiased_nondual",
+   "scaffold": "tam",
+   "floppy": "nbo-a",
+   "shift": null,
+   "control_index": 49
+  },
+  {
+   "id": 376,
+   "cohort": "unbiased_nondual",
+   "scaffold": "bcu",
+   "floppy": "nbo-a",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "control_index": 50
+  },
+  {
+   "id": 377,
+   "cohort": "unbiased_nondual",
+   "scaffold": "uro",
+   "floppy": "nbo-a",
+   "shift": null,
+   "control_index": 51
+  },
+  {
+   "id": 378,
+   "cohort": "unbiased_dual",
+   "scaffold": "cla-d",
+   "floppy": "cla",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "control_index": 52
+  },
+  {
+   "id": 379,
+   "cohort": "unbiased_nondual",
+   "scaffold": "smp",
+   "floppy": "cla",
+   "shift": [
+    0.0,
+    0.0,
+    0.375
+   ],
+   "control_index": 53
+  },
+  {
+   "id": 380,
+   "cohort": "unbiased_nondual",
+   "scaffold": "ncb",
+   "floppy": "cla",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "control_index": 54
+  },
+  {
+   "id": 381,
+   "cohort": "unbiased_nondual",
+   "scaffold": "hcz",
+   "floppy": "cla",
+   "shift": null,
+   "control_index": 55
+  },
+  {
+   "id": 382,
+   "cohort": "unbiased_dual",
+   "scaffold": "xbt",
+   "floppy": "tof",
+   "shift": [
+    0.5,
+    0.5,
+    0.5
+   ],
+   "control_index": 56
+  },
+  {
+   "id": 383,
+   "cohort": "unbiased_nondual",
+   "scaffold": "xab-a",
+   "floppy": "tof",
+   "shift": null,
+   "control_index": 57
+  },
+  {
+   "id": 384,
+   "cohort": "unbiased_nondual",
+   "scaffold": "uks",
+   "floppy": "tof",
+   "shift": null,
+   "control_index": 58
+  },
+  {
+   "id": 385,
+   "cohort": "unbiased_nondual",
+   "scaffold": "pbz-e",
+   "floppy": "tof",
+   "shift": null,
+   "control_index": 59
+  },
+  {
+   "id": 386,
+   "cohort": "unbiased_dual",
+   "scaffold": "xux",
+   "floppy": "fse",
+   "shift": null,
+   "control_index": 60
+  },
+  {
+   "id": 387,
+   "cohort": "unbiased_nondual",
+   "scaffold": "tfa-a",
+   "floppy": "fse",
+   "shift": null,
+   "control_index": 61
+  },
+  {
+   "id": 388,
+   "cohort": "unbiased_nondual",
+   "scaffold": "kga",
+   "floppy": "fse",
+   "shift": null,
+   "control_index": 62
+  },
+  {
+   "id": 389,
+   "cohort": "unbiased_nondual",
+   "scaffold": "xfx",
+   "floppy": "fse",
+   "shift": null,
+   "control_index": 63
+  },
+  {
+   "id": 390,
+   "cohort": "unbiased_dual",
+   "scaffold": "sxb",
+   "floppy": "nof",
+   "shift": [
+    0.0,
+    0.25,
+    0.125
+   ],
+   "control_index": 64
+  },
+  {
+   "id": 391,
+   "cohort": "unbiased_nondual",
+   "scaffold": "umc",
+   "floppy": "nof",
+   "shift": null,
+   "control_index": 65
+  },
+  {
+   "id": 392,
+   "cohort": "unbiased_nondual",
+   "scaffold": "ptt",
+   "floppy": "nof",
+   "shift": null,
+   "control_index": 66
+  },
+  {
+   "id": 393,
+   "cohort": "unbiased_nondual",
+   "scaffold": "vbm",
+   "floppy": "nof",
+   "shift": [
+    0.0,
+    0.5,
+    0.5
+   ],
+   "control_index": 67
+  },
+  {
+   "id": 394,
+   "cohort": "unbiased_dual",
+   "scaffold": "pcu",
+   "floppy": "urk",
+   "shift": [
+    0.25,
+    0.25,
+    0.25
+   ],
+   "control_index": 68
+  },
+  {
+   "id": 395,
+   "cohort": "unbiased_nondual",
+   "scaffold": "ftr",
+   "floppy": "urk",
+   "shift": [
+    0.25,
+    0.25,
+    0.25
+   ],
+   "control_index": 69
+  },
+  {
+   "id": 396,
+   "cohort": "unbiased_nondual",
+   "scaffold": "epq",
+   "floppy": "urk",
+   "shift": null,
+   "control_index": 70
+  },
+  {
+   "id": 397,
+   "cohort": "unbiased_nondual",
+   "scaffold": "cab",
+   "floppy": "urk",
+   "shift": [
+    0.25,
+    0.25,
+    0.25
+   ],
+   "control_index": 71
+  },
+  {
+   "id": 398,
+   "cohort": "unbiased_dual",
+   "scaffold": "zra",
+   "floppy": "zra-d",
+   "shift": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "control_index": 72
+  },
+  {
+   "id": 399,
+   "cohort": "unbiased_nondual",
+   "scaffold": "doh",
+   "floppy": "zra-d",
+   "shift": null,
+   "control_index": 73
+  },
+  {
+   "id": 400,
+   "cohort": "unbiased_nondual",
+   "scaffold": "ury-a",
+   "floppy": "zra-d",
+   "shift": null,
+   "control_index": 74
+  },
+  {
+   "id": 401,
+   "cohort": "unbiased_nondual",
+   "scaffold": "cee-a",
+   "floppy": "zra-d",
+   "shift": null,
+   "control_index": 75
+  },
+  {
+   "id": 402,
+   "cohort": "unbiased_dual",
+   "scaffold": "gan",
+   "floppy": "vab",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "control_index": 76
+  },
+  {
+   "id": 403,
+   "cohort": "unbiased_nondual",
+   "scaffold": "fcy",
+   "floppy": "vab",
+   "shift": null,
+   "control_index": 77
+  },
+  {
+   "id": 404,
+   "cohort": "unbiased_nondual",
+   "scaffold": "ibd-a",
+   "floppy": "vab",
+   "shift": null,
+   "control_index": 78
+  },
+  {
+   "id": 405,
+   "cohort": "unbiased_nondual",
+   "scaffold": "jsb",
+   "floppy": "vab",
+   "shift": null,
+   "control_index": 79
+  },
+  {
+   "id": 406,
+   "cohort": "unbiased_dual",
+   "scaffold": "ild",
+   "floppy": "epv",
+   "shift": [
+    0.0,
+    0.25,
+    0.0
+   ],
+   "control_index": 80
+  },
+  {
+   "id": 407,
+   "cohort": "unbiased_nondual",
+   "scaffold": "cfe",
+   "floppy": "epv",
+   "shift": null,
+   "control_index": 81
+  },
+  {
+   "id": 408,
+   "cohort": "unbiased_nondual",
+   "scaffold": "nlr",
+   "floppy": "epv",
+   "shift": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "control_index": 82
+  },
+  {
+   "id": 409,
+   "cohort": "unbiased_nondual",
+   "scaffold": "ato-e",
+   "floppy": "epv",
+   "shift": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "control_index": 83
+  },
+  {
+   "id": 410,
+   "cohort": "unbiased_dual",
+   "scaffold": "ntv",
+   "floppy": "xbk",
+   "shift": null,
+   "control_index": 84
+  },
+  {
+   "id": 411,
+   "cohort": "unbiased_nondual",
+   "scaffold": "xbv",
+   "floppy": "xbk",
+   "shift": null,
+   "control_index": 85
+  },
+  {
+   "id": 412,
+   "cohort": "unbiased_nondual",
+   "scaffold": "urm",
+   "floppy": "xbk",
+   "shift": null,
+   "control_index": 86
+  },
+  {
+   "id": 413,
+   "cohort": "unbiased_nondual",
+   "scaffold": "kpc",
+   "floppy": "xbk",
+   "shift": [
+    0.125,
+    0.125,
+    0.125
+   ],
+   "control_index": 87
+  },
+  {
+   "id": 414,
+   "cohort": "unbiased_dual",
+   "scaffold": "xag",
+   "floppy": "xaf",
+   "shift": null,
+   "control_index": 88
+  },
+  {
+   "id": 415,
+   "cohort": "unbiased_nondual",
+   "scaffold": "nbo",
+   "floppy": "xaf",
+   "shift": null,
+   "control_index": 89
+  },
+  {
+   "id": 416,
+   "cohort": "unbiased_nondual",
+   "scaffold": "urv",
+   "floppy": "xaf",
+   "shift": null,
+   "control_index": 90
+  },
+  {
+   "id": 417,
+   "cohort": "unbiased_nondual",
+   "scaffold": "bax",
+   "floppy": "xaf",
+   "shift": null,
+   "control_index": 91
+  },
+  {
+   "id": 418,
+   "cohort": "unbiased_dual",
+   "scaffold": "svn",
+   "floppy": "svn-d",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "control_index": 92
+  },
+  {
+   "id": 419,
+   "cohort": "unbiased_nondual",
+   "scaffold": "nas",
+   "floppy": "svn-d",
+   "shift": [
+    0.0,
+    0.5,
+    0.375
+   ],
+   "control_index": 93
+  },
+  {
+   "id": 420,
+   "cohort": "unbiased_nondual",
+   "scaffold": "fsn",
+   "floppy": "svn-d",
+   "shift": null,
+   "control_index": 94
+  },
+  {
+   "id": 421,
+   "cohort": "unbiased_nondual",
+   "scaffold": "pyr-a",
+   "floppy": "svn-d",
+   "shift": null,
+   "control_index": 95
+  },
+  {
+   "id": 422,
+   "cohort": "unbiased_dual",
+   "scaffold": "bsn",
+   "floppy": "lig",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "control_index": 96
+  },
+  {
+   "id": 423,
+   "cohort": "unbiased_nondual",
+   "scaffold": "sgt",
+   "floppy": "lig",
+   "shift": null,
+   "control_index": 97
+  },
+  {
+   "id": 424,
+   "cohort": "unbiased_nondual",
+   "scaffold": "uos",
+   "floppy": "lig",
+   "shift": null,
+   "control_index": 98
+  },
+  {
+   "id": 425,
+   "cohort": "unbiased_nondual",
+   "scaffold": "ngc",
+   "floppy": "lig",
+   "shift": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "control_index": 99
+  },
+  {
+   "id": 426,
+   "cohort": "unbiased_dual",
+   "scaffold": "gan",
+   "floppy": "lcs",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "control_index": 100
+  },
+  {
+   "id": 427,
+   "cohort": "unbiased_nondual",
+   "scaffold": "ibd",
+   "floppy": "lcs",
+   "shift": null,
+   "control_index": 101
+  },
+  {
+   "id": 428,
+   "cohort": "unbiased_nondual",
+   "scaffold": "pbg",
+   "floppy": "lcs",
+   "shift": null,
+   "control_index": 102
+  },
+  {
+   "id": 429,
+   "cohort": "unbiased_nondual",
+   "scaffold": "iac-d",
+   "floppy": "lcs",
+   "shift": null,
+   "control_index": 103
+  },
+  {
+   "id": 430,
+   "cohort": "unbiased_dual",
+   "scaffold": "tsl",
+   "floppy": "sgt",
+   "shift": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "control_index": 104
+  },
+  {
+   "id": 431,
+   "cohort": "unbiased_nondual",
+   "scaffold": "fur",
+   "floppy": "sgt",
+   "shift": null,
+   "control_index": 105
+  },
+  {
+   "id": 432,
+   "cohort": "unbiased_nondual",
+   "scaffold": "lvt-a",
+   "floppy": "sgt",
+   "shift": null,
+   "control_index": 106
+  },
+  {
+   "id": 433,
+   "cohort": "unbiased_nondual",
+   "scaffold": "snw",
+   "floppy": "sgt",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "control_index": 107
+  },
+  {
+   "id": 434,
+   "cohort": "unbiased_dual",
+   "scaffold": "hex",
+   "floppy": "bnn",
+   "shift": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "control_index": 108
+  },
+  {
+   "id": 435,
+   "cohort": "unbiased_nondual",
+   "scaffold": "alc-a",
+   "floppy": "bnn",
+   "shift": null,
+   "control_index": 109
+  },
+  {
+   "id": 436,
+   "cohort": "unbiased_nondual",
+   "scaffold": "cel-a",
+   "floppy": "bnn",
+   "shift": null,
+   "control_index": 110
+  },
+  {
+   "id": 437,
+   "cohort": "unbiased_nondual",
+   "scaffold": "ltl",
+   "floppy": "bnn",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "control_index": 111
+  },
+  {
+   "id": 438,
+   "cohort": "unbiased_dual",
+   "scaffold": "tsi",
+   "floppy": "xbj",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "control_index": 112
+  },
+  {
+   "id": 439,
+   "cohort": "unbiased_nondual",
+   "scaffold": "svr",
+   "floppy": "xbj",
+   "shift": [
+    0.25,
+    0.25,
+    0.125
+   ],
+   "control_index": 113
+  },
+  {
+   "id": 440,
+   "cohort": "unbiased_nondual",
+   "scaffold": "ftc",
+   "floppy": "xbj",
+   "shift": null,
+   "control_index": 114
+  },
+  {
+   "id": 441,
+   "cohort": "unbiased_nondual",
+   "scaffold": "svh",
+   "floppy": "xbj",
+   "shift": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "control_index": 115
+  },
+  {
+   "id": 442,
+   "cohort": "unbiased_dual",
+   "scaffold": "xbr",
+   "floppy": "spn",
+   "shift": [
+    0.0,
+    0.125,
+    0.25
+   ],
+   "control_index": 116
+  },
+  {
+   "id": 443,
+   "cohort": "unbiased_nondual",
+   "scaffold": "ydq-a",
+   "floppy": "spn",
+   "shift": null,
+   "control_index": 117
+  },
+  {
+   "id": 444,
+   "cohort": "unbiased_nondual",
+   "scaffold": "dia",
+   "floppy": "spn",
+   "shift": null,
+   "control_index": 118
+  },
+  {
+   "id": 445,
+   "cohort": "unbiased_nondual",
+   "scaffold": "fnf",
+   "floppy": "spn",
+   "shift": null,
+   "control_index": 119
+  },
+  {
+   "id": 446,
+   "cohort": "unbiased_dual",
+   "scaffold": "eca",
+   "floppy": "xbd",
+   "shift": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "control_index": 120
+  },
+  {
+   "id": 447,
+   "cohort": "unbiased_nondual",
+   "scaffold": "cfc-e-a",
+   "floppy": "xbd",
+   "shift": null,
+   "control_index": 121
+  },
+  {
+   "id": 448,
+   "cohort": "unbiased_nondual",
+   "scaffold": "kex-a",
+   "floppy": "xbd",
+   "shift": null,
+   "control_index": 122
+  },
+  {
+   "id": 449,
+   "cohort": "unbiased_nondual",
+   "scaffold": "lon",
+   "floppy": "xbd",
+   "shift": null,
+   "control_index": 123
+  },
+  {
+   "id": 450,
+   "cohort": "unbiased_dual",
+   "scaffold": "xbs",
+   "floppy": "bod",
+   "shift": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "control_index": 124
+  },
+  {
+   "id": 451,
+   "cohort": "unbiased_nondual",
+   "scaffold": "fud",
+   "floppy": "bod",
+   "shift": null,
+   "control_index": 125
+  },
+  {
+   "id": 452,
+   "cohort": "unbiased_nondual",
+   "scaffold": "bor",
+   "floppy": "bod",
+   "shift": null,
+   "control_index": 126
+  },
+  {
+   "id": 453,
+   "cohort": "unbiased_nondual",
+   "scaffold": "ftl",
+   "floppy": "bod",
+   "shift": null,
+   "control_index": 127
+  }
+ ]
+}

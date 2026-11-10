@@ -1,0 +1,331 @@
+{
+ "all": {
+  "n": 1000,
+  "outcomes_present": 1000,
+  "completed": 1000,
+  "prediction_errors": 0,
+  "outcome_errors": 0,
+  "qualified": 68,
+  "rigid": 168,
+  "flat": 9,
+  "designated_qualified": 5,
+  "hit": 5,
+  "false_designation": 0,
+  "confusion": {
+   "predicted_flat__flat": 5,
+   "predicted_flat__nonflat": 0,
+   "abstain__flat": 4,
+   "abstain__nonflat": 59
+  },
+  "coverage": 0.5555555555555556,
+  "coverage_wilson95": [
+   0.26665129349549305,
+   0.8112214789023355
+  ],
+  "false_designation_upper95_one_sided": 0.45071972834694096,
+  "false_designation_upper95_two_sided": 0.5218237501049814,
+  "nonflat_denominator": 59,
+  "false_positive_rate_upper95_one_sided": 0.049507609888226924,
+  "routes": [
+   {
+    "route": "L",
+    "designated_all": 49,
+    "designated_qualified": 5,
+    "hit": 5,
+    "false_designation": 0,
+    "outside_qualification": 44,
+    "false_designation_upper95_one_sided": 0.45071972834694096
+   },
+   {
+    "route": "U",
+    "designated_all": 1,
+    "designated_qualified": 0,
+    "hit": 0,
+    "false_designation": 0,
+    "outside_qualification": 1,
+    "false_designation_upper95_one_sided": null
+   },
+   {
+    "route": "C",
+    "designated_all": 2,
+    "designated_qualified": 0,
+    "hit": 0,
+    "false_designation": 0,
+    "outside_qualification": 2,
+    "false_designation_upper95_one_sided": null
+   },
+   {
+    "route": "mixed_L_P2",
+    "designated_all": 0,
+    "designated_qualified": 0,
+    "hit": 0,
+    "false_designation": 0,
+    "outside_qualification": 0,
+    "false_designation_upper95_one_sided": null
+   }
+  ],
+  "abstained_flat": [
+   {
+    "id": 126,
+    "scaffold": "ttr",
+    "floppy": "omy",
+    "stratum": "cubic"
+   },
+   {
+    "id": 335,
+    "scaffold": "tca",
+    "floppy": "hyb",
+    "stratum": "hexagonal"
+   },
+   {
+    "id": 384,
+    "scaffold": "sta",
+    "floppy": "smv",
+    "stratum": "hexagonal"
+   },
+   {
+    "id": 887,
+    "scaffold": "wfm",
+    "floppy": "wih",
+    "stratum": "tetragonal"
+   }
+  ]
+ },
+ "by_stratum": {
+  "cubic": {
+   "n": 334,
+   "outcomes_present": 334,
+   "completed": 334,
+   "prediction_errors": 0,
+   "outcome_errors": 0,
+   "qualified": 19,
+   "rigid": 46,
+   "flat": 3,
+   "designated_qualified": 2,
+   "hit": 2,
+   "false_designation": 0,
+   "confusion": {
+    "predicted_flat__flat": 2,
+    "predicted_flat__nonflat": 0,
+    "abstain__flat": 1,
+    "abstain__nonflat": 16
+   },
+   "coverage": 0.6666666666666666,
+   "coverage_wilson95": [
+    0.2076596008020477,
+    0.9385080552796037
+   ],
+   "false_designation_upper95_one_sided": 0.776393202250021,
+   "false_designation_upper95_two_sided": 0.841886116991581,
+   "nonflat_denominator": 16,
+   "false_positive_rate_upper95_one_sided": 0.17074972298248087,
+   "routes": [
+    {
+     "route": "L",
+     "designated_all": 17,
+     "designated_qualified": 2,
+     "hit": 2,
+     "false_designation": 0,
+     "outside_qualification": 15,
+     "false_designation_upper95_one_sided": 0.776393202250021
+    },
+    {
+     "route": "U",
+     "designated_all": 0,
+     "designated_qualified": 0,
+     "hit": 0,
+     "false_designation": 0,
+     "outside_qualification": 0,
+     "false_designation_upper95_one_sided": null
+    },
+    {
+     "route": "C",
+     "designated_all": 2,
+     "designated_qualified": 0,
+     "hit": 0,
+     "false_designation": 0,
+     "outside_qualification": 2,
+     "false_designation_upper95_one_sided": null
+    },
+    {
+     "route": "mixed_L_P2",
+     "designated_all": 0,
+     "designated_qualified": 0,
+     "hit": 0,
+     "false_designation": 0,
+     "outside_qualification": 0,
+     "false_designation_upper95_one_sided": null
+    }
+   ],
+   "abstained_flat": [
+    {
+     "id": 126,
+     "scaffold": "ttr",
+     "floppy": "omy",
+     "stratum": "cubic"
+    }
+   ]
+  },
+  "hexagonal": {
+   "n": 333,
+   "outcomes_present": 333,
+   "completed": 333,
+   "prediction_errors": 0,
+   "outcome_errors": 0,
+   "qualified": 21,
+   "rigid": 52,
+   "flat": 3,
+   "designated_qualified": 1,
+   "hit": 1,
+   "false_designation": 0,
+   "confusion": {
+    "predicted_flat__flat": 1,
+    "predicted_flat__nonflat": 0,
+    "abstain__flat": 2,
+    "abstain__nonflat": 18
+   },
+   "coverage": 0.3333333333333333,
+   "coverage_wilson95": [
+    0.06149194472039621,
+    0.7923403991979522
+   ],
+   "false_designation_upper95_one_sided": 0.95,
+   "false_designation_upper95_two_sided": 0.975,
+   "nonflat_denominator": 18,
+   "false_positive_rate_upper95_one_sided": 0.15331755395727817,
+   "routes": [
+    {
+     "route": "L",
+     "designated_all": 21,
+     "designated_qualified": 1,
+     "hit": 1,
+     "false_designation": 0,
+     "outside_qualification": 20,
+     "false_designation_upper95_one_sided": 0.95
+    },
+    {
+     "route": "U",
+     "designated_all": 1,
+     "designated_qualified": 0,
+     "hit": 0,
+     "false_designation": 0,
+     "outside_qualification": 1,
+     "false_designation_upper95_one_sided": null
+    },
+    {
+     "route": "C",
+     "designated_all": 0,
+     "designated_qualified": 0,
+     "hit": 0,
+     "false_designation": 0,
+     "outside_qualification": 0,
+     "false_designation_upper95_one_sided": null
+    },
+    {
+     "route": "mixed_L_P2",
+     "designated_all": 0,
+     "designated_qualified": 0,
+     "hit": 0,
+     "false_designation": 0,
+     "outside_qualification": 0,
+     "false_designation_upper95_one_sided": null
+    }
+   ],
+   "abstained_flat": [
+    {
+     "id": 335,
+     "scaffold": "tca",
+     "floppy": "hyb",
+     "stratum": "hexagonal"
+    },
+    {
+     "id": 384,
+     "scaffold": "sta",
+     "floppy": "smv",
+     "stratum": "hexagonal"
+    }
+   ]
+  },
+  "tetragonal": {
+   "n": 333,
+   "outcomes_present": 333,
+   "completed": 333,
+   "prediction_errors": 0,
+   "outcome_errors": 0,
+   "qualified": 28,
+   "rigid": 70,
+   "flat": 3,
+   "designated_qualified": 2,
+   "hit": 2,
+   "false_designation": 0,
+   "confusion": {
+    "predicted_flat__flat": 2,
+    "predicted_flat__nonflat": 0,
+    "abstain__flat": 1,
+    "abstain__nonflat": 25
+   },
+   "coverage": 0.6666666666666666,
+   "coverage_wilson95": [
+    0.2076596008020477,
+    0.9385080552796037
+   ],
+   "false_designation_upper95_one_sided": 0.776393202250021,
+   "false_designation_upper95_two_sided": 0.841886116991581,
+   "nonflat_denominator": 25,
+   "false_positive_rate_upper95_one_sided": 0.11292814500684321,
+   "routes": [
+    {
+     "route": "L",
+     "designated_all": 11,
+     "designated_qualified": 2,
+     "hit": 2,
+     "false_designation": 0,
+     "outside_qualification": 9,
+     "false_designation_upper95_one_sided": 0.776393202250021
+    },
+    {
+     "route": "U",
+     "designated_all": 0,
+     "designated_qualified": 0,
+     "hit": 0,
+     "false_designation": 0,
+     "outside_qualification": 0,
+     "false_designation_upper95_one_sided": null
+    },
+    {
+     "route": "C",
+     "designated_all": 0,
+     "designated_qualified": 0,
+     "hit": 0,
+     "false_designation": 0,
+     "outside_qualification": 0,
+     "false_designation_upper95_one_sided": null
+    },
+    {
+     "route": "mixed_L_P2",
+     "designated_all": 0,
+     "designated_qualified": 0,
+     "hit": 0,
+     "false_designation": 0,
+     "outside_qualification": 0,
+     "false_designation_upper95_one_sided": null
+    }
+   ],
+   "abstained_flat": [
+    {
+     "id": 887,
+     "scaffold": "wfm",
+     "floppy": "wih",
+     "stratum": "tetragonal"
+    }
+   ]
+  }
+ },
+ "interval_caution": "Pair-level Wilson and Clopper-Pearson binomial intervals; shared nets are dependent. Describes this equally allocated crystal-system sample, not the uniform first test or a universal population.",
+ "integrity": {
+  "unique_unordered_pairs": 1000,
+  "no_prior_overlap": true,
+  "no_listed_duals": true,
+  "roles_preserved": true
+ }
+}

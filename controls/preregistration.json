@@ -1,0 +1,893 @@
+{
+ "seed": 20261111,
+ "population": {
+  "gra": [
+   "acs",
+   "etc",
+   "lon"
+  ],
+  "alb-x-d": [
+   "alb-x"
+  ],
+  "ast": [
+   "ast-d"
+  ],
+  "xbe": [
+   "bct"
+  ],
+  "nbo": [
+   "bcu"
+  ],
+  "nbo-a": [
+   "bcu-x"
+  ],
+  "sod": [
+   "bcu-x"
+  ],
+  "bcu-x-a": [
+   "xag"
+  ],
+  "xag": [
+   "bcu-x-a",
+   "xaf"
+  ],
+  "mep": [
+   "bet"
+  ],
+  "bnn": [
+   "hex"
+  ],
+  "bod": [
+   "xbs"
+  ],
+  "bor": [
+   "xbs"
+  ],
+  "dia-f": [
+   "bsn"
+  ],
+  "lig": [
+   "bsn"
+  ],
+  "lvt": [
+   "bsn"
+  ],
+  "bto": [
+   "qzd"
+  ],
+  "qzd": [
+   "bto",
+   "eta",
+   "qtz",
+   "qtz-h",
+   "uog"
+  ],
+  "cab": [
+   "reo-d"
+  ],
+  "cai": [
+   "sve"
+  ],
+  "cal-d": [
+   "cal"
+  ],
+  "doh": [
+   "ccu"
+  ],
+  "cla": [
+   "cla-d"
+  ],
+  "cnw": [
+   "fsm"
+  ],
+  "fsm": [
+   "cnw"
+  ],
+  "ctn-x": [
+   "thp"
+  ],
+  "jph": [
+   "ddi"
+  ],
+  "deh": [
+   "deh-d"
+  ],
+  "gis": [
+   "deh-d"
+  ],
+  "dmp": [
+   "utp"
+  ],
+  "utp": [
+   "dmp"
+  ],
+  "xbd": [
+   "eca"
+  ],
+  "epv": [
+   "ild"
+  ],
+  "eta": [
+   "qzd"
+  ],
+  "etc": [
+   "gra"
+  ],
+  "etd": [
+   "unj"
+  ],
+  "unj": [
+   "etd"
+  ],
+  "flu": [
+   "fcu"
+  ],
+  "fsc": [
+   "mot"
+  ],
+  "mot": [
+   "fsc"
+  ],
+  "fse": [
+   "xux"
+  ],
+  "xux": [
+   "fse"
+  ],
+  "gan": [
+   "lcs",
+   "vab"
+  ],
+  "lcs": [
+   "gan"
+  ],
+  "vab": [
+   "gan"
+  ],
+  "lon": [
+   "gra"
+  ],
+  "hcp-d": [
+   "hcp"
+  ],
+  "uoc": [
+   "jsm"
+  ],
+  "mcd": [
+   "mcf"
+  ],
+  "mcf": [
+   "mcd",
+   "mcf-d"
+  ],
+  "mcf-d": [
+   "mcf"
+  ],
+  "mtn": [
+   "mgc-x"
+  ],
+  "mgz-x-d": [
+   "mgz-x"
+  ],
+  "nas-d": [
+   "nas"
+  ],
+  "nba": [
+   "reo-d"
+  ],
+  "nod": [
+   "sxb"
+  ],
+  "nof": [
+   "sxb"
+  ],
+  "ntv": [
+   "xbk"
+  ],
+  "xbk": [
+   "ntv"
+  ],
+  "odf": [
+   "odf-d"
+  ],
+  "urk": [
+   "pcu"
+  ],
+  "qtz": [
+   "qzd"
+  ],
+  "qtz-h": [
+   "qzd"
+  ],
+  "uom": [
+   "qtz-x"
+  ],
+  "uog": [
+   "qzd"
+  ],
+  "sgt": [
+   "tsl"
+  ],
+  "she": [
+   "she-d"
+  ],
+  "spn": [
+   "xbr"
+  ],
+  "svn-d": [
+   "svn"
+  ],
+  "tof": [
+   "xbt"
+  ],
+  "xbj": [
+   "tsi"
+  ],
+  "ttt": [
+   "xbp"
+  ],
+  "uni": [
+   "uni-d"
+  ],
+  "uni-d": [
+   "uni"
+  ],
+  "xaa": [
+   "wzz"
+  ],
+  "xaf": [
+   "xag"
+  ],
+  "xbz": [
+   "xbp"
+  ],
+  "zra-d": [
+   "zra"
+  ]
+ },
+ "population_nets": 78,
+ "sample_floppy_nets": 32,
+ "sampling": "Uniform without replacement over distinct nu>0 nets with a listed same-group dual. One uniform dual and three uniform same-group nondual names per selected net. No flatness or rigidity selection; no size cap.",
+ "rows": [
+  {
+   "floppy": "xag",
+   "scaffold": "xaf",
+   "kind": "dual"
+  },
+  {
+   "floppy": "xag",
+   "scaffold": "sod-e",
+   "kind": "nondual"
+  },
+  {
+   "floppy": "xag",
+   "scaffold": "tam",
+   "kind": "nondual"
+  },
+  {
+   "floppy": "xag",
+   "scaffold": "dna",
+   "kind": "nondual"
+  },
+  {
+   "floppy": "ctn-x",
+   "scaffold": "thp",
+   "kind": "dual"
+  },
+  {
+   "floppy": "ctn-x",
+   "scaffold": "fnn",
+   "kind": "nondual"
+  },
+  {
+   "floppy": "ctn-x",
+   "scaffold": "thp-a",
+   "kind": "nondual"
+  },
+  {
+   "floppy": "ctn-x",
+   "scaffold": "ctn-d",
+   "kind": "nondual"
+  },
+  {
+   "floppy": "eta",
+   "scaffold": "qzd",
+   "kind": "dual"
+  },
+  {
+   "floppy": "eta",
+   "scaffold": "qtz-g",
+   "kind": "nondual"
+  },
+  {
+   "floppy": "eta",
+   "scaffold": "oso",
+   "kind": "nondual"
+  },
+  {
+   "floppy": "eta",
+   "scaffold": "sml",
+   "kind": "nondual"
+  },
+  {
+   "floppy": "mcf",
+   "scaffold": "mcd",
+   "kind": "dual"
+  },
+  {
+   "floppy": "mcf",
+   "scaffold": "mog",
+   "kind": "nondual"
+  },
+  {
+   "floppy": "mcf",
+   "scaffold": "tfc-e",
+   "kind": "nondual"
+  },
+  {
+   "floppy": "mcf",
+   "scaffold": "svk",
+   "kind": "nondual"
+  },
+  {
+   "floppy": "fsc",
+   "scaffold": "mot",
+   "kind": "dual"
+  },
+  {
+   "floppy": "fsc",
+   "scaffold": "scu",
+   "kind": "nondual"
+  },
+  {
+   "floppy": "fsc",
+   "scaffold": "fte",
+   "kind": "nondual"
+  },
+  {
+   "floppy": "fsc",
+   "scaffold": "mot-e-a",
+   "kind": "nondual"
+  },
+  {
+   "floppy": "qtz",
+   "scaffold": "qzd",
+   "kind": "dual"
+  },
+  {
+   "floppy": "qtz",
+   "scaffold": "uon",
+   "kind": "nondual"
+  },
+  {
+   "floppy": "qtz",
+   "scaffold": "uom",
+   "kind": "nondual"
+  },
+  {
+   "floppy": "qtz",
+   "scaffold": "oso",
+   "kind": "nondual"
+  },
+  {
+   "floppy": "xbe",
+   "scaffold": "bct",
+   "kind": "dual"
+  },
+  {
+   "floppy": "xbe",
+   "scaffold": "tee",
+   "kind": "nondual"
+  },
+  {
+   "floppy": "xbe",
+   "scaffold": "flt",
+   "kind": "nondual"
+  },
+  {
+   "floppy": "xbe",
+   "scaffold": "ylf",
+   "kind": "nondual"
+  },
+  {
+   "floppy": "uoc",
+   "scaffold": "jsm",
+   "kind": "dual"
+  },
+  {
+   "floppy": "uoc",
+   "scaffold": "uob",
+   "kind": "nondual"
+  },
+  {
+   "floppy": "uoc",
+   "scaffold": "yan",
+   "kind": "nondual"
+  },
+  {
+   "floppy": "uoc",
+   "scaffold": "yfj",
+   "kind": "nondual"
+  },
+  {
+   "floppy": "mep",
+   "scaffold": "bet",
+   "kind": "dual"
+  },
+  {
+   "floppy": "mep",
+   "scaffold": "pto",
+   "kind": "nondual"
+  },
+  {
+   "floppy": "mep",
+   "scaffold": "hbo",
+   "kind": "nondual"
+  },
+  {
+   "floppy": "mep",
+   "scaffold": "pop-a",
+   "kind": "nondual"
+  },
+  {
+   "floppy": "flu",
+   "scaffold": "fcu",
+   "kind": "dual"
+  },
+  {
+   "floppy": "flu",
+   "scaffold": "xbk",
+   "kind": "nondual"
+  },
+  {
+   "floppy": "flu",
+   "scaffold": "gdl-a",
+   "kind": "nondual"
+  },
+  {
+   "floppy": "flu",
+   "scaffold": "dnc",
+   "kind": "nondual"
+  },
+  {
+   "floppy": "cai",
+   "scaffold": "sve",
+   "kind": "dual"
+  },
+  {
+   "floppy": "cai",
+   "scaffold": "tbr",
+   "kind": "nondual"
+  },
+  {
+   "floppy": "cai",
+   "scaffold": "mhg",
+   "kind": "nondual"
+  },
+  {
+   "floppy": "cai",
+   "scaffold": "wxs-a",
+   "kind": "nondual"
+  },
+  {
+   "floppy": "nbo",
+   "scaffold": "bcu",
+   "kind": "dual"
+  },
+  {
+   "floppy": "nbo",
+   "scaffold": "sod-a-a-a",
+   "kind": "nondual"
+  },
+  {
+   "floppy": "nbo",
+   "scaffold": "oge",
+   "kind": "nondual"
+  },
+  {
+   "floppy": "nbo",
+   "scaffold": "baj",
+   "kind": "nondual"
+  },
+  {
+   "floppy": "nbo-a",
+   "scaffold": "bcu-x",
+   "kind": "dual"
+  },
+  {
+   "floppy": "nbo-a",
+   "scaffold": "tam",
+   "kind": "nondual"
+  },
+  {
+   "floppy": "nbo-a",
+   "scaffold": "bcu",
+   "kind": "nondual"
+  },
+  {
+   "floppy": "nbo-a",
+   "scaffold": "uro",
+   "kind": "nondual"
+  },
+  {
+   "floppy": "cla",
+   "scaffold": "cla-d",
+   "kind": "dual"
+  },
+  {
+   "floppy": "cla",
+   "scaffold": "smp",
+   "kind": "nondual"
+  },
+  {
+   "floppy": "cla",
+   "scaffold": "ncb",
+   "kind": "nondual"
+  },
+  {
+   "floppy": "cla",
+   "scaffold": "hcz",
+   "kind": "nondual"
+  },
+  {
+   "floppy": "tof",
+   "scaffold": "xbt",
+   "kind": "dual"
+  },
+  {
+   "floppy": "tof",
+   "scaffold": "xab-a",
+   "kind": "nondual"
+  },
+  {
+   "floppy": "tof",
+   "scaffold": "uks",
+   "kind": "nondual"
+  },
+  {
+   "floppy": "tof",
+   "scaffold": "pbz-e",
+   "kind": "nondual"
+  },
+  {
+   "floppy": "fse",
+   "scaffold": "xux",
+   "kind": "dual"
+  },
+  {
+   "floppy": "fse",
+   "scaffold": "tfa-a",
+   "kind": "nondual"
+  },
+  {
+   "floppy": "fse",
+   "scaffold": "kga",
+   "kind": "nondual"
+  },
+  {
+   "floppy": "fse",
+   "scaffold": "xfx",
+   "kind": "nondual"
+  },
+  {
+   "floppy": "nof",
+   "scaffold": "sxb",
+   "kind": "dual"
+  },
+  {
+   "floppy": "nof",
+   "scaffold": "umc",
+   "kind": "nondual"
+  },
+  {
+   "floppy": "nof",
+   "scaffold": "ptt",
+   "kind": "nondual"
+  },
+  {
+   "floppy": "nof",
+   "scaffold": "vbm",
+   "kind": "nondual"
+  },
+  {
+   "floppy": "urk",
+   "scaffold": "pcu",
+   "kind": "dual"
+  },
+  {
+   "floppy": "urk",
+   "scaffold": "ftr",
+   "kind": "nondual"
+  },
+  {
+   "floppy": "urk",
+   "scaffold": "epq",
+   "kind": "nondual"
+  },
+  {
+   "floppy": "urk",
+   "scaffold": "cab",
+   "kind": "nondual"
+  },
+  {
+   "floppy": "zra-d",
+   "scaffold": "zra",
+   "kind": "dual"
+  },
+  {
+   "floppy": "zra-d",
+   "scaffold": "doh",
+   "kind": "nondual"
+  },
+  {
+   "floppy": "zra-d",
+   "scaffold": "ury-a",
+   "kind": "nondual"
+  },
+  {
+   "floppy": "zra-d",
+   "scaffold": "cee-a",
+   "kind": "nondual"
+  },
+  {
+   "floppy": "vab",
+   "scaffold": "gan",
+   "kind": "dual"
+  },
+  {
+   "floppy": "vab",
+   "scaffold": "fcy",
+   "kind": "nondual"
+  },
+  {
+   "floppy": "vab",
+   "scaffold": "ibd-a",
+   "kind": "nondual"
+  },
+  {
+   "floppy": "vab",
+   "scaffold": "jsb",
+   "kind": "nondual"
+  },
+  {
+   "floppy": "epv",
+   "scaffold": "ild",
+   "kind": "dual"
+  },
+  {
+   "floppy": "epv",
+   "scaffold": "cfe",
+   "kind": "nondual"
+  },
+  {
+   "floppy": "epv",
+   "scaffold": "nlr",
+   "kind": "nondual"
+  },
+  {
+   "floppy": "epv",
+   "scaffold": "ato-e",
+   "kind": "nondual"
+  },
+  {
+   "floppy": "xbk",
+   "scaffold": "ntv",
+   "kind": "dual"
+  },
+  {
+   "floppy": "xbk",
+   "scaffold": "xbv",
+   "kind": "nondual"
+  },
+  {
+   "floppy": "xbk",
+   "scaffold": "urm",
+   "kind": "nondual"
+  },
+  {
+   "floppy": "xbk",
+   "scaffold": "kpc",
+   "kind": "nondual"
+  },
+  {
+   "floppy": "xaf",
+   "scaffold": "xag",
+   "kind": "dual"
+  },
+  {
+   "floppy": "xaf",
+   "scaffold": "nbo",
+   "kind": "nondual"
+  },
+  {
+   "floppy": "xaf",
+   "scaffold": "urv",
+   "kind": "nondual"
+  },
+  {
+   "floppy": "xaf",
+   "scaffold": "bax",
+   "kind": "nondual"
+  },
+  {
+   "floppy": "svn-d",
+   "scaffold": "svn",
+   "kind": "dual"
+  },
+  {
+   "floppy": "svn-d",
+   "scaffold": "nas",
+   "kind": "nondual"
+  },
+  {
+   "floppy": "svn-d",
+   "scaffold": "fsn",
+   "kind": "nondual"
+  },
+  {
+   "floppy": "svn-d",
+   "scaffold": "pyr-a",
+   "kind": "nondual"
+  },
+  {
+   "floppy": "lig",
+   "scaffold": "bsn",
+   "kind": "dual"
+  },
+  {
+   "floppy": "lig",
+   "scaffold": "sgt",
+   "kind": "nondual"
+  },
+  {
+   "floppy": "lig",
+   "scaffold": "uos",
+   "kind": "nondual"
+  },
+  {
+   "floppy": "lig",
+   "scaffold": "ngc",
+   "kind": "nondual"
+  },
+  {
+   "floppy": "lcs",
+   "scaffold": "gan",
+   "kind": "dual"
+  },
+  {
+   "floppy": "lcs",
+   "scaffold": "ibd",
+   "kind": "nondual"
+  },
+  {
+   "floppy": "lcs",
+   "scaffold": "pbg",
+   "kind": "nondual"
+  },
+  {
+   "floppy": "lcs",
+   "scaffold": "iac-d",
+   "kind": "nondual"
+  },
+  {
+   "floppy": "sgt",
+   "scaffold": "tsl",
+   "kind": "dual"
+  },
+  {
+   "floppy": "sgt",
+   "scaffold": "fur",
+   "kind": "nondual"
+  },
+  {
+   "floppy": "sgt",
+   "scaffold": "lvt-a",
+   "kind": "nondual"
+  },
+  {
+   "floppy": "sgt",
+   "scaffold": "snw",
+   "kind": "nondual"
+  },
+  {
+   "floppy": "bnn",
+   "scaffold": "hex",
+   "kind": "dual"
+  },
+  {
+   "floppy": "bnn",
+   "scaffold": "alc-a",
+   "kind": "nondual"
+  },
+  {
+   "floppy": "bnn",
+   "scaffold": "cel-a",
+   "kind": "nondual"
+  },
+  {
+   "floppy": "bnn",
+   "scaffold": "ltl",
+   "kind": "nondual"
+  },
+  {
+   "floppy": "xbj",
+   "scaffold": "tsi",
+   "kind": "dual"
+  },
+  {
+   "floppy": "xbj",
+   "scaffold": "svr",
+   "kind": "nondual"
+  },
+  {
+   "floppy": "xbj",
+   "scaffold": "ftc",
+   "kind": "nondual"
+  },
+  {
+   "floppy": "xbj",
+   "scaffold": "svh",
+   "kind": "nondual"
+  },
+  {
+   "floppy": "spn",
+   "scaffold": "xbr",
+   "kind": "dual"
+  },
+  {
+   "floppy": "spn",
+   "scaffold": "ydq-a",
+   "kind": "nondual"
+  },
+  {
+   "floppy": "spn",
+   "scaffold": "dia",
+   "kind": "nondual"
+  },
+  {
+   "floppy": "spn",
+   "scaffold": "fnf",
+   "kind": "nondual"
+  },
+  {
+   "floppy": "xbd",
+   "scaffold": "eca",
+   "kind": "dual"
+  },
+  {
+   "floppy": "xbd",
+   "scaffold": "cfc-e-a",
+   "kind": "nondual"
+  },
+  {
+   "floppy": "xbd",
+   "scaffold": "kex-a",
+   "kind": "nondual"
+  },
+  {
+   "floppy": "xbd",
+   "scaffold": "lon",
+   "kind": "nondual"
+  },
+  {
+   "floppy": "bod",
+   "scaffold": "xbs",
+   "kind": "dual"
+  },
+  {
+   "floppy": "bod",
+   "scaffold": "fud",
+   "kind": "nondual"
+  },
+  {
+   "floppy": "bod",
+   "scaffold": "bor",
+   "kind": "nondual"
+  },
+  {
+   "floppy": "bod",
+   "scaffold": "ftl",
+   "kind": "nondual"
+  }
+ ]
+}

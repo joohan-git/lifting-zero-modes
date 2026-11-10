@@ -1,0 +1,1953 @@
+{
+ "definition": "mean degree = 2E/V of RCSR graph (graph() conventional cell; identical in any cell); threshold 6",
+ "table": {
+  "cells": {
+   "dual >=6": {
+    "rigid": 21,
+    "total": 22
+   },
+   "dual <6": {
+    "rigid": 0,
+    "total": 10
+   },
+   "nondual >=6": {
+    "rigid": 18,
+    "total": 21
+   },
+   "nondual <6": {
+    "rigid": 0,
+    "total": 75
+   }
+  },
+  "fisher_p_dual_vs_nondual_among_high_coordination": 0.3448667044809984
+ },
+ "n_rows": 128,
+ "n_distinct_scaffolds": 123,
+ "coordination_exactly_6_count": 11,
+ "min_over_threshold_margin": [
+  6.0,
+  6.4
+ ],
+ "rows": [
+  {
+   "floppy": "xag",
+   "scaffold": "xaf",
+   "kind": "dual",
+   "rigid": false,
+   "scaffold_V": 20,
+   "scaffold_E": 54,
+   "mean_coordination": 5.4,
+   "mean_coordination_2E_over_V": 5.4,
+   "degree_min": 5,
+   "degree_max": 6,
+   "scaffold_M": [
+    6
+   ]
+  },
+  {
+   "floppy": "xag",
+   "scaffold": "sod-e",
+   "kind": "nondual",
+   "rigid": false,
+   "scaffold_V": 24,
+   "scaffold_E": 72,
+   "mean_coordination": 6.0,
+   "mean_coordination_2E_over_V": 6.0,
+   "degree_min": 6,
+   "degree_max": 6,
+   "scaffold_M": [
+    2
+   ]
+  },
+  {
+   "floppy": "xag",
+   "scaffold": "tam",
+   "kind": "nondual",
+   "rigid": false,
+   "scaffold_V": 20,
+   "scaffold_E": 72,
+   "mean_coordination": 7.2,
+   "mean_coordination_2E_over_V": 7.2,
+   "degree_min": 4,
+   "degree_max": 12,
+   "scaffold_M": [
+    12
+   ]
+  },
+  {
+   "floppy": "xag",
+   "scaffold": "dna",
+   "kind": "nondual",
+   "rigid": false,
+   "scaffold_V": 68,
+   "scaffold_E": 144,
+   "mean_coordination": 4.235294117647059,
+   "mean_coordination_2E_over_V": 4.235294117647059,
+   "degree_min": 3,
+   "degree_max": 8,
+   "scaffold_M": [
+    60
+   ]
+  },
+  {
+   "floppy": "ctn-x",
+   "scaffold": "thp",
+   "kind": "dual",
+   "rigid": true,
+   "scaffold_V": 12,
+   "scaffold_E": 48,
+   "mean_coordination": 8.0,
+   "mean_coordination_2E_over_V": 8.0,
+   "degree_min": 8,
+   "degree_max": 8,
+   "scaffold_M": [
+    0
+   ]
+  },
+  {
+   "floppy": "ctn-x",
+   "scaffold": "fnn",
+   "kind": "nondual",
+   "rigid": false,
+   "scaffold_V": 24,
+   "scaffold_E": 60,
+   "mean_coordination": 5.0,
+   "mean_coordination_2E_over_V": 5.0,
+   "degree_min": 5,
+   "degree_max": 5,
+   "scaffold_M": [
+    12
+   ]
+  },
+  {
+   "floppy": "ctn-x",
+   "scaffold": "thp-a",
+   "kind": "nondual",
+   "rigid": false,
+   "scaffold_V": 96,
+   "scaffold_E": 264,
+   "mean_coordination": 5.5,
+   "mean_coordination_2E_over_V": 5.5,
+   "degree_min": 5,
+   "degree_max": 6,
+   "scaffold_M": [
+    24
+   ]
+  },
+  {
+   "floppy": "ctn-x",
+   "scaffold": "ctn-d",
+   "kind": "nondual",
+   "rigid": false,
+   "scaffold_V": 40,
+   "scaffold_E": 60,
+   "mean_coordination": 3.0,
+   "mean_coordination_2E_over_V": 3.0,
+   "degree_min": 3,
+   "degree_max": 3,
+   "scaffold_M": [
+    60
+   ]
+  },
+  {
+   "floppy": "eta",
+   "scaffold": "qzd",
+   "kind": "dual",
+   "rigid": false,
+   "scaffold_V": 3,
+   "scaffold_E": 6,
+   "mean_coordination": 4.0,
+   "mean_coordination_2E_over_V": 4.0,
+   "degree_min": 4,
+   "degree_max": 4,
+   "scaffold_M": [
+    3
+   ]
+  },
+  {
+   "floppy": "eta",
+   "scaffold": "qtz-g",
+   "kind": "nondual",
+   "rigid": false,
+   "scaffold_V": 12,
+   "scaffold_E": 18,
+   "mean_coordination": 3.0,
+   "mean_coordination_2E_over_V": 3.0,
+   "degree_min": 3,
+   "degree_max": 3,
+   "scaffold_M": [
+    18
+   ]
+  },
+  {
+   "floppy": "eta",
+   "scaffold": "oso",
+   "kind": "nondual",
+   "rigid": false,
+   "scaffold_V": 9,
+   "scaffold_E": 18,
+   "mean_coordination": 4.0,
+   "mean_coordination_2E_over_V": 4.0,
+   "degree_min": 4,
+   "degree_max": 4,
+   "scaffold_M": [
+    9
+   ]
+  },
+  {
+   "floppy": "eta",
+   "scaffold": "sml",
+   "kind": "nondual",
+   "rigid": true,
+   "scaffold_V": 6,
+   "scaffold_E": 18,
+   "mean_coordination": 6.0,
+   "mean_coordination_2E_over_V": 6.0,
+   "degree_min": 6,
+   "degree_max": 6,
+   "scaffold_M": [
+    0
+   ]
+  },
+  {
+   "floppy": "mcf",
+   "scaffold": "mcd",
+   "kind": "dual",
+   "rigid": false,
+   "scaffold_V": 8,
+   "scaffold_E": 16,
+   "mean_coordination": 4.0,
+   "mean_coordination_2E_over_V": 4.0,
+   "degree_min": 3,
+   "degree_max": 5,
+   "scaffold_M": [
+    8
+   ]
+  },
+  {
+   "floppy": "mcf",
+   "scaffold": "mog",
+   "kind": "nondual",
+   "rigid": false,
+   "scaffold_V": 6,
+   "scaffold_E": 12,
+   "mean_coordination": 4.0,
+   "mean_coordination_2E_over_V": 4.0,
+   "degree_min": 4,
+   "degree_max": 4,
+   "scaffold_M": [
+    6
+   ]
+  },
+  {
+   "floppy": "mcf",
+   "scaffold": "tfc-e",
+   "kind": "nondual",
+   "rigid": false,
+   "scaffold_V": 10,
+   "scaffold_E": 20,
+   "mean_coordination": 4.0,
+   "mean_coordination_2E_over_V": 4.0,
+   "degree_min": 4,
+   "degree_max": 4,
+   "scaffold_M": [
+    10
+   ]
+  },
+  {
+   "floppy": "mcf",
+   "scaffold": "svk",
+   "kind": "nondual",
+   "rigid": true,
+   "scaffold_V": 4,
+   "scaffold_E": 14,
+   "mean_coordination": 7.0,
+   "mean_coordination_2E_over_V": 7.0,
+   "degree_min": 7,
+   "degree_max": 7,
+   "scaffold_M": [
+    0
+   ]
+  },
+  {
+   "floppy": "fsc",
+   "scaffold": "mot",
+   "kind": "dual",
+   "rigid": false,
+   "scaffold_V": 3,
+   "scaffold_E": 6,
+   "mean_coordination": 4.0,
+   "mean_coordination_2E_over_V": 4.0,
+   "degree_min": 4,
+   "degree_max": 4,
+   "scaffold_M": [
+    3
+   ]
+  },
+  {
+   "floppy": "fsc",
+   "scaffold": "scu",
+   "kind": "nondual",
+   "rigid": false,
+   "scaffold_V": 3,
+   "scaffold_E": 8,
+   "mean_coordination": 5.333333333333333,
+   "mean_coordination_2E_over_V": 5.333333333333333,
+   "degree_min": 4,
+   "degree_max": 8,
+   "scaffold_M": [
+    2
+   ]
+  },
+  {
+   "floppy": "fsc",
+   "scaffold": "fte",
+   "kind": "nondual",
+   "rigid": false,
+   "scaffold_V": 24,
+   "scaffold_E": 48,
+   "mean_coordination": 4.0,
+   "mean_coordination_2E_over_V": 4.0,
+   "degree_min": 4,
+   "degree_max": 4,
+   "scaffold_M": [
+    24
+   ]
+  },
+  {
+   "floppy": "fsc",
+   "scaffold": "mot-e-a",
+   "kind": "nondual",
+   "rigid": false,
+   "scaffold_V": 24,
+   "scaffold_E": 44,
+   "mean_coordination": 3.6666666666666665,
+   "mean_coordination_2E_over_V": 3.6666666666666665,
+   "degree_min": 3,
+   "degree_max": 4,
+   "scaffold_M": [
+    28
+   ]
+  },
+  {
+   "floppy": "qtz",
+   "scaffold": "qzd",
+   "kind": "dual",
+   "rigid": false,
+   "scaffold_V": 3,
+   "scaffold_E": 6,
+   "mean_coordination": 4.0,
+   "mean_coordination_2E_over_V": 4.0,
+   "degree_min": 4,
+   "degree_max": 4,
+   "scaffold_M": [
+    3
+   ]
+  },
+  {
+   "floppy": "qtz",
+   "scaffold": "uon",
+   "kind": "nondual",
+   "rigid": false,
+   "scaffold_V": 6,
+   "scaffold_E": 12,
+   "mean_coordination": 4.0,
+   "mean_coordination_2E_over_V": 4.0,
+   "degree_min": 4,
+   "degree_max": 4,
+   "scaffold_M": [
+    6
+   ]
+  },
+  {
+   "floppy": "qtz",
+   "scaffold": "uom",
+   "kind": "nondual",
+   "rigid": false,
+   "scaffold_V": 6,
+   "scaffold_E": 12,
+   "mean_coordination": 4.0,
+   "mean_coordination_2E_over_V": 4.0,
+   "degree_min": 4,
+   "degree_max": 4,
+   "scaffold_M": [
+    6
+   ]
+  },
+  {
+   "floppy": "qtz",
+   "scaffold": "oso",
+   "kind": "nondual",
+   "rigid": false,
+   "scaffold_V": 9,
+   "scaffold_E": 18,
+   "mean_coordination": 4.0,
+   "mean_coordination_2E_over_V": 4.0,
+   "degree_min": 4,
+   "degree_max": 4,
+   "scaffold_M": [
+    9
+   ]
+  },
+  {
+   "floppy": "xbe",
+   "scaffold": "bct",
+   "kind": "dual",
+   "rigid": true,
+   "scaffold_V": 2,
+   "scaffold_E": 10,
+   "mean_coordination": 10.0,
+   "mean_coordination_2E_over_V": 10.0,
+   "degree_min": 10,
+   "degree_max": 10,
+   "scaffold_M": [
+    0
+   ]
+  },
+  {
+   "floppy": "xbe",
+   "scaffold": "tee",
+   "kind": "nondual",
+   "rigid": false,
+   "scaffold_V": 22,
+   "scaffold_E": 48,
+   "mean_coordination": 4.363636363636363,
+   "mean_coordination_2E_over_V": 4.363636363636363,
+   "degree_min": 3,
+   "degree_max": 8,
+   "scaffold_M": [
+    18
+   ]
+  },
+  {
+   "floppy": "xbe",
+   "scaffold": "flt",
+   "kind": "nondual",
+   "rigid": false,
+   "scaffold_V": 10,
+   "scaffold_E": 20,
+   "mean_coordination": 4.0,
+   "mean_coordination_2E_over_V": 4.0,
+   "degree_min": 3,
+   "degree_max": 8,
+   "scaffold_M": [
+    10
+   ]
+  },
+  {
+   "floppy": "xbe",
+   "scaffold": "ylf",
+   "kind": "nondual",
+   "rigid": false,
+   "scaffold_V": 24,
+   "scaffold_E": 48,
+   "mean_coordination": 4.0,
+   "mean_coordination_2E_over_V": 4.0,
+   "degree_min": 3,
+   "degree_max": 6,
+   "scaffold_M": [
+    24
+   ]
+  },
+  {
+   "floppy": "uoc",
+   "scaffold": "jsm",
+   "kind": "dual",
+   "rigid": true,
+   "scaffold_V": 4,
+   "scaffold_E": 12,
+   "mean_coordination": 6.0,
+   "mean_coordination_2E_over_V": 6.0,
+   "degree_min": 6,
+   "degree_max": 6,
+   "scaffold_M": [
+    0
+   ]
+  },
+  {
+   "floppy": "uoc",
+   "scaffold": "uob",
+   "kind": "nondual",
+   "rigid": false,
+   "scaffold_V": 16,
+   "scaffold_E": 32,
+   "mean_coordination": 4.0,
+   "mean_coordination_2E_over_V": 4.0,
+   "degree_min": 4,
+   "degree_max": 4,
+   "scaffold_M": [
+    16
+   ]
+  },
+  {
+   "floppy": "uoc",
+   "scaffold": "yan",
+   "kind": "nondual",
+   "rigid": true,
+   "scaffold_V": 8,
+   "scaffold_E": 28,
+   "mean_coordination": 7.0,
+   "mean_coordination_2E_over_V": 7.0,
+   "degree_min": 7,
+   "degree_max": 7,
+   "scaffold_M": [
+    0
+   ]
+  },
+  {
+   "floppy": "uoc",
+   "scaffold": "yfj",
+   "kind": "nondual",
+   "rigid": false,
+   "scaffold_V": 16,
+   "scaffold_E": 40,
+   "mean_coordination": 5.0,
+   "mean_coordination_2E_over_V": 5.0,
+   "degree_min": 5,
+   "degree_max": 5,
+   "scaffold_M": [
+    8
+   ]
+  },
+  {
+   "floppy": "mep",
+   "scaffold": "bet",
+   "kind": "dual",
+   "rigid": true,
+   "scaffold_V": 8,
+   "scaffold_E": 54,
+   "mean_coordination": 13.5,
+   "mean_coordination_2E_over_V": 13.5,
+   "degree_min": 12,
+   "degree_max": 14,
+   "scaffold_M": [
+    0
+   ]
+  },
+  {
+   "floppy": "mep",
+   "scaffold": "pto",
+   "kind": "nondual",
+   "rigid": false,
+   "scaffold_V": 14,
+   "scaffold_E": 24,
+   "mean_coordination": 3.4285714285714284,
+   "mean_coordination_2E_over_V": 3.4285714285714284,
+   "degree_min": 3,
+   "degree_max": 4,
+   "scaffold_M": [
+    18
+   ]
+  },
+  {
+   "floppy": "mep",
+   "scaffold": "hbo",
+   "kind": "nondual",
+   "rigid": false,
+   "scaffold_V": 24,
+   "scaffold_E": 48,
+   "mean_coordination": 4.0,
+   "mean_coordination_2E_over_V": 4.0,
+   "degree_min": 4,
+   "degree_max": 4,
+   "scaffold_M": [
+    24
+   ]
+  },
+  {
+   "floppy": "mep",
+   "scaffold": "pop-a",
+   "kind": "nondual",
+   "rigid": false,
+   "scaffold_V": 144,
+   "scaffold_E": 288,
+   "mean_coordination": 4.0,
+   "mean_coordination_2E_over_V": 4.0,
+   "degree_min": 3,
+   "degree_max": 5,
+   "scaffold_M": [
+    144
+   ]
+  },
+  {
+   "floppy": "flu",
+   "scaffold": "fcu",
+   "kind": "dual",
+   "rigid": true,
+   "scaffold_V": 4,
+   "scaffold_E": 24,
+   "mean_coordination": 12.0,
+   "mean_coordination_2E_over_V": 12.0,
+   "degree_min": 12,
+   "degree_max": 12,
+   "scaffold_M": [
+    0
+   ]
+  },
+  {
+   "floppy": "flu",
+   "scaffold": "xbk",
+   "kind": "nondual",
+   "rigid": false,
+   "scaffold_V": 36,
+   "scaffold_E": 96,
+   "mean_coordination": 5.333333333333333,
+   "mean_coordination_2E_over_V": 5.333333333333333,
+   "degree_min": 4,
+   "degree_max": 12,
+   "scaffold_M": [
+    24
+   ]
+  },
+  {
+   "floppy": "flu",
+   "scaffold": "gdl-a",
+   "kind": "nondual",
+   "rigid": false,
+   "scaffold_V": 432,
+   "scaffold_E": 792,
+   "mean_coordination": 3.6666666666666665,
+   "mean_coordination_2E_over_V": 3.6666666666666665,
+   "degree_min": 3,
+   "degree_max": 5,
+   "scaffold_M": [
+    504
+   ]
+  },
+  {
+   "floppy": "flu",
+   "scaffold": "dnc",
+   "kind": "nondual",
+   "rigid": true,
+   "scaffold_V": 40,
+   "scaffold_E": 128,
+   "mean_coordination": 6.4,
+   "mean_coordination_2E_over_V": 6.4,
+   "degree_min": 4,
+   "degree_max": 24,
+   "scaffold_M": [
+    0
+   ]
+  },
+  {
+   "floppy": "cai",
+   "scaffold": "sve",
+   "kind": "dual",
+   "rigid": true,
+   "scaffold_V": 4,
+   "scaffold_E": 14,
+   "mean_coordination": 7.0,
+   "mean_coordination_2E_over_V": 7.0,
+   "degree_min": 7,
+   "degree_max": 7,
+   "scaffold_M": [
+    0
+   ]
+  },
+  {
+   "floppy": "cai",
+   "scaffold": "tbr",
+   "kind": "nondual",
+   "rigid": true,
+   "scaffold_V": 30,
+   "scaffold_E": 120,
+   "mean_coordination": 8.0,
+   "mean_coordination_2E_over_V": 8.0,
+   "degree_min": 8,
+   "degree_max": 8,
+   "scaffold_M": [
+    0
+   ]
+  },
+  {
+   "floppy": "cai",
+   "scaffold": "mhg",
+   "kind": "nondual",
+   "rigid": true,
+   "scaffold_V": 10,
+   "scaffold_E": 30,
+   "mean_coordination": 6.0,
+   "mean_coordination_2E_over_V": 6.0,
+   "degree_min": 6,
+   "degree_max": 6,
+   "scaffold_M": [
+    0
+   ]
+  },
+  {
+   "floppy": "cai",
+   "scaffold": "wxs-a",
+   "kind": "nondual",
+   "rigid": false,
+   "scaffold_V": 144,
+   "scaffold_E": 240,
+   "mean_coordination": 3.3333333333333335,
+   "mean_coordination_2E_over_V": 3.3333333333333335,
+   "degree_min": 3,
+   "degree_max": 4,
+   "scaffold_M": [
+    192
+   ]
+  },
+  {
+   "floppy": "nbo",
+   "scaffold": "bcu",
+   "kind": "dual",
+   "rigid": true,
+   "scaffold_V": 2,
+   "scaffold_E": 8,
+   "mean_coordination": 8.0,
+   "mean_coordination_2E_over_V": 8.0,
+   "degree_min": 8,
+   "degree_max": 8,
+   "scaffold_M": [
+    0
+   ]
+  },
+  {
+   "floppy": "nbo",
+   "scaffold": "sod-a-a-a",
+   "kind": "nondual",
+   "rigid": false,
+   "scaffold_V": 768,
+   "scaffold_E": 1536,
+   "mean_coordination": 4.0,
+   "mean_coordination_2E_over_V": 4.0,
+   "degree_min": 4,
+   "degree_max": 4,
+   "scaffold_M": [
+    768
+   ]
+  },
+  {
+   "floppy": "nbo",
+   "scaffold": "oge",
+   "kind": "nondual",
+   "rigid": false,
+   "scaffold_V": 144,
+   "scaffold_E": 216,
+   "mean_coordination": 3.0,
+   "mean_coordination_2E_over_V": 3.0,
+   "degree_min": 3,
+   "degree_max": 3,
+   "scaffold_M": [
+    216
+   ]
+  },
+  {
+   "floppy": "nbo",
+   "scaffold": "baj",
+   "kind": "nondual",
+   "rigid": false,
+   "scaffold_V": 144,
+   "scaffold_E": 288,
+   "mean_coordination": 4.0,
+   "mean_coordination_2E_over_V": 4.0,
+   "degree_min": 4,
+   "degree_max": 4,
+   "scaffold_M": [
+    144
+   ]
+  },
+  {
+   "floppy": "nbo-a",
+   "scaffold": "bcu-x",
+   "kind": "dual",
+   "rigid": true,
+   "scaffold_V": 2,
+   "scaffold_E": 14,
+   "mean_coordination": 14.0,
+   "mean_coordination_2E_over_V": 14.0,
+   "degree_min": 14,
+   "degree_max": 14,
+   "scaffold_M": [
+    0
+   ]
+  },
+  {
+   "floppy": "nbo-a",
+   "scaffold": "tam",
+   "kind": "nondual",
+   "rigid": false,
+   "scaffold_V": 20,
+   "scaffold_E": 72,
+   "mean_coordination": 7.2,
+   "mean_coordination_2E_over_V": 7.2,
+   "degree_min": 4,
+   "degree_max": 12,
+   "scaffold_M": [
+    12
+   ]
+  },
+  {
+   "floppy": "nbo-a",
+   "scaffold": "bcu",
+   "kind": "nondual",
+   "rigid": true,
+   "scaffold_V": 2,
+   "scaffold_E": 8,
+   "mean_coordination": 8.0,
+   "mean_coordination_2E_over_V": 8.0,
+   "degree_min": 8,
+   "degree_max": 8,
+   "scaffold_M": [
+    0
+   ]
+  },
+  {
+   "floppy": "nbo-a",
+   "scaffold": "uro",
+   "kind": "nondual",
+   "rigid": false,
+   "scaffold_V": 62,
+   "scaffold_E": 144,
+   "mean_coordination": 4.645161290322581,
+   "mean_coordination_2E_over_V": 4.645161290322581,
+   "degree_min": 3,
+   "degree_max": 16,
+   "scaffold_M": [
+    56
+   ]
+  },
+  {
+   "floppy": "cla",
+   "scaffold": "cla-d",
+   "kind": "dual",
+   "rigid": true,
+   "scaffold_V": 14,
+   "scaffold_E": 96,
+   "mean_coordination": 13.714285714285714,
+   "mean_coordination_2E_over_V": 13.714285714285714,
+   "degree_min": 12,
+   "degree_max": 15,
+   "scaffold_M": [
+    0
+   ]
+  },
+  {
+   "floppy": "cla",
+   "scaffold": "smp",
+   "kind": "nondual",
+   "rigid": true,
+   "scaffold_V": 24,
+   "scaffold_E": 72,
+   "mean_coordination": 6.0,
+   "mean_coordination_2E_over_V": 6.0,
+   "degree_min": 6,
+   "degree_max": 6,
+   "scaffold_M": [
+    0
+   ]
+  },
+  {
+   "floppy": "cla",
+   "scaffold": "ncb",
+   "kind": "nondual",
+   "rigid": true,
+   "scaffold_V": 8,
+   "scaffold_E": 36,
+   "mean_coordination": 9.0,
+   "mean_coordination_2E_over_V": 9.0,
+   "degree_min": 9,
+   "degree_max": 9,
+   "scaffold_M": [
+    0
+   ]
+  },
+  {
+   "floppy": "cla",
+   "scaffold": "hcz",
+   "kind": "nondual",
+   "rigid": false,
+   "scaffold_V": 22,
+   "scaffold_E": 56,
+   "mean_coordination": 5.090909090909091,
+   "mean_coordination_2E_over_V": 5.090909090909091,
+   "degree_min": 4,
+   "degree_max": 7,
+   "scaffold_M": [
+    10
+   ]
+  },
+  {
+   "floppy": "tof",
+   "scaffold": "xbt",
+   "kind": "dual",
+   "rigid": false,
+   "scaffold_V": 6,
+   "scaffold_E": 20,
+   "mean_coordination": 6.666666666666667,
+   "mean_coordination_2E_over_V": 6.666666666666667,
+   "degree_min": 4,
+   "degree_max": 8,
+   "scaffold_M": [
+    2
+   ]
+  },
+  {
+   "floppy": "tof",
+   "scaffold": "xab-a",
+   "kind": "nondual",
+   "rigid": false,
+   "scaffold_V": 60,
+   "scaffold_E": 114,
+   "mean_coordination": 3.8,
+   "mean_coordination_2E_over_V": 3.8,
+   "degree_min": 3,
+   "degree_max": 5,
+   "scaffold_M": [
+    66
+   ]
+  },
+  {
+   "floppy": "tof",
+   "scaffold": "uks",
+   "kind": "nondual",
+   "rigid": false,
+   "scaffold_V": 24,
+   "scaffold_E": 48,
+   "mean_coordination": 4.0,
+   "mean_coordination_2E_over_V": 4.0,
+   "degree_min": 4,
+   "degree_max": 4,
+   "scaffold_M": [
+    24
+   ]
+  },
+  {
+   "floppy": "tof",
+   "scaffold": "pbz-e",
+   "kind": "nondual",
+   "rigid": false,
+   "scaffold_V": 36,
+   "scaffold_E": 72,
+   "mean_coordination": 4.0,
+   "mean_coordination_2E_over_V": 4.0,
+   "degree_min": 4,
+   "degree_max": 4,
+   "scaffold_M": [
+    36
+   ]
+  },
+  {
+   "floppy": "fse",
+   "scaffold": "xux",
+   "kind": "dual",
+   "rigid": false,
+   "scaffold_V": 10,
+   "scaffold_E": 16,
+   "mean_coordination": 3.2,
+   "mean_coordination_2E_over_V": 3.2,
+   "degree_min": 3,
+   "degree_max": 4,
+   "scaffold_M": [
+    14
+   ]
+  },
+  {
+   "floppy": "fse",
+   "scaffold": "tfa-a",
+   "kind": "nondual",
+   "rigid": false,
+   "scaffold_V": 20,
+   "scaffold_E": 34,
+   "mean_coordination": 3.4,
+   "mean_coordination_2E_over_V": 3.4,
+   "degree_min": 3,
+   "degree_max": 4,
+   "scaffold_M": [
+    26
+   ]
+  },
+  {
+   "floppy": "fse",
+   "scaffold": "kga",
+   "kind": "nondual",
+   "rigid": false,
+   "scaffold_V": 18,
+   "scaffold_E": 48,
+   "mean_coordination": 5.333333333333333,
+   "mean_coordination_2E_over_V": 5.333333333333333,
+   "degree_min": 4,
+   "degree_max": 6,
+   "scaffold_M": [
+    6
+   ]
+  },
+  {
+   "floppy": "fse",
+   "scaffold": "xfx",
+   "kind": "nondual",
+   "rigid": false,
+   "scaffold_V": 8,
+   "scaffold_E": 20,
+   "mean_coordination": 5.0,
+   "mean_coordination_2E_over_V": 5.0,
+   "degree_min": 5,
+   "degree_max": 5,
+   "scaffold_M": [
+    4
+   ]
+  },
+  {
+   "floppy": "nof",
+   "scaffold": "sxb",
+   "kind": "dual",
+   "rigid": true,
+   "scaffold_V": 4,
+   "scaffold_E": 12,
+   "mean_coordination": 6.0,
+   "mean_coordination_2E_over_V": 6.0,
+   "degree_min": 6,
+   "degree_max": 6,
+   "scaffold_M": [
+    0
+   ]
+  },
+  {
+   "floppy": "nof",
+   "scaffold": "umc",
+   "kind": "nondual",
+   "rigid": false,
+   "scaffold_V": 16,
+   "scaffold_E": 32,
+   "mean_coordination": 4.0,
+   "mean_coordination_2E_over_V": 4.0,
+   "degree_min": 4,
+   "degree_max": 4,
+   "scaffold_M": [
+    16
+   ]
+  },
+  {
+   "floppy": "nof",
+   "scaffold": "ptt",
+   "kind": "nondual",
+   "rigid": false,
+   "scaffold_V": 16,
+   "scaffold_E": 32,
+   "mean_coordination": 4.0,
+   "mean_coordination_2E_over_V": 4.0,
+   "degree_min": 4,
+   "degree_max": 4,
+   "scaffold_M": [
+    16
+   ]
+  },
+  {
+   "floppy": "nof",
+   "scaffold": "vbm",
+   "kind": "nondual",
+   "rigid": true,
+   "scaffold_V": 16,
+   "scaffold_E": 48,
+   "mean_coordination": 6.0,
+   "mean_coordination_2E_over_V": 6.0,
+   "degree_min": 6,
+   "degree_max": 6,
+   "scaffold_M": [
+    0
+   ]
+  },
+  {
+   "floppy": "urk",
+   "scaffold": "pcu",
+   "kind": "dual",
+   "rigid": true,
+   "scaffold_V": 1,
+   "scaffold_E": 3,
+   "mean_coordination": 6.0,
+   "mean_coordination_2E_over_V": 6.0,
+   "degree_min": 6,
+   "degree_max": 6,
+   "scaffold_M": [
+    0
+   ]
+  },
+  {
+   "floppy": "urk",
+   "scaffold": "ftr",
+   "kind": "nondual",
+   "rigid": false,
+   "scaffold_V": 72,
+   "scaffold_E": 144,
+   "mean_coordination": 4.0,
+   "mean_coordination_2E_over_V": 4.0,
+   "degree_min": 4,
+   "degree_max": 4,
+   "scaffold_M": [
+    72
+   ]
+  },
+  {
+   "floppy": "urk",
+   "scaffold": "epq",
+   "kind": "nondual",
+   "rigid": false,
+   "scaffold_V": 32,
+   "scaffold_E": 72,
+   "mean_coordination": 4.5,
+   "mean_coordination_2E_over_V": 4.5,
+   "degree_min": 3,
+   "degree_max": 6,
+   "scaffold_M": [
+    24
+   ]
+  },
+  {
+   "floppy": "urk",
+   "scaffold": "cab",
+   "kind": "nondual",
+   "rigid": false,
+   "scaffold_V": 6,
+   "scaffold_E": 15,
+   "mean_coordination": 5.0,
+   "mean_coordination_2E_over_V": 5.0,
+   "degree_min": 5,
+   "degree_max": 5,
+   "scaffold_M": [
+    3
+   ]
+  },
+  {
+   "floppy": "zra-d",
+   "scaffold": "zra",
+   "kind": "dual",
+   "rigid": true,
+   "scaffold_V": 7,
+   "scaffold_E": 47,
+   "mean_coordination": 13.428571428571429,
+   "mean_coordination_2E_over_V": 13.428571428571429,
+   "degree_min": 12,
+   "degree_max": 15,
+   "scaffold_M": [
+    0
+   ]
+  },
+  {
+   "floppy": "zra-d",
+   "scaffold": "doh",
+   "kind": "nondual",
+   "rigid": false,
+   "scaffold_V": 34,
+   "scaffold_E": 68,
+   "mean_coordination": 4.0,
+   "mean_coordination_2E_over_V": 4.0,
+   "degree_min": 4,
+   "degree_max": 4,
+   "scaffold_M": [
+    34
+   ]
+  },
+  {
+   "floppy": "zra-d",
+   "scaffold": "ury-a",
+   "kind": "nondual",
+   "rigid": false,
+   "scaffold_V": 36,
+   "scaffold_E": 60,
+   "mean_coordination": 3.3333333333333335,
+   "mean_coordination_2E_over_V": 3.3333333333333335,
+   "degree_min": 3,
+   "degree_max": 4,
+   "scaffold_M": [
+    48
+   ]
+  },
+  {
+   "floppy": "zra-d",
+   "scaffold": "cee-a",
+   "kind": "nondual",
+   "rigid": false,
+   "scaffold_V": 36,
+   "scaffold_E": 54,
+   "mean_coordination": 3.0,
+   "mean_coordination_2E_over_V": 3.0,
+   "degree_min": 3,
+   "degree_max": 3,
+   "scaffold_M": [
+    54
+   ]
+  },
+  {
+   "floppy": "vab",
+   "scaffold": "gan",
+   "kind": "dual",
+   "rigid": false,
+   "scaffold_V": 16,
+   "scaffold_E": 40,
+   "mean_coordination": 5.0,
+   "mean_coordination_2E_over_V": 5.0,
+   "degree_min": 5,
+   "degree_max": 5,
+   "scaffold_M": [
+    8
+   ]
+  },
+  {
+   "floppy": "vab",
+   "scaffold": "fcy",
+   "kind": "nondual",
+   "rigid": false,
+   "scaffold_V": 96,
+   "scaffold_E": 240,
+   "mean_coordination": 5.0,
+   "mean_coordination_2E_over_V": 5.0,
+   "degree_min": 5,
+   "degree_max": 5,
+   "scaffold_M": [
+    48
+   ]
+  },
+  {
+   "floppy": "vab",
+   "scaffold": "ibd-a",
+   "kind": "nondual",
+   "rigid": false,
+   "scaffold_V": 192,
+   "scaffold_E": 432,
+   "mean_coordination": 4.5,
+   "mean_coordination_2E_over_V": 4.5,
+   "degree_min": 4,
+   "degree_max": 5,
+   "scaffold_M": [
+    144
+   ]
+  },
+  {
+   "floppy": "vab",
+   "scaffold": "jsb",
+   "kind": "nondual",
+   "rigid": false,
+   "scaffold_V": 168,
+   "scaffold_E": 336,
+   "mean_coordination": 4.0,
+   "mean_coordination_2E_over_V": 4.0,
+   "degree_min": 4,
+   "degree_max": 4,
+   "scaffold_M": [
+    168
+   ]
+  },
+  {
+   "floppy": "epv",
+   "scaffold": "ild",
+   "kind": "dual",
+   "rigid": true,
+   "scaffold_V": 3,
+   "scaffold_E": 18,
+   "mean_coordination": 12.0,
+   "mean_coordination_2E_over_V": 12.0,
+   "degree_min": 12,
+   "degree_max": 12,
+   "scaffold_M": [
+    0
+   ]
+  },
+  {
+   "floppy": "epv",
+   "scaffold": "cfe",
+   "kind": "nondual",
+   "rigid": false,
+   "scaffold_V": 18,
+   "scaffold_E": 36,
+   "mean_coordination": 4.0,
+   "mean_coordination_2E_over_V": 4.0,
+   "degree_min": 4,
+   "degree_max": 4,
+   "scaffold_M": [
+    18
+   ]
+  },
+  {
+   "floppy": "epv",
+   "scaffold": "nlr",
+   "kind": "nondual",
+   "rigid": true,
+   "scaffold_V": 18,
+   "scaffold_E": 63,
+   "mean_coordination": 7.0,
+   "mean_coordination_2E_over_V": 7.0,
+   "degree_min": 7,
+   "degree_max": 7,
+   "scaffold_M": [
+    0
+   ]
+  },
+  {
+   "floppy": "epv",
+   "scaffold": "ato-e",
+   "kind": "nondual",
+   "rigid": true,
+   "scaffold_V": 72,
+   "scaffold_E": 216,
+   "mean_coordination": 6.0,
+   "mean_coordination_2E_over_V": 6.0,
+   "degree_min": 6,
+   "degree_max": 6,
+   "scaffold_M": [
+    0
+   ]
+  },
+  {
+   "floppy": "xbk",
+   "scaffold": "ntv",
+   "kind": "dual",
+   "rigid": false,
+   "scaffold_V": 60,
+   "scaffold_E": 120,
+   "mean_coordination": 4.0,
+   "mean_coordination_2E_over_V": 4.0,
+   "degree_min": 3,
+   "degree_max": 6,
+   "scaffold_M": [
+    60
+   ]
+  },
+  {
+   "floppy": "xbk",
+   "scaffold": "xbv",
+   "kind": "nondual",
+   "rigid": false,
+   "scaffold_V": 60,
+   "scaffold_E": 128,
+   "mean_coordination": 4.266666666666667,
+   "mean_coordination_2E_over_V": 4.266666666666667,
+   "degree_min": 4,
+   "degree_max": 8,
+   "scaffold_M": [
+    52
+   ]
+  },
+  {
+   "floppy": "xbk",
+   "scaffold": "urm",
+   "kind": "nondual",
+   "rigid": false,
+   "scaffold_V": 124,
+   "scaffold_E": 288,
+   "mean_coordination": 4.645161290322581,
+   "mean_coordination_2E_over_V": 4.645161290322581,
+   "degree_min": 3,
+   "degree_max": 24,
+   "scaffold_M": [
+    84
+   ]
+  },
+  {
+   "floppy": "xbk",
+   "scaffold": "kpc",
+   "kind": "nondual",
+   "rigid": true,
+   "scaffold_V": 36,
+   "scaffold_E": 120,
+   "mean_coordination": 6.666666666666667,
+   "mean_coordination_2E_over_V": 6.666666666666667,
+   "degree_min": 5,
+   "degree_max": 12,
+   "scaffold_M": [
+    0
+   ]
+  },
+  {
+   "floppy": "xaf",
+   "scaffold": "xag",
+   "kind": "dual",
+   "rigid": false,
+   "scaffold_V": 38,
+   "scaffold_E": 72,
+   "mean_coordination": 3.789473684210526,
+   "mean_coordination_2E_over_V": 3.789473684210526,
+   "degree_min": 3,
+   "degree_max": 12,
+   "scaffold_M": [
+    42
+   ]
+  },
+  {
+   "floppy": "xaf",
+   "scaffold": "nbo",
+   "kind": "nondual",
+   "rigid": false,
+   "scaffold_V": 6,
+   "scaffold_E": 12,
+   "mean_coordination": 4.0,
+   "mean_coordination_2E_over_V": 4.0,
+   "degree_min": 4,
+   "degree_max": 4,
+   "scaffold_M": [
+    6
+   ]
+  },
+  {
+   "floppy": "xaf",
+   "scaffold": "urv",
+   "kind": "nondual",
+   "rigid": false,
+   "scaffold_V": 62,
+   "scaffold_E": 144,
+   "mean_coordination": 4.645161290322581,
+   "mean_coordination_2E_over_V": 4.645161290322581,
+   "degree_min": 3,
+   "degree_max": 24,
+   "scaffold_M": [
+    42
+   ]
+  },
+  {
+   "floppy": "xaf",
+   "scaffold": "bax",
+   "kind": "nondual",
+   "rigid": false,
+   "scaffold_V": 192,
+   "scaffold_E": 384,
+   "mean_coordination": 4.0,
+   "mean_coordination_2E_over_V": 4.0,
+   "degree_min": 4,
+   "degree_max": 4,
+   "scaffold_M": [
+    192
+   ]
+  },
+  {
+   "floppy": "svn-d",
+   "scaffold": "svn",
+   "kind": "dual",
+   "rigid": true,
+   "scaffold_V": 8,
+   "scaffold_E": 28,
+   "mean_coordination": 7.0,
+   "mean_coordination_2E_over_V": 7.0,
+   "degree_min": 7,
+   "degree_max": 7,
+   "scaffold_M": [
+    0
+   ]
+  },
+  {
+   "floppy": "svn-d",
+   "scaffold": "nas",
+   "kind": "nondual",
+   "rigid": true,
+   "scaffold_V": 40,
+   "scaffold_E": 272,
+   "mean_coordination": 13.6,
+   "mean_coordination_2E_over_V": 13.6,
+   "degree_min": 13,
+   "degree_max": 16,
+   "scaffold_M": [
+    0
+   ]
+  },
+  {
+   "floppy": "svn-d",
+   "scaffold": "fsn",
+   "kind": "nondual",
+   "rigid": false,
+   "scaffold_V": 12,
+   "scaffold_E": 28,
+   "mean_coordination": 4.666666666666667,
+   "mean_coordination_2E_over_V": 4.666666666666667,
+   "degree_min": 4,
+   "degree_max": 6,
+   "scaffold_M": [
+    8
+   ]
+  },
+  {
+   "floppy": "svn-d",
+   "scaffold": "pyr-a",
+   "kind": "nondual",
+   "rigid": false,
+   "scaffold_V": 48,
+   "scaffold_E": 96,
+   "mean_coordination": 4.0,
+   "mean_coordination_2E_over_V": 4.0,
+   "degree_min": 3,
+   "degree_max": 5,
+   "scaffold_M": [
+    48
+   ]
+  },
+  {
+   "floppy": "lig",
+   "scaffold": "bsn",
+   "kind": "dual",
+   "rigid": true,
+   "scaffold_V": 4,
+   "scaffold_E": 12,
+   "mean_coordination": 6.0,
+   "mean_coordination_2E_over_V": 6.0,
+   "degree_min": 6,
+   "degree_max": 6,
+   "scaffold_M": [
+    0
+   ]
+  },
+  {
+   "floppy": "lig",
+   "scaffold": "sgt",
+   "kind": "nondual",
+   "rigid": false,
+   "scaffold_V": 64,
+   "scaffold_E": 128,
+   "mean_coordination": 4.0,
+   "mean_coordination_2E_over_V": 4.0,
+   "degree_min": 4,
+   "degree_max": 4,
+   "scaffold_M": [
+    64
+   ]
+  },
+  {
+   "floppy": "lig",
+   "scaffold": "uos",
+   "kind": "nondual",
+   "rigid": false,
+   "scaffold_V": 32,
+   "scaffold_E": 64,
+   "mean_coordination": 4.0,
+   "mean_coordination_2E_over_V": 4.0,
+   "degree_min": 4,
+   "degree_max": 4,
+   "scaffold_M": [
+    32
+   ]
+  },
+  {
+   "floppy": "lig",
+   "scaffold": "ngc",
+   "kind": "nondual",
+   "rigid": true,
+   "scaffold_V": 8,
+   "scaffold_E": 36,
+   "mean_coordination": 9.0,
+   "mean_coordination_2E_over_V": 9.0,
+   "degree_min": 9,
+   "degree_max": 9,
+   "scaffold_M": [
+    0
+   ]
+  },
+  {
+   "floppy": "lcs",
+   "scaffold": "gan",
+   "kind": "dual",
+   "rigid": false,
+   "scaffold_V": 16,
+   "scaffold_E": 40,
+   "mean_coordination": 5.0,
+   "mean_coordination_2E_over_V": 5.0,
+   "degree_min": 5,
+   "degree_max": 5,
+   "scaffold_M": [
+    8
+   ]
+  },
+  {
+   "floppy": "lcs",
+   "scaffold": "ibd",
+   "kind": "nondual",
+   "rigid": false,
+   "scaffold_V": 40,
+   "scaffold_E": 96,
+   "mean_coordination": 4.8,
+   "mean_coordination_2E_over_V": 4.8,
+   "degree_min": 4,
+   "degree_max": 6,
+   "scaffold_M": [
+    24
+   ]
+  },
+  {
+   "floppy": "lcs",
+   "scaffold": "pbg",
+   "kind": "nondual",
+   "rigid": false,
+   "scaffold_V": 96,
+   "scaffold_E": 144,
+   "mean_coordination": 3.0,
+   "mean_coordination_2E_over_V": 3.0,
+   "degree_min": 3,
+   "degree_max": 3,
+   "scaffold_M": [
+    144
+   ]
+  },
+  {
+   "floppy": "lcs",
+   "scaffold": "iac-d",
+   "kind": "nondual",
+   "rigid": false,
+   "scaffold_V": 88,
+   "scaffold_E": 144,
+   "mean_coordination": 3.272727272727273,
+   "mean_coordination_2E_over_V": 3.272727272727273,
+   "degree_min": 3,
+   "degree_max": 4,
+   "scaffold_M": [
+    120
+   ]
+  },
+  {
+   "floppy": "sgt",
+   "scaffold": "tsl",
+   "kind": "dual",
+   "rigid": true,
+   "scaffold_V": 12,
+   "scaffold_E": 76,
+   "mean_coordination": 12.666666666666666,
+   "mean_coordination_2E_over_V": 12.666666666666666,
+   "degree_min": 9,
+   "degree_max": 20,
+   "scaffold_M": [
+    0
+   ]
+  },
+  {
+   "floppy": "sgt",
+   "scaffold": "fur",
+   "kind": "nondual",
+   "rigid": false,
+   "scaffold_V": 48,
+   "scaffold_E": 96,
+   "mean_coordination": 4.0,
+   "mean_coordination_2E_over_V": 4.0,
+   "degree_min": 4,
+   "degree_max": 4,
+   "scaffold_M": [
+    48
+   ]
+  },
+  {
+   "floppy": "sgt",
+   "scaffold": "lvt-a",
+   "kind": "nondual",
+   "rigid": false,
+   "scaffold_V": 32,
+   "scaffold_E": 48,
+   "mean_coordination": 3.0,
+   "mean_coordination_2E_over_V": 3.0,
+   "degree_min": 3,
+   "degree_max": 3,
+   "scaffold_M": [
+    48
+   ]
+  },
+  {
+   "floppy": "sgt",
+   "scaffold": "snw",
+   "kind": "nondual",
+   "rigid": true,
+   "scaffold_V": 8,
+   "scaffold_E": 24,
+   "mean_coordination": 6.0,
+   "mean_coordination_2E_over_V": 6.0,
+   "degree_min": 6,
+   "degree_max": 6,
+   "scaffold_M": [
+    0
+   ]
+  },
+  {
+   "floppy": "bnn",
+   "scaffold": "hex",
+   "kind": "dual",
+   "rigid": true,
+   "scaffold_V": 1,
+   "scaffold_E": 4,
+   "mean_coordination": 8.0,
+   "mean_coordination_2E_over_V": 8.0,
+   "degree_min": 8,
+   "degree_max": 8,
+   "scaffold_M": [
+    0
+   ]
+  },
+  {
+   "floppy": "bnn",
+   "scaffold": "alc-a",
+   "kind": "nondual",
+   "rigid": false,
+   "scaffold_V": 60,
+   "scaffold_E": 120,
+   "mean_coordination": 4.0,
+   "mean_coordination_2E_over_V": 4.0,
+   "degree_min": 3,
+   "degree_max": 5,
+   "scaffold_M": [
+    60
+   ]
+  },
+  {
+   "floppy": "bnn",
+   "scaffold": "cel-a",
+   "kind": "nondual",
+   "rigid": false,
+   "scaffold_V": 60,
+   "scaffold_E": 120,
+   "mean_coordination": 4.0,
+   "mean_coordination_2E_over_V": 4.0,
+   "degree_min": 3,
+   "degree_max": 5,
+   "scaffold_M": [
+    60
+   ]
+  },
+  {
+   "floppy": "bnn",
+   "scaffold": "ltl",
+   "kind": "nondual",
+   "rigid": false,
+   "scaffold_V": 36,
+   "scaffold_E": 72,
+   "mean_coordination": 4.0,
+   "mean_coordination_2E_over_V": 4.0,
+   "degree_min": 4,
+   "degree_max": 4,
+   "scaffold_M": [
+    36
+   ]
+  },
+  {
+   "floppy": "xbj",
+   "scaffold": "tsi",
+   "kind": "dual",
+   "rigid": true,
+   "scaffold_V": 4,
+   "scaffold_E": 16,
+   "mean_coordination": 8.0,
+   "mean_coordination_2E_over_V": 8.0,
+   "degree_min": 8,
+   "degree_max": 8,
+   "scaffold_M": [
+    0
+   ]
+  },
+  {
+   "floppy": "xbj",
+   "scaffold": "svr",
+   "kind": "nondual",
+   "rigid": true,
+   "scaffold_V": 16,
+   "scaffold_E": 56,
+   "mean_coordination": 7.0,
+   "mean_coordination_2E_over_V": 7.0,
+   "degree_min": 7,
+   "degree_max": 7,
+   "scaffold_M": [
+    0
+   ]
+  },
+  {
+   "floppy": "xbj",
+   "scaffold": "ftc",
+   "kind": "nondual",
+   "rigid": false,
+   "scaffold_V": 48,
+   "scaffold_E": 96,
+   "mean_coordination": 4.0,
+   "mean_coordination_2E_over_V": 4.0,
+   "degree_min": 4,
+   "degree_max": 4,
+   "scaffold_M": [
+    48
+   ]
+  },
+  {
+   "floppy": "xbj",
+   "scaffold": "svh",
+   "kind": "nondual",
+   "rigid": true,
+   "scaffold_V": 8,
+   "scaffold_E": 28,
+   "mean_coordination": 7.0,
+   "mean_coordination_2E_over_V": 7.0,
+   "degree_min": 7,
+   "degree_max": 7,
+   "scaffold_M": [
+    0
+   ]
+  },
+  {
+   "floppy": "spn",
+   "scaffold": "xbr",
+   "kind": "dual",
+   "rigid": true,
+   "scaffold_V": 16,
+   "scaffold_E": 64,
+   "mean_coordination": 8.0,
+   "mean_coordination_2E_over_V": 8.0,
+   "degree_min": 6,
+   "degree_max": 10,
+   "scaffold_M": [
+    0
+   ]
+  },
+  {
+   "floppy": "spn",
+   "scaffold": "ydq-a",
+   "kind": "nondual",
+   "rigid": false,
+   "scaffold_V": 576,
+   "scaffold_E": 1008,
+   "mean_coordination": 3.5,
+   "mean_coordination_2E_over_V": 3.5,
+   "degree_min": 3,
+   "degree_max": 4,
+   "scaffold_M": [
+    720
+   ]
+  },
+  {
+   "floppy": "spn",
+   "scaffold": "dia",
+   "kind": "nondual",
+   "rigid": false,
+   "scaffold_V": 8,
+   "scaffold_E": 16,
+   "mean_coordination": 4.0,
+   "mean_coordination_2E_over_V": 4.0,
+   "degree_min": 4,
+   "degree_max": 4,
+   "scaffold_M": [
+    8
+   ]
+  },
+  {
+   "floppy": "spn",
+   "scaffold": "fnf",
+   "kind": "nondual",
+   "rigid": false,
+   "scaffold_V": 96,
+   "scaffold_E": 240,
+   "mean_coordination": 5.0,
+   "mean_coordination_2E_over_V": 5.0,
+   "degree_min": 5,
+   "degree_max": 5,
+   "scaffold_M": [
+    48
+   ]
+  },
+  {
+   "floppy": "xbd",
+   "scaffold": "eca",
+   "kind": "dual",
+   "rigid": true,
+   "scaffold_V": 2,
+   "scaffold_E": 8,
+   "mean_coordination": 8.0,
+   "mean_coordination_2E_over_V": 8.0,
+   "degree_min": 8,
+   "degree_max": 8,
+   "scaffold_M": [
+    0
+   ]
+  },
+  {
+   "floppy": "xbd",
+   "scaffold": "cfc-e-a",
+   "kind": "nondual",
+   "rigid": false,
+   "scaffold_V": 96,
+   "scaffold_E": 234,
+   "mean_coordination": 4.875,
+   "mean_coordination_2E_over_V": 4.875,
+   "degree_min": 4,
+   "degree_max": 5,
+   "scaffold_M": [
+    54
+   ]
+  },
+  {
+   "floppy": "xbd",
+   "scaffold": "kex-a",
+   "kind": "nondual",
+   "rigid": false,
+   "scaffold_V": 72,
+   "scaffold_E": 120,
+   "mean_coordination": 3.3333333333333335,
+   "mean_coordination_2E_over_V": 3.3333333333333335,
+   "degree_min": 3,
+   "degree_max": 4,
+   "scaffold_M": [
+    96
+   ]
+  },
+  {
+   "floppy": "xbd",
+   "scaffold": "lon",
+   "kind": "nondual",
+   "rigid": false,
+   "scaffold_V": 4,
+   "scaffold_E": 8,
+   "mean_coordination": 4.0,
+   "mean_coordination_2E_over_V": 4.0,
+   "degree_min": 4,
+   "degree_max": 4,
+   "scaffold_M": [
+    4
+   ]
+  },
+  {
+   "floppy": "bod",
+   "scaffold": "xbs",
+   "kind": "dual",
+   "rigid": true,
+   "scaffold_V": 2,
+   "scaffold_E": 7,
+   "mean_coordination": 7.0,
+   "mean_coordination_2E_over_V": 7.0,
+   "degree_min": 4,
+   "degree_max": 10,
+   "scaffold_M": [
+    0
+   ]
+  },
+  {
+   "floppy": "bod",
+   "scaffold": "fud",
+   "kind": "nondual",
+   "rigid": false,
+   "scaffold_V": 15,
+   "scaffold_E": 30,
+   "mean_coordination": 4.0,
+   "mean_coordination_2E_over_V": 4.0,
+   "degree_min": 4,
+   "degree_max": 4,
+   "scaffold_M": [
+    15
+   ]
+  },
+  {
+   "floppy": "bod",
+   "scaffold": "bor",
+   "kind": "nondual",
+   "rigid": false,
+   "scaffold_V": 7,
+   "scaffold_E": 12,
+   "mean_coordination": 3.4285714285714284,
+   "mean_coordination_2E_over_V": 3.4285714285714284,
+   "degree_min": 3,
+   "degree_max": 4,
+   "scaffold_M": [
+    9
+   ]
+  },
+  {
+   "floppy": "bod",
+   "scaffold": "ftl",
+   "kind": "nondual",
+   "rigid": false,
+   "scaffold_V": 24,
+   "scaffold_E": 48,
+   "mean_coordination": 4.0,
+   "mean_coordination_2E_over_V": 4.0,
+   "degree_min": 4,
+   "degree_max": 4,
+   "scaffold_M": [
+    24
+   ]
+  }
+ ]
+}

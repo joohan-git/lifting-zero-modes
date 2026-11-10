@@ -1,0 +1,3005 @@
+{
+ "note": "Post hoc rules written after the outcomes were known; a diagnosis, not a prospective result. 3 random wavevectors per pair (seed 7), tolerance 1e-6; values in units of k_c.",
+ "sector_rule": {
+  "eligible": 88,
+  "flat": 14,
+  "dispersive": 74,
+  "calls": 14,
+  "calls_matching_spectrum": 14,
+  "calls_on_flat": 14,
+  "calls_on_dispersive": 0,
+  "flat_abstained": [],
+  "dispersive_abstention_reasons": {
+   "joint_spectrum_varies_with_q": 33,
+   "gram_operators_do_not_commute": 41
+  }
+ },
+ "local_rule": {
+  "eligible": 88,
+  "flat": 14,
+  "dispersive": 74,
+  "calls": 10,
+  "calls_matching_spectrum": 10,
+  "calls_on_flat": 10,
+  "calls_on_dispersive": 0,
+  "flat_abstained": [
+   {
+    "test": "uniform_300",
+    "scaffold": "pdb",
+    "floppy": "xav",
+    "reason": "S_compression_not_scalar"
+   },
+   {
+    "test": "uniform_300",
+    "scaffold": "ith-e",
+    "floppy": "urg",
+    "reason": "S_compression_not_scalar"
+   },
+   {
+    "test": "stratified_1000",
+    "scaffold": "ttr",
+    "floppy": "omy",
+    "reason": "S_compression_not_scalar"
+   },
+   {
+    "test": "stratified_1000",
+    "scaffold": "tca",
+    "floppy": "hyb",
+    "reason": "S_compression_not_scalar"
+   }
+  ],
+  "dispersive_abstention_reasons": {
+   "S_compression_not_scalar": 74
+  }
+ },
+ "stratified_flatness_recomputed_disagreements": [],
+ "rows": [
+  {
+   "test": "uniform_300",
+   "id": 32,
+   "scaffold": "sxq",
+   "floppy": "lcs-a",
+   "flat": false,
+   "frozen_prediction": "abstain",
+   "frozen_route": null,
+   "sector_rule": {
+    "call": "abstain",
+    "reason": "joint_spectrum_varies_with_q",
+    "class_sectors": 2
+   },
+   "local_rule": {
+    "call": "abstain",
+    "reason": "S_compression_not_scalar",
+    "vertices": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9,
+     10,
+     11,
+     12,
+     13,
+     14,
+     15,
+     16,
+     17,
+     18,
+     19,
+     20,
+     21,
+     22,
+     23,
+     24,
+     25,
+     26,
+     27,
+     28,
+     29,
+     30,
+     31,
+     32,
+     33,
+     34,
+     35,
+     36,
+     37,
+     38,
+     39,
+     40,
+     41,
+     42,
+     43,
+     44,
+     45,
+     46,
+     47
+    ]
+   }
+  },
+  {
+   "test": "uniform_300",
+   "id": 37,
+   "scaffold": "tca",
+   "floppy": "fnr",
+   "flat": false,
+   "frozen_prediction": "abstain",
+   "frozen_route": null,
+   "sector_rule": {
+    "call": "abstain",
+    "reason": "gram_operators_do_not_commute",
+    "class_sectors": 5
+   },
+   "local_rule": {
+    "call": "abstain",
+    "reason": "S_compression_not_scalar",
+    "vertices": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ]
+   }
+  },
+  {
+   "test": "uniform_300",
+   "id": 43,
+   "scaffold": "mhg",
+   "floppy": "rtw",
+   "flat": false,
+   "frozen_prediction": "abstain",
+   "frozen_route": null,
+   "sector_rule": {
+    "call": "abstain",
+    "reason": "joint_spectrum_varies_with_q",
+    "class_sectors": 5
+   },
+   "local_rule": {
+    "call": "abstain",
+    "reason": "S_compression_not_scalar",
+    "vertices": [
+     0,
+     1
+    ]
+   }
+  },
+  {
+   "test": "uniform_300",
+   "id": 44,
+   "scaffold": "xaz",
+   "floppy": "nha",
+   "flat": false,
+   "frozen_prediction": "abstain",
+   "frozen_route": null,
+   "sector_rule": {
+    "call": "abstain",
+    "reason": "gram_operators_do_not_commute",
+    "class_sectors": 7
+   },
+   "local_rule": {
+    "call": "abstain",
+    "reason": "S_compression_not_scalar",
+    "vertices": [
+     0,
+     1,
+     2,
+     3,
+     5,
+     6,
+     7,
+     8,
+     9,
+     10,
+     11
+    ]
+   }
+  },
+  {
+   "test": "uniform_300",
+   "id": 59,
+   "scaffold": "xfr",
+   "floppy": "yfq",
+   "flat": false,
+   "frozen_prediction": "abstain",
+   "frozen_route": null,
+   "sector_rule": {
+    "call": "abstain",
+    "reason": "joint_spectrum_varies_with_q",
+    "class_sectors": 2
+   },
+   "local_rule": {
+    "call": "abstain",
+    "reason": "S_compression_not_scalar",
+    "vertices": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9,
+     10,
+     11,
+     12,
+     13,
+     14,
+     15
+    ]
+   }
+  },
+  {
+   "test": "uniform_300",
+   "id": 80,
+   "scaffold": "tcc-x",
+   "floppy": "fns",
+   "flat": false,
+   "frozen_prediction": "abstain",
+   "frozen_route": null,
+   "sector_rule": {
+    "call": "abstain",
+    "reason": "joint_spectrum_varies_with_q",
+    "class_sectors": 3
+   },
+   "local_rule": {
+    "call": "abstain",
+    "reason": "S_compression_not_scalar",
+    "vertices": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ]
+   }
+  },
+  {
+   "test": "uniform_300",
+   "id": 82,
+   "scaffold": "mon-e",
+   "floppy": "wga",
+   "flat": false,
+   "frozen_prediction": "abstain",
+   "frozen_route": null,
+   "sector_rule": {
+    "call": "abstain",
+    "reason": "joint_spectrum_varies_with_q",
+    "class_sectors": 2
+   },
+   "local_rule": {
+    "call": "abstain",
+    "reason": "S_compression_not_scalar",
+    "vertices": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9,
+     10,
+     11,
+     12,
+     13,
+     14,
+     15
+    ]
+   }
+  },
+  {
+   "test": "uniform_300",
+   "id": 99,
+   "scaffold": "wkh",
+   "floppy": "nom",
+   "flat": false,
+   "frozen_prediction": "abstain",
+   "frozen_route": null,
+   "sector_rule": {
+    "call": "abstain",
+    "reason": "gram_operators_do_not_commute",
+    "class_sectors": 6
+   },
+   "local_rule": {
+    "call": "abstain",
+    "reason": "S_compression_not_scalar",
+    "vertices": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ]
+   }
+  },
+  {
+   "test": "uniform_300",
+   "id": 105,
+   "scaffold": "xfp",
+   "floppy": "yfr",
+   "flat": false,
+   "frozen_prediction": "abstain",
+   "frozen_route": null,
+   "sector_rule": {
+    "call": "abstain",
+    "reason": "joint_spectrum_varies_with_q",
+    "class_sectors": 2
+   },
+   "local_rule": {
+    "call": "abstain",
+    "reason": "S_compression_not_scalar",
+    "vertices": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9,
+     10,
+     11,
+     12,
+     13,
+     14,
+     15
+    ]
+   }
+  },
+  {
+   "test": "uniform_300",
+   "id": 106,
+   "scaffold": "pdb",
+   "floppy": "xav",
+   "flat": true,
+   "frozen_prediction": "abstain",
+   "frozen_route": null,
+   "sector_rule": {
+    "call": "predicted_flat",
+    "values": [
+     4.590351557989881e-06,
+     4.590351557989881e-06,
+     4.590351557989881e-06,
+     1.5977586544826885
+    ],
+    "class_sectors": 4,
+    "max_deviation_from_spectrum": 4.440892098500626e-16
+   },
+   "local_rule": {
+    "call": "abstain",
+    "reason": "S_compression_not_scalar",
+    "vertices": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ]
+   }
+  },
+  {
+   "test": "uniform_300",
+   "id": 170,
+   "scaffold": "ild",
+   "floppy": "etb-e",
+   "flat": false,
+   "frozen_prediction": "abstain",
+   "frozen_route": null,
+   "sector_rule": {
+    "call": "abstain",
+    "reason": "gram_operators_do_not_commute",
+    "class_sectors": 10
+   },
+   "local_rule": {
+    "call": "abstain",
+    "reason": "S_compression_not_scalar",
+    "vertices": [
+     0,
+     1,
+     2
+    ]
+   }
+  },
+  {
+   "test": "uniform_300",
+   "id": 187,
+   "scaffold": "mob",
+   "floppy": "scp",
+   "flat": true,
+   "frozen_prediction": "predicted_flat",
+   "frozen_route": "L",
+   "sector_rule": {
+    "call": "predicted_flat",
+    "values": [
+     1.0917651603575897,
+     1.0917651603575897,
+     1.0917651603575897,
+     1.0917651603575897,
+     1.3334186279727254,
+     1.3334186279727254
+    ],
+    "class_sectors": 7,
+    "max_deviation_from_spectrum": 8.993748801255919e-07
+   },
+   "local_rule": {
+    "call": "predicted_flat",
+    "values": [
+     1.0917660597324685,
+     1.0917660597324685,
+     1.0917660597324685,
+     1.0917660597324685,
+     1.3334186279727254,
+     1.3334186279727254
+    ],
+    "max_deviation_from_spectrum": 1.3322676295501878e-15
+   }
+  },
+  {
+   "test": "uniform_300",
+   "id": 206,
+   "scaffold": "ith-e",
+   "floppy": "urg",
+   "flat": true,
+   "frozen_prediction": "abstain",
+   "frozen_route": null,
+   "sector_rule": {
+    "call": "predicted_flat",
+    "values": [
+     0.08491423600065473,
+     0.08491423600065473,
+     0.08491423600065473,
+     0.08491423600065473,
+     0.08491423600065473,
+     0.08491423600065473,
+     1.905756019254021,
+     1.905756019254021,
+     1.905756019254021,
+     1.905756019254021
+    ],
+    "class_sectors": 5,
+    "max_deviation_from_spectrum": 3.8840119787053595e-08
+   },
+   "local_rule": {
+    "call": "abstain",
+    "reason": "S_compression_not_scalar",
+    "vertices": [
+     10,
+     11,
+     12,
+     13,
+     14,
+     15
+    ]
+   }
+  },
+  {
+   "test": "uniform_300",
+   "id": 235,
+   "scaffold": "wnj",
+   "floppy": "msi",
+   "flat": false,
+   "frozen_prediction": "abstain",
+   "frozen_route": null,
+   "sector_rule": {
+    "call": "abstain",
+    "reason": "gram_operators_do_not_commute",
+    "class_sectors": 22
+   },
+   "local_rule": {
+    "call": "abstain",
+    "reason": "S_compression_not_scalar",
+    "vertices": [
+     0,
+     1,
+     3,
+     5
+    ]
+   }
+  },
+  {
+   "test": "uniform_300",
+   "id": 252,
+   "scaffold": "ncc",
+   "floppy": "cla",
+   "flat": false,
+   "frozen_prediction": "abstain",
+   "frozen_route": null,
+   "sector_rule": {
+    "call": "abstain",
+    "reason": "gram_operators_do_not_commute",
+    "class_sectors": 16
+   },
+   "local_rule": {
+    "call": "abstain",
+    "reason": "S_compression_not_scalar",
+    "vertices": [
+     0
+    ]
+   }
+  },
+  {
+   "test": "uniform_300",
+   "id": 263,
+   "scaffold": "xfs",
+   "floppy": "nfc",
+   "flat": true,
+   "frozen_prediction": "predicted_flat",
+   "frozen_route": "L",
+   "sector_rule": {
+    "call": "predicted_flat",
+    "values": [
+     0.1339779999999998,
+     0.1339779999999998,
+     0.1339779999999998,
+     0.1339779999999998,
+     0.1339779999999998,
+     0.1339779999999998,
+     0.1339779999999998,
+     0.1339779999999998
+    ],
+    "class_sectors": 2,
+    "max_deviation_from_spectrum": 6.642128549394499e-07
+   },
+   "local_rule": {
+    "call": "predicted_flat",
+    "values": [
+     0.13397866421285307,
+     0.13397866421285307,
+     0.13397866421285307,
+     0.13397866421285307,
+     0.13397866421285307,
+     0.13397866421285307,
+     0.13397866421285307,
+     0.13397866421285307
+    ],
+    "max_deviation_from_spectrum": 1.6653345369377348e-15
+   }
+  },
+  {
+   "test": "uniform_300",
+   "id": 268,
+   "scaffold": "sou",
+   "floppy": "vbg",
+   "flat": false,
+   "frozen_prediction": "abstain",
+   "frozen_route": null,
+   "sector_rule": {
+    "call": "abstain",
+    "reason": "gram_operators_do_not_commute",
+    "class_sectors": 5
+   },
+   "local_rule": {
+    "call": "abstain",
+    "reason": "S_compression_not_scalar",
+    "vertices": [
+     0,
+     2,
+     5,
+     7
+    ]
+   }
+  },
+  {
+   "test": "uniform_300",
+   "id": 270,
+   "scaffold": "npo-e",
+   "floppy": "ybh",
+   "flat": true,
+   "frozen_prediction": "predicted_flat",
+   "frozen_route": "L",
+   "sector_rule": {
+    "call": "predicted_flat",
+    "values": [
+     5.708108086971934,
+     5.708108086971934
+    ],
+    "class_sectors": 5,
+    "max_deviation_from_spectrum": 3.552713678800501e-15
+   },
+   "local_rule": {
+    "call": "predicted_flat",
+    "values": [
+     5.708108086971934,
+     5.708108086971934
+    ],
+    "max_deviation_from_spectrum": 3.552713678800501e-15
+   }
+  },
+  {
+   "test": "uniform_300",
+   "id": 281,
+   "scaffold": "bcu-k",
+   "floppy": "twf-a",
+   "flat": false,
+   "frozen_prediction": "abstain",
+   "frozen_route": null,
+   "sector_rule": {
+    "call": "abstain",
+    "reason": "gram_operators_do_not_commute",
+    "class_sectors": 6
+   },
+   "local_rule": {
+    "call": "abstain",
+    "reason": "S_compression_not_scalar",
+    "vertices": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9,
+     10,
+     11,
+     12,
+     13,
+     14,
+     15,
+     16,
+     17,
+     18,
+     19,
+     20,
+     21,
+     22,
+     23
+    ]
+   }
+  },
+  {
+   "test": "uniform_300",
+   "id": 283,
+   "scaffold": "fit-e",
+   "floppy": "hbm",
+   "flat": false,
+   "frozen_prediction": "abstain",
+   "frozen_route": null,
+   "sector_rule": {
+    "call": "abstain",
+    "reason": "gram_operators_do_not_commute",
+    "class_sectors": 5
+   },
+   "local_rule": {
+    "call": "abstain",
+    "reason": "S_compression_not_scalar",
+    "vertices": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7
+    ]
+   }
+  },
+  {
+   "test": "stratified_1000",
+   "id": 0,
+   "scaffold": "kpl",
+   "floppy": "kfi-e",
+   "flat": false,
+   "frozen_prediction": "abstain",
+   "frozen_route": null,
+   "sector_rule": {
+    "call": "abstain",
+    "reason": "gram_operators_do_not_commute",
+    "class_sectors": 8
+   },
+   "local_rule": {
+    "call": "abstain",
+    "reason": "S_compression_not_scalar",
+    "vertices": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9,
+     10,
+     11,
+     12,
+     13,
+     14,
+     15,
+     16,
+     17,
+     18,
+     19,
+     20,
+     21,
+     22,
+     23
+    ]
+   },
+   "flat_recomputed": false
+  },
+  {
+   "test": "stratified_1000",
+   "id": 17,
+   "scaffold": "bcu-k",
+   "floppy": "xar",
+   "flat": false,
+   "frozen_prediction": "abstain",
+   "frozen_route": null,
+   "sector_rule": {
+    "call": "abstain",
+    "reason": "gram_operators_do_not_commute",
+    "class_sectors": 4
+   },
+   "local_rule": {
+    "call": "abstain",
+    "reason": "S_compression_not_scalar",
+    "vertices": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9,
+     10,
+     11
+    ]
+   },
+   "flat_recomputed": false
+  },
+  {
+   "test": "stratified_1000",
+   "id": 60,
+   "scaffold": "bcs",
+   "floppy": "icd",
+   "flat": false,
+   "frozen_prediction": "abstain",
+   "frozen_route": null,
+   "sector_rule": {
+    "call": "abstain",
+    "reason": "gram_operators_do_not_commute",
+    "class_sectors": 4
+   },
+   "local_rule": {
+    "call": "abstain",
+    "reason": "S_compression_not_scalar",
+    "vertices": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9,
+     10,
+     11
+    ]
+   },
+   "flat_recomputed": false
+  },
+  {
+   "test": "stratified_1000",
+   "id": 82,
+   "scaffold": "snr",
+   "floppy": "fch",
+   "flat": false,
+   "frozen_prediction": "abstain",
+   "frozen_route": null,
+   "sector_rule": {
+    "call": "abstain",
+    "reason": "joint_spectrum_varies_with_q",
+    "class_sectors": 2
+   },
+   "local_rule": {
+    "call": "abstain",
+    "reason": "S_compression_not_scalar",
+    "vertices": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9,
+     10,
+     11,
+     12,
+     13,
+     14,
+     15,
+     16,
+     17,
+     18,
+     19,
+     20,
+     21,
+     22,
+     23
+    ]
+   },
+   "flat_recomputed": false
+  },
+  {
+   "test": "stratified_1000",
+   "id": 98,
+   "scaffold": "bon",
+   "floppy": "pcb-e",
+   "flat": false,
+   "frozen_prediction": "abstain",
+   "frozen_route": null,
+   "sector_rule": {
+    "call": "abstain",
+    "reason": "joint_spectrum_varies_with_q",
+    "class_sectors": 5
+   },
+   "local_rule": {
+    "call": "abstain",
+    "reason": "S_compression_not_scalar",
+    "vertices": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9,
+     10,
+     11
+    ]
+   },
+   "flat_recomputed": false
+  },
+  {
+   "test": "stratified_1000",
+   "id": 117,
+   "scaffold": "kpl",
+   "floppy": "uro",
+   "flat": true,
+   "frozen_prediction": "predicted_flat",
+   "frozen_route": "L",
+   "sector_rule": {
+    "call": "predicted_flat",
+    "values": [
+     0.20418100000000006,
+     0.20418100000000006,
+     0.20418100000000006,
+     0.20418100000000006,
+     0.20418100000000006,
+     0.20418100000000006,
+     0.20418100000000006,
+     0.20418100000000006,
+     0.333333,
+     0.333333,
+     0.333333,
+     0.333333,
+     0.5757960000000001,
+     0.5757960000000001,
+     0.5757960000000001,
+     0.5757960000000001,
+     0.5757960000000001,
+     0.5757960000000001,
+     0.5757960000000001,
+     0.5757960000000001,
+     0.9999260000000002,
+     0.9999260000000002,
+     0.9999260000000002,
+     0.9999260000000002,
+     0.9999260000000002,
+     0.9999260000000002,
+     0.9999260000000002,
+     0.9999260000000002
+    ],
+    "class_sectors": 9,
+    "max_deviation_from_spectrum": 3.4296183124005175e-07
+   },
+   "local_rule": {
+    "call": "predicted_flat",
+    "values": [
+     0.20418065703816984,
+     0.20418065703816984,
+     0.20418065703816984,
+     0.20418065703816984,
+     0.20418065703816984,
+     0.20418065703816984,
+     0.20418065703816984,
+     0.20418065703816984,
+     0.33333333333333337,
+     0.33333333333333337,
+     0.33333333333333337,
+     0.33333333333333337,
+     0.5757957005874195,
+     0.5757957005874195,
+     0.5757957005874195,
+     0.5757957005874195,
+     0.5757957005874195,
+     0.5757957005874195,
+     0.5757957005874195,
+     0.5757957005874195,
+     0.9999262745913924,
+     0.9999262745913924,
+     0.9999262745913924,
+     0.9999262745913924,
+     0.9999262745913924,
+     0.9999262745913924,
+     0.9999262745913924,
+     0.9999262745913924
+    ],
+    "max_deviation_from_spectrum": 1.1102230246251565e-15
+   },
+   "flat_recomputed": true
+  },
+  {
+   "test": "stratified_1000",
+   "id": 126,
+   "scaffold": "ttr",
+   "floppy": "omy",
+   "flat": true,
+   "frozen_prediction": "abstain",
+   "frozen_route": null,
+   "sector_rule": {
+    "call": "predicted_flat",
+    "values": [
+     1.2546102703578201,
+     1.2546102703578201,
+     1.2546102703578201,
+     1.8666664120563958,
+     1.8666664120563958
+    ],
+    "class_sectors": 3,
+    "max_deviation_from_spectrum": 2.546102713107956e-07
+   },
+   "local_rule": {
+    "call": "abstain",
+    "reason": "S_compression_not_scalar",
+    "vertices": [
+     1,
+     2,
+     3,
+     4
+    ]
+   },
+   "flat_recomputed": true
+  },
+  {
+   "test": "stratified_1000",
+   "id": 131,
+   "scaffold": "svl",
+   "floppy": "edq",
+   "flat": false,
+   "frozen_prediction": "abstain",
+   "frozen_route": null,
+   "sector_rule": {
+    "call": "abstain",
+    "reason": "gram_operators_do_not_commute",
+    "class_sectors": 4
+   },
+   "local_rule": {
+    "call": "abstain",
+    "reason": "S_compression_not_scalar",
+    "vertices": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9,
+     10,
+     11,
+     12,
+     13,
+     14,
+     15,
+     16,
+     17,
+     18,
+     19,
+     20,
+     21,
+     22,
+     23
+    ]
+   },
+   "flat_recomputed": false
+  },
+  {
+   "test": "stratified_1000",
+   "id": 133,
+   "scaffold": "snr",
+   "floppy": "dni",
+   "flat": false,
+   "frozen_prediction": "abstain",
+   "frozen_route": null,
+   "sector_rule": {
+    "call": "abstain",
+    "reason": "gram_operators_do_not_commute",
+    "class_sectors": 7
+   },
+   "local_rule": {
+    "call": "abstain",
+    "reason": "S_compression_not_scalar",
+    "vertices": [
+     0,
+     1,
+     2
+    ]
+   },
+   "flat_recomputed": false
+  },
+  {
+   "test": "stratified_1000",
+   "id": 142,
+   "scaffold": "ckq",
+   "floppy": "nfa",
+   "flat": true,
+   "frozen_prediction": "predicted_flat",
+   "frozen_route": "L",
+   "sector_rule": {
+    "call": "predicted_flat",
+    "values": [
+     0.5067809946838939,
+     0.5067809946838939,
+     0.5067809946838939,
+     0.5067809946838939,
+     0.5067809946838939,
+     0.5067809946838939,
+     0.5067809946838939,
+     0.5067809946838939,
+     0.5067809946838939,
+     0.5067809946838939,
+     0.5067809946838939,
+     0.5067809946838939
+    ],
+    "class_sectors": 3,
+    "max_deviation_from_spectrum": 2.490225876616847e-07
+   },
+   "local_rule": {
+    "call": "predicted_flat",
+    "values": [
+     0.5067807456613073,
+     0.5067807456613073,
+     0.5067807456613073,
+     0.5067807456613073,
+     0.5067807456613073,
+     0.5067807456613073,
+     0.5067807456613073,
+     0.5067807456613073,
+     0.5067807456613073,
+     0.5067807456613073,
+     0.5067807456613073,
+     0.5067807456613073
+    ],
+    "max_deviation_from_spectrum": 9.992007221626409e-16
+   },
+   "flat_recomputed": true
+  },
+  {
+   "test": "stratified_1000",
+   "id": 156,
+   "scaffold": "sxg",
+   "floppy": "svn-d",
+   "flat": false,
+   "frozen_prediction": "abstain",
+   "frozen_route": null,
+   "sector_rule": {
+    "call": "abstain",
+    "reason": "gram_operators_do_not_commute",
+    "class_sectors": 5
+   },
+   "local_rule": {
+    "call": "abstain",
+    "reason": "S_compression_not_scalar",
+    "vertices": [
+     0,
+     1,
+     2,
+     3
+    ]
+   },
+   "flat_recomputed": false
+  },
+  {
+   "test": "stratified_1000",
+   "id": 169,
+   "scaffold": "dia-x",
+   "floppy": "dnz",
+   "flat": false,
+   "frozen_prediction": "abstain",
+   "frozen_route": null,
+   "sector_rule": {
+    "call": "abstain",
+    "reason": "gram_operators_do_not_commute",
+    "class_sectors": 15
+   },
+   "local_rule": {
+    "call": "abstain",
+    "reason": "S_compression_not_scalar",
+    "vertices": [
+     0,
+     1
+    ]
+   },
+   "flat_recomputed": false
+  },
+  {
+   "test": "stratified_1000",
+   "id": 181,
+   "scaffold": "swn",
+   "floppy": "lcv-a",
+   "flat": false,
+   "frozen_prediction": "abstain",
+   "frozen_route": null,
+   "sector_rule": {
+    "call": "abstain",
+    "reason": "gram_operators_do_not_commute",
+    "class_sectors": 3
+   },
+   "local_rule": {
+    "call": "abstain",
+    "reason": "S_compression_not_scalar",
+    "vertices": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9,
+     10,
+     11,
+     12,
+     13,
+     14,
+     15,
+     16,
+     17,
+     18,
+     19,
+     20,
+     21,
+     22,
+     23
+    ]
+   },
+   "flat_recomputed": false
+  },
+  {
+   "test": "stratified_1000",
+   "id": 191,
+   "scaffold": "sng",
+   "floppy": "ntw",
+   "flat": false,
+   "frozen_prediction": "abstain",
+   "frozen_route": null,
+   "sector_rule": {
+    "call": "abstain",
+    "reason": "gram_operators_do_not_commute",
+    "class_sectors": 6
+   },
+   "local_rule": {
+    "call": "abstain",
+    "reason": "S_compression_not_scalar",
+    "vertices": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8
+    ]
+   },
+   "flat_recomputed": false
+  },
+  {
+   "test": "stratified_1000",
+   "id": 208,
+   "scaffold": "lcw-x",
+   "floppy": "sky",
+   "flat": false,
+   "frozen_prediction": "abstain",
+   "frozen_route": null,
+   "sector_rule": {
+    "call": "abstain",
+    "reason": "gram_operators_do_not_commute",
+    "class_sectors": 10
+   },
+   "local_rule": {
+    "call": "abstain",
+    "reason": "S_compression_not_scalar",
+    "vertices": [
+     0,
+     1,
+     2,
+     4,
+     5,
+     6,
+     8,
+     9,
+     10,
+     11,
+     12,
+     13,
+     14,
+     15,
+     16,
+     18,
+     19,
+     20,
+     22,
+     23
+    ]
+   },
+   "flat_recomputed": false
+  },
+  {
+   "test": "stratified_1000",
+   "id": 218,
+   "scaffold": "swa",
+   "floppy": "fdb",
+   "flat": false,
+   "frozen_prediction": "abstain",
+   "frozen_route": null,
+   "sector_rule": {
+    "call": "abstain",
+    "reason": "joint_spectrum_varies_with_q",
+    "class_sectors": 2
+   },
+   "local_rule": {
+    "call": "abstain",
+    "reason": "S_compression_not_scalar",
+    "vertices": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9,
+     10,
+     11,
+     12,
+     13,
+     14,
+     15,
+     16,
+     17,
+     18,
+     19,
+     20,
+     21,
+     22,
+     23,
+     24,
+     25,
+     26,
+     27,
+     28,
+     29,
+     30,
+     31,
+     32,
+     33,
+     34,
+     35,
+     36,
+     37,
+     38,
+     39,
+     40,
+     41,
+     42,
+     43,
+     44,
+     45,
+     46,
+     47
+    ]
+   },
+   "flat_recomputed": false
+  },
+  {
+   "test": "stratified_1000",
+   "id": 242,
+   "scaffold": "sxl",
+   "floppy": "smo",
+   "flat": false,
+   "frozen_prediction": "abstain",
+   "frozen_route": null,
+   "sector_rule": {
+    "call": "abstain",
+    "reason": "joint_spectrum_varies_with_q",
+    "class_sectors": 3
+   },
+   "local_rule": {
+    "call": "abstain",
+    "reason": "S_compression_not_scalar",
+    "vertices": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9,
+     10,
+     11,
+     12,
+     13,
+     14,
+     15,
+     16,
+     17,
+     18,
+     19,
+     20,
+     21,
+     22,
+     23
+    ]
+   },
+   "flat_recomputed": false
+  },
+  {
+   "test": "stratified_1000",
+   "id": 266,
+   "scaffold": "gal",
+   "floppy": "fdc",
+   "flat": false,
+   "frozen_prediction": "abstain",
+   "frozen_route": null,
+   "sector_rule": {
+    "call": "abstain",
+    "reason": "joint_spectrum_varies_with_q",
+    "class_sectors": 2
+   },
+   "local_rule": {
+    "call": "abstain",
+    "reason": "S_compression_not_scalar",
+    "vertices": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9,
+     10,
+     11,
+     12,
+     13,
+     14,
+     15,
+     16,
+     17,
+     18,
+     19,
+     20,
+     21,
+     22,
+     23,
+     24,
+     25,
+     26,
+     27,
+     28,
+     29,
+     30,
+     31,
+     32,
+     33,
+     34,
+     35,
+     36,
+     37,
+     38,
+     39,
+     40,
+     41,
+     42,
+     43,
+     44,
+     45,
+     46,
+     47
+    ]
+   },
+   "flat_recomputed": false
+  },
+  {
+   "test": "stratified_1000",
+   "id": 270,
+   "scaffold": "ocu-e",
+   "floppy": "xaf",
+   "flat": false,
+   "frozen_prediction": "abstain",
+   "frozen_route": null,
+   "sector_rule": {
+    "call": "abstain",
+    "reason": "gram_operators_do_not_commute",
+    "class_sectors": 10
+   },
+   "local_rule": {
+    "call": "abstain",
+    "reason": "S_compression_not_scalar",
+    "vertices": [
+     0,
+     1,
+     2,
+     3
+    ]
+   },
+   "flat_recomputed": false
+  },
+  {
+   "test": "stratified_1000",
+   "id": 335,
+   "scaffold": "tca",
+   "floppy": "hyb",
+   "flat": true,
+   "frozen_prediction": "abstain",
+   "frozen_route": null,
+   "sector_rule": {
+    "call": "predicted_flat",
+    "values": [
+     1.930663287068458,
+     1.930663287068458,
+     1.930728263701942,
+     1.930728263701942,
+     1.930728263701942,
+     1.930728263701942,
+     1.930728263701942,
+     1.930728263701942
+    ],
+    "class_sectors": 6,
+    "max_deviation_from_spectrum": 1.9984014443252818e-15
+   },
+   "local_rule": {
+    "call": "abstain",
+    "reason": "S_compression_not_scalar",
+    "vertices": [
+     6,
+     7,
+     8,
+     9,
+     10,
+     11
+    ]
+   },
+   "flat_recomputed": true
+  },
+  {
+   "test": "stratified_1000",
+   "id": 351,
+   "scaffold": "ece",
+   "floppy": "wkx",
+   "flat": false,
+   "frozen_prediction": "abstain",
+   "frozen_route": null,
+   "sector_rule": {
+    "call": "abstain",
+    "reason": "joint_spectrum_varies_with_q",
+    "class_sectors": 2
+   },
+   "local_rule": {
+    "call": "abstain",
+    "reason": "S_compression_not_scalar",
+    "vertices": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9,
+     10,
+     11
+    ]
+   },
+   "flat_recomputed": false
+  },
+  {
+   "test": "stratified_1000",
+   "id": 353,
+   "scaffold": "edc",
+   "floppy": "icm-e",
+   "flat": false,
+   "frozen_prediction": "abstain",
+   "frozen_route": null,
+   "sector_rule": {
+    "call": "abstain",
+    "reason": "gram_operators_do_not_commute",
+    "class_sectors": 14
+   },
+   "local_rule": {
+    "call": "abstain",
+    "reason": "S_compression_not_scalar",
+    "vertices": [
+     0,
+     1
+    ]
+   },
+   "flat_recomputed": false
+  },
+  {
+   "test": "stratified_1000",
+   "id": 365,
+   "scaffold": "swj",
+   "floppy": "fvm",
+   "flat": false,
+   "frozen_prediction": "abstain",
+   "frozen_route": null,
+   "sector_rule": {
+    "call": "abstain",
+    "reason": "gram_operators_do_not_commute",
+    "class_sectors": 10
+   },
+   "local_rule": {
+    "call": "abstain",
+    "reason": "S_compression_not_scalar",
+    "vertices": [
+     0,
+     3,
+     7,
+     10
+    ]
+   },
+   "flat_recomputed": false
+  },
+  {
+   "test": "stratified_1000",
+   "id": 376,
+   "scaffold": "kag",
+   "floppy": "kew-a",
+   "flat": false,
+   "frozen_prediction": "abstain",
+   "frozen_route": null,
+   "sector_rule": {
+    "call": "abstain",
+    "reason": "gram_operators_do_not_commute",
+    "class_sectors": 10
+   },
+   "local_rule": {
+    "call": "abstain",
+    "reason": "S_compression_not_scalar",
+    "vertices": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ]
+   },
+   "flat_recomputed": false
+  },
+  {
+   "test": "stratified_1000",
+   "id": 384,
+   "scaffold": "sta",
+   "floppy": "smv",
+   "flat": true,
+   "frozen_prediction": "abstain",
+   "frozen_route": null,
+   "sector_rule": {
+    "call": "predicted_flat",
+    "values": [
+     0.9423079999999999,
+     0.9423079999999999
+    ],
+    "class_sectors": 2,
+    "max_deviation_from_spectrum": 3.0769231151861476e-07
+   },
+   "local_rule": {
+    "call": "predicted_flat",
+    "values": [
+     0.942307692307692,
+     0.942307692307692
+    ],
+    "max_deviation_from_spectrum": 3.552713678800501e-15
+   },
+   "flat_recomputed": true
+  },
+  {
+   "test": "stratified_1000",
+   "id": 398,
+   "scaffold": "qtz-x",
+   "floppy": "umj",
+   "flat": false,
+   "frozen_prediction": "abstain",
+   "frozen_route": null,
+   "sector_rule": {
+    "call": "abstain",
+    "reason": "joint_spectrum_varies_with_q",
+    "class_sectors": 2
+   },
+   "local_rule": {
+    "call": "abstain",
+    "reason": "S_compression_not_scalar",
+    "vertices": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9,
+     10,
+     11
+    ]
+   },
+   "flat_recomputed": false
+  },
+  {
+   "test": "stratified_1000",
+   "id": 399,
+   "scaffold": "wkn",
+   "floppy": "wjz",
+   "flat": false,
+   "frozen_prediction": "abstain",
+   "frozen_route": null,
+   "sector_rule": {
+    "call": "abstain",
+    "reason": "joint_spectrum_varies_with_q",
+    "class_sectors": 2
+   },
+   "local_rule": {
+    "call": "abstain",
+    "reason": "S_compression_not_scalar",
+    "vertices": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9,
+     10,
+     11
+    ]
+   },
+   "flat_recomputed": false
+  },
+  {
+   "test": "stratified_1000",
+   "id": 405,
+   "scaffold": "eye",
+   "floppy": "cen",
+   "flat": false,
+   "frozen_prediction": "abstain",
+   "frozen_route": null,
+   "sector_rule": {
+    "call": "abstain",
+    "reason": "joint_spectrum_varies_with_q",
+    "class_sectors": 5
+   },
+   "local_rule": {
+    "call": "abstain",
+    "reason": "S_compression_not_scalar",
+    "vertices": [
+     0
+    ]
+   },
+   "flat_recomputed": false
+  },
+  {
+   "test": "stratified_1000",
+   "id": 416,
+   "scaffold": "wku",
+   "floppy": "wjo",
+   "flat": false,
+   "frozen_prediction": "abstain",
+   "frozen_route": null,
+   "sector_rule": {
+    "call": "abstain",
+    "reason": "gram_operators_do_not_commute",
+    "class_sectors": 5
+   },
+   "local_rule": {
+    "call": "abstain",
+    "reason": "S_compression_not_scalar",
+    "vertices": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ]
+   },
+   "flat_recomputed": false
+  },
+  {
+   "test": "stratified_1000",
+   "id": 450,
+   "scaffold": "kag-d",
+   "floppy": "xai",
+   "flat": false,
+   "frozen_prediction": "abstain",
+   "frozen_route": null,
+   "sector_rule": {
+    "call": "abstain",
+    "reason": "gram_operators_do_not_commute",
+    "class_sectors": 4
+   },
+   "local_rule": {
+    "call": "abstain",
+    "reason": "S_compression_not_scalar",
+    "vertices": [
+     0,
+     1,
+     2
+    ]
+   },
+   "flat_recomputed": false
+  },
+  {
+   "test": "stratified_1000",
+   "id": 462,
+   "scaffold": "smj",
+   "floppy": "wkc",
+   "flat": false,
+   "frozen_prediction": "abstain",
+   "frozen_route": null,
+   "sector_rule": {
+    "call": "abstain",
+    "reason": "joint_spectrum_varies_with_q",
+    "class_sectors": 2
+   },
+   "local_rule": {
+    "call": "abstain",
+    "reason": "S_compression_not_scalar",
+    "vertices": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9,
+     10,
+     11
+    ]
+   },
+   "flat_recomputed": false
+  },
+  {
+   "test": "stratified_1000",
+   "id": 495,
+   "scaffold": "kag-d",
+   "floppy": "cew",
+   "flat": false,
+   "frozen_prediction": "abstain",
+   "frozen_route": null,
+   "sector_rule": {
+    "call": "abstain",
+    "reason": "gram_operators_do_not_commute",
+    "class_sectors": 8
+   },
+   "local_rule": {
+    "call": "abstain",
+    "reason": "S_compression_not_scalar",
+    "vertices": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9,
+     10,
+     11
+    ]
+   },
+   "flat_recomputed": false
+  },
+  {
+   "test": "stratified_1000",
+   "id": 511,
+   "scaffold": "ecf",
+   "floppy": "acs-a",
+   "flat": false,
+   "frozen_prediction": "abstain",
+   "frozen_route": null,
+   "sector_rule": {
+    "call": "abstain",
+    "reason": "gram_operators_do_not_commute",
+    "class_sectors": 3
+   },
+   "local_rule": {
+    "call": "abstain",
+    "reason": "S_compression_not_scalar",
+    "vertices": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9,
+     10,
+     11
+    ]
+   },
+   "flat_recomputed": false
+  },
+  {
+   "test": "stratified_1000",
+   "id": 557,
+   "scaffold": "nia-e",
+   "floppy": "lni",
+   "flat": false,
+   "frozen_prediction": "abstain",
+   "frozen_route": null,
+   "sector_rule": {
+    "call": "abstain",
+    "reason": "gram_operators_do_not_commute",
+    "class_sectors": 6
+   },
+   "local_rule": {
+    "call": "abstain",
+    "reason": "S_compression_not_scalar",
+    "vertices": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9,
+     10,
+     11
+    ]
+   },
+   "flat_recomputed": false
+  },
+  {
+   "test": "stratified_1000",
+   "id": 576,
+   "scaffold": "wkt",
+   "floppy": "wjl",
+   "flat": false,
+   "frozen_prediction": "abstain",
+   "frozen_route": null,
+   "sector_rule": {
+    "call": "abstain",
+    "reason": "joint_spectrum_varies_with_q",
+    "class_sectors": 2
+   },
+   "local_rule": {
+    "call": "abstain",
+    "reason": "S_compression_not_scalar",
+    "vertices": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9,
+     10,
+     11
+    ]
+   },
+   "flat_recomputed": false
+  },
+  {
+   "test": "stratified_1000",
+   "id": 580,
+   "scaffold": "wki",
+   "floppy": "lhh",
+   "flat": false,
+   "frozen_prediction": "abstain",
+   "frozen_route": null,
+   "sector_rule": {
+    "call": "abstain",
+    "reason": "gram_operators_do_not_commute",
+    "class_sectors": 6
+   },
+   "local_rule": {
+    "call": "abstain",
+    "reason": "S_compression_not_scalar",
+    "vertices": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ]
+   },
+   "flat_recomputed": false
+  },
+  {
+   "test": "stratified_1000",
+   "id": 599,
+   "scaffold": "smh",
+   "floppy": "umo",
+   "flat": false,
+   "frozen_prediction": "abstain",
+   "frozen_route": null,
+   "sector_rule": {
+    "call": "abstain",
+    "reason": "joint_spectrum_varies_with_q",
+    "class_sectors": 2
+   },
+   "local_rule": {
+    "call": "abstain",
+    "reason": "S_compression_not_scalar",
+    "vertices": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9,
+     10,
+     11
+    ]
+   },
+   "flat_recomputed": false
+  },
+  {
+   "test": "stratified_1000",
+   "id": 617,
+   "scaffold": "wkv",
+   "floppy": "lhh",
+   "flat": false,
+   "frozen_prediction": "abstain",
+   "frozen_route": null,
+   "sector_rule": {
+    "call": "abstain",
+    "reason": "gram_operators_do_not_commute",
+    "class_sectors": 6
+   },
+   "local_rule": {
+    "call": "abstain",
+    "reason": "S_compression_not_scalar",
+    "vertices": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ]
+   },
+   "flat_recomputed": false
+  },
+  {
+   "test": "stratified_1000",
+   "id": 629,
+   "scaffold": "nia",
+   "floppy": "ats",
+   "flat": true,
+   "frozen_prediction": "predicted_flat",
+   "frozen_route": "L",
+   "sector_rule": {
+    "call": "predicted_flat",
+    "values": [
+     1.0,
+     1.0
+    ],
+    "class_sectors": 6,
+    "max_deviation_from_spectrum": 0.0
+   },
+   "local_rule": {
+    "call": "predicted_flat",
+    "values": [
+     1.0,
+     1.0
+    ],
+    "max_deviation_from_spectrum": 0.0
+   },
+   "flat_recomputed": true
+  },
+  {
+   "test": "stratified_1000",
+   "id": 632,
+   "scaffold": "mgz-x-d-e",
+   "floppy": "npo",
+   "flat": false,
+   "frozen_prediction": "abstain",
+   "frozen_route": null,
+   "sector_rule": {
+    "call": "abstain",
+    "reason": "joint_spectrum_varies_with_q",
+    "class_sectors": 3
+   },
+   "local_rule": {
+    "call": "abstain",
+    "reason": "S_compression_not_scalar",
+    "vertices": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ]
+   },
+   "flat_recomputed": false
+  },
+  {
+   "test": "stratified_1000",
+   "id": 681,
+   "scaffold": "ecj",
+   "floppy": "yfr",
+   "flat": false,
+   "frozen_prediction": "abstain",
+   "frozen_route": null,
+   "sector_rule": {
+    "call": "abstain",
+    "reason": "joint_spectrum_varies_with_q",
+    "class_sectors": 2
+   },
+   "local_rule": {
+    "call": "abstain",
+    "reason": "S_compression_not_scalar",
+    "vertices": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9,
+     10,
+     11,
+     12,
+     13,
+     14,
+     15
+    ]
+   },
+   "flat_recomputed": false
+  },
+  {
+   "test": "stratified_1000",
+   "id": 685,
+   "scaffold": "svd",
+   "floppy": "knc",
+   "flat": true,
+   "frozen_prediction": "predicted_flat",
+   "frozen_route": "L",
+   "sector_rule": {
+    "call": "predicted_flat",
+    "values": [
+     0.20694814289291974,
+     0.20694814289291974,
+     0.20694814289291974,
+     0.20694814289291974,
+     0.20694814289291974,
+     0.20694814289291974,
+     0.20694814289291974,
+     0.20694814289291974
+    ],
+    "class_sectors": 8,
+    "max_deviation_from_spectrum": 4.2067737282547313e-07
+   },
+   "local_rule": {
+    "call": "predicted_flat",
+    "values": [
+     0.20694772221554764,
+     0.20694772221554764,
+     0.20694772221554764,
+     0.20694772221554764,
+     0.20694772221554764,
+     0.20694772221554764,
+     0.20694772221554764,
+     0.20694772221554764
+    ],
+    "max_deviation_from_spectrum": 7.494005416219807e-16
+   },
+   "flat_recomputed": true
+  },
+  {
+   "test": "stratified_1000",
+   "id": 701,
+   "scaffold": "svq",
+   "floppy": "ctt-a",
+   "flat": false,
+   "frozen_prediction": "abstain",
+   "frozen_route": null,
+   "sector_rule": {
+    "call": "abstain",
+    "reason": "gram_operators_do_not_commute",
+    "class_sectors": 10
+   },
+   "local_rule": {
+    "call": "abstain",
+    "reason": "S_compression_not_scalar",
+    "vertices": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9,
+     10,
+     11,
+     12,
+     13,
+     14,
+     15
+    ]
+   },
+   "flat_recomputed": false
+  },
+  {
+   "test": "stratified_1000",
+   "id": 735,
+   "scaffold": "bsn",
+   "floppy": "wgd",
+   "flat": false,
+   "frozen_prediction": "abstain",
+   "frozen_route": null,
+   "sector_rule": {
+    "call": "abstain",
+    "reason": "joint_spectrum_varies_with_q",
+    "class_sectors": 2
+   },
+   "local_rule": {
+    "call": "abstain",
+    "reason": "S_compression_not_scalar",
+    "vertices": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9,
+     10,
+     11,
+     12,
+     13,
+     14,
+     15
+    ]
+   },
+   "flat_recomputed": false
+  },
+  {
+   "test": "stratified_1000",
+   "id": 738,
+   "scaffold": "wio",
+   "floppy": "wgj",
+   "flat": false,
+   "frozen_prediction": "abstain",
+   "frozen_route": null,
+   "sector_rule": {
+    "call": "abstain",
+    "reason": "joint_spectrum_varies_with_q",
+    "class_sectors": 2
+   },
+   "local_rule": {
+    "call": "abstain",
+    "reason": "S_compression_not_scalar",
+    "vertices": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9,
+     10,
+     11,
+     12,
+     13,
+     14,
+     15
+    ]
+   },
+   "flat_recomputed": false
+  },
+  {
+   "test": "stratified_1000",
+   "id": 750,
+   "scaffold": "xfm",
+   "floppy": "umr",
+   "flat": false,
+   "frozen_prediction": "abstain",
+   "frozen_route": null,
+   "sector_rule": {
+    "call": "abstain",
+    "reason": "joint_spectrum_varies_with_q",
+    "class_sectors": 2
+   },
+   "local_rule": {
+    "call": "abstain",
+    "reason": "S_compression_not_scalar",
+    "vertices": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9,
+     10,
+     11,
+     12,
+     13,
+     14,
+     15
+    ]
+   },
+   "flat_recomputed": false
+  },
+  {
+   "test": "stratified_1000",
+   "id": 763,
+   "scaffold": "xfe",
+   "floppy": "asf",
+   "flat": false,
+   "frozen_prediction": "abstain",
+   "frozen_route": null,
+   "sector_rule": {
+    "call": "abstain",
+    "reason": "gram_operators_do_not_commute",
+    "class_sectors": 5
+   },
+   "local_rule": {
+    "call": "abstain",
+    "reason": "S_compression_not_scalar",
+    "vertices": [
+     0,
+     1,
+     2,
+     3
+    ]
+   },
+   "flat_recomputed": false
+  },
+  {
+   "test": "stratified_1000",
+   "id": 764,
+   "scaffold": "wiq",
+   "floppy": "isu",
+   "flat": false,
+   "frozen_prediction": "abstain",
+   "frozen_route": null,
+   "sector_rule": {
+    "call": "abstain",
+    "reason": "gram_operators_do_not_commute",
+    "class_sectors": 13
+   },
+   "local_rule": {
+    "call": "abstain",
+    "reason": "S_compression_not_scalar",
+    "vertices": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9,
+     10,
+     11,
+     12,
+     13,
+     14,
+     15
+    ]
+   },
+   "flat_recomputed": false
+  },
+  {
+   "test": "stratified_1000",
+   "id": 777,
+   "scaffold": "wfl",
+   "floppy": "xbj",
+   "flat": false,
+   "frozen_prediction": "abstain",
+   "frozen_route": null,
+   "sector_rule": {
+    "call": "abstain",
+    "reason": "joint_spectrum_varies_with_q",
+    "class_sectors": 3
+   },
+   "local_rule": {
+    "call": "abstain",
+    "reason": "S_compression_not_scalar",
+    "vertices": [
+     0,
+     1,
+     2,
+     3
+    ]
+   },
+   "flat_recomputed": false
+  },
+  {
+   "test": "stratified_1000",
+   "id": 782,
+   "scaffold": "xfr",
+   "floppy": "wgm",
+   "flat": false,
+   "frozen_prediction": "abstain",
+   "frozen_route": null,
+   "sector_rule": {
+    "call": "abstain",
+    "reason": "joint_spectrum_varies_with_q",
+    "class_sectors": 2
+   },
+   "local_rule": {
+    "call": "abstain",
+    "reason": "S_compression_not_scalar",
+    "vertices": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9,
+     10,
+     11,
+     12,
+     13,
+     14,
+     15
+    ]
+   },
+   "flat_recomputed": false
+  },
+  {
+   "test": "stratified_1000",
+   "id": 815,
+   "scaffold": "wfc",
+   "floppy": "isg",
+   "flat": false,
+   "frozen_prediction": "abstain",
+   "frozen_route": null,
+   "sector_rule": {
+    "call": "abstain",
+    "reason": "gram_operators_do_not_commute",
+    "class_sectors": 22
+   },
+   "local_rule": {
+    "call": "abstain",
+    "reason": "S_compression_not_scalar",
+    "vertices": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7
+    ]
+   },
+   "flat_recomputed": false
+  },
+  {
+   "test": "stratified_1000",
+   "id": 821,
+   "scaffold": "llz",
+   "floppy": "jaj",
+   "flat": false,
+   "frozen_prediction": "abstain",
+   "frozen_route": null,
+   "sector_rule": {
+    "call": "abstain",
+    "reason": "gram_operators_do_not_commute",
+    "class_sectors": 8
+   },
+   "local_rule": {
+    "call": "abstain",
+    "reason": "S_compression_not_scalar",
+    "vertices": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7
+    ]
+   },
+   "flat_recomputed": false
+  },
+  {
+   "test": "stratified_1000",
+   "id": 829,
+   "scaffold": "ela",
+   "floppy": "zea",
+   "flat": false,
+   "frozen_prediction": "abstain",
+   "frozen_route": null,
+   "sector_rule": {
+    "call": "abstain",
+    "reason": "gram_operators_do_not_commute",
+    "class_sectors": 8
+   },
+   "local_rule": {
+    "call": "abstain",
+    "reason": "S_compression_not_scalar",
+    "vertices": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9,
+     10,
+     11,
+     12,
+     13,
+     14,
+     15
+    ]
+   },
+   "flat_recomputed": false
+  },
+  {
+   "test": "stratified_1000",
+   "id": 843,
+   "scaffold": "xfm",
+   "floppy": "ubo-a",
+   "flat": false,
+   "frozen_prediction": "abstain",
+   "frozen_route": null,
+   "sector_rule": {
+    "call": "abstain",
+    "reason": "gram_operators_do_not_commute",
+    "class_sectors": 9
+   },
+   "local_rule": {
+    "call": "abstain",
+    "reason": "S_compression_not_scalar",
+    "vertices": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9,
+     10,
+     11,
+     12,
+     13,
+     14,
+     15
+    ]
+   },
+   "flat_recomputed": false
+  },
+  {
+   "test": "stratified_1000",
+   "id": 875,
+   "scaffold": "wia",
+   "floppy": "vtx",
+   "flat": false,
+   "frozen_prediction": "abstain",
+   "frozen_route": null,
+   "sector_rule": {
+    "call": "abstain",
+    "reason": "joint_spectrum_varies_with_q",
+    "class_sectors": 5
+   },
+   "local_rule": {
+    "call": "abstain",
+    "reason": "S_compression_not_scalar",
+    "vertices": [
+     0,
+     1
+    ]
+   },
+   "flat_recomputed": false
+  },
+  {
+   "test": "stratified_1000",
+   "id": 880,
+   "scaffold": "ddi",
+   "floppy": "ant-a",
+   "flat": false,
+   "frozen_prediction": "abstain",
+   "frozen_route": null,
+   "sector_rule": {
+    "call": "abstain",
+    "reason": "gram_operators_do_not_commute",
+    "class_sectors": 16
+   },
+   "local_rule": {
+    "call": "abstain",
+    "reason": "S_compression_not_scalar",
+    "vertices": [
+     0,
+     1,
+     2,
+     3
+    ]
+   },
+   "flat_recomputed": false
+  },
+  {
+   "test": "stratified_1000",
+   "id": 887,
+   "scaffold": "wfm",
+   "floppy": "wih",
+   "flat": true,
+   "frozen_prediction": "abstain",
+   "frozen_route": null,
+   "sector_rule": {
+    "call": "predicted_flat",
+    "values": [
+     0.23722,
+     0.23722
+    ],
+    "class_sectors": 2,
+    "max_deviation_from_spectrum": 1.7616098280104353e-07
+   },
+   "local_rule": {
+    "call": "predicted_flat",
+    "values": [
+     0.23721982383901907,
+     0.23721982383901907
+    ],
+    "max_deviation_from_spectrum": 1.887379141862766e-15
+   },
+   "flat_recomputed": true
+  },
+  {
+   "test": "stratified_1000",
+   "id": 903,
+   "scaffold": "wip",
+   "floppy": "yfr",
+   "flat": false,
+   "frozen_prediction": "abstain",
+   "frozen_route": null,
+   "sector_rule": {
+    "call": "abstain",
+    "reason": "joint_spectrum_varies_with_q",
+    "class_sectors": 2
+   },
+   "local_rule": {
+    "call": "abstain",
+    "reason": "S_compression_not_scalar",
+    "vertices": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9,
+     10,
+     11,
+     12,
+     13,
+     14,
+     15
+    ]
+   },
+   "flat_recomputed": false
+  },
+  {
+   "test": "stratified_1000",
+   "id": 906,
+   "scaffold": "wis",
+   "floppy": "wgh",
+   "flat": false,
+   "frozen_prediction": "abstain",
+   "frozen_route": null,
+   "sector_rule": {
+    "call": "abstain",
+    "reason": "joint_spectrum_varies_with_q",
+    "class_sectors": 2
+   },
+   "local_rule": {
+    "call": "abstain",
+    "reason": "S_compression_not_scalar",
+    "vertices": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9,
+     10,
+     11,
+     12,
+     13,
+     14,
+     15
+    ]
+   },
+   "flat_recomputed": false
+  },
+  {
+   "test": "stratified_1000",
+   "id": 921,
+   "scaffold": "wfm",
+   "floppy": "hua",
+   "flat": true,
+   "frozen_prediction": "predicted_flat",
+   "frozen_route": "L",
+   "sector_rule": {
+    "call": "predicted_flat",
+    "values": [
+     1.8889057866632963,
+     1.8889057866632963,
+     1.8889057866632963,
+     1.8889057866632963
+    ],
+    "class_sectors": 5,
+    "max_deviation_from_spectrum": 8.153056456627894e-07
+   },
+   "local_rule": {
+    "call": "predicted_flat",
+    "values": [
+     1.8889049713576522,
+     1.8889049713576522,
+     1.8889049713576522,
+     1.8889049713576522
+    ],
+    "max_deviation_from_spectrum": 1.9984014443252818e-15
+   },
+   "flat_recomputed": true
+  },
+  {
+   "test": "stratified_1000",
+   "id": 923,
+   "scaffold": "xfr",
+   "floppy": "yfv",
+   "flat": false,
+   "frozen_prediction": "abstain",
+   "frozen_route": null,
+   "sector_rule": {
+    "call": "abstain",
+    "reason": "joint_spectrum_varies_with_q",
+    "class_sectors": 2
+   },
+   "local_rule": {
+    "call": "abstain",
+    "reason": "S_compression_not_scalar",
+    "vertices": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9,
+     10,
+     11,
+     12,
+     13,
+     14,
+     15
+    ]
+   },
+   "flat_recomputed": false
+  },
+  {
+   "test": "stratified_1000",
+   "id": 942,
+   "scaffold": "xfs",
+   "floppy": "ubo",
+   "flat": false,
+   "frozen_prediction": "abstain",
+   "frozen_route": null,
+   "sector_rule": {
+    "call": "abstain",
+    "reason": "gram_operators_do_not_commute",
+    "class_sectors": 4
+   },
+   "local_rule": {
+    "call": "abstain",
+    "reason": "S_compression_not_scalar",
+    "vertices": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7
+    ]
+   },
+   "flat_recomputed": false
+  },
+  {
+   "test": "stratified_1000",
+   "id": 946,
+   "scaffold": "fit-e",
+   "floppy": "sse-e",
+   "flat": false,
+   "frozen_prediction": "abstain",
+   "frozen_route": null,
+   "sector_rule": {
+    "call": "abstain",
+    "reason": "gram_operators_do_not_commute",
+    "class_sectors": 9
+   },
+   "local_rule": {
+    "call": "abstain",
+    "reason": "S_compression_not_scalar",
+    "vertices": [
+     0,
+     1,
+     2,
+     3
+    ]
+   },
+   "flat_recomputed": false
+  },
+  {
+   "test": "stratified_1000",
+   "id": 954,
+   "scaffold": "sno",
+   "floppy": "wgs",
+   "flat": false,
+   "frozen_prediction": "abstain",
+   "frozen_route": null,
+   "sector_rule": {
+    "call": "abstain",
+    "reason": "joint_spectrum_varies_with_q",
+    "class_sectors": 2
+   },
+   "local_rule": {
+    "call": "abstain",
+    "reason": "S_compression_not_scalar",
+    "vertices": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9,
+     10,
+     11,
+     12,
+     13,
+     14,
+     15
+    ]
+   },
+   "flat_recomputed": false
+  },
+  {
+   "test": "stratified_1000",
+   "id": 957,
+   "scaffold": "ngc",
+   "floppy": "zfv",
+   "flat": false,
+   "frozen_prediction": "abstain",
+   "frozen_route": null,
+   "sector_rule": {
+    "call": "abstain",
+    "reason": "joint_spectrum_varies_with_q",
+    "class_sectors": 3
+   },
+   "local_rule": {
+    "call": "abstain",
+    "reason": "S_compression_not_scalar",
+    "vertices": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7
+    ]
+   },
+   "flat_recomputed": false
+  },
+  {
+   "test": "stratified_1000",
+   "id": 964,
+   "scaffold": "ecm",
+   "floppy": "wgc",
+   "flat": false,
+   "frozen_prediction": "abstain",
+   "frozen_route": null,
+   "sector_rule": {
+    "call": "abstain",
+    "reason": "joint_spectrum_varies_with_q",
+    "class_sectors": 2
+   },
+   "local_rule": {
+    "call": "abstain",
+    "reason": "S_compression_not_scalar",
+    "vertices": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7
+    ]
+   },
+   "flat_recomputed": false
+  },
+  {
+   "test": "stratified_1000",
+   "id": 965,
+   "scaffold": "keb",
+   "floppy": "lbt",
+   "flat": false,
+   "frozen_prediction": "abstain",
+   "frozen_route": null,
+   "sector_rule": {
+    "call": "abstain",
+    "reason": "gram_operators_do_not_commute",
+    "class_sectors": 4
+   },
+   "local_rule": {
+    "call": "abstain",
+    "reason": "S_compression_not_scalar",
+    "vertices": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7
+    ]
+   },
+   "flat_recomputed": false
+  },
+  {
+   "test": "stratified_1000",
+   "id": 976,
+   "scaffold": "whz",
+   "floppy": "yfi",
+   "flat": false,
+   "frozen_prediction": "abstain",
+   "frozen_route": null,
+   "sector_rule": {
+    "call": "abstain",
+    "reason": "joint_spectrum_varies_with_q",
+    "class_sectors": 2
+   },
+   "local_rule": {
+    "call": "abstain",
+    "reason": "S_compression_not_scalar",
+    "vertices": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7
+    ]
+   },
+   "flat_recomputed": false
+  }
+ ]
+}

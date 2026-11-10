@@ -1,0 +1,341 @@
+{
+ "bcu|nbo": {
+  "M_F_generic": 6,
+  "n_planar_common_cell": 6,
+  "nullspace_dims": [
+   1
+  ],
+  "n_planar_own_cell": 6,
+  "n_q_scanned": 2909,
+  "n_q_MF_gt_P": 1514,
+  "n_of_those_with_rigid_scaffold": 1133,
+  "n_break_with_rigid_scaffold": 0,
+  "witnesses": []
+ },
+ "bsn|lvt": {
+  "M_F_generic": 8,
+  "n_planar_common_cell": 8,
+  "nullspace_dims": [
+   1
+  ],
+  "n_planar_own_cell": 8,
+  "n_q_scanned": 2909,
+  "n_q_MF_gt_P": 552,
+  "n_of_those_with_rigid_scaffold": 171,
+  "n_break_with_rigid_scaffold": 171,
+  "witnesses": [
+   {
+    "q": [
+     0.0078,
+     0.0078,
+     0.0156
+    ],
+    "M_F": 9,
+    "M_S": 0,
+    "kept": 7,
+    "spectrum": [
+     0.0,
+     1.64474,
+     1.64474,
+     1.64474,
+     1.64474,
+     1.64474,
+     1.64474,
+     1.64474,
+     1.80147
+    ]
+   },
+   {
+    "q": [
+     0.0156,
+     0.0156,
+     0.0312
+    ],
+    "M_F": 9,
+    "M_S": 0,
+    "kept": 7,
+    "spectrum": [
+     -0.0,
+     1.64474,
+     1.64474,
+     1.64474,
+     1.64474,
+     1.64474,
+     1.64474,
+     1.64474,
+     1.80147
+    ]
+   },
+   {
+    "q": [
+     0.0234,
+     0.0234,
+     0.0469
+    ],
+    "M_F": 9,
+    "M_S": 0,
+    "kept": 7,
+    "spectrum": [
+     0.0,
+     1.64474,
+     1.64474,
+     1.64474,
+     1.64474,
+     1.64474,
+     1.64474,
+     1.64474,
+     1.80147
+    ]
+   }
+  ]
+ },
+ "hxg-d|hxg": {
+  "M_F_generic": 4,
+  "n_planar_common_cell": 4,
+  "nullspace_dims": [
+   1
+  ],
+  "n_planar_own_cell": 4,
+  "n_q_scanned": 2909,
+  "n_q_MF_gt_P": 14,
+  "n_of_those_with_rigid_scaffold": 14,
+  "n_break_with_rigid_scaffold": 0,
+  "witnesses": []
+ },
+ "nia|nia-d": {
+  "M_F_generic": 2,
+  "n_planar_common_cell": 2,
+  "nullspace_dims": [
+   0,
+   1
+  ],
+  "n_planar_own_cell": 2,
+  "n_q_scanned": 2909,
+  "n_q_MF_gt_P": 299,
+  "n_of_those_with_rigid_scaffold": 0,
+  "n_break_with_rigid_scaffold": 0,
+  "witnesses": []
+ },
+ "pcu|urk": {
+  "M_F_generic": 3,
+  "n_planar_common_cell": 3,
+  "nullspace_dims": [
+   0,
+   1
+  ],
+  "n_planar_own_cell": 3,
+  "n_q_scanned": 2909,
+  "n_q_MF_gt_P": 1514,
+  "n_of_those_with_rigid_scaffold": 0,
+  "n_break_with_rigid_scaffold": 0,
+  "witnesses": []
+ },
+ "qtz-x|uom": {
+  "M_F_generic": 6,
+  "n_planar_common_cell": 6,
+  "nullspace_dims": [
+   1
+  ],
+  "n_planar_own_cell": 6,
+  "n_q_scanned": 2909,
+  "n_q_MF_gt_P": 2393,
+  "n_of_those_with_rigid_scaffold": 0,
+  "n_break_with_rigid_scaffold": 0,
+  "witnesses": []
+ },
+ "she-d|she": {
+  "M_F_generic": 20,
+  "n_planar_common_cell": 20,
+  "nullspace_dims": [
+   1
+  ],
+  "n_planar_own_cell": 20,
+  "n_q_scanned": 2909,
+  "n_q_MF_gt_P": 14,
+  "n_of_those_with_rigid_scaffold": 14,
+  "n_break_with_rigid_scaffold": 0,
+  "witnesses": []
+ },
+ "toc-e|hxg": {
+  "M_F_generic": 4,
+  "n_planar_common_cell": 4,
+  "nullspace_dims": [
+   1
+  ],
+  "n_planar_own_cell": 4,
+  "n_q_scanned": 2909,
+  "n_q_MF_gt_P": 14,
+  "n_of_those_with_rigid_scaffold": 0,
+  "n_break_with_rigid_scaffold": 0,
+  "witnesses": []
+ },
+ "snl|lvt": {
+  "M_F_generic": 8,
+  "n_planar_common_cell": 8,
+  "nullspace_dims": [
+   1
+  ],
+  "n_planar_own_cell": 8,
+  "n_q_scanned": 2909,
+  "n_q_MF_gt_P": 552,
+  "n_of_those_with_rigid_scaffold": 171,
+  "n_break_with_rigid_scaffold": 171,
+  "witnesses": [
+   {
+    "q": [
+     0.0078,
+     0.0078,
+     0.0156
+    ],
+    "M_F": 9,
+    "M_S": 0,
+    "kept": 7,
+    "spectrum": [
+     0.5601,
+     1.49089,
+     1.49089,
+     1.49089,
+     1.49089,
+     1.49089,
+     1.49089,
+     1.49089,
+     2.19615
+    ]
+   },
+   {
+    "q": [
+     0.0156,
+     0.0156,
+     0.0312
+    ],
+    "M_F": 9,
+    "M_S": 0,
+    "kept": 7,
+    "spectrum": [
+     0.5601,
+     1.49089,
+     1.49089,
+     1.49089,
+     1.49089,
+     1.49089,
+     1.49089,
+     1.49089,
+     2.19615
+    ]
+   },
+   {
+    "q": [
+     0.0234,
+     0.0234,
+     0.0469
+    ],
+    "M_F": 9,
+    "M_S": 0,
+    "kept": 7,
+    "spectrum": [
+     0.5601,
+     1.49089,
+     1.49089,
+     1.49089,
+     1.49089,
+     1.49089,
+     1.49089,
+     1.49089,
+     2.19615
+    ]
+   }
+  ]
+ },
+ "reo|urk": {
+  "M_F_generic": 3,
+  "n_planar_common_cell": 3,
+  "nullspace_dims": [
+   0,
+   1
+  ],
+  "n_planar_own_cell": 3,
+  "n_q_scanned": 2909,
+  "n_q_MF_gt_P": 1514,
+  "n_of_those_with_rigid_scaffold": 1493,
+  "n_break_with_rigid_scaffold": 1493,
+  "witnesses": [
+   {
+    "q": [
+     0.0078,
+     0.0,
+     0.0
+    ],
+    "M_F": 9,
+    "M_S": 0,
+    "kept": 1,
+    "spectrum": [
+     0.51613,
+     0.66667,
+     0.83333,
+     0.86566,
+     1.0,
+     1.16667,
+     1.28488,
+     1.33333,
+     1.33333
+    ]
+   },
+   {
+    "q": [
+     0.0156,
+     0.0,
+     0.0
+    ],
+    "M_F": 9,
+    "M_S": 0,
+    "kept": 1,
+    "spectrum": [
+     0.51613,
+     0.66667,
+     0.83333,
+     0.86566,
+     1.0,
+     1.16667,
+     1.28488,
+     1.33333,
+     1.33333
+    ]
+   },
+   {
+    "q": [
+     0.0234,
+     0.0,
+     0.0
+    ],
+    "M_F": 9,
+    "M_S": 0,
+    "kept": 1,
+    "spectrum": [
+     0.51613,
+     0.66667,
+     0.83333,
+     0.86566,
+     1.0,
+     1.16667,
+     1.28488,
+     1.33333,
+     1.33333
+    ]
+   }
+  ]
+ },
+ "sta|nia-d": {
+  "M_F_generic": 2,
+  "n_planar_common_cell": 2,
+  "nullspace_dims": [
+   0,
+   1
+  ],
+  "n_planar_own_cell": 2,
+  "n_q_scanned": 2909,
+  "n_q_MF_gt_P": 299,
+  "n_of_those_with_rigid_scaffold": 0,
+  "n_break_with_rigid_scaffold": 0,
+  "witnesses": []
+ }
+}

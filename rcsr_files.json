@@ -1,0 +1,15 @@
+{
+ "data_source": "Reticular Chemistry Structure Resource, https://rcsr.net (O'Keeffe, Peskov, Ramsden and Yaghi, Acc. Chem. Res. 41, 1782, 2008). Not redistributed. Download the files below into one directory and pass it with --rcsr DIR or RCSR_DIR.",
+ "files": {
+  "rcsr3d.cgd": {
+   "sha256": "1b089dd3c6bb55b4d28a3b676da39c681b88de1a4b877e774e18060ddc217d14",
+   "bytes": 1886814,
+   "note": "Systre cgd file of the RCSR nets (also distributed as RCSRnets-2019-06-01.cgd); read by every RCSR-based script"
+  },
+  "3dall.txt": {
+   "sha256": "c143e8aa98a94fbec9f7ff30571269494b6e42895e2b57b219a40512801d2743",
+   "bytes": 4547394,
+   "note": "RCSR 3D data file with tiling symbols; read by screen/coordination.py"
+  }
+ }
+}

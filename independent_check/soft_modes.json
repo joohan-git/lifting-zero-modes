@@ -1,0 +1,26 @@
+{
+ "qtz-x|uom": {
+  "viol_full_1pct": 0.757080078125,
+  "viol_frozen_scaffold_1pct": 0.580810546875,
+  "frac_scaffold_lowest_below_10x_ref": 0.460693359375,
+  "frac_scaffold_lowest_below_100x_ref": 1.0,
+  "frac_F_stiff_lowest_below_10x_ref": 0.43798828125,
+  "frac_F_stiff_lowest_below_100x_ref": 0.924560546875,
+  "viol_full_given_scaffold_soft100": 0.757080078125,
+  "viol_full_given_scaffold_stiff100": null,
+  "median_scaffold_lowest_over_ref": 12.296053297983235,
+  "median_F_stiff_lowest_over_ref": 13.79176573928514
+ },
+ "bcu|nbo": {
+  "viol_full_1pct": 0.052734375,
+  "viol_frozen_scaffold_1pct": 0.0,
+  "frac_scaffold_lowest_below_10x_ref": 0.01416015625,
+  "frac_scaffold_lowest_below_100x_ref": 0.12548828125,
+  "frac_F_stiff_lowest_below_10x_ref": 0.248046875,
+  "frac_F_stiff_lowest_below_100x_ref": 0.63427734375,
+  "viol_full_given_scaffold_soft100": 0.42023346303501946,
+  "viol_full_given_scaffold_stiff100": 0.0,
+  "median_scaffold_lowest_over_ref": 413.64279368863816,
+  "median_F_stiff_lowest_over_ref": 52.883253721443694
+ }
+}

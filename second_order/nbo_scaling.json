@@ -1,0 +1,86 @@
+{
+ "bcu": {
+  "0.001": {
+   "q05_q50_q95": [
+    1.9929,
+    1.9991,
+    2.0
+   ],
+   "frac_within_5pct_of_2kc": 0.9953,
+   "frac_within_1pct": 0.9811,
+   "median_dev_far_from_Gamma": 0.00089
+  },
+  "0.003": {
+   "q05_q50_q95": [
+    1.9786,
+    1.9973,
+    2.0
+   ],
+   "frac_within_5pct_of_2kc": 0.9889,
+   "frac_within_1pct": 0.9473,
+   "median_dev_far_from_Gamma": 0.00266
+  },
+  "0.01": {
+   "q05_q50_q95": [
+    1.9287,
+    1.9911,
+    1.9999
+   ],
+   "frac_within_5pct_of_2kc": 0.9637,
+   "frac_within_1pct": 0.8209,
+   "median_dev_far_from_Gamma": 0.00887
+  },
+  "0.03": {
+   "q05_q50_q95": [
+    1.7902,
+    1.9734,
+    1.9997
+   ],
+   "frac_within_5pct_of_2kc": 0.8961,
+   "frac_within_1pct": 0.3951,
+   "median_dev_far_from_Gamma": 0.0266
+  }
+ },
+ "bcu+axial": {
+  "0.001": {
+   "q05_q50_q95": [
+    1.9974,
+    1.9995,
+    2.0
+   ],
+   "frac_within_5pct_of_2kc": 0.9998,
+   "frac_within_1pct": 0.9983,
+   "median_dev_far_from_Gamma": 0.00041
+  },
+  "0.003": {
+   "q05_q50_q95": [
+    1.9921,
+    1.9986,
+    2.0
+   ],
+   "frac_within_5pct_of_2kc": 0.9992,
+   "frac_within_1pct": 0.9887,
+   "median_dev_far_from_Gamma": 0.00122
+  },
+  "0.01": {
+   "q05_q50_q95": [
+    1.9736,
+    1.9954,
+    2.0
+   ],
+   "frac_within_5pct_of_2kc": 0.9939,
+   "frac_within_1pct": 0.9237,
+   "median_dev_far_from_Gamma": 0.00408
+  },
+  "0.03": {
+   "q05_q50_q95": [
+    1.9211,
+    1.9861,
+    1.9999
+   ],
+   "frac_within_5pct_of_2kc": 0.9664,
+   "frac_within_1pct": 0.5892,
+   "median_dev_far_from_Gamma": 0.01224
+  }
+ }
+}

@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the article and this archive."
+title: "Lifting mechanical zero modes without dispersion: code and data"
+authors:
+  - family-names: Nam
+    given-names: Joohan
+    orcid: "https://orcid.org/0000-0001-5123-418X"
+    affiliation: "Technische Universität Dresden"
+version: 1.0.1
+doi: 10.5281/zenodo.24043085
+repository-code: "https://github.com/joohan-git/lifting-zero-modes"
+date-released: 2026-11-10
+license: MIT
+keywords:
+  - flat bands
+  - mechanical frameworks
+  - tiling duality
+  - site symmetry
+  - mechanisms
+  - parametric drive

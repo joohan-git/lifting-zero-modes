@@ -1,0 +1,280 @@
+{
+ "cohorts": {
+  "dual": {
+   "total": 76,
+   "completed": 76,
+   "errors": 0,
+   "qualified": 30,
+   "actual_flat": 10,
+   "predicted_flat_qualified": 10,
+   "true_positive": 10,
+   "false_positive": 0,
+   "qualified_confusion": {
+    "predicted_flat__flat": 10,
+    "abstain__nonflat": 20,
+    "predicted_flat__nonflat": 0,
+    "abstain__flat": 0
+   },
+   "coverage": 1.0,
+   "coverage_wilson95": [
+    0.7224672001371107,
+    0.9999999999999999
+   ],
+   "qualified_call_rate": 0.3333333333333333,
+   "call_rate_wilson95": [
+    0.19230498083676134,
+    0.5121994835545616
+   ],
+   "false_prediction_upper95_one_sided": 0.2588655508930522,
+   "false_prediction_upper95_two_sided": 0.3084971078187608,
+   "conventional_false_positive_rate_denominator": 20,
+   "false_positive_rate_upper95": 0.13910834066826516,
+   "unqualified_predictions": 3,
+   "unqualified_prediction_categories": {
+    "rigid__partial_or_no_mechanisms__fixed_shape_flat": 2,
+    "nonrigid__partial_or_no_mechanisms__fixed_shape_flat": 1
+   },
+   "failures": [],
+   "qualified_flat_abstentions": []
+  },
+  "unbiased_dual": {
+   "total": 32,
+   "completed": 32,
+   "errors": 0,
+   "qualified": 12,
+   "actual_flat": 4,
+   "predicted_flat_qualified": 4,
+   "true_positive": 4,
+   "false_positive": 0,
+   "qualified_confusion": {
+    "abstain__nonflat": 8,
+    "predicted_flat__flat": 4,
+    "predicted_flat__nonflat": 0,
+    "abstain__flat": 0
+   },
+   "coverage": 1.0,
+   "coverage_wilson95": [
+    0.5101091635454027,
+    1.0
+   ],
+   "qualified_call_rate": 0.3333333333333333,
+   "call_rate_wilson95": [
+    0.13812009109121315,
+    0.6093779111272004
+   ],
+   "false_prediction_upper95_one_sided": 0.527129195498412,
+   "false_prediction_upper95_two_sided": 0.6023646356164746,
+   "conventional_false_positive_rate_denominator": 8,
+   "false_positive_rate_upper95": 0.3123439780663678,
+   "unqualified_predictions": 2,
+   "unqualified_prediction_categories": {
+    "nonrigid__fully_lifted__fixed_shape_flat": 2
+   },
+   "failures": [],
+   "qualified_flat_abstentions": []
+  },
+  "unbiased_nondual": {
+   "total": 96,
+   "completed": 96,
+   "errors": 0,
+   "qualified": 15,
+   "actual_flat": 1,
+   "predicted_flat_qualified": 1,
+   "true_positive": 1,
+   "false_positive": 0,
+   "qualified_confusion": {
+    "abstain__nonflat": 14,
+    "predicted_flat__flat": 1,
+    "predicted_flat__nonflat": 0,
+    "abstain__flat": 0
+   },
+   "coverage": 1.0,
+   "coverage_wilson95": [
+    0.20654931437723745,
+    1.0
+   ],
+   "qualified_call_rate": 0.06666666666666667,
+   "call_rate_wilson95": [
+    0.011866895493268553,
+    0.2981652987378003
+   ],
+   "false_prediction_upper95_one_sided": 0.95,
+   "false_prediction_upper95_two_sided": 0.975,
+   "conventional_false_positive_rate_denominator": 14,
+   "false_positive_rate_upper95": 0.19263617565013527,
+   "unqualified_predictions": 15,
+   "unqualified_prediction_categories": {
+    "nonrigid__fully_lifted__fixed_shape_flat": 13,
+    "nonrigid__partial_or_no_mechanisms__fixed_shape_flat": 2
+   },
+   "failures": [],
+   "qualified_flat_abstentions": []
+  },
+  "nondual": {
+   "total": 250,
+   "completed": 250,
+   "errors": 0,
+   "qualified": 13,
+   "actual_flat": 11,
+   "predicted_flat_qualified": 11,
+   "true_positive": 11,
+   "false_positive": 0,
+   "qualified_confusion": {
+    "predicted_flat__flat": 11,
+    "abstain__nonflat": 2,
+    "predicted_flat__nonflat": 0,
+    "abstain__flat": 0
+   },
+   "coverage": 1.0,
+   "coverage_wilson95": [
+    0.7411670330319684,
+    1.0
+   ],
+   "qualified_call_rate": 0.8461538461538461,
+   "call_rate_wilson95": [
+    0.5776536898051745,
+    0.9567418216419186
+   ],
+   "false_prediction_upper95_one_sided": 0.23840419038085256,
+   "false_prediction_upper95_two_sided": 0.28491415291815436,
+   "conventional_false_positive_rate_denominator": 2,
+   "false_positive_rate_upper95": 0.776393202250021,
+   "unqualified_predictions": 213,
+   "unqualified_prediction_categories": {
+    "nonrigid__fully_lifted__fixed_shape_flat": 188,
+    "nonrigid__partial_or_no_mechanisms__fixed_shape_flat": 18,
+    "rigid__partial_or_no_mechanisms__fixed_shape_flat": 7
+   },
+   "failures": [],
+   "qualified_flat_abstentions": []
+  },
+  "prospective": {
+   "total": 300,
+   "completed": 300,
+   "errors": 0,
+   "qualified": 20,
+   "actual_flat": 5,
+   "predicted_flat_qualified": 3,
+   "true_positive": 3,
+   "false_positive": 0,
+   "qualified_confusion": {
+    "abstain__nonflat": 15,
+    "abstain__flat": 2,
+    "predicted_flat__flat": 3,
+    "predicted_flat__nonflat": 0
+   },
+   "coverage": 0.6,
+   "coverage_wilson95": [
+    0.2307242812760128,
+    0.882379225767352
+   ],
+   "qualified_call_rate": 0.15,
+   "call_rate_wilson95": [
+    0.052368745896216595,
+    0.36041886474075696
+   ],
+   "false_prediction_upper95_one_sided": 0.6315968501359612,
+   "false_prediction_upper95_two_sided": 0.7075982261787133,
+   "conventional_false_positive_rate_denominator": 15,
+   "false_positive_rate_upper95": 0.18103627252208462,
+   "unqualified_predictions": 15,
+   "unqualified_prediction_categories": {
+    "nonrigid__fully_lifted__fixed_shape_flat": 10,
+    "nonrigid__partial_or_no_mechanisms__fixed_shape_flat": 4,
+    "rigid__partial_or_no_mechanisms__fixed_shape_flat": 1
+   },
+   "failures": [],
+   "qualified_flat_abstentions": [
+    {
+     "id": 106,
+     "scaffold": "pdb",
+     "floppy": "xav",
+     "reason": "no_sufficient_route"
+    },
+    {
+     "id": 206,
+     "scaffold": "ith-e",
+     "floppy": "urg",
+     "reason": "no_sufficient_route"
+    }
+   ]
+  },
+  "retrospective_all_rows": {
+   "total": 454,
+   "completed": 454,
+   "errors": 0,
+   "qualified": 70,
+   "actual_flat": 26,
+   "predicted_flat_qualified": 26,
+   "true_positive": 26,
+   "false_positive": 0,
+   "qualified_confusion": {
+    "predicted_flat__flat": 26,
+    "abstain__nonflat": 44,
+    "predicted_flat__nonflat": 0,
+    "abstain__flat": 0
+   },
+   "coverage": 1.0,
+   "coverage_wilson95": [
+    0.8712710781407846,
+    1.0
+   ],
+   "qualified_call_rate": 0.37142857142857144,
+   "call_rate_wilson95": [
+    0.26770651334691126,
+    0.4885279884157288
+   ],
+   "false_prediction_upper95_one_sided": 0.10883035576078481,
+   "false_prediction_upper95_two_sided": 0.13227460449775408,
+   "conventional_false_positive_rate_denominator": 44,
+   "false_positive_rate_upper95": 0.06581877114493394,
+   "unqualified_predictions": 233,
+   "unqualified_prediction_categories": {
+    "rigid__partial_or_no_mechanisms__fixed_shape_flat": 9,
+    "nonrigid__partial_or_no_mechanisms__fixed_shape_flat": 21,
+    "nonrigid__fully_lifted__fixed_shape_flat": 203
+   },
+   "failures": [],
+   "qualified_flat_abstentions": []
+  },
+  "retrospective_unique_ordered_pairs": {
+   "total": 422,
+   "completed": 422,
+   "errors": 0,
+   "qualified": 58,
+   "actual_flat": 22,
+   "predicted_flat_qualified": 22,
+   "true_positive": 22,
+   "false_positive": 0,
+   "qualified_confusion": {
+    "predicted_flat__flat": 22,
+    "abstain__nonflat": 36,
+    "predicted_flat__nonflat": 0,
+    "abstain__flat": 0
+   },
+   "coverage": 1.0,
+   "coverage_wilson95": [
+    0.8513451253913791,
+    1.0
+   ],
+   "qualified_call_rate": 0.3793103448275862,
+   "call_rate_wilson95": [
+    0.2656427267728758,
+    0.5079719280723111
+   ],
+   "false_prediction_upper95_one_sided": 0.1273054316548387,
+   "false_prediction_upper95_two_sided": 0.15437251281557454,
+   "conventional_false_positive_rate_denominator": 36,
+   "false_positive_rate_upper95": 0.07984650951989439,
+   "unqualified_predictions": 229,
+   "unqualified_prediction_categories": {
+    "rigid__partial_or_no_mechanisms__fixed_shape_flat": 9,
+    "nonrigid__partial_or_no_mechanisms__fixed_shape_flat": 21,
+    "nonrigid__fully_lifted__fixed_shape_flat": 199
+   },
+   "failures": [],
+   "qualified_flat_abstentions": []
+  }
+ },
+ "interval_note": "Wilson 95% coverage/call-rate; exact binomial CP upper bounds. These pair-wise intervals do not remove shared-net dependence or catalogue-selection limitations. Retrospective rows have known outcomes and are not prospective evidence."
+}

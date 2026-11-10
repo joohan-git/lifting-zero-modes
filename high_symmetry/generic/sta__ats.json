@@ -1,0 +1,37 @@
+{
+ "nq": 40,
+ "M_F": [
+  2
+ ],
+ "M_S": [
+  0
+ ],
+ "nu_F": 0,
+ "nu_S": 0,
+ "generic_self_stress_F": [
+  2
+ ],
+ "eig_min": 0.0,
+ "eig_max": 1.4266484366892302e-28,
+ "branch_means": [
+  0.0,
+  1.1171931438326362e-29
+ ],
+ "branch_ranges": [
+  0.0,
+  1.426384304111117e-28
+ ],
+ "spread_rel": 7.131921520555585e-17,
+ "centroid": 5.585965719163181e-30,
+ "trace_Pavg_S": 1.1171931438326365e-29,
+ "generic_unlifted": [
+  2
+ ],
+ "scaffold": "sta",
+ "floppy": "ats",
+ "rest_length_min": 0.5772885742,
+ "rest_length_max": 1.1902143337467628,
+ "rest_length_rule": "l0 = current bond/contact length",
+ "force_residual": 0.0,
+ "geometric_stiffness_norm": 0.0
+}

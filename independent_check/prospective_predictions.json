@@ -1,0 +1,9201 @@
+{
+ "rules": "Rule N (local normals exhausting the generic mechanisms) and rule B (bipartite isotropic); abstain otherwise. Geometry only.",
+ "n": 300,
+ "n_predicted_flat": 17,
+ "errors": [],
+ "rows": [
+  {
+   "id": 0,
+   "scaffold": "utb",
+   "floppy": "fcg",
+   "group": "I432",
+   "mult": 2,
+   "V_F": 24,
+   "E_F": 60,
+   "V_S": 12,
+   "E_S": 18,
+   "M_F": 12,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "clearance": 0.4896820762893648,
+   "n_contacts": 24,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 1,
+   "scaffold": "scg",
+   "floppy": "zbw",
+   "group": "C12/c1",
+   "mult": 2,
+   "V_F": 8,
+   "E_F": 28,
+   "V_S": 4,
+   "E_S": 14,
+   "M_F": 0,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "clearance": 0.3854806844562857,
+   "n_contacts": 8,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 2,
+   "scaffold": "bbv",
+   "floppy": "sas",
+   "group": "I4/mmm",
+   "mult": 2,
+   "V_F": 16,
+   "E_F": 32,
+   "V_S": 8,
+   "E_S": 16,
+   "M_F": 16,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "clearance": 0.7530779702204784,
+   "n_contacts": 24,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 3,
+   "scaffold": "uka",
+   "floppy": "yft",
+   "group": "I41/acd:2",
+   "mult": 2,
+   "V_F": 16,
+   "E_F": 40,
+   "V_S": 16,
+   "E_S": 32,
+   "M_F": 8,
+   "shift_conv": [
+    0.0,
+    0.5,
+    0.25
+   ],
+   "clearance": 0.5253632466470901,
+   "n_contacts": 24,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 4,
+   "scaffold": "wjw",
+   "floppy": "twt-e",
+   "group": "P6222",
+   "mult": 1,
+   "V_F": 9,
+   "E_F": 18,
+   "V_S": 12,
+   "E_S": 30,
+   "M_F": 9,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "clearance": 0.39055708639999986,
+   "n_contacts": 24,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 5,
+   "scaffold": "ftu",
+   "floppy": "ntv-a",
+   "group": "Fm-3m",
+   "mult": 4,
+   "V_F": 60,
+   "E_F": 114,
+   "V_S": 72,
+   "E_S": 144,
+   "M_F": 66,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "clearance": 0.6454769249836247,
+   "n_contacts": 240,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 6,
+   "scaffold": "ats",
+   "floppy": "can-e",
+   "group": "P63/mmc",
+   "mult": 1,
+   "V_F": 24,
+   "E_F": 72,
+   "V_S": 6,
+   "E_S": 18,
+   "M_F": 0,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.375
+   ],
+   "clearance": 0.26161536211766223,
+   "n_contacts": 48,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 7,
+   "scaffold": "wjr",
+   "floppy": "smw",
+   "group": "P6/mcc",
+   "mult": 1,
+   "V_F": 12,
+   "E_F": 36,
+   "V_S": 24,
+   "E_S": 60,
+   "M_F": 0,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "clearance": 0.7070893991999999,
+   "n_contacts": 72,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": true,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "classes not isotropic/identical"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 8,
+   "scaffold": "wlm",
+   "floppy": "fua",
+   "group": "R-3m:H",
+   "mult": 3,
+   "V_F": 18,
+   "E_F": 36,
+   "V_S": 12,
+   "E_S": 30,
+   "M_F": 18,
+   "shift_conv": [
+    0.0,
+    0.5,
+    0.5
+   ],
+   "clearance": 0.5464999782101023,
+   "n_contacts": 20,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 9,
+   "scaffold": "eab",
+   "floppy": "icm",
+   "group": "P63/mmc",
+   "mult": 1,
+   "V_F": 16,
+   "E_F": 32,
+   "V_S": 36,
+   "E_S": 72,
+   "M_F": 16,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "clearance": 0.9611524776937441,
+   "n_contacts": 72,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 10,
+   "scaffold": "ibe",
+   "floppy": "icc",
+   "group": "Ia-3d",
+   "mult": 2,
+   "V_F": 12,
+   "E_F": 48,
+   "V_S": 32,
+   "E_S": 60,
+   "M_F": 0,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "clearance": 0.4847670605871128,
+   "n_contacts": 24,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": true,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "classes not isotropic/identical"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 11,
+   "scaffold": "dny-a",
+   "floppy": "crs",
+   "group": "Fd-3m:2",
+   "mult": 4,
+   "V_F": 4,
+   "E_F": 12,
+   "V_S": 144,
+   "E_S": 264,
+   "M_F": 0,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "clearance": 1.6501884414622576,
+   "n_contacts": 48,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 12,
+   "scaffold": "rhr-a",
+   "floppy": "dnu",
+   "group": "Im-3m",
+   "mult": 2,
+   "V_F": 42,
+   "E_F": 96,
+   "V_S": 48,
+   "E_S": 72,
+   "M_F": 36,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "clearance": 0.7750608176529179,
+   "n_contacts": 144,
+   "rule_N": {
+    "predict": "flat",
+    "values": [
+     0.735518807,
+     0.735518807,
+     0.735518807,
+     0.735518807,
+     0.735518807,
+     0.735518807,
+     0.735518807,
+     0.735518807,
+     0.735518807,
+     0.735518807,
+     0.735518807,
+     0.735518807,
+     0.735518807,
+     0.735518807,
+     0.735518807,
+     0.735518807,
+     0.735518807,
+     0.735518807,
+     0.735518807,
+     0.735518807,
+     0.735518807,
+     0.735518807,
+     0.735518807,
+     0.735518807,
+     2.4869561,
+     2.4869561,
+     2.4869561,
+     2.4869561,
+     2.4869561,
+     2.4869561,
+     2.4869561,
+     2.4869561,
+     2.4869561,
+     2.4869561,
+     2.4869561,
+     2.4869561
+    ],
+    "Sn_parallel_n_all": false
+   },
+   "bipartite": true,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "classes not isotropic/identical"
+   },
+   "predicted_flat": true,
+   "n_planar": 36
+  },
+  {
+   "id": 13,
+   "scaffold": "unh",
+   "floppy": "wix",
+   "group": "P6122",
+   "mult": 1,
+   "V_F": 12,
+   "E_F": 18,
+   "V_S": 6,
+   "E_S": 12,
+   "M_F": 18,
+   "shift_conv": [
+    0.0,
+    0.5,
+    0.0
+   ],
+   "clearance": 0.4497132655139612,
+   "n_contacts": 12,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": true,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "classes not isotropic/identical"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 14,
+   "scaffold": "vbg",
+   "floppy": "vbh",
+   "group": "Fddd:2",
+   "mult": 4,
+   "V_F": 8,
+   "E_F": 20,
+   "V_S": 8,
+   "E_S": 20,
+   "M_F": 4,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.25
+   ],
+   "clearance": 0.5731152311593184,
+   "n_contacts": 16,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 15,
+   "scaffold": "twf-a",
+   "floppy": "bax",
+   "group": "Im-3m",
+   "mult": 2,
+   "V_F": 96,
+   "E_F": 192,
+   "V_S": 48,
+   "E_S": 96,
+   "M_F": 96,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "clearance": 0.34917755615165946,
+   "n_contacts": 112,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 16,
+   "scaffold": "spn",
+   "floppy": "dng-a",
+   "group": "Fd-3m:2",
+   "mult": 4,
+   "V_F": 144,
+   "E_F": 240,
+   "V_S": 12,
+   "E_S": 24,
+   "M_F": 192,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "clearance": 1.4752097638343047,
+   "n_contacts": 360,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 17,
+   "scaffold": "lwg-a",
+   "floppy": "crb-e",
+   "group": "I4/mmm",
+   "mult": 2,
+   "V_F": 8,
+   "E_F": 24,
+   "V_S": 52,
+   "E_S": 78,
+   "M_F": 0,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.125
+   ],
+   "clearance": 1.26601025061242,
+   "n_contacts": 24,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 18,
+   "scaffold": "gcd",
+   "floppy": "cel-a",
+   "group": "P6/mmm",
+   "mult": 1,
+   "V_F": 60,
+   "E_F": 120,
+   "V_S": 48,
+   "E_S": 96,
+   "M_F": 60,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "clearance": 0.5397149290543087,
+   "n_contacts": 132,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "M_F=60 > n_planar=6"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 6
+  },
+  {
+   "id": 19,
+   "scaffold": "aea",
+   "floppy": "bam",
+   "group": "P6/mmm",
+   "mult": 1,
+   "V_F": 48,
+   "E_F": 96,
+   "V_S": 15,
+   "E_S": 36,
+   "M_F": 48,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.125
+   ],
+   "clearance": 0.2684126407356111,
+   "n_contacts": 60,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": true,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "classes not isotropic/identical"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 20,
+   "scaffold": "fva",
+   "floppy": "keb-a",
+   "group": "I4/mmm",
+   "mult": 2,
+   "V_F": 24,
+   "E_F": 52,
+   "V_S": 24,
+   "E_S": 48,
+   "M_F": 20,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.375
+   ],
+   "clearance": 0.5378475684028287,
+   "n_contacts": 80,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 21,
+   "scaffold": "wkx",
+   "floppy": "wkg",
+   "group": "P6122",
+   "mult": 1,
+   "V_F": 12,
+   "E_F": 36,
+   "V_S": 12,
+   "E_S": 30,
+   "M_F": 0,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.25
+   ],
+   "clearance": 0.3899225715173848,
+   "n_contacts": 12,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 22,
+   "scaffold": "dnr-a",
+   "floppy": "spp",
+   "group": "P6/mmm",
+   "mult": 1,
+   "V_F": 6,
+   "E_F": 24,
+   "V_S": 72,
+   "E_S": 108,
+   "M_F": 0,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "clearance": 1.8051452149794984,
+   "n_contacts": 156,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": true,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "classes not isotropic/identical"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 23,
+   "scaffold": "agw-a",
+   "floppy": "lon-a",
+   "group": "P63/mmc",
+   "mult": 1,
+   "V_F": 16,
+   "E_F": 32,
+   "V_S": 72,
+   "E_S": 114,
+   "M_F": 16,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.25
+   ],
+   "clearance": 1.6939359664091869,
+   "n_contacts": 60,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 24,
+   "scaffold": "gwe-a",
+   "floppy": "tca",
+   "group": "P63/mmc",
+   "mult": 1,
+   "V_F": 4,
+   "E_F": 20,
+   "V_S": 216,
+   "E_S": 324,
+   "M_F": 0,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "clearance": 2.484013059312003,
+   "n_contacts": 24,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 25,
+   "scaffold": "pyd",
+   "floppy": "mtn-e",
+   "group": "Fd-3m:2",
+   "mult": 4,
+   "V_F": 68,
+   "E_F": 204,
+   "V_S": 32,
+   "E_S": 48,
+   "M_F": 0,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "clearance": 0.5212667483282959,
+   "n_contacts": 152,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 26,
+   "scaffold": "urk",
+   "floppy": "hee",
+   "group": "Pm-3m",
+   "mult": 1,
+   "V_F": 72,
+   "E_F": 108,
+   "V_S": 7,
+   "E_S": 18,
+   "M_F": 108,
+   "shift_conv": [
+    0.25,
+    0.25,
+    0.25
+   ],
+   "clearance": 0.1561480579450157,
+   "n_contacts": 90,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 27,
+   "scaffold": "gra",
+   "floppy": "mgz-x-d-e",
+   "group": "P63/mmc",
+   "mult": 1,
+   "V_F": 136,
+   "E_F": 408,
+   "V_S": 4,
+   "E_S": 8,
+   "M_F": 0,
+   "shift_conv": [
+    0.0,
+    0.125,
+    0.0
+   ],
+   "clearance": 0.10825312499999995,
+   "n_contacts": 156,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 28,
+   "scaffold": "ntu",
+   "floppy": "tsc",
+   "group": "Fm-3m",
+   "mult": 4,
+   "V_F": 96,
+   "E_F": 192,
+   "V_S": 17,
+   "E_S": 32,
+   "M_F": 96,
+   "shift_conv": [
+    0.25,
+    0.25,
+    0.25
+   ],
+   "clearance": 0.43930941759194647,
+   "n_contacts": 144,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": true,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "classes not isotropic/identical"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 29,
+   "scaffold": "knb-a",
+   "floppy": "tfz",
+   "group": "P6/mmm",
+   "mult": 1,
+   "V_F": 5,
+   "E_F": 9,
+   "V_S": 48,
+   "E_S": 96,
+   "M_F": 6,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "clearance": 0.9042620174999998,
+   "n_contacts": 36,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "M_F=6 > n_planar=5"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 5
+  },
+  {
+   "id": 30,
+   "scaffold": "icf",
+   "floppy": "ecc",
+   "group": "R-3c:H",
+   "mult": 3,
+   "V_F": 6,
+   "E_F": 24,
+   "V_S": 16,
+   "E_S": 32,
+   "M_F": 0,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "clearance": 0.6594565207195007,
+   "n_contacts": 12,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 31,
+   "scaffold": "bam",
+   "floppy": "dnr",
+   "group": "P6/mmm",
+   "mult": 1,
+   "V_F": 21,
+   "E_F": 36,
+   "V_S": 48,
+   "E_S": 96,
+   "M_F": 27,
+   "shift_conv": [
+    0.25,
+    0.5,
+    0.5
+   ],
+   "clearance": 0.5464577712600617,
+   "n_contacts": 116,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "M_F=27 > n_planar=3"
+   },
+   "bipartite": true,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "classes not isotropic/identical"
+   },
+   "predicted_flat": false,
+   "n_planar": 3
+  },
+  {
+   "id": 32,
+   "scaffold": "sxq",
+   "floppy": "lcs-a",
+   "group": "Ia-3d",
+   "mult": 2,
+   "V_F": 48,
+   "E_F": 96,
+   "V_S": 48,
+   "E_S": 144,
+   "M_F": 48,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "clearance": 0.5673171533202717,
+   "n_contacts": 48,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 33,
+   "scaffold": "amu",
+   "floppy": "txt",
+   "group": "Im-3m",
+   "mult": 2,
+   "V_F": 13,
+   "E_F": 36,
+   "V_S": 23,
+   "E_S": 60,
+   "M_F": 12,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.25
+   ],
+   "clearance": 0.335462391727777,
+   "n_contacts": 24,
+   "rule_N": {
+    "predict": "flat",
+    "values": [
+     -0.0,
+     -0.0,
+     0.0,
+     0.0,
+     0.899553268,
+     0.899553268,
+     0.899553268,
+     0.899553268,
+     1.728183214,
+     1.728183214,
+     1.728183214,
+     1.728183214
+    ],
+    "Sn_parallel_n_all": false
+   },
+   "bipartite": true,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "classes not isotropic/identical"
+   },
+   "predicted_flat": true,
+   "n_planar": 12
+  },
+  {
+   "id": 34,
+   "scaffold": "ttd",
+   "floppy": "epc",
+   "group": "I4/mmm",
+   "mult": 2,
+   "V_F": 10,
+   "E_F": 24,
+   "V_S": 16,
+   "E_S": 24,
+   "M_F": 6,
+   "shift_conv": [
+    0.125,
+    0.125,
+    0.5
+   ],
+   "clearance": 0.8043054068082872,
+   "n_contacts": 20,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "M_F=6 > n_planar=4"
+   },
+   "bipartite": true,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "classes not isotropic/identical"
+   },
+   "predicted_flat": false,
+   "n_planar": 4
+  },
+  {
+   "id": 35,
+   "scaffold": "unb",
+   "floppy": "tcl",
+   "group": "R-3m:H",
+   "mult": 3,
+   "V_F": 3,
+   "E_F": 18,
+   "V_S": 6,
+   "E_S": 12,
+   "M_F": 0,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "clearance": 0.9395013432858614,
+   "n_contacts": 12,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 36,
+   "scaffold": "fnz",
+   "floppy": "wkr",
+   "group": "P6/mcc",
+   "mult": 1,
+   "V_F": 24,
+   "E_F": 72,
+   "V_S": 12,
+   "E_S": 30,
+   "M_F": 0,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "clearance": 0.3696383892006293,
+   "n_contacts": 24,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 37,
+   "scaffold": "tca",
+   "floppy": "fnr",
+   "group": "P63/mmc",
+   "mult": 1,
+   "V_F": 12,
+   "E_F": 30,
+   "V_S": 4,
+   "E_S": 20,
+   "M_F": 6,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.25
+   ],
+   "clearance": 0.22660998065692792,
+   "n_contacts": 18,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 38,
+   "scaffold": "eft",
+   "floppy": "tty",
+   "group": "P4/mmm",
+   "mult": 1,
+   "V_F": 5,
+   "E_F": 10,
+   "V_S": 6,
+   "E_S": 12,
+   "M_F": 5,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "clearance": 0.74536,
+   "n_contacts": 18,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "M_F=5 > n_planar=4"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 4
+  },
+  {
+   "id": 39,
+   "scaffold": "qtz-h",
+   "floppy": "wjw",
+   "group": "P6222",
+   "mult": 1,
+   "V_F": 12,
+   "E_F": 30,
+   "V_S": 12,
+   "E_S": 18,
+   "M_F": 6,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "clearance": 0.8435156898832136,
+   "n_contacts": 12,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 40,
+   "scaffold": "dnk-a",
+   "floppy": "ftu",
+   "group": "Fm-3m",
+   "mult": 4,
+   "V_F": 72,
+   "E_F": 144,
+   "V_S": 144,
+   "E_S": 252,
+   "M_F": 72,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "clearance": 0.5636114401855791,
+   "n_contacts": 96,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 41,
+   "scaffold": "wzz",
+   "floppy": "ooe",
+   "group": "Fm-3m",
+   "mult": 4,
+   "V_F": 56,
+   "E_F": 84,
+   "V_S": 4,
+   "E_S": 14,
+   "M_F": 84,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "clearance": 0.285617091892545,
+   "n_contacts": 56,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 42,
+   "scaffold": "smr",
+   "floppy": "fvr",
+   "group": "R-3m:H",
+   "mult": 3,
+   "V_F": 18,
+   "E_F": 36,
+   "V_S": 6,
+   "E_S": 18,
+   "M_F": 18,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "clearance": 0.4665534948886499,
+   "n_contacts": 24,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 43,
+   "scaffold": "mhg",
+   "floppy": "rtw",
+   "group": "P4/mbm",
+   "mult": 1,
+   "V_F": 6,
+   "E_F": 14,
+   "V_S": 10,
+   "E_S": 30,
+   "M_F": 4,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "clearance": 0.6299684614147133,
+   "n_contacts": 24,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "M_F=4 > n_planar=2"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 2
+  },
+  {
+   "id": 44,
+   "scaffold": "xaz",
+   "floppy": "nha",
+   "group": "Im-3m",
+   "mult": 2,
+   "V_F": 20,
+   "E_F": 48,
+   "V_S": 7,
+   "E_S": 36,
+   "M_F": 12,
+   "shift_conv": [
+    0.0,
+    0.375,
+    0.375
+   ],
+   "clearance": 0.19480021420958143,
+   "n_contacts": 21,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "M_F=12 > n_planar=8"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 8
+  },
+  {
+   "id": 45,
+   "scaffold": "ffc",
+   "floppy": "urs-a",
+   "group": "P4/mmm",
+   "mult": 1,
+   "V_F": 48,
+   "E_F": 84,
+   "V_S": 7,
+   "E_S": 12,
+   "M_F": 60,
+   "shift_conv": [
+    0.5,
+    0.5,
+    0.5
+   ],
+   "clearance": 0.5389479446732343,
+   "n_contacts": 64,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 46,
+   "scaffold": "xag-a",
+   "floppy": "she",
+   "group": "Im-3m",
+   "mult": 2,
+   "V_F": 10,
+   "E_F": 24,
+   "V_S": 72,
+   "E_S": 120,
+   "M_F": 10,
+   "shift_conv": [
+    0.125,
+    0.125,
+    0.125
+   ],
+   "clearance": 0.9773150562960748,
+   "n_contacts": 39,
+   "rule_N": {
+    "predict": "flat",
+    "values": [
+     0.37027775,
+     0.37027775,
+     0.37027775,
+     1.724372796,
+     1.724372796,
+     1.724372796,
+     1.724372796,
+     1.724372796,
+     1.724372796,
+     2.170263512
+    ],
+    "Sn_parallel_n_all": false
+   },
+   "bipartite": true,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "classes not isotropic/identical"
+   },
+   "predicted_flat": true,
+   "n_planar": 10
+  },
+  {
+   "id": 47,
+   "scaffold": "tsi",
+   "floppy": "svr",
+   "group": "I41/amd:2",
+   "mult": 2,
+   "V_F": 8,
+   "E_F": 28,
+   "V_S": 2,
+   "E_S": 8,
+   "M_F": 0,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.125
+   ],
+   "clearance": 0.2576068737850055,
+   "n_contacts": 12,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 48,
+   "scaffold": "dnl",
+   "floppy": "num",
+   "group": "Fd-3m:2",
+   "mult": 4,
+   "V_F": 204,
+   "E_F": 612,
+   "V_S": 24,
+   "E_S": 48,
+   "M_F": 0,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "clearance": 0.1939259407221913,
+   "n_contacts": 228,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 49,
+   "scaffold": "gwg-a",
+   "floppy": "dmc",
+   "group": "P121/n1",
+   "mult": 1,
+   "V_F": 8,
+   "E_F": 14,
+   "V_S": 20,
+   "E_S": 30,
+   "M_F": 10,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "clearance": 1.2296365039539083,
+   "n_contacts": 8,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 50,
+   "scaffold": "llk-a",
+   "floppy": "oge",
+   "group": "Im-3m",
+   "mult": 2,
+   "V_F": 72,
+   "E_F": 108,
+   "V_S": 72,
+   "E_S": 144,
+   "M_F": 108,
+   "shift_conv": [
+    0.25,
+    0.25,
+    0.25
+   ],
+   "clearance": 0.9020343079736706,
+   "n_contacts": 150,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "M_F=108 > n_planar=24"
+   },
+   "bipartite": true,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "classes not isotropic/identical"
+   },
+   "predicted_flat": false,
+   "n_planar": 24
+  },
+  {
+   "id": 51,
+   "scaffold": "uni-d",
+   "floppy": "wjo",
+   "group": "P6122",
+   "mult": 1,
+   "V_F": 12,
+   "E_F": 30,
+   "V_S": 12,
+   "E_S": 18,
+   "M_F": 6,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "clearance": 0.7386496239609963,
+   "n_contacts": 24,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 52,
+   "scaffold": "qdl-e",
+   "floppy": "tcc",
+   "group": "P6222",
+   "mult": 1,
+   "V_F": 3,
+   "E_F": 15,
+   "V_S": 12,
+   "E_S": 24,
+   "M_F": 0,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "clearance": 0.7453242220885304,
+   "n_contacts": 6,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 53,
+   "scaffold": "frx",
+   "floppy": "mcd",
+   "group": "Cmmm",
+   "mult": 2,
+   "V_F": 4,
+   "E_F": 8,
+   "V_S": 10,
+   "E_S": 17,
+   "M_F": 4,
+   "shift_conv": [
+    0.0,
+    0.5,
+    0.375
+   ],
+   "clearance": 0.9696010527540131,
+   "n_contacts": 8,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "M_F=4 > n_planar=2"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 2
+  },
+  {
+   "id": 54,
+   "scaffold": "dne",
+   "floppy": "ttt-a",
+   "group": "F-43m",
+   "mult": 4,
+   "V_F": 24,
+   "E_F": 42,
+   "V_S": 20,
+   "E_S": 36,
+   "M_F": 30,
+   "shift_conv": [
+    0.25,
+    0.25,
+    0.25
+   ],
+   "clearance": 0.7834144012092484,
+   "n_contacts": 36,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 55,
+   "scaffold": "los",
+   "floppy": "xat-a",
+   "group": "P63/mmc",
+   "mult": 1,
+   "V_F": 28,
+   "E_F": 62,
+   "V_S": 24,
+   "E_S": 48,
+   "M_F": 22,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.25
+   ],
+   "clearance": 0.3837048803604075,
+   "n_contacts": 72,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 56,
+   "scaffold": "epp-a",
+   "floppy": "urf",
+   "group": "Im-3m",
+   "mult": 2,
+   "V_F": 17,
+   "E_F": 36,
+   "V_S": 144,
+   "E_S": 216,
+   "M_F": 15,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.125
+   ],
+   "clearance": 1.2372294443681522,
+   "n_contacts": 80,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "M_F=15 > n_planar=12"
+   },
+   "bipartite": true,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "classes not isotropic/identical"
+   },
+   "predicted_flat": false,
+   "n_planar": 12
+  },
+  {
+   "id": 57,
+   "scaffold": "crb-e",
+   "floppy": "mer",
+   "group": "I4/mmm",
+   "mult": 2,
+   "V_F": 16,
+   "E_F": 32,
+   "V_S": 8,
+   "E_S": 24,
+   "M_F": 16,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "clearance": 0.42873941105220653,
+   "n_contacts": 16,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 58,
+   "scaffold": "mgz",
+   "floppy": "gwe",
+   "group": "P63/mmc",
+   "mult": 1,
+   "V_F": 66,
+   "E_F": 108,
+   "V_S": 12,
+   "E_S": 48,
+   "M_F": 90,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "clearance": 0.12180242237879227,
+   "n_contacts": 90,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": true,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "classes not isotropic/identical"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 59,
+   "scaffold": "xfr",
+   "floppy": "yfq",
+   "group": "I41/acd:2",
+   "mult": 2,
+   "V_F": 16,
+   "E_F": 40,
+   "V_S": 16,
+   "E_S": 56,
+   "M_F": 8,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "clearance": 0.45888989020313325,
+   "n_contacts": 16,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 60,
+   "scaffold": "str",
+   "floppy": "dnz-a",
+   "group": "Fd-3m:2",
+   "mult": 4,
+   "V_F": 96,
+   "E_F": 192,
+   "V_S": 12,
+   "E_S": 36,
+   "M_F": 96,
+   "shift_conv": [
+    0.25,
+    0.25,
+    0.25
+   ],
+   "clearance": 0.29505350129571284,
+   "n_contacts": 120,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 61,
+   "scaffold": "dnu",
+   "floppy": "fvf",
+   "group": "Im-3m",
+   "mult": 2,
+   "V_F": 36,
+   "E_F": 72,
+   "V_S": 42,
+   "E_S": 96,
+   "M_F": 36,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "clearance": 0.4577505884541181,
+   "n_contacts": 72,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 62,
+   "scaffold": "spp",
+   "floppy": "odj",
+   "group": "P6/mmm",
+   "mult": 1,
+   "V_F": 96,
+   "E_F": 192,
+   "V_S": 6,
+   "E_S": 24,
+   "M_F": 96,
+   "shift_conv": [
+    0.125,
+    0.25,
+    0.5
+   ],
+   "clearance": 0.06656344847912374,
+   "n_contacts": 102,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 63,
+   "scaffold": "ant-a",
+   "floppy": "tsl",
+   "group": "I41/amd:2",
+   "mult": 2,
+   "V_F": 6,
+   "E_F": 38,
+   "V_S": 24,
+   "E_S": 48,
+   "M_F": 0,
+   "shift_conv": [
+    0.25,
+    0.25,
+    0.125
+   ],
+   "clearance": 1.1281403141643274,
+   "n_contacts": 16,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 64,
+   "scaffold": "bbw",
+   "floppy": "dnn-a",
+   "group": "P63/mmc",
+   "mult": 1,
+   "V_F": 72,
+   "E_F": 126,
+   "V_S": 12,
+   "E_S": 24,
+   "M_F": 90,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "clearance": 0.5201368347540838,
+   "n_contacts": 192,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 65,
+   "scaffold": "bbq",
+   "floppy": "yac",
+   "group": "P63/mmc",
+   "mult": 1,
+   "V_F": 56,
+   "E_F": 96,
+   "V_S": 30,
+   "E_S": 60,
+   "M_F": 72,
+   "shift_conv": [
+    0.0,
+    0.5,
+    0.125
+   ],
+   "clearance": 0.4300497198789166,
+   "n_contacts": 160,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "M_F=72 > n_planar=16"
+   },
+   "bipartite": true,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "classes not isotropic/identical"
+   },
+   "predicted_flat": false,
+   "n_planar": 16
+  },
+  {
+   "id": 66,
+   "scaffold": "lun",
+   "floppy": "zfw",
+   "group": "I41/amd:2",
+   "mult": 2,
+   "V_F": 8,
+   "E_F": 20,
+   "V_S": 16,
+   "E_S": 28,
+   "M_F": 4,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "clearance": 0.835577092730695,
+   "n_contacts": 8,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 67,
+   "scaffold": "bpr",
+   "floppy": "ana",
+   "group": "Ia-3d",
+   "mult": 2,
+   "V_F": 24,
+   "E_F": 48,
+   "V_S": 48,
+   "E_S": 72,
+   "M_F": 24,
+   "shift_conv": [
+    0.125,
+    0.125,
+    0.125
+   ],
+   "clearance": 0.46718063091576917,
+   "n_contacts": 24,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": true,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "classes not isotropic/identical"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 68,
+   "scaffold": "dft-e",
+   "floppy": "cdm-e",
+   "group": "P42/mmc",
+   "mult": 1,
+   "V_F": 12,
+   "E_F": 24,
+   "V_S": 16,
+   "E_S": 48,
+   "M_F": 12,
+   "shift_conv": [
+    0.0,
+    0.125,
+    0.0
+   ],
+   "clearance": 0.4059159415413049,
+   "n_contacts": 24,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "M_F=12 > n_planar=10"
+   },
+   "bipartite": true,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "classes not isotropic/identical"
+   },
+   "predicted_flat": false,
+   "n_planar": 10
+  },
+  {
+   "id": 69,
+   "scaffold": "xfe",
+   "floppy": "snw",
+   "group": "I41/amd:2",
+   "mult": 2,
+   "V_F": 4,
+   "E_F": 12,
+   "V_S": 8,
+   "E_S": 28,
+   "M_F": 0,
+   "shift_conv": [
+    0.25,
+    0.25,
+    0.125
+   ],
+   "clearance": 0.38856710471321204,
+   "n_contacts": 8,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": true,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "classes not isotropic/identical"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 70,
+   "scaffold": "pcb-e",
+   "floppy": "bcu-k",
+   "group": "Im-3m",
+   "mult": 2,
+   "V_F": 24,
+   "E_F": 72,
+   "V_S": 16,
+   "E_S": 48,
+   "M_F": 0,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "clearance": 0.4852804933141659,
+   "n_contacts": 72,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 71,
+   "scaffold": "fff",
+   "floppy": "tbo",
+   "group": "Fm-3m",
+   "mult": 4,
+   "V_F": 14,
+   "E_F": 24,
+   "V_S": 16,
+   "E_S": 32,
+   "M_F": 18,
+   "shift_conv": [
+    0.125,
+    0.25,
+    0.25
+   ],
+   "clearance": 0.4157505686368091,
+   "n_contacts": 20,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "M_F=18 > n_planar=6"
+   },
+   "bipartite": true,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "classes not isotropic/identical"
+   },
+   "predicted_flat": false,
+   "n_planar": 6
+  },
+  {
+   "id": 72,
+   "scaffold": "pbg-l",
+   "floppy": "bcv",
+   "group": "Ia-3d",
+   "mult": 2,
+   "V_F": 60,
+   "E_F": 120,
+   "V_S": 144,
+   "E_S": 216,
+   "M_F": 60,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "clearance": 0.7951880116817318,
+   "n_contacts": 208,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": true,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "classes not isotropic/identical"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 73,
+   "scaffold": "twf-a",
+   "floppy": "she-a",
+   "group": "Im-3m",
+   "mult": 2,
+   "V_F": 48,
+   "E_F": 72,
+   "V_S": 48,
+   "E_S": 96,
+   "M_F": 72,
+   "shift_conv": [
+    0.0,
+    0.25,
+    0.5
+   ],
+   "clearance": 0.2308829398100889,
+   "n_contacts": 72,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "M_F=72 > n_planar=48"
+   },
+   "bipartite": true,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "classes not isotropic/identical"
+   },
+   "predicted_flat": false,
+   "n_planar": 48
+  },
+  {
+   "id": 74,
+   "scaffold": "dnv",
+   "floppy": "ocu-e",
+   "group": "Im-3m",
+   "mult": 2,
+   "V_F": 24,
+   "E_F": 84,
+   "V_S": 13,
+   "E_S": 30,
+   "M_F": 0,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "clearance": 0.4515654742235428,
+   "n_contacts": 24,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 75,
+   "scaffold": "bbz",
+   "floppy": "shp",
+   "group": "P6/mmm",
+   "mult": 1,
+   "V_F": 4,
+   "E_F": 12,
+   "V_S": 24,
+   "E_S": 48,
+   "M_F": 3,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "clearance": 0.9331714664947348,
+   "n_contacts": 36,
+   "rule_N": {
+    "predict": "flat",
+    "values": [
+     1.78447998,
+     1.78447998,
+     1.78447998
+    ],
+    "Sn_parallel_n_all": true
+   },
+   "bipartite": true,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "classes not isotropic/identical"
+   },
+   "predicted_flat": true,
+   "n_planar": 3
+  },
+  {
+   "id": 76,
+   "scaffold": "ttc",
+   "floppy": "ecl",
+   "group": "I4/mmm",
+   "mult": 2,
+   "V_F": 4,
+   "E_F": 16,
+   "V_S": 16,
+   "E_S": 24,
+   "M_F": 0,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "clearance": 1.706830137398873,
+   "n_contacts": 32,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 77,
+   "scaffold": "baz",
+   "floppy": "sta",
+   "group": "P63/mmc",
+   "mult": 1,
+   "V_F": 6,
+   "E_F": 18,
+   "V_S": 12,
+   "E_S": 24,
+   "M_F": 0,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "clearance": 0.726495392781904,
+   "n_contacts": 48,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": true,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "classes not isotropic/identical"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 78,
+   "scaffold": "mob",
+   "floppy": "deh-d",
+   "group": "I41/amd:2",
+   "mult": 2,
+   "V_F": 2,
+   "E_F": 10,
+   "V_S": 4,
+   "E_S": 20,
+   "M_F": 0,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.125
+   ],
+   "clearance": 0.4329848607000004,
+   "n_contacts": 4,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 79,
+   "scaffold": "tzs",
+   "floppy": "svp",
+   "group": "I4/mcm",
+   "mult": 2,
+   "V_F": 8,
+   "E_F": 28,
+   "V_S": 8,
+   "E_S": 16,
+   "M_F": 0,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "clearance": 0.8217130943021789,
+   "n_contacts": 16,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 80,
+   "scaffold": "tcc-x",
+   "floppy": "fns",
+   "group": "P6222",
+   "mult": 1,
+   "V_F": 6,
+   "E_F": 15,
+   "V_S": 3,
+   "E_S": 21,
+   "M_F": 3,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "clearance": 0.2610764359011507,
+   "n_contacts": 12,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 81,
+   "scaffold": "hyl",
+   "floppy": "fvr",
+   "group": "R-3m:H",
+   "mult": 3,
+   "V_F": 18,
+   "E_F": 36,
+   "V_S": 14,
+   "E_S": 27,
+   "M_F": 18,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.125
+   ],
+   "clearance": 0.3786871878724027,
+   "n_contacts": 18,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 82,
+   "scaffold": "mon-e",
+   "floppy": "wga",
+   "group": "I41/amd:2",
+   "mult": 2,
+   "V_F": 16,
+   "E_F": 40,
+   "V_S": 16,
+   "E_S": 48,
+   "M_F": 8,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "clearance": 0.7575505218196641,
+   "n_contacts": 16,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 83,
+   "scaffold": "dnv",
+   "floppy": "ftw-t",
+   "group": "Im-3m",
+   "mult": 2,
+   "V_F": 96,
+   "E_F": 192,
+   "V_S": 13,
+   "E_S": 30,
+   "M_F": 96,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "clearance": 0.2681453806827057,
+   "n_contacts": 96,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": true,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "classes not isotropic/identical"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 84,
+   "scaffold": "icm-e",
+   "floppy": "cfd",
+   "group": "P63/mmc",
+   "mult": 1,
+   "V_F": 12,
+   "E_F": 24,
+   "V_S": 32,
+   "E_S": 96,
+   "M_F": 12,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "clearance": 0.5672261085471625,
+   "n_contacts": 36,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": true,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "classes not isotropic/identical"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 85,
+   "scaffold": "uos",
+   "floppy": "scp",
+   "group": "I41/amd:2",
+   "mult": 2,
+   "V_F": 8,
+   "E_F": 24,
+   "V_S": 16,
+   "E_S": 32,
+   "M_F": 6,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "clearance": 0.7342642501399369,
+   "n_contacts": 48,
+   "rule_N": {
+    "predict": "flat",
+    "values": [
+     0.879833919,
+     0.879833919,
+     1.990270951,
+     1.990270951,
+     1.990270951,
+     1.990270951
+    ],
+    "Sn_parallel_n_all": false
+   },
+   "bipartite": true,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "classes not isotropic/identical"
+   },
+   "predicted_flat": true,
+   "n_planar": 6
+  },
+  {
+   "id": 86,
+   "scaffold": "wjt",
+   "floppy": "bto",
+   "group": "P6222",
+   "mult": 1,
+   "V_F": 6,
+   "E_F": 9,
+   "V_S": 12,
+   "E_S": 30,
+   "M_F": 9,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "clearance": 0.5988469551181167,
+   "n_contacts": 12,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "M_F=9 > n_planar=6"
+   },
+   "bipartite": true,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "classes not isotropic/identical"
+   },
+   "predicted_flat": false,
+   "n_planar": 6
+  },
+  {
+   "id": 87,
+   "scaffold": "xci",
+   "floppy": "alc",
+   "group": "P6/mmm",
+   "mult": 1,
+   "V_F": 9,
+   "E_F": 30,
+   "V_S": 10,
+   "E_S": 17,
+   "M_F": 1,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "clearance": 0.7867452842432636,
+   "n_contacts": 28,
+   "rule_N": {
+    "predict": "flat",
+    "values": [
+     2.489602563
+    ],
+    "Sn_parallel_n_all": true
+   },
+   "bipartite": true,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "classes not isotropic/identical"
+   },
+   "predicted_flat": true,
+   "n_planar": 1
+  },
+  {
+   "id": 88,
+   "scaffold": "smb",
+   "floppy": "kto",
+   "group": "R3m:H",
+   "mult": 3,
+   "V_F": 9,
+   "E_F": 18,
+   "V_S": 3,
+   "E_S": 9,
+   "M_F": 9,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.25
+   ],
+   "clearance": 0.5017829803482904,
+   "n_contacts": 21,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 89,
+   "scaffold": "ssd",
+   "floppy": "epn-a",
+   "group": "Pm-3m",
+   "mult": 1,
+   "V_F": 144,
+   "E_F": 216,
+   "V_S": 18,
+   "E_S": 36,
+   "M_F": 216,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.375
+   ],
+   "clearance": 0.34987064034127563,
+   "n_contacts": 188,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 90,
+   "scaffold": "ant-a",
+   "floppy": "sgt",
+   "group": "I41/amd:2",
+   "mult": 2,
+   "V_F": 32,
+   "E_F": 64,
+   "V_S": 24,
+   "E_S": 48,
+   "M_F": 32,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "clearance": 0.6599994615450758,
+   "n_contacts": 56,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 91,
+   "scaffold": "sur-a",
+   "floppy": "vbm",
+   "group": "Cccm",
+   "mult": 2,
+   "V_F": 8,
+   "E_F": 24,
+   "V_S": 20,
+   "E_S": 30,
+   "M_F": 0,
+   "shift_conv": [
+    0.0,
+    0.5,
+    0.5
+   ],
+   "clearance": 2.137373101587217,
+   "n_contacts": 16,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 92,
+   "scaffold": "bpi",
+   "floppy": "vcz",
+   "group": "Pbcn",
+   "mult": 1,
+   "V_F": 8,
+   "E_F": 24,
+   "V_S": 16,
+   "E_S": 24,
+   "M_F": 0,
+   "shift_conv": [
+    0.5,
+    0.5,
+    0.5
+   ],
+   "clearance": 0.8369148546373366,
+   "n_contacts": 8,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 93,
+   "scaffold": "umr",
+   "floppy": "isu",
+   "group": "I41/acd:2",
+   "mult": 2,
+   "V_F": 48,
+   "E_F": 96,
+   "V_S": 16,
+   "E_S": 32,
+   "M_F": 48,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "clearance": 0.39331391418740547,
+   "n_contacts": 112,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 94,
+   "scaffold": "frz",
+   "floppy": "frx",
+   "group": "Cmmm",
+   "mult": 2,
+   "V_F": 10,
+   "E_F": 17,
+   "V_S": 10,
+   "E_S": 17,
+   "M_F": 13,
+   "shift_conv": [
+    0.0,
+    0.5,
+    0.5
+   ],
+   "clearance": 1.042769806454768,
+   "n_contacts": 24,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "M_F=13 > n_planar=6"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 6
+  },
+  {
+   "id": 95,
+   "scaffold": "fti",
+   "floppy": "fit-a",
+   "group": "I4/mmm",
+   "mult": 2,
+   "V_F": 20,
+   "E_F": 46,
+   "V_S": 32,
+   "E_S": 64,
+   "M_F": 14,
+   "shift_conv": [
+    0.0,
+    0.5,
+    0.0
+   ],
+   "clearance": 0.6325589382359165,
+   "n_contacts": 48,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 96,
+   "scaffold": "fvi",
+   "floppy": "fuh",
+   "group": "Pm-3n",
+   "mult": 1,
+   "V_F": 72,
+   "E_F": 144,
+   "V_S": 72,
+   "E_S": 144,
+   "M_F": 72,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "clearance": 0.33769068428295074,
+   "n_contacts": 96,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 97,
+   "scaffold": "xbu-a",
+   "floppy": "ooe",
+   "group": "Fm-3m",
+   "mult": 4,
+   "V_F": 56,
+   "E_F": 84,
+   "V_S": 60,
+   "E_S": 114,
+   "M_F": 84,
+   "shift_conv": [
+    0.125,
+    0.125,
+    0.125
+   ],
+   "clearance": 0.3296047251530559,
+   "n_contacts": 96,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 98,
+   "scaffold": "kwh",
+   "floppy": "gah",
+   "group": "R-3m:H",
+   "mult": 3,
+   "V_F": 8,
+   "E_F": 13,
+   "V_S": 2,
+   "E_S": 7,
+   "M_F": 11,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "clearance": 0.34478519233029625,
+   "n_contacts": 8,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": true,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "classes not isotropic/identical"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 99,
+   "scaffold": "wkh",
+   "floppy": "nom",
+   "group": "P6122",
+   "mult": 1,
+   "V_F": 12,
+   "E_F": 24,
+   "V_S": 12,
+   "E_S": 36,
+   "M_F": 12,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "clearance": 0.5678612152706771,
+   "n_contacts": 36,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": true,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "classes not isotropic/identical"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 100,
+   "scaffold": "fst",
+   "floppy": "eye-a",
+   "group": "P6/mmm",
+   "mult": 1,
+   "V_F": 36,
+   "E_F": 72,
+   "V_S": 12,
+   "E_S": 30,
+   "M_F": 36,
+   "shift_conv": [
+    0.0,
+    0.5,
+    0.0
+   ],
+   "clearance": 0.2475039629440831,
+   "n_contacts": 64,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 101,
+   "scaffold": "xbm",
+   "floppy": "reo-e",
+   "group": "Pm-3m",
+   "mult": 1,
+   "V_F": 12,
+   "E_F": 36,
+   "V_S": 9,
+   "E_S": 20,
+   "M_F": 1,
+   "shift_conv": [
+    0.5,
+    0.5,
+    0.5
+   ],
+   "clearance": 0.5152828950268945,
+   "n_contacts": 24,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 102,
+   "scaffold": "seh",
+   "floppy": "agw",
+   "group": "P63/mmc",
+   "mult": 1,
+   "V_F": 20,
+   "E_F": 36,
+   "V_S": 4,
+   "E_S": 14,
+   "M_F": 24,
+   "shift_conv": [
+    0.0,
+    0.25,
+    0.0
+   ],
+   "clearance": 0.18118015961429212,
+   "n_contacts": 20,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "M_F=24 > n_planar=6"
+   },
+   "bipartite": true,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "classes not isotropic/identical"
+   },
+   "predicted_flat": false,
+   "n_planar": 6
+  },
+  {
+   "id": 103,
+   "scaffold": "uro",
+   "floppy": "bcu-x-a",
+   "group": "Im-3m",
+   "mult": 2,
+   "V_F": 14,
+   "E_F": 31,
+   "V_S": 31,
+   "E_S": 72,
+   "M_F": 11,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "clearance": 0.5457408808939305,
+   "n_contacts": 14,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 104,
+   "scaffold": "urf",
+   "floppy": "nso",
+   "group": "Im-3m",
+   "mult": 2,
+   "V_F": 9,
+   "E_F": 24,
+   "V_S": 17,
+   "E_S": 36,
+   "M_F": 6,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "clearance": 1.1547017121967038,
+   "n_contacts": 48,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "M_F=6 > n_planar=3"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 3
+  },
+  {
+   "id": 105,
+   "scaffold": "xfp",
+   "floppy": "yfr",
+   "group": "I41/acd:2",
+   "mult": 2,
+   "V_F": 16,
+   "E_F": 40,
+   "V_S": 16,
+   "E_S": 56,
+   "M_F": 8,
+   "shift_conv": [
+    0.0,
+    0.5,
+    0.0
+   ],
+   "clearance": 0.37408892013422296,
+   "n_contacts": 16,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 106,
+   "scaffold": "pdb",
+   "floppy": "xav",
+   "group": "Pm-3m",
+   "mult": 1,
+   "V_F": 14,
+   "E_F": 39,
+   "V_S": 48,
+   "E_S": 156,
+   "M_F": 4,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "clearance": 0.5035405873288463,
+   "n_contacts": 72,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 107,
+   "scaffold": "shp-a",
+   "floppy": "xlz-a",
+   "group": "P6/mmm",
+   "mult": 1,
+   "V_F": 60,
+   "E_F": 102,
+   "V_S": 24,
+   "E_S": 42,
+   "M_F": 78,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "clearance": 0.4754351943743251,
+   "n_contacts": 72,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 108,
+   "scaffold": "vcu",
+   "floppy": "bpa",
+   "group": "Pbcn",
+   "mult": 1,
+   "V_F": 16,
+   "E_F": 24,
+   "V_S": 8,
+   "E_S": 32,
+   "M_F": 24,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "clearance": 0.26366095687258684,
+   "n_contacts": 16,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": true,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "classes not isotropic/identical"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 109,
+   "scaffold": "cej",
+   "floppy": "gme-e",
+   "group": "P63/mmc",
+   "mult": 1,
+   "V_F": 48,
+   "E_F": 144,
+   "V_S": 20,
+   "E_S": 36,
+   "M_F": 0,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "clearance": 0.6167178198208019,
+   "n_contacts": 60,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 110,
+   "scaffold": "dnl",
+   "floppy": "dia-a",
+   "group": "Fd-3m:2",
+   "mult": 4,
+   "V_F": 8,
+   "E_F": 16,
+   "V_S": 24,
+   "E_S": 48,
+   "M_F": 8,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "clearance": 0.693122784264303,
+   "n_contacts": 24,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 111,
+   "scaffold": "xaj",
+   "floppy": "gee-a",
+   "group": "Pm-3m",
+   "mult": 1,
+   "V_F": 72,
+   "E_F": 108,
+   "V_S": 16,
+   "E_S": 36,
+   "M_F": 108,
+   "shift_conv": [
+    0.25,
+    0.5,
+    0.5
+   ],
+   "clearance": 0.38722441561690757,
+   "n_contacts": 120,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "M_F=108 > n_planar=48"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 48
+  },
+  {
+   "id": 112,
+   "scaffold": "xbj",
+   "floppy": "deh",
+   "group": "I41/amd:2",
+   "mult": 2,
+   "V_F": 16,
+   "E_F": 24,
+   "V_S": 4,
+   "E_S": 10,
+   "M_F": 24,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "clearance": 0.38228699132481764,
+   "n_contacts": 16,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": true,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "classes not isotropic/identical"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 113,
+   "scaffold": "pts-g",
+   "floppy": "cdl-a",
+   "group": "P42/mmc",
+   "mult": 1,
+   "V_F": 16,
+   "E_F": 24,
+   "V_S": 10,
+   "E_S": 20,
+   "M_F": 24,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "clearance": 1.1853101005010702,
+   "n_contacts": 48,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "M_F=24 > n_planar=16"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 16
+  },
+  {
+   "id": 114,
+   "scaffold": "nat",
+   "floppy": "tsi",
+   "group": "I41/amd:2",
+   "mult": 2,
+   "V_F": 2,
+   "E_F": 8,
+   "V_S": 10,
+   "E_S": 20,
+   "M_F": 0,
+   "shift_conv": [
+    0.25,
+    0.25,
+    0.0
+   ],
+   "clearance": 1.1327872373192267,
+   "n_contacts": 8,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 115,
+   "scaffold": "rra",
+   "floppy": "mjt",
+   "group": "Im-3m",
+   "mult": 2,
+   "V_F": 15,
+   "E_F": 84,
+   "V_S": 60,
+   "E_S": 96,
+   "M_F": 0,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.25
+   ],
+   "clearance": 1.0294439333082162,
+   "n_contacts": 88,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 116,
+   "scaffold": "xbt",
+   "floppy": "pbz",
+   "group": "Pn-3m:2",
+   "mult": 1,
+   "V_F": 24,
+   "E_F": 36,
+   "V_S": 6,
+   "E_S": 20,
+   "M_F": 36,
+   "shift_conv": [
+    0.125,
+    0.5,
+    0.5
+   ],
+   "clearance": 0.260937018119713,
+   "n_contacts": 48,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "M_F=36 > n_planar=24"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 24
+  },
+  {
+   "id": 117,
+   "scaffold": "mgz-x-d",
+   "floppy": "gme-e",
+   "group": "P63/mmc",
+   "mult": 1,
+   "V_F": 48,
+   "E_F": 144,
+   "V_S": 68,
+   "E_S": 136,
+   "M_F": 0,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.375
+   ],
+   "clearance": 0.3200310518818125,
+   "n_contacts": 54,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 118,
+   "scaffold": "nso",
+   "floppy": "bcu-k",
+   "group": "Im-3m",
+   "mult": 2,
+   "V_F": 24,
+   "E_F": 72,
+   "V_S": 9,
+   "E_S": 24,
+   "M_F": 0,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "clearance": 0.6276548172471672,
+   "n_contacts": 72,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 119,
+   "scaffold": "gea-a",
+   "floppy": "cej-a",
+   "group": "P63/mmc",
+   "mult": 1,
+   "V_F": 72,
+   "E_F": 120,
+   "V_S": 72,
+   "E_S": 144,
+   "M_F": 96,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.375
+   ],
+   "clearance": 0.48807982167850517,
+   "n_contacts": 102,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 120,
+   "scaffold": "tcj",
+   "floppy": "yao-a",
+   "group": "P63/mmc",
+   "mult": 1,
+   "V_F": 96,
+   "E_F": 144,
+   "V_S": 4,
+   "E_S": 24,
+   "M_F": 144,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "clearance": 0.08817293311063962,
+   "n_contacts": 132,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "M_F=144 > n_planar=36"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 36
+  },
+  {
+   "id": 121,
+   "scaffold": "nkf",
+   "floppy": "dft",
+   "group": "P42/mmc",
+   "mult": 1,
+   "V_F": 8,
+   "E_F": 16,
+   "V_S": 18,
+   "E_S": 30,
+   "M_F": 8,
+   "shift_conv": [
+    0.5,
+    0.5,
+    0.5
+   ],
+   "clearance": 1.030329153239249,
+   "n_contacts": 32,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 122,
+   "scaffold": "vba",
+   "floppy": "tcf-x",
+   "group": "Fddd:2",
+   "mult": 4,
+   "V_F": 4,
+   "E_F": 28,
+   "V_S": 8,
+   "E_S": 16,
+   "M_F": 0,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "clearance": 0.6288905554774045,
+   "n_contacts": 8,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 123,
+   "scaffold": "cee-a",
+   "floppy": "bnn",
+   "group": "P6/mmm",
+   "mult": 1,
+   "V_F": 2,
+   "E_F": 5,
+   "V_S": 36,
+   "E_S": 54,
+   "M_F": 1,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "clearance": 2.5983206022509866,
+   "n_contacts": 48,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 124,
+   "scaffold": "noq",
+   "floppy": "scg",
+   "group": "C12/c1",
+   "mult": 2,
+   "V_F": 4,
+   "E_F": 14,
+   "V_S": 6,
+   "E_S": 12,
+   "M_F": 0,
+   "shift_conv": [
+    0.25,
+    0.0,
+    0.375
+   ],
+   "clearance": 0.6110369406360291,
+   "n_contacts": 4,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 125,
+   "scaffold": "mds",
+   "floppy": "cec",
+   "group": "P6/mmm",
+   "mult": 1,
+   "V_F": 7,
+   "E_F": 15,
+   "V_S": 56,
+   "E_S": 112,
+   "M_F": 6,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "clearance": 0.866021694,
+   "n_contacts": 18,
+   "rule_N": {
+    "predict": "flat",
+    "values": [
+     -0.0,
+     -0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0
+    ],
+    "Sn_parallel_n_all": true
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": true,
+   "n_planar": 6
+  },
+  {
+   "id": 126,
+   "scaffold": "dnv",
+   "floppy": "dnu",
+   "group": "Im-3m",
+   "mult": 2,
+   "V_F": 42,
+   "E_F": 96,
+   "V_S": 13,
+   "E_S": 30,
+   "M_F": 36,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.125
+   ],
+   "clearance": 0.08187221868924946,
+   "n_contacts": 58,
+   "rule_N": {
+    "predict": "flat",
+    "values": [
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.095307499,
+     0.095307499,
+     0.095307499,
+     0.095307499,
+     0.25,
+     0.25,
+     0.25,
+     0.25,
+     0.25,
+     0.25,
+     0.25,
+     0.25,
+     0.4031678,
+     0.4031678,
+     0.4031678,
+     0.4031678,
+     0.4031678,
+     0.4031678,
+     0.4031678,
+     0.4031678,
+     0.5,
+     0.5,
+     0.5,
+     0.5,
+     0.884948545,
+     0.884948545,
+     0.884948545,
+     0.884948545,
+     1.222116091,
+     1.222116091,
+     1.222116091,
+     1.222116091
+    ],
+    "Sn_parallel_n_all": false
+   },
+   "bipartite": true,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "classes not isotropic/identical"
+   },
+   "predicted_flat": true,
+   "n_planar": 36
+  },
+  {
+   "id": 127,
+   "scaffold": "epp",
+   "floppy": "nbo-x",
+   "group": "Im-3m",
+   "mult": 2,
+   "V_F": 3,
+   "E_F": 18,
+   "V_S": 40,
+   "E_S": 72,
+   "M_F": 0,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "clearance": 1.7253891874082312,
+   "n_contacts": 12,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 128,
+   "scaffold": "nul",
+   "floppy": "xbr",
+   "group": "Fd-3m:2",
+   "mult": 4,
+   "V_F": 4,
+   "E_F": 16,
+   "V_S": 408,
+   "E_S": 1020,
+   "M_F": 0,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.125
+   ],
+   "clearance": 1.421447895225062,
+   "n_contacts": 12,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": true,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "classes not isotropic/identical"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 129,
+   "scaffold": "uox",
+   "floppy": "isu",
+   "group": "I41/acd:2",
+   "mult": 2,
+   "V_F": 48,
+   "E_F": 96,
+   "V_S": 16,
+   "E_S": 32,
+   "M_F": 48,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "clearance": 0.279946232544723,
+   "n_contacts": 96,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 130,
+   "scaffold": "kcz",
+   "floppy": "mjh",
+   "group": "Fmmm",
+   "mult": 4,
+   "V_F": 3,
+   "E_F": 10,
+   "V_S": 5,
+   "E_S": 14,
+   "M_F": 2,
+   "shift_conv": [
+    0.0,
+    0.25,
+    0.25
+   ],
+   "clearance": 0.30750052572821646,
+   "n_contacts": 6,
+   "rule_N": {
+    "predict": "flat",
+    "values": [
+     0.103337781,
+     0.103337781
+    ],
+    "Sn_parallel_n_all": false
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": true,
+   "n_planar": 2
+  },
+  {
+   "id": 131,
+   "scaffold": "epv",
+   "floppy": "fnc",
+   "group": "R-3m:H",
+   "mult": 3,
+   "V_F": 6,
+   "E_F": 15,
+   "V_S": 8,
+   "E_S": 18,
+   "M_F": 3,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "clearance": 0.7295222674973483,
+   "n_contacts": 6,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 132,
+   "scaffold": "twf-a",
+   "floppy": "baj",
+   "group": "Im-3m",
+   "mult": 2,
+   "V_F": 72,
+   "E_F": 144,
+   "V_S": 48,
+   "E_S": 96,
+   "M_F": 72,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.25
+   ],
+   "clearance": 0.32685885798992753,
+   "n_contacts": 80,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": true,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "classes not isotropic/identical"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 133,
+   "scaffold": "vba",
+   "floppy": "ecv",
+   "group": "Fddd:2",
+   "mult": 4,
+   "V_F": 4,
+   "E_F": 16,
+   "V_S": 8,
+   "E_S": 16,
+   "M_F": 0,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "clearance": 0.6256275992683205,
+   "n_contacts": 8,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 134,
+   "scaffold": "fvx",
+   "floppy": "hef",
+   "group": "Im-3m",
+   "mult": 2,
+   "V_F": 96,
+   "E_F": 144,
+   "V_S": 48,
+   "E_S": 96,
+   "M_F": 144,
+   "shift_conv": [
+    0.25,
+    0.25,
+    0.25
+   ],
+   "clearance": 0.2580042037586378,
+   "n_contacts": 96,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 135,
+   "scaffold": "agw",
+   "floppy": "tsa-a",
+   "group": "P63/mmc",
+   "mult": 1,
+   "V_F": 36,
+   "E_F": 66,
+   "V_S": 20,
+   "E_S": 36,
+   "M_F": 42,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "clearance": 0.4865279674536168,
+   "n_contacts": 96,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "M_F=42 > n_planar=24"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 24
+  },
+  {
+   "id": 136,
+   "scaffold": "ukr",
+   "floppy": "bva",
+   "group": "Pm-3n",
+   "mult": 1,
+   "V_F": 48,
+   "E_F": 72,
+   "V_S": 48,
+   "E_S": 96,
+   "M_F": 72,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "clearance": 0.6709914774268123,
+   "n_contacts": 48,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": true,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "classes not isotropic/identical"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 137,
+   "scaffold": "lwh-a",
+   "floppy": "bcu",
+   "group": "Im-3m",
+   "mult": 2,
+   "V_F": 1,
+   "E_F": 4,
+   "V_S": 120,
+   "E_S": 180,
+   "M_F": 0,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "clearance": 4.580627082720195,
+   "n_contacts": 24,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 138,
+   "scaffold": "epf",
+   "floppy": "zfw",
+   "group": "I41/amd:2",
+   "mult": 2,
+   "V_F": 8,
+   "E_F": 20,
+   "V_S": 14,
+   "E_S": 24,
+   "M_F": 4,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "clearance": 0.5638227457543454,
+   "n_contacts": 16,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 139,
+   "scaffold": "phw-a",
+   "floppy": "ncg",
+   "group": "P6222",
+   "mult": 1,
+   "V_F": 6,
+   "E_F": 27,
+   "V_S": 30,
+   "E_S": 45,
+   "M_F": 0,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "clearance": 2.4499626309835962,
+   "n_contacts": 36,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 140,
+   "scaffold": "und",
+   "floppy": "xfo",
+   "group": "I41/acd:2",
+   "mult": 2,
+   "V_F": 16,
+   "E_F": 56,
+   "V_S": 8,
+   "E_S": 16,
+   "M_F": 0,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "clearance": 0.45327960311742543,
+   "n_contacts": 16,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 141,
+   "scaffold": "asp",
+   "floppy": "uki",
+   "group": "I-42d",
+   "mult": 2,
+   "V_F": 8,
+   "E_F": 16,
+   "V_S": 10,
+   "E_S": 20,
+   "M_F": 8,
+   "shift_conv": [
+    0.0,
+    0.5,
+    0.0
+   ],
+   "clearance": 0.47785112727102924,
+   "n_contacts": 8,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 142,
+   "scaffold": "brl-a",
+   "floppy": "csq-a",
+   "group": "P6/mmm",
+   "mult": 1,
+   "V_F": 48,
+   "E_F": 84,
+   "V_S": 36,
+   "E_S": 66,
+   "M_F": 60,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "clearance": 0.6704519113865839,
+   "n_contacts": 72,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": true,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "classes not isotropic/identical"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 143,
+   "scaffold": "odj",
+   "floppy": "ase-a",
+   "group": "P6/mmm",
+   "mult": 1,
+   "V_F": 48,
+   "E_F": 90,
+   "V_S": 96,
+   "E_S": 192,
+   "M_F": 54,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "clearance": 0.5953869244115161,
+   "n_contacts": 108,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "M_F=54 > n_planar=12"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 12
+  },
+  {
+   "id": 144,
+   "scaffold": "xao",
+   "floppy": "mer-e",
+   "group": "I4/mmm",
+   "mult": 2,
+   "V_F": 32,
+   "E_F": 96,
+   "V_S": 6,
+   "E_S": 11,
+   "M_F": 0,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "clearance": 0.4180463222315137,
+   "n_contacts": 72,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 145,
+   "scaffold": "oso",
+   "floppy": "wkj",
+   "group": "P6222",
+   "mult": 1,
+   "V_F": 12,
+   "E_F": 36,
+   "V_S": 9,
+   "E_S": 18,
+   "M_F": 0,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "clearance": 0.6290901438253256,
+   "n_contacts": 24,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 146,
+   "scaffold": "fcl",
+   "floppy": "swq",
+   "group": "I4132",
+   "mult": 2,
+   "V_F": 24,
+   "E_F": 84,
+   "V_S": 24,
+   "E_S": 60,
+   "M_F": 0,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "clearance": 0.3798049336395095,
+   "n_contacts": 24,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 147,
+   "scaffold": "dnx",
+   "floppy": "bcu",
+   "group": "Im-3m",
+   "mult": 2,
+   "V_F": 1,
+   "E_F": 4,
+   "V_S": 26,
+   "E_S": 48,
+   "M_F": 0,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "clearance": 1.4143015920753157,
+   "n_contacts": 8,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 148,
+   "scaffold": "baz",
+   "floppy": "sty",
+   "group": "P63/mmc",
+   "mult": 1,
+   "V_F": 18,
+   "E_F": 30,
+   "V_S": 12,
+   "E_S": 24,
+   "M_F": 24,
+   "shift_conv": [
+    0.25,
+    0.625,
+    0.0
+   ],
+   "clearance": 0.5662667643600053,
+   "n_contacts": 30,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "M_F=24 > n_planar=6"
+   },
+   "bipartite": true,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "classes not isotropic/identical"
+   },
+   "predicted_flat": false,
+   "n_planar": 6
+  },
+  {
+   "id": 149,
+   "scaffold": "zrc",
+   "floppy": "hqy",
+   "group": "I41/amd:2",
+   "mult": 2,
+   "V_F": 48,
+   "E_F": 104,
+   "V_S": 12,
+   "E_S": 24,
+   "M_F": 40,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.25
+   ],
+   "clearance": 0.41489785044835825,
+   "n_contacts": 56,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "M_F=40 > n_planar=16"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 16
+  },
+  {
+   "id": 150,
+   "scaffold": "urr-a",
+   "floppy": "bas",
+   "group": "Pm-3m",
+   "mult": 1,
+   "V_F": 36,
+   "E_F": 72,
+   "V_S": 72,
+   "E_S": 144,
+   "M_F": 36,
+   "shift_conv": [
+    0.125,
+    0.125,
+    0.125
+   ],
+   "clearance": 0.4912411838950652,
+   "n_contacts": 48,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": true,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "classes not isotropic/identical"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 151,
+   "scaffold": "rtl-a",
+   "floppy": "dag",
+   "group": "P42/mnm",
+   "mult": 1,
+   "V_F": 12,
+   "E_F": 24,
+   "V_S": 24,
+   "E_S": 48,
+   "M_F": 12,
+   "shift_conv": [
+    0.0,
+    0.5,
+    0.5
+   ],
+   "clearance": 0.9287505017987414,
+   "n_contacts": 32,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": true,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "classes not isotropic/identical"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 152,
+   "scaffold": "dnu-a",
+   "floppy": "epp-a",
+   "group": "Im-3m",
+   "mult": 2,
+   "V_F": 144,
+   "E_F": 216,
+   "V_S": 192,
+   "E_S": 312,
+   "M_F": 216,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "clearance": 0.984298541043441,
+   "n_contacts": 192,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "M_F=216 > n_planar=48"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 48
+  },
+  {
+   "id": 153,
+   "scaffold": "mer",
+   "floppy": "tfj-a",
+   "group": "I4/mmm",
+   "mult": 2,
+   "V_F": 24,
+   "E_F": 40,
+   "V_S": 16,
+   "E_S": 32,
+   "M_F": 32,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "clearance": 0.8890581573383538,
+   "n_contacts": 112,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "M_F=32 > n_planar=16"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 16
+  },
+  {
+   "id": 154,
+   "scaffold": "tcl",
+   "floppy": "beb",
+   "group": "R-3m:H",
+   "mult": 3,
+   "V_F": 12,
+   "E_F": 39,
+   "V_S": 3,
+   "E_S": 18,
+   "M_F": 0,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "clearance": 0.2394440351998588,
+   "n_contacts": 18,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 155,
+   "scaffold": "muh",
+   "floppy": "ats",
+   "group": "P63/mmc",
+   "mult": 1,
+   "V_F": 6,
+   "E_F": 18,
+   "V_S": 148,
+   "E_S": 296,
+   "M_F": 2,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.25
+   ],
+   "clearance": 1.2912519062353671,
+   "n_contacts": 76,
+   "rule_N": {
+    "predict": "flat",
+    "values": [
+     3.287231912,
+     3.287231912
+    ],
+    "Sn_parallel_n_all": true
+   },
+   "bipartite": true,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "classes not isotropic/identical"
+   },
+   "predicted_flat": true,
+   "n_planar": 2
+  },
+  {
+   "id": 156,
+   "scaffold": "alb-d",
+   "floppy": "kew-a",
+   "group": "P6/mmm",
+   "mult": 1,
+   "V_F": 36,
+   "E_F": 60,
+   "V_S": 9,
+   "E_S": 18,
+   "M_F": 48,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "clearance": 0.4749823003533459,
+   "n_contacts": 66,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "M_F=48 > n_planar=24"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 24
+  },
+  {
+   "id": 157,
+   "scaffold": "wgr",
+   "floppy": "yfr",
+   "group": "I41/acd:2",
+   "mult": 2,
+   "V_F": 16,
+   "E_F": 40,
+   "V_S": 16,
+   "E_S": 40,
+   "M_F": 8,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.25
+   ],
+   "clearance": 0.4510194248639367,
+   "n_contacts": 24,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 158,
+   "scaffold": "nju-a",
+   "floppy": "baq",
+   "group": "Im-3m",
+   "mult": 2,
+   "V_F": 48,
+   "E_F": 96,
+   "V_S": 72,
+   "E_S": 120,
+   "M_F": 48,
+   "shift_conv": [
+    0.125,
+    0.125,
+    0.125
+   ],
+   "clearance": 0.7280344987309177,
+   "n_contacts": 60,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 159,
+   "scaffold": "cfc-e-a",
+   "floppy": "can-e",
+   "group": "P63/mmc",
+   "mult": 1,
+   "V_F": 24,
+   "E_F": 72,
+   "V_S": 96,
+   "E_S": 234,
+   "M_F": 0,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "clearance": 1.1252365042499997,
+   "n_contacts": 120,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 160,
+   "scaffold": "xxv",
+   "floppy": "tfg-a",
+   "group": "Pm-3m",
+   "mult": 1,
+   "V_F": 72,
+   "E_F": 132,
+   "V_S": 13,
+   "E_S": 24,
+   "M_F": 84,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "clearance": 0.35946755212058257,
+   "n_contacts": 144,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 161,
+   "scaffold": "uos",
+   "floppy": "tfm",
+   "group": "I41/amd:2",
+   "mult": 2,
+   "V_F": 14,
+   "E_F": 24,
+   "V_S": 16,
+   "E_S": 32,
+   "M_F": 18,
+   "shift_conv": [
+    0.0,
+    0.25,
+    0.5
+   ],
+   "clearance": 0.5986784755054788,
+   "n_contacts": 36,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "M_F=18 > n_planar=12"
+   },
+   "bipartite": true,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "classes not isotropic/identical"
+   },
+   "predicted_flat": false,
+   "n_planar": 12
+  },
+  {
+   "id": 162,
+   "scaffold": "hfp",
+   "floppy": "cus",
+   "group": "Cmcm",
+   "mult": 2,
+   "V_F": 8,
+   "E_F": 16,
+   "V_S": 12,
+   "E_S": 32,
+   "M_F": 8,
+   "shift_conv": [
+    0.125,
+    0.5,
+    0.0
+   ],
+   "clearance": 0.3638881764931237,
+   "n_contacts": 8,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 163,
+   "scaffold": "alb-x-d",
+   "floppy": "yav-d",
+   "group": "P6/mmm",
+   "mult": 1,
+   "V_F": 4,
+   "E_F": 9,
+   "V_S": 16,
+   "E_S": 32,
+   "M_F": 4,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "clearance": 0.819409779849065,
+   "n_contacts": 30,
+   "rule_N": {
+    "predict": "flat",
+    "values": [
+     0.0,
+     0.0,
+     0.0,
+     3.671634384
+    ],
+    "Sn_parallel_n_all": true
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": true,
+   "n_planar": 4
+  },
+  {
+   "id": 164,
+   "scaffold": "xbj",
+   "floppy": "thh",
+   "group": "I41/amd:2",
+   "mult": 2,
+   "V_F": 24,
+   "E_F": 48,
+   "V_S": 4,
+   "E_S": 10,
+   "M_F": 24,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.375
+   ],
+   "clearance": 0.3610854155452812,
+   "n_contacts": 24,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": true,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "classes not isotropic/identical"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 165,
+   "scaffold": "tfe-a",
+   "floppy": "tru-a",
+   "group": "Pm-3m",
+   "mult": 1,
+   "V_F": 216,
+   "E_F": 324,
+   "V_S": 72,
+   "E_S": 108,
+   "M_F": 324,
+   "shift_conv": [
+    0.5,
+    0.5,
+    0.5
+   ],
+   "clearance": 0.6852672820731981,
+   "n_contacts": 672,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "M_F=324 > n_planar=72"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 72
+  },
+  {
+   "id": 166,
+   "scaffold": "xap",
+   "floppy": "hal",
+   "group": "Fm-3m",
+   "mult": 4,
+   "V_F": 24,
+   "E_F": 48,
+   "V_S": 21,
+   "E_S": 38,
+   "M_F": 24,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "clearance": 0.6833722089903245,
+   "n_contacts": 48,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 167,
+   "scaffold": "toz",
+   "floppy": "unr",
+   "group": "R-3c:H",
+   "mult": 3,
+   "V_F": 12,
+   "E_F": 24,
+   "V_S": 42,
+   "E_S": 90,
+   "M_F": 12,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.25
+   ],
+   "clearance": 0.6206479356436392,
+   "n_contacts": 12,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 168,
+   "scaffold": "knc",
+   "floppy": "fdu-a",
+   "group": "P42/mmc",
+   "mult": 1,
+   "V_F": 32,
+   "E_F": 60,
+   "V_S": 12,
+   "E_S": 32,
+   "M_F": 36,
+   "shift_conv": [
+    0.5,
+    0.5,
+    0.125
+   ],
+   "clearance": 0.21887453913455612,
+   "n_contacts": 48,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "M_F=36 > n_planar=8"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 8
+  },
+  {
+   "id": 169,
+   "scaffold": "gng",
+   "floppy": "epy",
+   "group": "Fd-3m:2",
+   "mult": 4,
+   "V_F": 40,
+   "E_F": 72,
+   "V_S": 408,
+   "E_S": 1020,
+   "M_F": 48,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "clearance": 0.6983542717323229,
+   "n_contacts": 288,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "M_F=48 > n_planar=28"
+   },
+   "bipartite": true,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "classes not isotropic/identical"
+   },
+   "predicted_flat": false,
+   "n_planar": 28
+  },
+  {
+   "id": 170,
+   "scaffold": "ild",
+   "floppy": "etb-e",
+   "group": "R-3m:H",
+   "mult": 3,
+   "V_F": 9,
+   "E_F": 18,
+   "V_S": 1,
+   "E_S": 6,
+   "M_F": 9,
+   "shift_conv": [
+    0.25,
+    0.625,
+    0.375
+   ],
+   "clearance": 0.11881420309016724,
+   "n_contacts": 13,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "M_F=9 > n_planar=3"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 3
+  },
+  {
+   "id": 171,
+   "scaffold": "sow",
+   "floppy": "vcv",
+   "group": "Pbcn",
+   "mult": 1,
+   "V_F": 8,
+   "E_F": 32,
+   "V_S": 8,
+   "E_S": 16,
+   "M_F": 0,
+   "shift_conv": [
+    0.5,
+    0.25,
+    0.5
+   ],
+   "clearance": 0.4538017877467341,
+   "n_contacts": 8,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 172,
+   "scaffold": "ecb",
+   "floppy": "wny",
+   "group": "R-3c:H",
+   "mult": 3,
+   "V_F": 12,
+   "E_F": 42,
+   "V_S": 6,
+   "E_S": 24,
+   "M_F": 0,
+   "shift_conv": [
+    0.25,
+    0.5,
+    0.0
+   ],
+   "clearance": 0.24664541945588742,
+   "n_contacts": 12,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 173,
+   "scaffold": "swd",
+   "floppy": "ilc",
+   "group": "R-3m:H",
+   "mult": 3,
+   "V_F": 1,
+   "E_F": 4,
+   "V_S": 6,
+   "E_S": 21,
+   "M_F": 0,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "clearance": 0.8651538180249997,
+   "n_contacts": 6,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 174,
+   "scaffold": "wno",
+   "floppy": "ahr-a",
+   "group": "R-3:H",
+   "mult": 3,
+   "V_F": 30,
+   "E_F": 51,
+   "V_S": 6,
+   "E_S": 21,
+   "M_F": 39,
+   "shift_conv": [
+    0.0,
+    0.5,
+    0.5
+   ],
+   "clearance": 0.17168219010917096,
+   "n_contacts": 30,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 175,
+   "scaffold": "mot-e-a",
+   "floppy": "cmc",
+   "group": "P4/mmm",
+   "mult": 1,
+   "V_F": 40,
+   "E_F": 80,
+   "V_S": 24,
+   "E_S": 44,
+   "M_F": 40,
+   "shift_conv": [
+    0.0,
+    0.5,
+    0.0
+   ],
+   "clearance": 0.6002139342312177,
+   "n_contacts": 64,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 176,
+   "scaffold": "zbr",
+   "floppy": "rna-a",
+   "group": "Imma",
+   "mult": 2,
+   "V_F": 24,
+   "E_F": 48,
+   "V_S": 16,
+   "E_S": 32,
+   "M_F": 24,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "clearance": 0.6926296975399358,
+   "n_contacts": 40,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 177,
+   "scaffold": "rtl",
+   "floppy": "ftp",
+   "group": "P42/mnm",
+   "mult": 1,
+   "V_F": 24,
+   "E_F": 48,
+   "V_S": 6,
+   "E_S": 12,
+   "M_F": 24,
+   "shift_conv": [
+    0.5,
+    0.5,
+    0.5
+   ],
+   "clearance": 0.5379102885300692,
+   "n_contacts": 24,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 178,
+   "scaffold": "nia-d",
+   "floppy": "ats-a",
+   "group": "P63/mmc",
+   "mult": 1,
+   "V_F": 36,
+   "E_F": 90,
+   "V_S": 4,
+   "E_S": 12,
+   "M_F": 18,
+   "shift_conv": [
+    0.125,
+    0.375,
+    0.5
+   ],
+   "clearance": 0.09814514306970393,
+   "n_contacts": 47,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "M_F=18 > n_planar=6"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 6
+  },
+  {
+   "id": 179,
+   "scaffold": "urp-a",
+   "floppy": "nha-a",
+   "group": "Im-3m",
+   "mult": 2,
+   "V_F": 96,
+   "E_F": 180,
+   "V_S": 144,
+   "E_S": 252,
+   "M_F": 108,
+   "shift_conv": [
+    0.0,
+    0.125,
+    0.5
+   ],
+   "clearance": 0.3377213905612545,
+   "n_contacts": 112,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 180,
+   "scaffold": "ffc",
+   "floppy": "bcb",
+   "group": "P4/mmm",
+   "mult": 1,
+   "V_F": 16,
+   "E_F": 32,
+   "V_S": 7,
+   "E_S": 12,
+   "M_F": 16,
+   "shift_conv": [
+    0.0,
+    0.5,
+    0.25
+   ],
+   "clearance": 0.5211297720766871,
+   "n_contacts": 32,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": true,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "classes not isotropic/identical"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 181,
+   "scaffold": "qzd-a",
+   "floppy": "twt",
+   "group": "P6222",
+   "mult": 1,
+   "V_F": 6,
+   "E_F": 9,
+   "V_S": 12,
+   "E_S": 18,
+   "M_F": 9,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "clearance": 0.7998260193,
+   "n_contacts": 12,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "M_F=9 > n_planar=6"
+   },
+   "bipartite": true,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "classes not isotropic/identical"
+   },
+   "predicted_flat": false,
+   "n_planar": 6
+  },
+  {
+   "id": 182,
+   "scaffold": "can",
+   "floppy": "icm",
+   "group": "P63/mmc",
+   "mult": 1,
+   "V_F": 16,
+   "E_F": 32,
+   "V_S": 12,
+   "E_S": 24,
+   "M_F": 16,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "clearance": 0.6772208862327181,
+   "n_contacts": 72,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 183,
+   "scaffold": "bpc",
+   "floppy": "hfp",
+   "group": "Cmcm",
+   "mult": 2,
+   "V_F": 12,
+   "E_F": 32,
+   "V_S": 8,
+   "E_S": 12,
+   "M_F": 4,
+   "shift_conv": [
+    0.25,
+    0.25,
+    0.125
+   ],
+   "clearance": 0.4414002314760386,
+   "n_contacts": 12,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "M_F=4 > n_planar=2"
+   },
+   "bipartite": true,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "classes not isotropic/identical"
+   },
+   "predicted_flat": false,
+   "n_planar": 2
+  },
+  {
+   "id": 184,
+   "scaffold": "unn",
+   "floppy": "ung",
+   "group": "R-3c:H",
+   "mult": 3,
+   "V_F": 6,
+   "E_F": 12,
+   "V_S": 6,
+   "E_S": 12,
+   "M_F": 6,
+   "shift_conv": [
+    0.0,
+    0.5,
+    0.5
+   ],
+   "clearance": 0.5357743916620569,
+   "n_contacts": 6,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 185,
+   "scaffold": "zfe",
+   "floppy": "svq",
+   "group": "I4/mcm",
+   "mult": 2,
+   "V_F": 8,
+   "E_F": 28,
+   "V_S": 8,
+   "E_S": 20,
+   "M_F": 0,
+   "shift_conv": [
+    0.0,
+    0.25,
+    0.25
+   ],
+   "clearance": 0.44356940034950276,
+   "n_contacts": 8,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 186,
+   "scaffold": "ptr-a",
+   "floppy": "hyl-a",
+   "group": "R-3m:H",
+   "mult": 3,
+   "V_F": 54,
+   "E_F": 99,
+   "V_S": 48,
+   "E_S": 84,
+   "M_F": 63,
+   "shift_conv": [
+    0.0,
+    0.5,
+    0.0
+   ],
+   "clearance": 0.4300565168003704,
+   "n_contacts": 88,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "M_F=63 > n_planar=6"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 6
+  },
+  {
+   "id": 187,
+   "scaffold": "mob",
+   "floppy": "scp",
+   "group": "I41/amd:2",
+   "mult": 2,
+   "V_F": 8,
+   "E_F": 24,
+   "V_S": 4,
+   "E_S": 20,
+   "M_F": 6,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "clearance": 0.3535569261271796,
+   "n_contacts": 32,
+   "rule_N": {
+    "predict": "flat",
+    "values": [
+     1.09176606,
+     1.09176606,
+     1.09176606,
+     1.09176606,
+     1.333418628,
+     1.333418628
+    ],
+    "Sn_parallel_n_all": false
+   },
+   "bipartite": true,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "classes not isotropic/identical"
+   },
+   "predicted_flat": true,
+   "n_planar": 6
+  },
+  {
+   "id": 188,
+   "scaffold": "gwe",
+   "floppy": "gme-e",
+   "group": "P63/mmc",
+   "mult": 1,
+   "V_F": 48,
+   "E_F": 144,
+   "V_S": 66,
+   "E_S": 108,
+   "M_F": 0,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.25
+   ],
+   "clearance": 0.45081318718255176,
+   "n_contacts": 66,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 189,
+   "scaffold": "gcc",
+   "floppy": "eye-a",
+   "group": "P6/mmm",
+   "mult": 1,
+   "V_F": 36,
+   "E_F": 72,
+   "V_S": 24,
+   "E_S": 48,
+   "M_F": 36,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "clearance": 0.38220182734297875,
+   "n_contacts": 60,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 190,
+   "scaffold": "mot",
+   "floppy": "fit-e",
+   "group": "P4/mmm",
+   "mult": 1,
+   "V_F": 5,
+   "E_F": 18,
+   "V_S": 3,
+   "E_S": 6,
+   "M_F": 0,
+   "shift_conv": [
+    0.25,
+    0.25,
+    0.5
+   ],
+   "clearance": 0.5411973319409473,
+   "n_contacts": 18,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 191,
+   "scaffold": "agw",
+   "floppy": "sta",
+   "group": "P63/mmc",
+   "mult": 1,
+   "V_F": 6,
+   "E_F": 18,
+   "V_S": 20,
+   "E_S": 36,
+   "M_F": 0,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.25
+   ],
+   "clearance": 0.8496844172074521,
+   "n_contacts": 24,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": true,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "classes not isotropic/identical"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 192,
+   "scaffold": "ftg",
+   "floppy": "tsa",
+   "group": "P63/mmc",
+   "mult": 1,
+   "V_F": 10,
+   "E_F": 18,
+   "V_S": 36,
+   "E_S": 72,
+   "M_F": 12,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "clearance": 1.4354190837008116,
+   "n_contacts": 72,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "M_F=12 > n_planar=8"
+   },
+   "bipartite": true,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "classes not isotropic/identical"
+   },
+   "predicted_flat": false,
+   "n_planar": 8
+  },
+  {
+   "id": 193,
+   "scaffold": "mot",
+   "floppy": "hbm",
+   "group": "P4/mmm",
+   "mult": 1,
+   "V_F": 12,
+   "E_F": 24,
+   "V_S": 3,
+   "E_S": 6,
+   "M_F": 12,
+   "shift_conv": [
+    0.0,
+    0.5,
+    0.125
+   ],
+   "clearance": 0.2981850405369121,
+   "n_contacts": 12,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 194,
+   "scaffold": "epn",
+   "floppy": "tfe-a",
+   "group": "Pm-3m",
+   "mult": 1,
+   "V_F": 72,
+   "E_F": 108,
+   "V_S": 44,
+   "E_S": 72,
+   "M_F": 108,
+   "shift_conv": [
+    0.5,
+    0.5,
+    0.5
+   ],
+   "clearance": 0.4536416813491898,
+   "n_contacts": 96,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "M_F=108 > n_planar=48"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 48
+  },
+  {
+   "id": 195,
+   "scaffold": "wga",
+   "floppy": "vtx",
+   "group": "I41/amd:2",
+   "mult": 2,
+   "V_F": 6,
+   "E_F": 16,
+   "V_S": 16,
+   "E_S": 40,
+   "M_F": 2,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "clearance": 0.6515947329245396,
+   "n_contacts": 32,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 196,
+   "scaffold": "jsb",
+   "floppy": "nku",
+   "group": "Ia-3d",
+   "mult": 2,
+   "V_F": 32,
+   "E_F": 96,
+   "V_S": 84,
+   "E_S": 168,
+   "M_F": 4,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.375
+   ],
+   "clearance": 0.5341182221843781,
+   "n_contacts": 40,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 197,
+   "scaffold": "sno",
+   "floppy": "wil",
+   "group": "I41/acd:2",
+   "mult": 2,
+   "V_F": 16,
+   "E_F": 48,
+   "V_S": 8,
+   "E_S": 24,
+   "M_F": 0,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "clearance": 0.47617083608099836,
+   "n_contacts": 16,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 198,
+   "scaffold": "sxo",
+   "floppy": "ibe-a",
+   "group": "Ia-3d",
+   "mult": 2,
+   "V_F": 120,
+   "E_F": 228,
+   "V_S": 48,
+   "E_S": 144,
+   "M_F": 132,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "clearance": 0.12871920459999953,
+   "n_contacts": 144,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "M_F=132 > n_planar=24"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 24
+  },
+  {
+   "id": 199,
+   "scaffold": "nul",
+   "floppy": "fav",
+   "group": "Fd-3m:2",
+   "mult": 4,
+   "V_F": 816,
+   "E_F": 1632,
+   "V_S": 408,
+   "E_S": 1020,
+   "M_F": 816,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "clearance": 0.2993254449436652,
+   "n_contacts": 816,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": true,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "classes not isotropic/identical"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 200,
+   "scaffold": "zmj",
+   "floppy": "eft-a",
+   "group": "P4/mmm",
+   "mult": 1,
+   "V_F": 24,
+   "E_F": 40,
+   "V_S": 36,
+   "E_S": 60,
+   "M_F": 32,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "clearance": 0.8435968584932111,
+   "n_contacts": 80,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "M_F=32 > n_planar=16"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 16
+  },
+  {
+   "id": 201,
+   "scaffold": "epu",
+   "floppy": "fog",
+   "group": "R-3m:H",
+   "mult": 3,
+   "V_F": 9,
+   "E_F": 15,
+   "V_S": 8,
+   "E_S": 18,
+   "M_F": 12,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.375
+   ],
+   "clearance": 0.3882337935477347,
+   "n_contacts": 12,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "M_F=12 > n_planar=9"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 9
+  },
+  {
+   "id": 202,
+   "scaffold": "wmp",
+   "floppy": "wnf",
+   "group": "R-3m:H",
+   "mult": 3,
+   "V_F": 6,
+   "E_F": 21,
+   "V_S": 12,
+   "E_S": 36,
+   "M_F": 0,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "clearance": 0.6913025256347934,
+   "n_contacts": 12,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 203,
+   "scaffold": "xam",
+   "floppy": "lwh-a",
+   "group": "Im-3m",
+   "mult": 2,
+   "V_F": 120,
+   "E_F": 180,
+   "V_S": 7,
+   "E_S": 30,
+   "M_F": 180,
+   "shift_conv": [
+    0.0,
+    0.125,
+    0.25
+   ],
+   "clearance": 0.10605872748186597,
+   "n_contacts": 128,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "M_F=180 > n_planar=72"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 72
+  },
+  {
+   "id": 204,
+   "scaffold": "cdj",
+   "floppy": "csi",
+   "group": "Im-3",
+   "mult": 2,
+   "V_F": 60,
+   "E_F": 120,
+   "V_S": 16,
+   "E_S": 30,
+   "M_F": 60,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "clearance": 0.2759891952906421,
+   "n_contacts": 96,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 205,
+   "scaffold": "ood-a",
+   "floppy": "tfz",
+   "group": "P6/mmm",
+   "mult": 1,
+   "V_F": 5,
+   "E_F": 9,
+   "V_S": 72,
+   "E_S": 114,
+   "M_F": 6,
+   "shift_conv": [
+    0.0,
+    0.5,
+    0.5
+   ],
+   "clearance": 1.912967939869175,
+   "n_contacts": 116,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "M_F=6 > n_planar=5"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 5
+  },
+  {
+   "id": 206,
+   "scaffold": "ith-e",
+   "floppy": "urg",
+   "group": "Pm-3n",
+   "mult": 1,
+   "V_F": 16,
+   "E_F": 40,
+   "V_S": 24,
+   "E_S": 96,
+   "M_F": 10,
+   "shift_conv": [
+    0.5,
+    0.5,
+    0.5
+   ],
+   "clearance": 0.5487635998473297,
+   "n_contacts": 96,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "M_F=10 > n_planar=6"
+   },
+   "bipartite": true,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "classes not isotropic/identical"
+   },
+   "predicted_flat": false,
+   "n_planar": 6
+  },
+  {
+   "id": 207,
+   "scaffold": "oge",
+   "floppy": "nbo-x",
+   "group": "Im-3m",
+   "mult": 2,
+   "V_F": 3,
+   "E_F": 18,
+   "V_S": 72,
+   "E_S": 108,
+   "M_F": 0,
+   "shift_conv": [
+    0.25,
+    0.25,
+    0.25
+   ],
+   "clearance": 1.986145152072232,
+   "n_contacts": 36,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 208,
+   "scaffold": "wgy",
+   "floppy": "lbt",
+   "group": "I4/mmm",
+   "mult": 2,
+   "V_F": 12,
+   "E_F": 24,
+   "V_S": 8,
+   "E_S": 24,
+   "M_F": 12,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "clearance": 0.35768883357590525,
+   "n_contacts": 32,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 209,
+   "scaffold": "sss",
+   "floppy": "stp-a",
+   "group": "P6/mmm",
+   "mult": 1,
+   "V_F": 24,
+   "E_F": 42,
+   "V_S": 6,
+   "E_S": 18,
+   "M_F": 30,
+   "shift_conv": [
+    0.0,
+    0.5,
+    0.5
+   ],
+   "clearance": 0.2878884290289734,
+   "n_contacts": 32,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "M_F=30 > n_planar=12"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 12
+  },
+  {
+   "id": 210,
+   "scaffold": "kag",
+   "floppy": "xai-a",
+   "group": "P6/mmm",
+   "mult": 1,
+   "V_F": 28,
+   "E_F": 50,
+   "V_S": 3,
+   "E_S": 9,
+   "M_F": 34,
+   "shift_conv": [
+    0.25,
+    0.5,
+    0.5
+   ],
+   "clearance": 0.18348090282097484,
+   "n_contacts": 36,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "M_F=34 > n_planar=12"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 12
+  },
+  {
+   "id": 211,
+   "scaffold": "npo-a",
+   "floppy": "acs",
+   "group": "P63/mmc",
+   "mult": 1,
+   "V_F": 2,
+   "E_F": 6,
+   "V_S": 24,
+   "E_S": 48,
+   "M_F": 0,
+   "shift_conv": [
+    0.0,
+    0.5,
+    0.5
+   ],
+   "clearance": 2.0294967250446954,
+   "n_contacts": 24,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": true,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "classes not isotropic/identical"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 212,
+   "scaffold": "ydq-a",
+   "floppy": "dnf",
+   "group": "Fd-3m:2",
+   "mult": 4,
+   "V_F": 36,
+   "E_F": 72,
+   "V_S": 144,
+   "E_S": 252,
+   "M_F": 36,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "clearance": 1.2496740551596601,
+   "n_contacts": 192,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "M_F=36 > n_planar=28"
+   },
+   "bipartite": true,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "classes not isotropic/identical"
+   },
+   "predicted_flat": false,
+   "n_planar": 28
+  },
+  {
+   "id": 213,
+   "scaffold": "crb",
+   "floppy": "fun",
+   "group": "I4/mmm",
+   "mult": 2,
+   "V_F": 24,
+   "E_F": 48,
+   "V_S": 4,
+   "E_S": 8,
+   "M_F": 24,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "clearance": 0.5614207418446188,
+   "n_contacts": 24,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": true,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "classes not isotropic/identical"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 214,
+   "scaffold": "pda",
+   "floppy": "reo-d-a",
+   "group": "Pm-3m",
+   "mult": 1,
+   "V_F": 22,
+   "E_F": 47,
+   "V_S": 24,
+   "E_S": 84,
+   "M_F": 19,
+   "shift_conv": [
+    0.0,
+    0.5,
+    0.5
+   ],
+   "clearance": 0.3152979851921006,
+   "n_contacts": 32,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 215,
+   "scaffold": "fsx",
+   "floppy": "mdh",
+   "group": "I4/mmm",
+   "mult": 2,
+   "V_F": 12,
+   "E_F": 26,
+   "V_S": 4,
+   "E_S": 11,
+   "M_F": 10,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.375
+   ],
+   "clearance": 0.3540259296358218,
+   "n_contacts": 16,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 216,
+   "scaffold": "nin",
+   "floppy": "zra",
+   "group": "P6/mmm",
+   "mult": 1,
+   "V_F": 7,
+   "E_F": 47,
+   "V_S": 3,
+   "E_S": 18,
+   "M_F": 0,
+   "shift_conv": [
+    0.0,
+    0.25,
+    0.375
+   ],
+   "clearance": 0.19504074337261113,
+   "n_contacts": 7,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 217,
+   "scaffold": "stj-a",
+   "floppy": "zll",
+   "group": "I4/mmm",
+   "mult": 2,
+   "V_F": 3,
+   "E_F": 9,
+   "V_S": 40,
+   "E_S": 60,
+   "M_F": 0,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "clearance": 2.991067634472242,
+   "n_contacts": 80,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 218,
+   "scaffold": "tfi-a",
+   "floppy": "tfi",
+   "group": "P42/mmc",
+   "mult": 1,
+   "V_F": 6,
+   "E_F": 10,
+   "V_S": 20,
+   "E_S": 34,
+   "M_F": 8,
+   "shift_conv": [
+    0.5,
+    0.5,
+    0.5
+   ],
+   "clearance": 1.7480158799999996,
+   "n_contacts": 24,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "M_F=8 > n_planar=4"
+   },
+   "bipartite": true,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "classes not isotropic/identical"
+   },
+   "predicted_flat": false,
+   "n_planar": 4
+  },
+  {
+   "id": 219,
+   "scaffold": "snw",
+   "floppy": "cap",
+   "group": "I41/amd:2",
+   "mult": 2,
+   "V_F": 2,
+   "E_F": 6,
+   "V_S": 4,
+   "E_S": 12,
+   "M_F": 0,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.125
+   ],
+   "clearance": 0.6832936376697157,
+   "n_contacts": 4,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 220,
+   "scaffold": "wjg",
+   "floppy": "umm",
+   "group": "P6222",
+   "mult": 1,
+   "V_F": 12,
+   "E_F": 24,
+   "V_S": 12,
+   "E_S": 24,
+   "M_F": 12,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "clearance": 0.5503439384492106,
+   "n_contacts": 12,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": true,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "classes not isotropic/identical"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 221,
+   "scaffold": "zfz",
+   "floppy": "wma",
+   "group": "P3221",
+   "mult": 1,
+   "V_F": 6,
+   "E_F": 18,
+   "V_S": 6,
+   "E_S": 15,
+   "M_F": 0,
+   "shift_conv": [
+    0.25,
+    0.625,
+    0.25
+   ],
+   "clearance": 0.41698230395830993,
+   "n_contacts": 8,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 222,
+   "scaffold": "pts-e",
+   "floppy": "dmd",
+   "group": "P42/mmc",
+   "mult": 1,
+   "V_F": 6,
+   "E_F": 10,
+   "V_S": 8,
+   "E_S": 20,
+   "M_F": 8,
+   "shift_conv": [
+    0.5,
+    0.5,
+    0.0
+   ],
+   "clearance": 1.0045440725025456,
+   "n_contacts": 32,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "M_F=8 > n_planar=4"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 4
+  },
+  {
+   "id": 223,
+   "scaffold": "dpd",
+   "floppy": "rht-a",
+   "group": "Fm-3m",
+   "mult": 4,
+   "V_F": 48,
+   "E_F": 96,
+   "V_S": 16,
+   "E_S": 32,
+   "M_F": 48,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "clearance": 0.4077651845421139,
+   "n_contacts": 72,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 224,
+   "scaffold": "wjs",
+   "floppy": "wka",
+   "group": "P6122",
+   "mult": 1,
+   "V_F": 12,
+   "E_F": 30,
+   "V_S": 12,
+   "E_S": 30,
+   "M_F": 6,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.25
+   ],
+   "clearance": 0.39658031100344043,
+   "n_contacts": 18,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 225,
+   "scaffold": "ftm",
+   "floppy": "lwh",
+   "group": "Im-3m",
+   "mult": 2,
+   "V_F": 34,
+   "E_F": 60,
+   "V_S": 96,
+   "E_S": 192,
+   "M_F": 42,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "clearance": 0.7867812485887334,
+   "n_contacts": 160,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "M_F=42 > n_planar=24"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 24
+  },
+  {
+   "id": 226,
+   "scaffold": "dum",
+   "floppy": "alb",
+   "group": "P6/mmm",
+   "mult": 1,
+   "V_F": 3,
+   "E_F": 12,
+   "V_S": 12,
+   "E_S": 21,
+   "M_F": 0,
+   "shift_conv": [
+    0.0,
+    0.375,
+    0.0
+   ],
+   "clearance": 1.029139594984303,
+   "n_contacts": 6,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": true,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "classes not isotropic/identical"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 227,
+   "scaffold": "wlh",
+   "floppy": "cor",
+   "group": "R-3c:H",
+   "mult": 3,
+   "V_F": 10,
+   "E_F": 24,
+   "V_S": 12,
+   "E_S": 30,
+   "M_F": 6,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "clearance": 0.4510660135248411,
+   "n_contacts": 24,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": true,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "classes not isotropic/identical"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 228,
+   "scaffold": "xaj",
+   "floppy": "fuv",
+   "group": "Pm-3m",
+   "mult": 1,
+   "V_F": 36,
+   "E_F": 72,
+   "V_S": 16,
+   "E_S": 36,
+   "M_F": 36,
+   "shift_conv": [
+    0.5,
+    0.5,
+    0.5
+   ],
+   "clearance": 0.3733612516216821,
+   "n_contacts": 60,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 229,
+   "scaffold": "hec",
+   "floppy": "kle-a",
+   "group": "Im-3",
+   "mult": 2,
+   "V_F": 120,
+   "E_F": 204,
+   "V_S": 36,
+   "E_S": 54,
+   "M_F": 156,
+   "shift_conv": [
+    0.25,
+    0.25,
+    0.25
+   ],
+   "clearance": 0.2847109603788339,
+   "n_contacts": 186,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 230,
+   "scaffold": "cla",
+   "floppy": "amn",
+   "group": "I-43m",
+   "mult": 2,
+   "V_F": 29,
+   "E_F": 190,
+   "V_S": 41,
+   "E_S": 82,
+   "M_F": 0,
+   "shift_conv": [
+    0.0,
+    0.25,
+    0.5
+   ],
+   "clearance": 0.32458231580010305,
+   "n_contacts": 36,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 231,
+   "scaffold": "phw",
+   "floppy": "wjw",
+   "group": "P6222",
+   "mult": 1,
+   "V_F": 12,
+   "E_F": 30,
+   "V_S": 9,
+   "E_S": 15,
+   "M_F": 6,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "clearance": 0.560309731756888,
+   "n_contacts": 12,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 232,
+   "scaffold": "gwe",
+   "floppy": "ssa-a",
+   "group": "P63/mmc",
+   "mult": 1,
+   "V_F": 48,
+   "E_F": 72,
+   "V_S": 66,
+   "E_S": 108,
+   "M_F": 72,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "clearance": 0.5524960672019851,
+   "n_contacts": 48,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": true,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "classes not isotropic/identical"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 233,
+   "scaffold": "pyf",
+   "floppy": "ncc",
+   "group": "I-43m",
+   "mult": 2,
+   "V_F": 12,
+   "E_F": 54,
+   "V_S": 23,
+   "E_S": 40,
+   "M_F": 0,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.25
+   ],
+   "clearance": 0.7582972871648975,
+   "n_contacts": 22,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 234,
+   "scaffold": "umu",
+   "floppy": "zfx",
+   "group": "I41/amd:2",
+   "mult": 2,
+   "V_F": 8,
+   "E_F": 20,
+   "V_S": 16,
+   "E_S": 32,
+   "M_F": 4,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "clearance": 0.7289064034586976,
+   "n_contacts": 16,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": true,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "classes not isotropic/identical"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 235,
+   "scaffold": "wnj",
+   "floppy": "msi",
+   "group": "P3221",
+   "mult": 1,
+   "V_F": 30,
+   "E_F": 63,
+   "V_S": 6,
+   "E_S": 21,
+   "M_F": 27,
+   "shift_conv": [
+    0.0,
+    0.625,
+    0.5
+   ],
+   "clearance": 0.13590622497519028,
+   "n_contacts": 40,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 236,
+   "scaffold": "iph",
+   "floppy": "wge",
+   "group": "I41/amd:2",
+   "mult": 2,
+   "V_F": 16,
+   "E_F": 40,
+   "V_S": 16,
+   "E_S": 24,
+   "M_F": 8,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "clearance": 0.7205840395773467,
+   "n_contacts": 16,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 237,
+   "scaffold": "ast-e",
+   "floppy": "xap",
+   "group": "Fm-3m",
+   "mult": 4,
+   "V_F": 21,
+   "E_F": 38,
+   "V_S": 20,
+   "E_S": 60,
+   "M_F": 25,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "clearance": 0.8955329076470206,
+   "n_contacts": 72,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "M_F=25 > n_planar=12"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 12
+  },
+  {
+   "id": 238,
+   "scaffold": "cab-a",
+   "floppy": "xaj-a",
+   "group": "Pm-3m",
+   "mult": 1,
+   "V_F": 72,
+   "E_F": 132,
+   "V_S": 30,
+   "E_S": 63,
+   "M_F": 84,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "clearance": 1.374056613545865,
+   "n_contacts": 264,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "M_F=84 > n_planar=36"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 36
+  },
+  {
+   "id": 239,
+   "scaffold": "dnp-a",
+   "floppy": "tdd",
+   "group": "P6/mmm",
+   "mult": 1,
+   "V_F": 84,
+   "E_F": 168,
+   "V_S": 72,
+   "E_S": 126,
+   "M_F": 84,
+   "shift_conv": [
+    0.0,
+    0.5,
+    0.5
+   ],
+   "clearance": 0.5727062465285839,
+   "n_contacts": 176,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": true,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "classes not isotropic/identical"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 240,
+   "scaffold": "hef",
+   "floppy": "urv-a",
+   "group": "Im-3m",
+   "mult": 2,
+   "V_F": 144,
+   "E_F": 264,
+   "V_S": 96,
+   "E_S": 144,
+   "M_F": 168,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "clearance": 0.4501795970914579,
+   "n_contacts": 224,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 241,
+   "scaffold": "mgz-x-d",
+   "floppy": "xcb",
+   "group": "P63/mmc",
+   "mult": 1,
+   "V_F": 16,
+   "E_F": 26,
+   "V_S": 68,
+   "E_S": 136,
+   "M_F": 22,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "clearance": 0.7914824743517207,
+   "n_contacts": 16,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "M_F=22 > n_planar=12"
+   },
+   "bipartite": true,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "classes not isotropic/identical"
+   },
+   "predicted_flat": false,
+   "n_planar": 12
+  },
+  {
+   "id": 242,
+   "scaffold": "sod",
+   "floppy": "jmt",
+   "group": "Im-3m",
+   "mult": 2,
+   "V_F": 13,
+   "E_F": 60,
+   "V_S": 6,
+   "E_S": 12,
+   "M_F": 0,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "clearance": 0.5000005082778666,
+   "n_contacts": 48,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 243,
+   "scaffold": "ggl",
+   "floppy": "wnb",
+   "group": "R-3c:H",
+   "mult": 3,
+   "V_F": 12,
+   "E_F": 36,
+   "V_S": 18,
+   "E_S": 30,
+   "M_F": 0,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "clearance": 0.8150588768731203,
+   "n_contacts": 12,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 244,
+   "scaffold": "xbv",
+   "floppy": "flu-a",
+   "group": "Fm-3m",
+   "mult": 4,
+   "V_F": 16,
+   "E_F": 32,
+   "V_S": 15,
+   "E_S": 32,
+   "M_F": 16,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "clearance": 0.8165147647535947,
+   "n_contacts": 72,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 245,
+   "scaffold": "fnr",
+   "floppy": "ken",
+   "group": "P63/mmc",
+   "mult": 1,
+   "V_F": 6,
+   "E_F": 16,
+   "V_S": 12,
+   "E_S": 30,
+   "M_F": 2,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "clearance": 0.5773376900872843,
+   "n_contacts": 24,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": true,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "classes not isotropic/identical"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 246,
+   "scaffold": "bbx",
+   "floppy": "smc",
+   "group": "R32:H",
+   "mult": 3,
+   "V_F": 3,
+   "E_F": 9,
+   "V_S": 6,
+   "E_S": 12,
+   "M_F": 0,
+   "shift_conv": [
+    0.0,
+    0.25,
+    0.0
+   ],
+   "clearance": 0.8010842076999998,
+   "n_contacts": 3,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 247,
+   "scaffold": "eca",
+   "floppy": "cat",
+   "group": "P63/mmc",
+   "mult": 1,
+   "V_F": 8,
+   "E_F": 18,
+   "V_S": 2,
+   "E_S": 8,
+   "M_F": 6,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "clearance": 0.38364315122642584,
+   "n_contacts": 24,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 248,
+   "scaffold": "zjz",
+   "floppy": "fug",
+   "group": "Pm-3m",
+   "mult": 1,
+   "V_F": 96,
+   "E_F": 192,
+   "V_S": 38,
+   "E_S": 60,
+   "M_F": 96,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "clearance": 0.4940638348315375,
+   "n_contacts": 96,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": true,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "classes not isotropic/identical"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 249,
+   "scaffold": "fuy",
+   "floppy": "fuz",
+   "group": "Pn-3m:2",
+   "mult": 1,
+   "V_F": 72,
+   "E_F": 144,
+   "V_S": 72,
+   "E_S": 144,
+   "M_F": 72,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.125
+   ],
+   "clearance": 0.291741928683224,
+   "n_contacts": 80,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 250,
+   "scaffold": "cen-a",
+   "floppy": "bnn-a",
+   "group": "P6/mmm",
+   "mult": 1,
+   "V_F": 10,
+   "E_F": 23,
+   "V_S": 28,
+   "E_S": 56,
+   "M_F": 7,
+   "shift_conv": [
+    0.0,
+    0.375,
+    0.0
+   ],
+   "clearance": 0.5756168213651265,
+   "n_contacts": 24,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 251,
+   "scaffold": "tfp-a",
+   "floppy": "ccu",
+   "group": "P6/mmm",
+   "mult": 1,
+   "V_F": 6,
+   "E_F": 40,
+   "V_S": 36,
+   "E_S": 54,
+   "M_F": 0,
+   "shift_conv": [
+    0.25,
+    0.625,
+    0.5
+   ],
+   "clearance": 1.72219,
+   "n_contacts": 30,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 252,
+   "scaffold": "ncc",
+   "floppy": "cla",
+   "group": "I-43m",
+   "mult": 2,
+   "V_F": 41,
+   "E_F": 82,
+   "V_S": 12,
+   "E_S": 54,
+   "M_F": 41,
+   "shift_conv": [
+    0.125,
+    0.125,
+    0.125
+   ],
+   "clearance": 0.1916728079632482,
+   "n_contacts": 78,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 253,
+   "scaffold": "dum",
+   "floppy": "tps-a",
+   "group": "P6/mmm",
+   "mult": 1,
+   "V_F": 48,
+   "E_F": 78,
+   "V_S": 12,
+   "E_S": 21,
+   "M_F": 66,
+   "shift_conv": [
+    0.0,
+    0.5,
+    0.0
+   ],
+   "clearance": 0.4163416073108991,
+   "n_contacts": 128,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "M_F=66 > n_planar=36"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 36
+  },
+  {
+   "id": 254,
+   "scaffold": "tbo-a",
+   "floppy": "fcu",
+   "group": "Fm-3m",
+   "mult": 4,
+   "V_F": 1,
+   "E_F": 6,
+   "V_S": 48,
+   "E_S": 72,
+   "M_F": 0,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "clearance": 3.9707474101393556,
+   "n_contacts": 48,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 255,
+   "scaffold": "ato",
+   "floppy": "hyk",
+   "group": "R-3m:H",
+   "mult": 3,
+   "V_F": 11,
+   "E_F": 24,
+   "V_S": 12,
+   "E_S": 24,
+   "M_F": 9,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "clearance": 0.49999184858703133,
+   "n_contacts": 60,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "M_F=9 > n_planar=3"
+   },
+   "bipartite": true,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "classes not isotropic/identical"
+   },
+   "predicted_flat": false,
+   "n_planar": 3
+  },
+  {
+   "id": 256,
+   "scaffold": "ucy",
+   "floppy": "urw",
+   "group": "Fm-3m",
+   "mult": 4,
+   "V_F": 15,
+   "E_F": 36,
+   "V_S": 216,
+   "E_S": 432,
+   "M_F": 12,
+   "shift_conv": [
+    0.25,
+    0.25,
+    0.25
+   ],
+   "clearance": 1.546122272914094,
+   "n_contacts": 168,
+   "rule_N": {
+    "predict": "flat",
+    "values": [
+     0.189229499,
+     0.189229499,
+     0.189229499,
+     0.189229499,
+     0.189229499,
+     0.189229499,
+     0.189229499,
+     0.189229499,
+     0.189229499,
+     0.189229499,
+     0.189229499,
+     0.189229499
+    ],
+    "Sn_parallel_n_all": true
+   },
+   "bipartite": true,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "classes not isotropic/identical"
+   },
+   "predicted_flat": true,
+   "n_planar": 12
+  },
+  {
+   "id": 257,
+   "scaffold": "reo-d-a",
+   "floppy": "bas",
+   "group": "Pm-3m",
+   "mult": 1,
+   "V_F": 36,
+   "E_F": 72,
+   "V_S": 22,
+   "E_S": 47,
+   "M_F": 36,
+   "shift_conv": [
+    0.5,
+    0.5,
+    0.5
+   ],
+   "clearance": 0.46955608233416407,
+   "n_contacts": 120,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": true,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "classes not isotropic/identical"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 258,
+   "scaffold": "xbk-a",
+   "floppy": "ooe",
+   "group": "Fm-3m",
+   "mult": 4,
+   "V_F": 56,
+   "E_F": 84,
+   "V_S": 48,
+   "E_S": 96,
+   "M_F": 84,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "clearance": 0.8394607112196625,
+   "n_contacts": 96,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 259,
+   "scaffold": "ant",
+   "floppy": "thh",
+   "group": "I41/amd:2",
+   "mult": 2,
+   "V_F": 24,
+   "E_F": 48,
+   "V_S": 6,
+   "E_S": 12,
+   "M_F": 24,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "clearance": 0.6965980392582277,
+   "n_contacts": 48,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": true,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "classes not isotropic/identical"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 260,
+   "scaffold": "bbn",
+   "floppy": "keb-a",
+   "group": "I4/mmm",
+   "mult": 2,
+   "V_F": 24,
+   "E_F": 52,
+   "V_S": 12,
+   "E_S": 24,
+   "M_F": 20,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "clearance": 0.42095476714715313,
+   "n_contacts": 64,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 261,
+   "scaffold": "med",
+   "floppy": "gis-e",
+   "group": "I41/amd:2",
+   "mult": 2,
+   "V_F": 16,
+   "E_F": 48,
+   "V_S": 40,
+   "E_S": 80,
+   "M_F": 0,
+   "shift_conv": [
+    0.125,
+    0.125,
+    0.0
+   ],
+   "clearance": 0.5211783536725025,
+   "n_contacts": 24,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 262,
+   "scaffold": "lwg-a",
+   "floppy": "poz",
+   "group": "I4/mmm",
+   "mult": 2,
+   "V_F": 64,
+   "E_F": 128,
+   "V_S": 52,
+   "E_S": 78,
+   "M_F": 64,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "clearance": 0.6304945582789592,
+   "n_contacts": 112,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 263,
+   "scaffold": "xfs",
+   "floppy": "nfc",
+   "group": "I41/acd:2",
+   "mult": 2,
+   "V_F": 8,
+   "E_F": 16,
+   "V_S": 16,
+   "E_S": 56,
+   "M_F": 8,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "clearance": 0.4841191775337846,
+   "n_contacts": 16,
+   "rule_N": {
+    "predict": "flat",
+    "values": [
+     0.133978664,
+     0.133978664,
+     0.133978664,
+     0.133978664,
+     0.133978664,
+     0.133978664,
+     0.133978664,
+     0.133978664
+    ],
+    "Sn_parallel_n_all": false
+   },
+   "bipartite": true,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "classes not isotropic/identical"
+   },
+   "predicted_flat": true,
+   "n_planar": 8
+  },
+  {
+   "id": 264,
+   "scaffold": "pyb",
+   "floppy": "kfo",
+   "group": "Fd-3m:2",
+   "mult": 4,
+   "V_F": 8,
+   "E_F": 32,
+   "V_S": 204,
+   "E_S": 612,
+   "M_F": 0,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.125
+   ],
+   "clearance": 0.5740862034642464,
+   "n_contacts": 14,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": true,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "classes not isotropic/identical"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 265,
+   "scaffold": "sph-a",
+   "floppy": "dny",
+   "group": "Fd-3m:2",
+   "mult": 4,
+   "V_F": 30,
+   "E_F": 72,
+   "V_S": 96,
+   "E_S": 192,
+   "M_F": 18,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "clearance": 0.8565400612629299,
+   "n_contacts": 144,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": true,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "classes not isotropic/identical"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 266,
+   "scaffold": "ftt",
+   "floppy": "ftq",
+   "group": "Fm-3m",
+   "mult": 4,
+   "V_F": 96,
+   "E_F": 192,
+   "V_S": 72,
+   "E_S": 144,
+   "M_F": 96,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "clearance": 0.42675797036080493,
+   "n_contacts": 96,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": true,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "classes not isotropic/identical"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 267,
+   "scaffold": "xxv",
+   "floppy": "ftr",
+   "group": "Pm-3m",
+   "mult": 1,
+   "V_F": 72,
+   "E_F": 144,
+   "V_S": 13,
+   "E_S": 24,
+   "M_F": 72,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "clearance": 0.1922602057813354,
+   "n_contacts": 96,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 268,
+   "scaffold": "sou",
+   "floppy": "vbg",
+   "group": "Fddd:2",
+   "mult": 4,
+   "V_F": 8,
+   "E_F": 20,
+   "V_S": 8,
+   "E_S": 32,
+   "M_F": 4,
+   "shift_conv": [
+    0.125,
+    0.0,
+    0.5
+   ],
+   "clearance": 0.29007412453113585,
+   "n_contacts": 12,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 269,
+   "scaffold": "ifi",
+   "floppy": "pmc",
+   "group": "I4132",
+   "mult": 2,
+   "V_F": 24,
+   "E_F": 72,
+   "V_S": 10,
+   "E_S": 24,
+   "M_F": 0,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "clearance": 0.20201914563896262,
+   "n_contacts": 24,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 270,
+   "scaffold": "npo-e",
+   "floppy": "ybh",
+   "group": "P63/mmc",
+   "mult": 1,
+   "V_F": 8,
+   "E_F": 24,
+   "V_S": 12,
+   "E_S": 36,
+   "M_F": 2,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "clearance": 0.9957848767848068,
+   "n_contacts": 72,
+   "rule_N": {
+    "predict": "flat",
+    "values": [
+     5.708108087,
+     5.708108087
+    ],
+    "Sn_parallel_n_all": true
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": true,
+   "n_planar": 2
+  },
+  {
+   "id": 271,
+   "scaffold": "acs",
+   "floppy": "mgz-x-d",
+   "group": "P63/mmc",
+   "mult": 1,
+   "V_F": 68,
+   "E_F": 136,
+   "V_S": 2,
+   "E_S": 6,
+   "M_F": 68,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "clearance": 0.18688638870652022,
+   "n_contacts": 112,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 272,
+   "scaffold": "lrj",
+   "floppy": "nod",
+   "group": "Cccm",
+   "mult": 2,
+   "V_F": 8,
+   "E_F": 12,
+   "V_S": 16,
+   "E_S": 28,
+   "M_F": 12,
+   "shift_conv": [
+    0.0,
+    0.375,
+    0.0
+   ],
+   "clearance": 0.6064526718159525,
+   "n_contacts": 12,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "M_F=12 > n_planar=8"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 8
+  },
+  {
+   "id": 273,
+   "scaffold": "tpy",
+   "floppy": "bnn",
+   "group": "P6/mmm",
+   "mult": 1,
+   "V_F": 2,
+   "E_F": 5,
+   "V_S": 14,
+   "E_S": 21,
+   "M_F": 1,
+   "shift_conv": [
+    0.0,
+    0.5,
+    0.5
+   ],
+   "clearance": 1.8796028044756945,
+   "n_contacts": 12,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 274,
+   "scaffold": "fau",
+   "floppy": "fvg",
+   "group": "Fd-3m:2",
+   "mult": 4,
+   "V_F": 48,
+   "E_F": 96,
+   "V_S": 48,
+   "E_S": 96,
+   "M_F": 48,
+   "shift_conv": [
+    0.125,
+    0.125,
+    0.375
+   ],
+   "clearance": 0.3249672314655245,
+   "n_contacts": 114,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 275,
+   "scaffold": "pto-a",
+   "floppy": "fto",
+   "group": "Pm-3n",
+   "mult": 1,
+   "V_F": 30,
+   "E_F": 60,
+   "V_S": 48,
+   "E_S": 72,
+   "M_F": 30,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.25
+   ],
+   "clearance": 0.8832842766059469,
+   "n_contacts": 80,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 276,
+   "scaffold": "urv-a",
+   "floppy": "sod-a-a",
+   "group": "Im-3m",
+   "mult": 2,
+   "V_F": 96,
+   "E_F": 192,
+   "V_S": 144,
+   "E_S": 264,
+   "M_F": 96,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.25
+   ],
+   "clearance": 0.5454052516738249,
+   "n_contacts": 152,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 277,
+   "scaffold": "tfp",
+   "floppy": "tdc",
+   "group": "P6/mmm",
+   "mult": 1,
+   "V_F": 60,
+   "E_F": 120,
+   "V_S": 11,
+   "E_S": 18,
+   "M_F": 60,
+   "shift_conv": [
+    0.25,
+    0.625,
+    0.5
+   ],
+   "clearance": 0.4643378756295034,
+   "n_contacts": 116,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": true,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "classes not isotropic/identical"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 278,
+   "scaffold": "wmp",
+   "floppy": "swd",
+   "group": "R-3m:H",
+   "mult": 3,
+   "V_F": 6,
+   "E_F": 21,
+   "V_S": 12,
+   "E_S": 36,
+   "M_F": 0,
+   "shift_conv": [
+    0.125,
+    0.25,
+    0.25
+   ],
+   "clearance": 0.4915802847470243,
+   "n_contacts": 20,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 279,
+   "scaffold": "yav",
+   "floppy": "gcd",
+   "group": "P6/mmm",
+   "mult": 1,
+   "V_F": 48,
+   "E_F": 96,
+   "V_S": 3,
+   "E_S": 8,
+   "M_F": 48,
+   "shift_conv": [
+    0.0,
+    0.5,
+    0.5
+   ],
+   "clearance": 0.24756298893797182,
+   "n_contacts": 80,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 280,
+   "scaffold": "wjt",
+   "floppy": "qzd",
+   "group": "P6222",
+   "mult": 1,
+   "V_F": 3,
+   "E_F": 6,
+   "V_S": 12,
+   "E_S": 30,
+   "M_F": 3,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "clearance": 1.7618779353595062,
+   "n_contacts": 36,
+   "rule_N": {
+    "predict": "flat",
+    "values": [
+     5.883856659,
+     5.883856659,
+     5.883856659
+    ],
+    "Sn_parallel_n_all": true
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": true,
+   "n_planar": 3
+  },
+  {
+   "id": 281,
+   "scaffold": "bcu-k",
+   "floppy": "twf-a",
+   "group": "Im-3m",
+   "mult": 2,
+   "V_F": 48,
+   "E_F": 96,
+   "V_S": 24,
+   "E_S": 72,
+   "M_F": 48,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "clearance": 0.24238296897236145,
+   "n_contacts": 96,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 282,
+   "scaffold": "fts",
+   "floppy": "xbh",
+   "group": "Fm-3m",
+   "mult": 4,
+   "V_F": 14,
+   "E_F": 36,
+   "V_S": 72,
+   "E_S": 144,
+   "M_F": 7,
+   "shift_conv": [
+    0.25,
+    0.25,
+    0.25
+   ],
+   "clearance": 1.1941859216961892,
+   "n_contacts": 96,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "M_F=7 > n_planar=6"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 6
+  },
+  {
+   "id": 283,
+   "scaffold": "fit-e",
+   "floppy": "hbm",
+   "group": "P4/mmm",
+   "mult": 1,
+   "V_F": 12,
+   "E_F": 24,
+   "V_S": 5,
+   "E_S": 18,
+   "M_F": 12,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "clearance": 0.31053881746036405,
+   "n_contacts": 20,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 284,
+   "scaffold": "wgp",
+   "floppy": "zni",
+   "group": "I41/acd:2",
+   "mult": 2,
+   "V_F": 16,
+   "E_F": 32,
+   "V_S": 16,
+   "E_S": 40,
+   "M_F": 16,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "clearance": 0.42703194480300966,
+   "n_contacts": 48,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": true,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "classes not isotropic/identical"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 285,
+   "scaffold": "iac-d-a",
+   "floppy": "gat-a",
+   "group": "Ia-3d",
+   "mult": 2,
+   "V_F": 288,
+   "E_F": 504,
+   "V_S": 144,
+   "E_S": 240,
+   "M_F": 360,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.25
+   ],
+   "clearance": 0.37432385964282716,
+   "n_contacts": 448,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 286,
+   "scaffold": "umm",
+   "floppy": "sxc",
+   "group": "P6222",
+   "mult": 1,
+   "V_F": 3,
+   "E_F": 9,
+   "V_S": 12,
+   "E_S": 24,
+   "M_F": 0,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "clearance": 1.8087527840879865,
+   "n_contacts": 24,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 287,
+   "scaffold": "baj",
+   "floppy": "fui",
+   "group": "Im-3m",
+   "mult": 2,
+   "V_F": 96,
+   "E_F": 168,
+   "V_S": 72,
+   "E_S": 144,
+   "M_F": 120,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "clearance": 0.7605955329970122,
+   "n_contacts": 96,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 288,
+   "scaffold": "icd-a",
+   "floppy": "pbg-l",
+   "group": "Ia-3d",
+   "mult": 2,
+   "V_F": 144,
+   "E_F": 216,
+   "V_S": 96,
+   "E_S": 192,
+   "M_F": 216,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "clearance": 0.4699136004084078,
+   "n_contacts": 192,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": true,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "classes not isotropic/identical"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 289,
+   "scaffold": "rht-x",
+   "floppy": "gdm",
+   "group": "Fm-3m",
+   "mult": 4,
+   "V_F": 44,
+   "E_F": 78,
+   "V_S": 9,
+   "E_S": 30,
+   "M_F": 54,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.125
+   ],
+   "clearance": 0.1160172011780193,
+   "n_contacts": 52,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 290,
+   "scaffold": "xfe",
+   "floppy": "ngc",
+   "group": "I41/amd:2",
+   "mult": 2,
+   "V_F": 4,
+   "E_F": 18,
+   "V_S": 8,
+   "E_S": 28,
+   "M_F": 0,
+   "shift_conv": [
+    0.25,
+    0.25,
+    0.0
+   ],
+   "clearance": 0.41393342444673553,
+   "n_contacts": 8,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": true,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "classes not isotropic/identical"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 291,
+   "scaffold": "stx",
+   "floppy": "urt",
+   "group": "I4/mmm",
+   "mult": 2,
+   "V_F": 13,
+   "E_F": 24,
+   "V_S": 12,
+   "E_S": 20,
+   "M_F": 15,
+   "shift_conv": [
+    0.125,
+    0.125,
+    0.0
+   ],
+   "clearance": 0.48996763034269836,
+   "n_contacts": 18,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "M_F=15 > n_planar=4"
+   },
+   "bipartite": true,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "classes not isotropic/identical"
+   },
+   "predicted_flat": false,
+   "n_planar": 4
+  },
+  {
+   "id": 292,
+   "scaffold": "vcb",
+   "floppy": "vcc",
+   "group": "Fddd:2",
+   "mult": 4,
+   "V_F": 8,
+   "E_F": 24,
+   "V_S": 8,
+   "E_S": 20,
+   "M_F": 0,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "clearance": 0.5793295544548122,
+   "n_contacts": 16,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 293,
+   "scaffold": "ffb",
+   "floppy": "hex",
+   "group": "P6/mmm",
+   "mult": 1,
+   "V_F": 1,
+   "E_F": 4,
+   "V_S": 5,
+   "E_S": 11,
+   "M_F": 0,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "clearance": 1.7320499999999999,
+   "n_contacts": 6,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 294,
+   "scaffold": "elb",
+   "floppy": "vbr",
+   "group": "Cmca",
+   "mult": 2,
+   "V_F": 8,
+   "E_F": 24,
+   "V_S": 4,
+   "E_S": 22,
+   "M_F": 0,
+   "shift_conv": [
+    0.0,
+    0.25,
+    0.375
+   ],
+   "clearance": 0.22792452540875258,
+   "n_contacts": 12,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 295,
+   "scaffold": "xaz",
+   "floppy": "she",
+   "group": "Im-3m",
+   "mult": 2,
+   "V_F": 10,
+   "E_F": 24,
+   "V_S": 7,
+   "E_S": 36,
+   "M_F": 10,
+   "shift_conv": [
+    0.0,
+    0.125,
+    0.125
+   ],
+   "clearance": 0.22414362077555305,
+   "n_contacts": 10,
+   "rule_N": {
+    "predict": "flat",
+    "values": [
+     -0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.5,
+     0.5,
+     0.5,
+     0.5,
+     0.666666667,
+     0.666666667
+    ],
+    "Sn_parallel_n_all": false
+   },
+   "bipartite": true,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "classes not isotropic/identical"
+   },
+   "predicted_flat": true,
+   "n_planar": 10
+  },
+  {
+   "id": 296,
+   "scaffold": "iph",
+   "floppy": "snl",
+   "group": "I41/amd:2",
+   "mult": 2,
+   "V_F": 8,
+   "E_F": 24,
+   "V_S": 16,
+   "E_S": 24,
+   "M_F": 0,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.5
+   ],
+   "clearance": 1.2818827360980956,
+   "n_contacts": 24,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 297,
+   "scaffold": "fit-a",
+   "floppy": "mer-e",
+   "group": "I4/mmm",
+   "mult": 2,
+   "V_F": 32,
+   "E_F": 96,
+   "V_S": 20,
+   "E_S": 46,
+   "M_F": 0,
+   "shift_conv": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "clearance": 0.5236734505290538,
+   "n_contacts": 48,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  },
+  {
+   "id": 298,
+   "scaffold": "gar",
+   "floppy": "vab",
+   "group": "Ia-3d",
+   "mult": 2,
+   "V_F": 24,
+   "E_F": 36,
+   "V_S": 20,
+   "E_S": 48,
+   "M_F": 36,
+   "shift_conv": [
+    0.125,
+    0.125,
+    0.125
+   ],
+   "clearance": 0.4898981178029517,
+   "n_contacts": 48,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "M_F=36 > n_planar=24"
+   },
+   "bipartite": true,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "classes not isotropic/identical"
+   },
+   "predicted_flat": false,
+   "n_planar": 24
+  },
+  {
+   "id": 299,
+   "scaffold": "fit-a",
+   "floppy": "crb-a",
+   "group": "I4/mmm",
+   "mult": 2,
+   "V_F": 16,
+   "E_F": 32,
+   "V_S": 20,
+   "E_S": 46,
+   "M_F": 16,
+   "shift_conv": [
+    0.0,
+    0.5,
+    0.125
+   ],
+   "clearance": 0.5052734733852067,
+   "n_contacts": 16,
+   "rule_N": {
+    "predict": "abstain",
+    "reason": "no planar vertex"
+   },
+   "bipartite": false,
+   "rule_B": {
+    "predict": "abstain",
+    "reason": "not bipartite"
+   },
+   "predicted_flat": false,
+   "n_planar": 0
+  }
+ ]
+}

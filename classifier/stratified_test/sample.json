@@ -1,0 +1,10975 @@
+{
+ "seed": 20261131,
+ "n": 1000,
+ "strata": {
+  "cubic": {
+   "space_group_range": [
+    195,
+    230
+   ],
+   "population_unordered_pairs": 24867,
+   "n": 334
+  },
+  "hexagonal": {
+   "space_group_range": [
+    168,
+    194
+   ],
+   "population_unordered_pairs": 19230,
+   "n": 333
+  },
+  "tetragonal": {
+   "space_group_range": [
+    75,
+    142
+   ],
+   "population_unordered_pairs": 14212,
+   "n": 333
+  }
+ },
+ "sampling": "Uniform unordered distinct-name pair within each crystal-system stratum, then fair random fixed orientation. Identical CGD space-group setting strings, d=3. Exclude both orientations of all previous cohorts and all catalogue listed duals. No size, degree, rank, rigidity, contact symmetry, mechanism, or flatness filtering.",
+ "placement": "As in the first test: origin on the 8^3 clearance grid, contacts within 1.05 of the nearest, exact common primitive cell.",
+ "spectra": "As in the first test: 32 random wavevectors (seed 20261122), relative tolerance 1e-8.",
+ "prior_cohort_rows": {
+  "retrospective": 454,
+  "prospective": 300,
+  "different_group_duals": 12
+ },
+ "excluded_unordered_pairs": [
+  [
+   "acs",
+   "gra"
+  ],
+  [
+   "acs",
+   "mgz-x-d"
+  ],
+  [
+   "acs",
+   "nia-d"
+  ],
+  [
+   "acs",
+   "npo-a"
+  ],
+  [
+   "acs-a",
+   "gra"
+  ],
+  [
+   "acs-a",
+   "nia-d"
+  ],
+  [
+   "aea",
+   "bam"
+  ],
+  [
+   "afw",
+   "bcu"
+  ],
+  [
+   "afx",
+   "gra"
+  ],
+  [
+   "afx",
+   "nia-d"
+  ],
+  [
+   "agw",
+   "seh"
+  ],
+  [
+   "agw",
+   "sta"
+  ],
+  [
+   "agw",
+   "tsa-a"
+  ],
+  [
+   "agw-a",
+   "lon-a"
+  ],
+  [
+   "ahr-a",
+   "wno"
+  ],
+  [
+   "alb",
+   "bnn"
+  ],
+  [
+   "alb",
+   "dum"
+  ],
+  [
+   "alb-a",
+   "bnn"
+  ],
+  [
+   "alb-d",
+   "kew-a"
+  ],
+  [
+   "alb-x",
+   "alb-x-d"
+  ],
+  [
+   "alb-x-d",
+   "bnn"
+  ],
+  [
+   "alb-x-d",
+   "yav-d"
+  ],
+  [
+   "alc",
+   "xci"
+  ],
+  [
+   "alc-a",
+   "bnn"
+  ],
+  [
+   "amn",
+   "cla"
+  ],
+  [
+   "amu",
+   "txt"
+  ],
+  [
+   "ana",
+   "bpr"
+  ],
+  [
+   "ant",
+   "lvt"
+  ],
+  [
+   "ant",
+   "thh"
+  ],
+  [
+   "ant-a",
+   "sgt"
+  ],
+  [
+   "ant-a",
+   "tsl"
+  ],
+  [
+   "ase-a",
+   "odj"
+  ],
+  [
+   "asf",
+   "lvt"
+  ],
+  [
+   "asp",
+   "uki"
+  ],
+  [
+   "ast",
+   "ast-d"
+  ],
+  [
+   "ast",
+   "flu"
+  ],
+  [
+   "ast-d",
+   "flu"
+  ],
+  [
+   "ast-e",
+   "flu"
+  ],
+  [
+   "ast-e",
+   "xap"
+  ],
+  [
+   "ato",
+   "hyk"
+  ],
+  [
+   "ato-e",
+   "epv"
+  ],
+  [
+   "ats",
+   "can-e"
+  ],
+  [
+   "ats",
+   "muh"
+  ],
+  [
+   "ats",
+   "sta"
+  ],
+  [
+   "ats-a",
+   "nia-d"
+  ],
+  [
+   "bag",
+   "nbo"
+  ],
+  [
+   "bag",
+   "she"
+  ],
+  [
+   "bah",
+   "nbo"
+  ],
+  [
+   "bah",
+   "she"
+  ],
+  [
+   "baj",
+   "fui"
+  ],
+  [
+   "baj",
+   "nbo"
+  ],
+  [
+   "baj",
+   "she"
+  ],
+  [
+   "baj",
+   "twf-a"
+  ],
+  [
+   "bak",
+   "flu"
+  ],
+  [
+   "bam",
+   "bnn"
+  ],
+  [
+   "bam",
+   "dnr"
+  ],
+  [
+   "ban",
+   "lvt"
+  ],
+  [
+   "bao",
+   "bnn"
+  ],
+  [
+   "baq",
+   "nbo"
+  ],
+  [
+   "baq",
+   "nju-a"
+  ],
+  [
+   "baq",
+   "she"
+  ],
+  [
+   "bar",
+   "flu"
+  ],
+  [
+   "bas",
+   "reo-d-a"
+  ],
+  [
+   "bas",
+   "urk"
+  ],
+  [
+   "bas",
+   "urr-a"
+  ],
+  [
+   "bat",
+   "urk"
+  ],
+  [
+   "baw",
+   "nbo"
+  ],
+  [
+   "baw",
+   "she"
+  ],
+  [
+   "bax",
+   "nbo"
+  ],
+  [
+   "bax",
+   "she"
+  ],
+  [
+   "bax",
+   "twf-a"
+  ],
+  [
+   "bax",
+   "xaf"
+  ],
+  [
+   "bay",
+   "bnn"
+  ],
+  [
+   "baz",
+   "sta"
+  ],
+  [
+   "baz",
+   "sty"
+  ],
+  [
+   "bba",
+   "bnn"
+  ],
+  [
+   "bbb",
+   "bnn"
+  ],
+  [
+   "bbn",
+   "keb-a"
+  ],
+  [
+   "bbp",
+   "gra"
+  ],
+  [
+   "bbp",
+   "nia-d"
+  ],
+  [
+   "bbq",
+   "gra"
+  ],
+  [
+   "bbq",
+   "nia-d"
+  ],
+  [
+   "bbq",
+   "yac"
+  ],
+  [
+   "bbv",
+   "sas"
+  ],
+  [
+   "bbw",
+   "dnn-a"
+  ],
+  [
+   "bbw",
+   "gra"
+  ],
+  [
+   "bbw",
+   "nia-d"
+  ],
+  [
+   "bbx",
+   "smc"
+  ],
+  [
+   "bby",
+   "bnn"
+  ],
+  [
+   "bbz",
+   "bnn"
+  ],
+  [
+   "bbz",
+   "shp"
+  ],
+  [
+   "bca",
+   "bnn"
+  ],
+  [
+   "bcb",
+   "ffc"
+  ],
+  [
+   "bcj",
+   "nbo"
+  ],
+  [
+   "bcj",
+   "she"
+  ],
+  [
+   "bct",
+   "xbe"
+  ],
+  [
+   "bcu",
+   "dnx"
+  ],
+  [
+   "bcu",
+   "lwh-a"
+  ],
+  [
+   "bcu",
+   "nbo"
+  ],
+  [
+   "bcu",
+   "nbo-a"
+  ],
+  [
+   "bcu",
+   "pcu-h"
+  ],
+  [
+   "bcu",
+   "uny"
+  ],
+  [
+   "bcu-k",
+   "nso"
+  ],
+  [
+   "bcu-k",
+   "pcb-e"
+  ],
+  [
+   "bcu-k",
+   "twf-a"
+  ],
+  [
+   "bcu-l",
+   "nbo"
+  ],
+  [
+   "bcu-l",
+   "she"
+  ],
+  [
+   "bcu-x",
+   "nbo-a"
+  ],
+  [
+   "bcu-x",
+   "sod"
+  ],
+  [
+   "bcu-x-a",
+   "uro"
+  ],
+  [
+   "bcu-x-a",
+   "xag"
+  ],
+  [
+   "bcv",
+   "pbg-l"
+  ],
+  [
+   "bda",
+   "lvt"
+  ],
+  [
+   "beb",
+   "tcl"
+  ],
+  [
+   "bet",
+   "mep"
+  ],
+  [
+   "bnn",
+   "brl"
+  ],
+  [
+   "bnn",
+   "cee-a"
+  ],
+  [
+   "bnn",
+   "cel-a"
+  ],
+  [
+   "bnn",
+   "ffb"
+  ],
+  [
+   "bnn",
+   "fsa"
+  ],
+  [
+   "bnn",
+   "fsb"
+  ],
+  [
+   "bnn",
+   "fst"
+  ],
+  [
+   "bnn",
+   "hex"
+  ],
+  [
+   "bnn",
+   "kag"
+  ],
+  [
+   "bnn",
+   "ltl"
+  ],
+  [
+   "bnn",
+   "shp"
+  ],
+  [
+   "bnn",
+   "shp-a"
+  ],
+  [
+   "bnn",
+   "stp"
+  ],
+  [
+   "bnn",
+   "stp-a"
+  ],
+  [
+   "bnn",
+   "tfs"
+  ],
+  [
+   "bnn",
+   "tpy"
+  ],
+  [
+   "bnn",
+   "ttw"
+  ],
+  [
+   "bnn",
+   "zra-d"
+  ],
+  [
+   "bnn-a",
+   "cen-a"
+  ],
+  [
+   "bod",
+   "bor"
+  ],
+  [
+   "bod",
+   "ftl"
+  ],
+  [
+   "bod",
+   "fud"
+  ],
+  [
+   "bod",
+   "xbs"
+  ],
+  [
+   "boe",
+   "xbs"
+  ],
+  [
+   "bor",
+   "xbs"
+  ],
+  [
+   "bpa",
+   "vcu"
+  ],
+  [
+   "bpc",
+   "hfp"
+  ],
+  [
+   "bpi",
+   "vcz"
+  ],
+  [
+   "bpk",
+   "pcu"
+  ],
+  [
+   "bpn",
+   "pcu"
+  ],
+  [
+   "bpo",
+   "pcu"
+  ],
+  [
+   "brl-a",
+   "csq-a"
+  ],
+  [
+   "bsn",
+   "dia-f"
+  ],
+  [
+   "bsn",
+   "lig"
+  ],
+  [
+   "bsn",
+   "lvt"
+  ],
+  [
+   "bsv",
+   "lvt"
+  ],
+  [
+   "bto",
+   "qzd"
+  ],
+  [
+   "bto",
+   "uom"
+  ],
+  [
+   "bto",
+   "wjt"
+  ],
+  [
+   "bto-e",
+   "uom"
+  ],
+  [
+   "bva",
+   "ukr"
+  ],
+  [
+   "cab",
+   "reo-d"
+  ],
+  [
+   "cab",
+   "urk"
+  ],
+  [
+   "cab-a",
+   "xaj-a"
+  ],
+  [
+   "cai",
+   "mhg"
+  ],
+  [
+   "cai",
+   "sve"
+  ],
+  [
+   "cai",
+   "tbr"
+  ],
+  [
+   "cai",
+   "wxs-a"
+  ],
+  [
+   "cal",
+   "cal-d"
+  ],
+  [
+   "can",
+   "gra"
+  ],
+  [
+   "can",
+   "icm"
+  ],
+  [
+   "can",
+   "nia-d"
+  ],
+  [
+   "can-e",
+   "cfc-e-a"
+  ],
+  [
+   "cap",
+   "snw"
+  ],
+  [
+   "cat",
+   "eca"
+  ],
+  [
+   "ccu",
+   "doh"
+  ],
+  [
+   "ccu",
+   "tfp-a"
+  ],
+  [
+   "cdj",
+   "csi"
+  ],
+  [
+   "cdl-a",
+   "pts-g"
+  ],
+  [
+   "cdm-e",
+   "dft-e"
+  ],
+  [
+   "cec",
+   "mds"
+  ],
+  [
+   "cee-a",
+   "zra-d"
+  ],
+  [
+   "cej",
+   "gme-e"
+  ],
+  [
+   "cej-a",
+   "gea-a"
+  ],
+  [
+   "cel-a",
+   "gcd"
+  ],
+  [
+   "cfc",
+   "gra"
+  ],
+  [
+   "cfc",
+   "nia-d"
+  ],
+  [
+   "cfc-e-a",
+   "xbd"
+  ],
+  [
+   "cfd",
+   "icm-e"
+  ],
+  [
+   "cfe",
+   "epv"
+  ],
+  [
+   "cla",
+   "cla-d"
+  ],
+  [
+   "cla",
+   "hcz"
+  ],
+  [
+   "cla",
+   "ncb"
+  ],
+  [
+   "cla",
+   "ncc"
+  ],
+  [
+   "cla",
+   "smp"
+  ],
+  [
+   "cmc",
+   "mot-e-a"
+  ],
+  [
+   "cnw",
+   "fsm"
+  ],
+  [
+   "cor",
+   "wlh"
+  ],
+  [
+   "crb",
+   "fun"
+  ],
+  [
+   "crb-a",
+   "fit-a"
+  ],
+  [
+   "crb-e",
+   "lwg-a"
+  ],
+  [
+   "crb-e",
+   "mer"
+  ],
+  [
+   "crs",
+   "crs-d"
+  ],
+  [
+   "crs",
+   "dny-a"
+  ],
+  [
+   "ctn-d",
+   "ctn-x"
+  ],
+  [
+   "ctn-x",
+   "fnn"
+  ],
+  [
+   "ctn-x",
+   "thp"
+  ],
+  [
+   "ctn-x",
+   "thp-a"
+  ],
+  [
+   "cus",
+   "hfp"
+  ],
+  [
+   "dag",
+   "rtl-a"
+  ],
+  [
+   "ddi",
+   "jph"
+  ],
+  [
+   "deh",
+   "deh-d"
+  ],
+  [
+   "deh",
+   "xbj"
+  ],
+  [
+   "deh-d",
+   "gis"
+  ],
+  [
+   "deh-d",
+   "mob"
+  ],
+  [
+   "dft",
+   "nkf"
+  ],
+  [
+   "dhc",
+   "mtd"
+  ],
+  [
+   "dhd",
+   "fwe"
+  ],
+  [
+   "dhe",
+   "hnd"
+  ],
+  [
+   "dia",
+   "spn"
+  ],
+  [
+   "dia-a",
+   "dnl"
+  ],
+  [
+   "dia-f",
+   "lvt"
+  ],
+  [
+   "dmc",
+   "gwg-a"
+  ],
+  [
+   "dmd",
+   "pts-e"
+  ],
+  [
+   "dmp",
+   "utp"
+  ],
+  [
+   "dna",
+   "xag"
+  ],
+  [
+   "dnc",
+   "flu"
+  ],
+  [
+   "dne",
+   "ttt-a"
+  ],
+  [
+   "dnf",
+   "ydq-a"
+  ],
+  [
+   "dng-a",
+   "spn"
+  ],
+  [
+   "dnj",
+   "hxg"
+  ],
+  [
+   "dnj-a",
+   "hxg"
+  ],
+  [
+   "dnk-a",
+   "ftu"
+  ],
+  [
+   "dnl",
+   "num"
+  ],
+  [
+   "dnp-a",
+   "tdd"
+  ],
+  [
+   "dnr-a",
+   "spp"
+  ],
+  [
+   "dnu",
+   "dnv"
+  ],
+  [
+   "dnu",
+   "fvf"
+  ],
+  [
+   "dnu",
+   "rhr-a"
+  ],
+  [
+   "dnu-a",
+   "epp-a"
+  ],
+  [
+   "dnv",
+   "ftw-t"
+  ],
+  [
+   "dnv",
+   "ocu-e"
+  ],
+  [
+   "dny",
+   "sph-a"
+  ],
+  [
+   "dnz-a",
+   "str"
+  ],
+  [
+   "doh",
+   "zra-d"
+  ],
+  [
+   "dpd",
+   "rht-a"
+  ],
+  [
+   "dum",
+   "tps-a"
+  ],
+  [
+   "eab",
+   "gra"
+  ],
+  [
+   "eab",
+   "icm"
+  ],
+  [
+   "eab",
+   "nia-d"
+  ],
+  [
+   "eca",
+   "xbd"
+  ],
+  [
+   "ecb",
+   "wny"
+  ],
+  [
+   "ecc",
+   "icf"
+  ],
+  [
+   "ecl",
+   "ttc"
+  ],
+  [
+   "ecv",
+   "vba"
+  ],
+  [
+   "eft",
+   "tty"
+  ],
+  [
+   "eft-a",
+   "zmj"
+  ],
+  [
+   "elb",
+   "vbr"
+  ],
+  [
+   "epc",
+   "ttd"
+  ],
+  [
+   "epf",
+   "zfw"
+  ],
+  [
+   "epn",
+   "tfe-a"
+  ],
+  [
+   "epn-a",
+   "ssd"
+  ],
+  [
+   "epp",
+   "nbo-x"
+  ],
+  [
+   "epp-a",
+   "urf"
+  ],
+  [
+   "epq",
+   "urk"
+  ],
+  [
+   "epu",
+   "fog"
+  ],
+  [
+   "epv",
+   "fnc"
+  ],
+  [
+   "epv",
+   "ild"
+  ],
+  [
+   "epv",
+   "nlr"
+  ],
+  [
+   "epy",
+   "gng"
+  ],
+  [
+   "eri",
+   "gra"
+  ],
+  [
+   "eri",
+   "nia-d"
+  ],
+  [
+   "eta",
+   "oso"
+  ],
+  [
+   "eta",
+   "qtz-g"
+  ],
+  [
+   "eta",
+   "qzd"
+  ],
+  [
+   "eta",
+   "sml"
+  ],
+  [
+   "eta",
+   "uom"
+  ],
+  [
+   "etb-e",
+   "ild"
+  ],
+  [
+   "etc",
+   "gra"
+  ],
+  [
+   "etd",
+   "unj"
+  ],
+  [
+   "eye-a",
+   "fst"
+  ],
+  [
+   "eye-a",
+   "gcc"
+  ],
+  [
+   "fab",
+   "flu"
+  ],
+  [
+   "fau",
+   "fvg"
+  ],
+  [
+   "fav",
+   "nul"
+  ],
+  [
+   "fcg",
+   "utb"
+  ],
+  [
+   "fcl",
+   "swq"
+  ],
+  [
+   "fcu",
+   "flu"
+  ],
+  [
+   "fcu",
+   "tbo-a"
+  ],
+  [
+   "fcu",
+   "tcs"
+  ],
+  [
+   "fcy",
+   "vab"
+  ],
+  [
+   "fdu-a",
+   "knc"
+  ],
+  [
+   "ffb",
+   "hex"
+  ],
+  [
+   "ffc",
+   "urs-a"
+  ],
+  [
+   "fff",
+   "flu"
+  ],
+  [
+   "fff",
+   "tbo"
+  ],
+  [
+   "fit-a",
+   "fti"
+  ],
+  [
+   "fit-a",
+   "mer-e"
+  ],
+  [
+   "fit-e",
+   "hbm"
+  ],
+  [
+   "fit-e",
+   "mot"
+  ],
+  [
+   "fla",
+   "flu"
+  ],
+  [
+   "flt",
+   "xbe"
+  ],
+  [
+   "flu",
+   "flu-a"
+  ],
+  [
+   "flu",
+   "flu-e"
+  ],
+  [
+   "flu",
+   "ftq"
+  ],
+  [
+   "flu",
+   "fts"
+  ],
+  [
+   "flu",
+   "ftt"
+  ],
+  [
+   "flu",
+   "ftu"
+  ],
+  [
+   "flu",
+   "gdl-a"
+  ],
+  [
+   "flu",
+   "hal"
+  ],
+  [
+   "flu",
+   "rht"
+  ],
+  [
+   "flu",
+   "rht-a"
+  ],
+  [
+   "flu",
+   "tbd"
+  ],
+  [
+   "flu",
+   "tbo"
+  ],
+  [
+   "flu",
+   "tbo-a"
+  ],
+  [
+   "flu",
+   "tfb"
+  ],
+  [
+   "flu",
+   "tsc"
+  ],
+  [
+   "flu",
+   "ubt"
+  ],
+  [
+   "flu",
+   "wzz"
+  ],
+  [
+   "flu",
+   "xaa"
+  ],
+  [
+   "flu",
+   "xbk"
+  ],
+  [
+   "flu-a",
+   "xbv"
+  ],
+  [
+   "fnf",
+   "spn"
+  ],
+  [
+   "fnj",
+   "lvt"
+  ],
+  [
+   "fnl",
+   "lvt"
+  ],
+  [
+   "fnp",
+   "hxg"
+  ],
+  [
+   "fnr",
+   "gra"
+  ],
+  [
+   "fnr",
+   "ken"
+  ],
+  [
+   "fnr",
+   "nia-d"
+  ],
+  [
+   "fnr",
+   "tca"
+  ],
+  [
+   "fns",
+   "tcc-x"
+  ],
+  [
+   "fnz",
+   "wkr"
+  ],
+  [
+   "frx",
+   "frz"
+  ],
+  [
+   "frx",
+   "mcd"
+  ],
+  [
+   "fsc",
+   "fte"
+  ],
+  [
+   "fsc",
+   "mot"
+  ],
+  [
+   "fsc",
+   "mot-e-a"
+  ],
+  [
+   "fsc",
+   "scu"
+  ],
+  [
+   "fse",
+   "kga"
+  ],
+  [
+   "fse",
+   "tfa-a"
+  ],
+  [
+   "fse",
+   "xfx"
+  ],
+  [
+   "fse",
+   "xux"
+  ],
+  [
+   "fsn",
+   "svn-d"
+  ],
+  [
+   "fsx",
+   "mdh"
+  ],
+  [
+   "ftc",
+   "xbj"
+  ],
+  [
+   "ftg",
+   "tsa"
+  ],
+  [
+   "ftm",
+   "lwh"
+  ],
+  [
+   "fto",
+   "pto-a"
+  ],
+  [
+   "ftp",
+   "rtl"
+  ],
+  [
+   "ftq",
+   "ftt"
+  ],
+  [
+   "ftr",
+   "urk"
+  ],
+  [
+   "ftr",
+   "xxv"
+  ],
+  [
+   "fts",
+   "xbh"
+  ],
+  [
+   "ftu",
+   "ntv-a"
+  ],
+  [
+   "ftw",
+   "urk"
+  ],
+  [
+   "ftw-a",
+   "urk"
+  ],
+  [
+   "fty",
+   "urk"
+  ],
+  [
+   "ftz",
+   "hxg"
+  ],
+  [
+   "fua",
+   "wlm"
+  ],
+  [
+   "fue",
+   "urk"
+  ],
+  [
+   "fuf",
+   "hxg"
+  ],
+  [
+   "fug",
+   "urk"
+  ],
+  [
+   "fug",
+   "zjz"
+  ],
+  [
+   "fuh",
+   "fvi"
+  ],
+  [
+   "fuj",
+   "hxg"
+  ],
+  [
+   "ful",
+   "hxg"
+  ],
+  [
+   "fur",
+   "sgt"
+  ],
+  [
+   "fus",
+   "urk"
+  ],
+  [
+   "fut",
+   "urk"
+  ],
+  [
+   "fuv",
+   "urk"
+  ],
+  [
+   "fuv",
+   "xaj"
+  ],
+  [
+   "fuy",
+   "fuz"
+  ],
+  [
+   "fuy",
+   "hxg"
+  ],
+  [
+   "fuz",
+   "hxg"
+  ],
+  [
+   "fva",
+   "keb-a"
+  ],
+  [
+   "fvq",
+   "hxg"
+  ],
+  [
+   "fvr",
+   "hyl"
+  ],
+  [
+   "fvr",
+   "smr"
+  ],
+  [
+   "fvx",
+   "hef"
+  ],
+  [
+   "gah",
+   "kwh"
+  ],
+  [
+   "gan",
+   "lcs"
+  ],
+  [
+   "gan",
+   "vab"
+  ],
+  [
+   "gar",
+   "vab"
+  ],
+  [
+   "gat-a",
+   "iac-d-a"
+  ],
+  [
+   "gcd",
+   "yav"
+  ],
+  [
+   "gdm",
+   "rht-x"
+  ],
+  [
+   "gee-a",
+   "xaj"
+  ],
+  [
+   "ggl",
+   "wnb"
+  ],
+  [
+   "gis",
+   "lvt"
+  ],
+  [
+   "gis-e",
+   "lvt"
+  ],
+  [
+   "gis-e",
+   "med"
+  ],
+  [
+   "gme",
+   "gra"
+  ],
+  [
+   "gme",
+   "nia-d"
+  ],
+  [
+   "gme-e",
+   "gwe"
+  ],
+  [
+   "gme-e",
+   "mgz-x-d"
+  ],
+  [
+   "gra",
+   "lon"
+  ],
+  [
+   "gra",
+   "lon-a"
+  ],
+  [
+   "gra",
+   "lon-e"
+  ],
+  [
+   "gra",
+   "los"
+  ],
+  [
+   "gra",
+   "maz"
+  ],
+  [
+   "gra",
+   "mgz-x-d-e"
+  ],
+  [
+   "gra",
+   "nia"
+  ],
+  [
+   "gra",
+   "npo"
+  ],
+  [
+   "gra",
+   "npo-a"
+  ],
+  [
+   "gra",
+   "smv"
+  ],
+  [
+   "gra",
+   "snx"
+  ],
+  [
+   "gra",
+   "sny"
+  ],
+  [
+   "gra",
+   "sta"
+  ],
+  [
+   "gra",
+   "tpd"
+  ],
+  [
+   "gra",
+   "ucn"
+  ],
+  [
+   "gwe",
+   "mgz"
+  ],
+  [
+   "gwe",
+   "ssa-a"
+  ],
+  [
+   "gwe-a",
+   "tca"
+  ],
+  [
+   "hal",
+   "xap"
+  ],
+  [
+   "hbm",
+   "mot"
+  ],
+  [
+   "hbo",
+   "mep"
+  ],
+  [
+   "hcp",
+   "hcp-d"
+  ],
+  [
+   "hcp",
+   "seh"
+  ],
+  [
+   "hec",
+   "kle-a"
+  ],
+  [
+   "hee",
+   "urk"
+  ],
+  [
+   "hef",
+   "urv-a"
+  ],
+  [
+   "hex",
+   "nnd"
+  ],
+  [
+   "hqy",
+   "zrc"
+  ],
+  [
+   "hxg",
+   "hxg-d"
+  ],
+  [
+   "hxg",
+   "pbz"
+  ],
+  [
+   "hxg",
+   "pbz-e"
+  ],
+  [
+   "hxg",
+   "pbz-l"
+  ],
+  [
+   "hxg",
+   "pbz-l-l"
+  ],
+  [
+   "hxg",
+   "pbz-m"
+  ],
+  [
+   "hxg",
+   "sod-h"
+  ],
+  [
+   "hxg",
+   "toc"
+  ],
+  [
+   "hxg",
+   "toc-a"
+  ],
+  [
+   "hxg",
+   "toc-e"
+  ],
+  [
+   "hxg",
+   "tof"
+  ],
+  [
+   "hxg",
+   "uks"
+  ],
+  [
+   "hxg",
+   "xab"
+  ],
+  [
+   "hxg",
+   "xab-a"
+  ],
+  [
+   "hxg",
+   "xac"
+  ],
+  [
+   "hxg",
+   "xbt"
+  ],
+  [
+   "hyl-a",
+   "ptr-a"
+  ],
+  [
+   "iac-d",
+   "lcs"
+  ],
+  [
+   "ibd",
+   "lcs"
+  ],
+  [
+   "ibd-a",
+   "vab"
+  ],
+  [
+   "ibe",
+   "icc"
+  ],
+  [
+   "ibe-a",
+   "sxo"
+  ],
+  [
+   "icd-a",
+   "pbg-l"
+  ],
+  [
+   "ifi",
+   "pmc"
+  ],
+  [
+   "ilc",
+   "swd"
+  ],
+  [
+   "iph",
+   "snl"
+  ],
+  [
+   "iph",
+   "wge"
+  ],
+  [
+   "iss",
+   "uom"
+  ],
+  [
+   "isu",
+   "umr"
+  ],
+  [
+   "isu",
+   "uox"
+  ],
+  [
+   "ith-e",
+   "urg"
+  ],
+  [
+   "jmt",
+   "sod"
+  ],
+  [
+   "jsb",
+   "nku"
+  ],
+  [
+   "jsb",
+   "vab"
+  ],
+  [
+   "jsm",
+   "uoc"
+  ],
+  [
+   "kag",
+   "kag-d"
+  ],
+  [
+   "kag",
+   "xai-a"
+  ],
+  [
+   "kcz",
+   "mjh"
+  ],
+  [
+   "keb",
+   "xak"
+  ],
+  [
+   "kex-a",
+   "xbd"
+  ],
+  [
+   "kfi",
+   "nbo"
+  ],
+  [
+   "kfi",
+   "she"
+  ],
+  [
+   "kfo",
+   "pyb"
+  ],
+  [
+   "knb-a",
+   "tfz"
+  ],
+  [
+   "kpc",
+   "xbk"
+  ],
+  [
+   "krf",
+   "mth"
+  ],
+  [
+   "kto",
+   "smb"
+  ],
+  [
+   "lbt",
+   "wgy"
+  ],
+  [
+   "lcs",
+   "pbg"
+  ],
+  [
+   "lcs-a",
+   "sxq"
+  ],
+  [
+   "lig",
+   "lvt"
+  ],
+  [
+   "lig",
+   "ngc"
+  ],
+  [
+   "lig",
+   "sgt"
+  ],
+  [
+   "lig",
+   "uos"
+  ],
+  [
+   "llk-a",
+   "oge"
+  ],
+  [
+   "lon",
+   "nia-d"
+  ],
+  [
+   "lon",
+   "xbd"
+  ],
+  [
+   "lon-a",
+   "nia-d"
+  ],
+  [
+   "lon-e",
+   "nia-d"
+  ],
+  [
+   "los",
+   "nia-d"
+  ],
+  [
+   "los",
+   "xat-a"
+  ],
+  [
+   "lrj",
+   "nod"
+  ],
+  [
+   "lta",
+   "urk"
+  ],
+  [
+   "lta-e",
+   "urk"
+  ],
+  [
+   "lun",
+   "zfw"
+  ],
+  [
+   "lvt",
+   "lvt-a"
+  ],
+  [
+   "lvt",
+   "mon"
+  ],
+  [
+   "lvt",
+   "nat"
+  ],
+  [
+   "lvt",
+   "sgt"
+  ],
+  [
+   "lvt",
+   "snk"
+  ],
+  [
+   "lvt",
+   "snl"
+  ],
+  [
+   "lvt",
+   "snw"
+  ],
+  [
+   "lvt",
+   "svh"
+  ],
+  [
+   "lvt",
+   "svr"
+  ],
+  [
+   "lvt",
+   "ths"
+  ],
+  [
+   "lvt",
+   "ths-e"
+  ],
+  [
+   "lvt",
+   "umu"
+  ],
+  [
+   "lvt",
+   "uos"
+  ],
+  [
+   "lvt",
+   "uoz"
+  ],
+  [
+   "lvt-a",
+   "sgt"
+  ],
+  [
+   "lwg-a",
+   "poz"
+  ],
+  [
+   "lwh-a",
+   "xam"
+  ],
+  [
+   "maz",
+   "nia-d"
+  ],
+  [
+   "mcd",
+   "mcf"
+  ],
+  [
+   "mcf",
+   "mcf-d"
+  ],
+  [
+   "mcf",
+   "mog"
+  ],
+  [
+   "mcf",
+   "svk"
+  ],
+  [
+   "mcf",
+   "tfc-e"
+  ],
+  [
+   "mep",
+   "pop-a"
+  ],
+  [
+   "mep",
+   "pto"
+  ],
+  [
+   "mer",
+   "tfj-a"
+  ],
+  [
+   "mer-e",
+   "xao"
+  ],
+  [
+   "mgc-x",
+   "mtn"
+  ],
+  [
+   "mgz-x",
+   "mgz-x-d"
+  ],
+  [
+   "mgz-x-d",
+   "xcb"
+  ],
+  [
+   "mhg",
+   "rtw"
+  ],
+  [
+   "mjt",
+   "rra"
+  ],
+  [
+   "mmt",
+   "sxb"
+  ],
+  [
+   "mob",
+   "scp"
+  ],
+  [
+   "mon-e",
+   "wga"
+  ],
+  [
+   "msi",
+   "wnj"
+  ],
+  [
+   "mtn-e",
+   "pyd"
+  ],
+  [
+   "nas",
+   "nas-d"
+  ],
+  [
+   "nas",
+   "svn-d"
+  ],
+  [
+   "nat",
+   "tsi"
+  ],
+  [
+   "nba",
+   "reo-d"
+  ],
+  [
+   "nba",
+   "urk"
+  ],
+  [
+   "nbo",
+   "nbo-a"
+  ],
+  [
+   "nbo",
+   "nbo-a-e"
+  ],
+  [
+   "nbo",
+   "nbo-h"
+  ],
+  [
+   "nbo",
+   "oge"
+  ],
+  [
+   "nbo",
+   "pbp"
+  ],
+  [
+   "nbo",
+   "pbp-e"
+  ],
+  [
+   "nbo",
+   "pcb"
+  ],
+  [
+   "nbo",
+   "rho"
+  ],
+  [
+   "nbo",
+   "rhr"
+  ],
+  [
+   "nbo",
+   "rhr-a"
+  ],
+  [
+   "nbo",
+   "she"
+  ],
+  [
+   "nbo",
+   "sod"
+  ],
+  [
+   "nbo",
+   "sod-a"
+  ],
+  [
+   "nbo",
+   "sod-a-a-a"
+  ],
+  [
+   "nbo",
+   "sod-e"
+  ],
+  [
+   "nbo",
+   "sod-f"
+  ],
+  [
+   "nbo",
+   "sst"
+  ],
+  [
+   "nbo",
+   "sst-e"
+  ],
+  [
+   "nbo",
+   "wse"
+  ],
+  [
+   "nbo",
+   "xaf"
+  ],
+  [
+   "nbo-a",
+   "she"
+  ],
+  [
+   "nbo-a",
+   "tam"
+  ],
+  [
+   "nbo-a",
+   "uro"
+  ],
+  [
+   "nbo-a-e",
+   "she"
+  ],
+  [
+   "nbo-h",
+   "she"
+  ],
+  [
+   "nbo-x",
+   "nbo-x-d"
+  ],
+  [
+   "nbo-x",
+   "oge"
+  ],
+  [
+   "ncc",
+   "pyf"
+  ],
+  [
+   "ncg",
+   "phw-a"
+  ],
+  [
+   "nfc",
+   "xfs"
+  ],
+  [
+   "ngc",
+   "xfe"
+  ],
+  [
+   "nha",
+   "xaz"
+  ],
+  [
+   "nha-a",
+   "urp-a"
+  ],
+  [
+   "nia",
+   "nia-d"
+  ],
+  [
+   "nia-d",
+   "npo"
+  ],
+  [
+   "nia-d",
+   "npo-a"
+  ],
+  [
+   "nia-d",
+   "smv"
+  ],
+  [
+   "nia-d",
+   "snx"
+  ],
+  [
+   "nia-d",
+   "sny"
+  ],
+  [
+   "nia-d",
+   "sta"
+  ],
+  [
+   "nia-d",
+   "tpd"
+  ],
+  [
+   "nia-d",
+   "ucn"
+  ],
+  [
+   "nin",
+   "zra"
+  ],
+  [
+   "nod",
+   "sxb"
+  ],
+  [
+   "nof",
+   "ptt"
+  ],
+  [
+   "nof",
+   "sxb"
+  ],
+  [
+   "nof",
+   "umc"
+  ],
+  [
+   "nof",
+   "vbm"
+  ],
+  [
+   "nom",
+   "wkh"
+  ],
+  [
+   "noq",
+   "scg"
+  ],
+  [
+   "npo-e",
+   "ybh"
+  ],
+  [
+   "nso",
+   "urf"
+  ],
+  [
+   "ntu",
+   "tsc"
+  ],
+  [
+   "ntv",
+   "xbk"
+  ],
+  [
+   "nul",
+   "xbr"
+  ],
+  [
+   "odf",
+   "odf-d"
+  ],
+  [
+   "odj",
+   "spp"
+  ],
+  [
+   "ood-a",
+   "tfz"
+  ],
+  [
+   "ooe",
+   "wzz"
+  ],
+  [
+   "ooe",
+   "xbk-a"
+  ],
+  [
+   "ooe",
+   "xbu-a"
+  ],
+  [
+   "oso",
+   "qtz"
+  ],
+  [
+   "oso",
+   "uom"
+  ],
+  [
+   "oso",
+   "wkj"
+  ],
+  [
+   "pbp",
+   "she"
+  ],
+  [
+   "pbp-e",
+   "she"
+  ],
+  [
+   "pbz",
+   "xbt"
+  ],
+  [
+   "pbz-e",
+   "tof"
+  ],
+  [
+   "pcb",
+   "she"
+  ],
+  [
+   "pcu",
+   "urk"
+  ],
+  [
+   "pcu-i",
+   "urk"
+  ],
+  [
+   "pda",
+   "reo-d-a"
+  ],
+  [
+   "pdb",
+   "xav"
+  ],
+  [
+   "phw",
+   "wjw"
+  ],
+  [
+   "pyr-a",
+   "svn-d"
+  ],
+  [
+   "qdl",
+   "uom"
+  ],
+  [
+   "qdl-e",
+   "tcc"
+  ],
+  [
+   "qtz",
+   "qzd"
+  ],
+  [
+   "qtz",
+   "uom"
+  ],
+  [
+   "qtz",
+   "uon"
+  ],
+  [
+   "qtz-a",
+   "uom"
+  ],
+  [
+   "qtz-f",
+   "uom"
+  ],
+  [
+   "qtz-g",
+   "uom"
+  ],
+  [
+   "qtz-h",
+   "qzd"
+  ],
+  [
+   "qtz-h",
+   "uom"
+  ],
+  [
+   "qtz-h",
+   "wjw"
+  ],
+  [
+   "qtz-x",
+   "uom"
+  ],
+  [
+   "qzd",
+   "uog"
+  ],
+  [
+   "qzd",
+   "uom"
+  ],
+  [
+   "qzd",
+   "wjt"
+  ],
+  [
+   "qzd-a",
+   "twt"
+  ],
+  [
+   "reo",
+   "reo-d"
+  ],
+  [
+   "reo",
+   "urk"
+  ],
+  [
+   "reo-d",
+   "urk"
+  ],
+  [
+   "reo-e",
+   "urk"
+  ],
+  [
+   "reo-e",
+   "xbm"
+  ],
+  [
+   "reo-t",
+   "urk"
+  ],
+  [
+   "rho",
+   "she"
+  ],
+  [
+   "rhr",
+   "she"
+  ],
+  [
+   "rhr-a",
+   "she"
+  ],
+  [
+   "rna-a",
+   "zbr"
+  ],
+  [
+   "scg",
+   "zbw"
+  ],
+  [
+   "scp",
+   "uos"
+  ],
+  [
+   "sgt",
+   "snw"
+  ],
+  [
+   "sgt",
+   "tsl"
+  ],
+  [
+   "she",
+   "she-d"
+  ],
+  [
+   "she",
+   "sod"
+  ],
+  [
+   "she",
+   "sod-a"
+  ],
+  [
+   "she",
+   "sod-f"
+  ],
+  [
+   "she",
+   "sst"
+  ],
+  [
+   "she",
+   "sst-e"
+  ],
+  [
+   "she",
+   "wse"
+  ],
+  [
+   "she",
+   "xag-a"
+  ],
+  [
+   "she",
+   "xaz"
+  ],
+  [
+   "she-a",
+   "twf-a"
+  ],
+  [
+   "shp-a",
+   "xlz-a"
+  ],
+  [
+   "smw",
+   "wjr"
+  ],
+  [
+   "sno",
+   "wil"
+  ],
+  [
+   "snw",
+   "xfe"
+  ],
+  [
+   "sod-a-a",
+   "urv-a"
+  ],
+  [
+   "sod-e",
+   "xag"
+  ],
+  [
+   "sou",
+   "vbg"
+  ],
+  [
+   "sow",
+   "vcv"
+  ],
+  [
+   "spn",
+   "xbr"
+  ],
+  [
+   "spn",
+   "ydq-a"
+  ],
+  [
+   "srs",
+   "unc"
+  ],
+  [
+   "sss",
+   "stp-a"
+  ],
+  [
+   "stj-a",
+   "zll"
+  ],
+  [
+   "stx",
+   "urt"
+  ],
+  [
+   "stz",
+   "tts-a"
+  ],
+  [
+   "sur-a",
+   "vbm"
+  ],
+  [
+   "svh",
+   "xbj"
+  ],
+  [
+   "svn",
+   "svn-d"
+  ],
+  [
+   "svp",
+   "tzs"
+  ],
+  [
+   "svq",
+   "zfe"
+  ],
+  [
+   "svr",
+   "tsi"
+  ],
+  [
+   "svr",
+   "xbj"
+  ],
+  [
+   "swd",
+   "wmp"
+  ],
+  [
+   "sxc",
+   "tfq"
+  ],
+  [
+   "sxc",
+   "umm"
+  ],
+  [
+   "tam",
+   "xag"
+  ],
+  [
+   "tcf-x",
+   "vba"
+  ],
+  [
+   "tcj",
+   "yao-a"
+  ],
+  [
+   "tcl",
+   "unb"
+  ],
+  [
+   "tdc",
+   "tfp"
+  ],
+  [
+   "tee",
+   "xbe"
+  ],
+  [
+   "tfe",
+   "urk"
+  ],
+  [
+   "tfe-a",
+   "tru-a"
+  ],
+  [
+   "tfg",
+   "urk"
+  ],
+  [
+   "tfg-a",
+   "xxv"
+  ],
+  [
+   "tfi",
+   "tfi-a"
+  ],
+  [
+   "tfm",
+   "uos"
+  ],
+  [
+   "the",
+   "urk"
+  ],
+  [
+   "the-a",
+   "urk"
+  ],
+  [
+   "thh",
+   "xbj"
+  ],
+  [
+   "tof",
+   "uks"
+  ],
+  [
+   "tof",
+   "xab-a"
+  ],
+  [
+   "tof",
+   "xbt"
+  ],
+  [
+   "toz",
+   "unr"
+  ],
+  [
+   "tsi",
+   "xbj"
+  ],
+  [
+   "ttt",
+   "xbp"
+  ],
+  [
+   "twt",
+   "uom"
+  ],
+  [
+   "twt-e",
+   "uom"
+  ],
+  [
+   "twt-e",
+   "wjw"
+  ],
+  [
+   "ucy",
+   "urw"
+  ],
+  [
+   "uka",
+   "yft"
+  ],
+  [
+   "ukf",
+   "uom"
+  ],
+  [
+   "ukh",
+   "uom"
+  ],
+  [
+   "umg",
+   "uom"
+  ],
+  [
+   "umj",
+   "uom"
+  ],
+  [
+   "umm",
+   "uom"
+  ],
+  [
+   "umm",
+   "wjg"
+  ],
+  [
+   "umu",
+   "zfx"
+  ],
+  [
+   "und",
+   "xfo"
+  ],
+  [
+   "ung",
+   "unn"
+  ],
+  [
+   "unh",
+   "wix"
+  ],
+  [
+   "uni",
+   "uni-d"
+  ],
+  [
+   "uni-d",
+   "wjo"
+  ],
+  [
+   "uob",
+   "uoc"
+  ],
+  [
+   "uoc",
+   "yan"
+  ],
+  [
+   "uoc",
+   "yfj"
+  ],
+  [
+   "uof",
+   "uom"
+  ],
+  [
+   "uog",
+   "uom"
+  ],
+  [
+   "uom",
+   "uon"
+  ],
+  [
+   "uom",
+   "uoo"
+  ],
+  [
+   "uom",
+   "uop"
+  ],
+  [
+   "uom",
+   "uoq"
+  ],
+  [
+   "urk",
+   "urk-a"
+  ],
+  [
+   "urm",
+   "xbk"
+  ],
+  [
+   "urv",
+   "xaf"
+  ],
+  [
+   "ury-a",
+   "zra-d"
+  ],
+  [
+   "vbg",
+   "vbh"
+  ],
+  [
+   "vcb",
+   "vcc"
+  ],
+  [
+   "vtx",
+   "wga"
+  ],
+  [
+   "wgp",
+   "zni"
+  ],
+  [
+   "wgr",
+   "yfr"
+  ],
+  [
+   "wjs",
+   "wka"
+  ],
+  [
+   "wkg",
+   "wkx"
+  ],
+  [
+   "wma",
+   "zfz"
+  ],
+  [
+   "wmp",
+   "wnf"
+  ],
+  [
+   "wzz",
+   "xaa"
+  ],
+  [
+   "xaf",
+   "xag"
+  ],
+  [
+   "xbe",
+   "ylf"
+  ],
+  [
+   "xbk",
+   "xbv"
+  ],
+  [
+   "xbp",
+   "xbz"
+  ],
+  [
+   "xfp",
+   "yfr"
+  ],
+  [
+   "xfr",
+   "yfq"
+  ],
+  [
+   "zra",
+   "zra-d"
+  ]
+ ],
+ "excluded_note": "Both orientations of every pair of the retrospective rows, the first prospective test (final and initial draw) and 12 different-group dual pairs.",
+ "rows": [
+  {
+   "id": 0,
+   "stratum": "cubic",
+   "space_group_number": 229,
+   "setting": "Im-3m",
+   "scaffold": "kpl",
+   "floppy": "kfi-e"
+  },
+  {
+   "id": 1,
+   "stratum": "cubic",
+   "space_group_number": 223,
+   "setting": "Pm-3n",
+   "scaffold": "fuh",
+   "floppy": "sky-a"
+  },
+  {
+   "id": 2,
+   "stratum": "cubic",
+   "space_group_number": 221,
+   "setting": "Pm-3m",
+   "scaffold": "thf",
+   "floppy": "the-a"
+  },
+  {
+   "id": 3,
+   "stratum": "cubic",
+   "space_group_number": 221,
+   "setting": "Pm-3m",
+   "scaffold": "xbn",
+   "floppy": "xbo"
+  },
+  {
+   "id": 4,
+   "stratum": "cubic",
+   "space_group_number": 229,
+   "setting": "Im-3m",
+   "scaffold": "dna",
+   "floppy": "pbp-l"
+  },
+  {
+   "id": 5,
+   "stratum": "cubic",
+   "space_group_number": 227,
+   "setting": "Fd-3m:2",
+   "scaffold": "spl-a",
+   "floppy": "dnz"
+  },
+  {
+   "id": 6,
+   "stratum": "cubic",
+   "space_group_number": 229,
+   "setting": "Im-3m",
+   "scaffold": "nso",
+   "floppy": "sod"
+  },
+  {
+   "id": 7,
+   "stratum": "cubic",
+   "space_group_number": 221,
+   "setting": "Pm-3m",
+   "scaffold": "reo-d-a",
+   "floppy": "urq-a"
+  },
+  {
+   "id": 8,
+   "stratum": "cubic",
+   "space_group_number": 221,
+   "setting": "Pm-3m",
+   "scaffold": "xaj",
+   "floppy": "epq-a"
+  },
+  {
+   "id": 9,
+   "stratum": "cubic",
+   "space_group_number": 221,
+   "setting": "Pm-3m",
+   "scaffold": "epn",
+   "floppy": "urr"
+  },
+  {
+   "id": 10,
+   "stratum": "cubic",
+   "space_group_number": 229,
+   "setting": "Im-3m",
+   "scaffold": "kce",
+   "floppy": "mjt"
+  },
+  {
+   "id": 11,
+   "stratum": "cubic",
+   "space_group_number": 224,
+   "setting": "Pn-3m:2",
+   "scaffold": "xbt",
+   "floppy": "dnj-a"
+  },
+  {
+   "id": 12,
+   "stratum": "cubic",
+   "space_group_number": 225,
+   "setting": "Fm-3m",
+   "scaffold": "ntt-a",
+   "floppy": "dnk-a"
+  },
+  {
+   "id": 13,
+   "stratum": "cubic",
+   "space_group_number": 230,
+   "setting": "Ia-3d",
+   "scaffold": "nku-a",
+   "floppy": "ibe"
+  },
+  {
+   "id": 14,
+   "stratum": "cubic",
+   "space_group_number": 227,
+   "setting": "Fd-3m:2",
+   "scaffold": "crs",
+   "floppy": "epy-a"
+  },
+  {
+   "id": 15,
+   "stratum": "cubic",
+   "space_group_number": 223,
+   "setting": "Pm-3n",
+   "scaffold": "epr-a",
+   "floppy": "edq-a"
+  },
+  {
+   "id": 16,
+   "stratum": "cubic",
+   "space_group_number": 225,
+   "setting": "Fm-3m",
+   "scaffold": "ott",
+   "floppy": "tsc"
+  },
+  {
+   "id": 17,
+   "stratum": "cubic",
+   "space_group_number": 229,
+   "setting": "Im-3m",
+   "scaffold": "bcu-k",
+   "floppy": "xar"
+  },
+  {
+   "id": 18,
+   "stratum": "cubic",
+   "space_group_number": 225,
+   "setting": "Fm-3m",
+   "scaffold": "ntt",
+   "floppy": "urm"
+  },
+  {
+   "id": 19,
+   "stratum": "cubic",
+   "space_group_number": 227,
+   "setting": "Fd-3m:2",
+   "scaffold": "dia",
+   "floppy": "uty"
+  },
+  {
+   "id": 20,
+   "stratum": "cubic",
+   "space_group_number": 227,
+   "setting": "Fd-3m:2",
+   "scaffold": "jak",
+   "floppy": "mtn-e-a"
+  },
+  {
+   "id": 21,
+   "stratum": "cubic",
+   "space_group_number": 229,
+   "setting": "Im-3m",
+   "scaffold": "sod-a-a-a",
+   "floppy": "nbo-h"
+  },
+  {
+   "id": 22,
+   "stratum": "cubic",
+   "space_group_number": 229,
+   "setting": "Im-3m",
+   "scaffold": "sod-a-a",
+   "floppy": "baw"
+  },
+  {
+   "id": 23,
+   "stratum": "cubic",
+   "space_group_number": 221,
+   "setting": "Pm-3m",
+   "scaffold": "epq-a",
+   "floppy": "ucp-a"
+  },
+  {
+   "id": 24,
+   "stratum": "cubic",
+   "space_group_number": 225,
+   "setting": "Fm-3m",
+   "scaffold": "ntu-a",
+   "floppy": "tbo-a"
+  },
+  {
+   "id": 25,
+   "stratum": "cubic",
+   "space_group_number": 227,
+   "setting": "Fd-3m:2",
+   "scaffold": "met-a",
+   "floppy": "xbr"
+  },
+  {
+   "id": 26,
+   "stratum": "cubic",
+   "space_group_number": 229,
+   "setting": "Im-3m",
+   "scaffold": "xik",
+   "floppy": "ocu-e"
+  },
+  {
+   "id": 27,
+   "stratum": "cubic",
+   "space_group_number": 221,
+   "setting": "Pm-3m",
+   "scaffold": "hee",
+   "floppy": "reo-e"
+  },
+  {
+   "id": 28,
+   "stratum": "cubic",
+   "space_group_number": 227,
+   "setting": "Fd-3m:2",
+   "scaffold": "mgc-x",
+   "floppy": "uta"
+  },
+  {
+   "id": 29,
+   "stratum": "cubic",
+   "space_group_number": 225,
+   "setting": "Fm-3m",
+   "scaffold": "ucy",
+   "floppy": "nty-a"
+  },
+  {
+   "id": 30,
+   "stratum": "cubic",
+   "space_group_number": 229,
+   "setting": "Im-3m",
+   "scaffold": "sst-e",
+   "floppy": "bcu"
+  },
+  {
+   "id": 31,
+   "stratum": "cubic",
+   "space_group_number": 221,
+   "setting": "Pm-3m",
+   "scaffold": "xxv",
+   "floppy": "xbn-a"
+  },
+  {
+   "id": 32,
+   "stratum": "cubic",
+   "space_group_number": 224,
+   "setting": "Pn-3m:2",
+   "scaffold": "ycr",
+   "floppy": "tof"
+  },
+  {
+   "id": 33,
+   "stratum": "cubic",
+   "space_group_number": 229,
+   "setting": "Im-3m",
+   "scaffold": "sdt-e",
+   "floppy": "twf-d"
+  },
+  {
+   "id": 34,
+   "stratum": "cubic",
+   "space_group_number": 221,
+   "setting": "Pm-3m",
+   "scaffold": "ddy-a",
+   "floppy": "epn-a"
+  },
+  {
+   "id": 35,
+   "stratum": "cubic",
+   "space_group_number": 229,
+   "setting": "Im-3m",
+   "scaffold": "twf-d",
+   "floppy": "nha"
+  },
+  {
+   "id": 36,
+   "stratum": "cubic",
+   "space_group_number": 223,
+   "setting": "Pm-3n",
+   "scaffold": "urg",
+   "floppy": "pop"
+  },
+  {
+   "id": 37,
+   "stratum": "cubic",
+   "space_group_number": 229,
+   "setting": "Im-3m",
+   "scaffold": "sdt",
+   "floppy": "fvx"
+  },
+  {
+   "id": 38,
+   "stratum": "cubic",
+   "space_group_number": 229,
+   "setting": "Im-3m",
+   "scaffold": "nbo-h",
+   "floppy": "nbo-x-d"
+  },
+  {
+   "id": 39,
+   "stratum": "cubic",
+   "space_group_number": 229,
+   "setting": "Im-3m",
+   "scaffold": "url-a",
+   "floppy": "fui"
+  },
+  {
+   "id": 40,
+   "stratum": "cubic",
+   "space_group_number": 229,
+   "setting": "Im-3m",
+   "scaffold": "xij",
+   "floppy": "sod-a-a"
+  },
+  {
+   "id": 41,
+   "stratum": "cubic",
+   "space_group_number": 229,
+   "setting": "Im-3m",
+   "scaffold": "dnx",
+   "floppy": "dnu"
+  },
+  {
+   "id": 42,
+   "stratum": "cubic",
+   "space_group_number": 229,
+   "setting": "Im-3m",
+   "scaffold": "bcj",
+   "floppy": "oge-a"
+  },
+  {
+   "id": 43,
+   "stratum": "cubic",
+   "space_group_number": 227,
+   "setting": "Fd-3m:2",
+   "scaffold": "epy-a",
+   "floppy": "jak"
+  },
+  {
+   "id": 44,
+   "stratum": "cubic",
+   "space_group_number": 225,
+   "setting": "Fm-3m",
+   "scaffold": "ntv-a",
+   "floppy": "bar"
+  },
+  {
+   "id": 45,
+   "stratum": "cubic",
+   "space_group_number": 223,
+   "setting": "Pm-3n",
+   "scaffold": "bet",
+   "floppy": "svl"
+  },
+  {
+   "id": 46,
+   "stratum": "cubic",
+   "space_group_number": 227,
+   "setting": "Fd-3m:2",
+   "scaffold": "bav",
+   "floppy": "jag"
+  },
+  {
+   "id": 47,
+   "stratum": "cubic",
+   "space_group_number": 229,
+   "setting": "Im-3m",
+   "scaffold": "xad",
+   "floppy": "fui"
+  },
+  {
+   "id": 48,
+   "stratum": "cubic",
+   "space_group_number": 229,
+   "setting": "Im-3m",
+   "scaffold": "kfi",
+   "floppy": "amu-a"
+  },
+  {
+   "id": 49,
+   "stratum": "cubic",
+   "space_group_number": 221,
+   "setting": "Pm-3m",
+   "scaffold": "the",
+   "floppy": "pcu"
+  },
+  {
+   "id": 50,
+   "stratum": "cubic",
+   "space_group_number": 224,
+   "setting": "Pn-3m:2",
+   "scaffold": "pbz-e",
+   "floppy": "pbz-l-l"
+  },
+  {
+   "id": 51,
+   "stratum": "cubic",
+   "space_group_number": 229,
+   "setting": "Im-3m",
+   "scaffold": "sdt-e",
+   "floppy": "nbo-h"
+  },
+  {
+   "id": 52,
+   "stratum": "cubic",
+   "space_group_number": 229,
+   "setting": "Im-3m",
+   "scaffold": "xad-a",
+   "floppy": "soc-a"
+  },
+  {
+   "id": 53,
+   "stratum": "cubic",
+   "space_group_number": 225,
+   "setting": "Fm-3m",
+   "scaffold": "xbh",
+   "floppy": "dnc-a"
+  },
+  {
+   "id": 54,
+   "stratum": "cubic",
+   "space_group_number": 227,
+   "setting": "Fd-3m:2",
+   "scaffold": "fnf",
+   "floppy": "dia"
+  },
+  {
+   "id": 55,
+   "stratum": "cubic",
+   "space_group_number": 229,
+   "setting": "Im-3m",
+   "scaffold": "sdt",
+   "floppy": "pcb-e"
+  },
+  {
+   "id": 56,
+   "stratum": "cubic",
+   "space_group_number": 214,
+   "setting": "I4132",
+   "scaffold": "siz",
+   "floppy": "swq"
+  },
+  {
+   "id": 57,
+   "stratum": "cubic",
+   "space_group_number": 229,
+   "setting": "Im-3m",
+   "scaffold": "url-a",
+   "floppy": "twf-e"
+  },
+  {
+   "id": 58,
+   "stratum": "cubic",
+   "space_group_number": 221,
+   "setting": "Pm-3m",
+   "scaffold": "cab",
+   "floppy": "xba"
+  },
+  {
+   "id": 59,
+   "stratum": "cubic",
+   "space_group_number": 227,
+   "setting": "Fd-3m:2",
+   "scaffold": "fnf",
+   "floppy": "gng"
+  },
+  {
+   "id": 60,
+   "stratum": "cubic",
+   "space_group_number": 230,
+   "setting": "Ia-3d",
+   "scaffold": "bcs",
+   "floppy": "icd"
+  },
+  {
+   "id": 61,
+   "stratum": "cubic",
+   "space_group_number": 223,
+   "setting": "Pm-3n",
+   "scaffold": "edq",
+   "floppy": "qms"
+  },
+  {
+   "id": 62,
+   "stratum": "cubic",
+   "space_group_number": 221,
+   "setting": "Pm-3m",
+   "scaffold": "tfe",
+   "floppy": "fue"
+  },
+  {
+   "id": 63,
+   "stratum": "cubic",
+   "space_group_number": 223,
+   "setting": "Pm-3n",
+   "scaffold": "xbl",
+   "floppy": "csp"
+  },
+  {
+   "id": 64,
+   "stratum": "cubic",
+   "space_group_number": 221,
+   "setting": "Pm-3m",
+   "scaffold": "xbo",
+   "floppy": "urn-a"
+  },
+  {
+   "id": 65,
+   "stratum": "cubic",
+   "space_group_number": 221,
+   "setting": "Pm-3m",
+   "scaffold": "xae",
+   "floppy": "pcu-i"
+  },
+  {
+   "id": 66,
+   "stratum": "cubic",
+   "space_group_number": 227,
+   "setting": "Fd-3m:2",
+   "scaffold": "epw",
+   "floppy": "xas"
+  },
+  {
+   "id": 67,
+   "stratum": "cubic",
+   "space_group_number": 227,
+   "setting": "Fd-3m:2",
+   "scaffold": "mgd",
+   "floppy": "bau"
+  },
+  {
+   "id": 68,
+   "stratum": "cubic",
+   "space_group_number": 229,
+   "setting": "Im-3m",
+   "scaffold": "vvi-a",
+   "floppy": "nha-a"
+  },
+  {
+   "id": 69,
+   "stratum": "cubic",
+   "space_group_number": 229,
+   "setting": "Im-3m",
+   "scaffold": "sod-e",
+   "floppy": "pcb-e"
+  },
+  {
+   "id": 70,
+   "stratum": "cubic",
+   "space_group_number": 220,
+   "setting": "I-43d",
+   "scaffold": "svy",
+   "floppy": "svx"
+  },
+  {
+   "id": 71,
+   "stratum": "cubic",
+   "space_group_number": 229,
+   "setting": "Im-3m",
+   "scaffold": "xar",
+   "floppy": "xij"
+  },
+  {
+   "id": 72,
+   "stratum": "cubic",
+   "space_group_number": 229,
+   "setting": "Im-3m",
+   "scaffold": "she-d",
+   "floppy": "sod-t"
+  },
+  {
+   "id": 73,
+   "stratum": "cubic",
+   "space_group_number": 221,
+   "setting": "Pm-3m",
+   "scaffold": "fty",
+   "floppy": "tfg-a"
+  },
+  {
+   "id": 74,
+   "stratum": "cubic",
+   "space_group_number": 225,
+   "setting": "Fm-3m",
+   "scaffold": "tbd",
+   "floppy": "urm"
+  },
+  {
+   "id": 75,
+   "stratum": "cubic",
+   "space_group_number": 229,
+   "setting": "Im-3m",
+   "scaffold": "mct",
+   "floppy": "she-d"
+  },
+  {
+   "id": 76,
+   "stratum": "cubic",
+   "space_group_number": 221,
+   "setting": "Pm-3m",
+   "scaffold": "gee-a",
+   "floppy": "xbg"
+  },
+  {
+   "id": 77,
+   "stratum": "cubic",
+   "space_group_number": 229,
+   "setting": "Im-3m",
+   "scaffold": "sst-e",
+   "floppy": "sod-a"
+  },
+  {
+   "id": 78,
+   "stratum": "cubic",
+   "space_group_number": 227,
+   "setting": "Fd-3m:2",
+   "scaffold": "spn-a",
+   "floppy": "dia-x"
+  },
+  {
+   "id": 79,
+   "stratum": "cubic",
+   "space_group_number": 227,
+   "setting": "Fd-3m:2",
+   "scaffold": "dnf",
+   "floppy": "sph-a"
+  },
+  {
+   "id": 80,
+   "stratum": "cubic",
+   "space_group_number": 229,
+   "setting": "Im-3m",
+   "scaffold": "twf-d-a",
+   "floppy": "urv"
+  },
+  {
+   "id": 81,
+   "stratum": "cubic",
+   "space_group_number": 229,
+   "setting": "Im-3m",
+   "scaffold": "sho",
+   "floppy": "viv"
+  },
+  {
+   "id": 82,
+   "stratum": "cubic",
+   "space_group_number": 211,
+   "setting": "I432",
+   "scaffold": "snr",
+   "floppy": "fch"
+  },
+  {
+   "id": 83,
+   "stratum": "cubic",
+   "space_group_number": 224,
+   "setting": "Pn-3m:2",
+   "scaffold": "hxs",
+   "floppy": "cot-a"
+  },
+  {
+   "id": 84,
+   "stratum": "cubic",
+   "space_group_number": 220,
+   "setting": "I-43d",
+   "scaffold": "tph",
+   "floppy": "thp"
+  },
+  {
+   "id": 85,
+   "stratum": "cubic",
+   "space_group_number": 221,
+   "setting": "Pm-3m",
+   "scaffold": "pda",
+   "floppy": "ddy"
+  },
+  {
+   "id": 86,
+   "stratum": "cubic",
+   "space_group_number": 225,
+   "setting": "Fm-3m",
+   "scaffold": "ubt",
+   "floppy": "ntu-a"
+  },
+  {
+   "id": 87,
+   "stratum": "cubic",
+   "space_group_number": 229,
+   "setting": "Im-3m",
+   "scaffold": "wpa",
+   "floppy": "mjt"
+  },
+  {
+   "id": 88,
+   "stratum": "cubic",
+   "space_group_number": 229,
+   "setting": "Im-3m",
+   "scaffold": "wse",
+   "floppy": "viv-a"
+  },
+  {
+   "id": 89,
+   "stratum": "cubic",
+   "space_group_number": 229,
+   "setting": "Im-3m",
+   "scaffold": "lwh-a",
+   "floppy": "xag-a"
+  },
+  {
+   "id": 90,
+   "stratum": "cubic",
+   "space_group_number": 224,
+   "setting": "Pn-3m:2",
+   "scaffold": "toc-a",
+   "floppy": "pbz-l"
+  },
+  {
+   "id": 91,
+   "stratum": "cubic",
+   "space_group_number": 221,
+   "setting": "Pm-3m",
+   "scaffold": "reo-t",
+   "floppy": "xbb"
+  },
+  {
+   "id": 92,
+   "stratum": "cubic",
+   "space_group_number": 224,
+   "setting": "Pn-3m:2",
+   "scaffold": "ycs",
+   "floppy": "fnp"
+  },
+  {
+   "id": 93,
+   "stratum": "cubic",
+   "space_group_number": 229,
+   "setting": "Im-3m",
+   "scaffold": "baq",
+   "floppy": "pbp-e"
+  },
+  {
+   "id": 94,
+   "stratum": "cubic",
+   "space_group_number": 229,
+   "setting": "Im-3m",
+   "scaffold": "lwh",
+   "floppy": "ftw-t"
+  },
+  {
+   "id": 95,
+   "stratum": "cubic",
+   "space_group_number": 225,
+   "setting": "Fm-3m",
+   "scaffold": "fla",
+   "floppy": "nts-a"
+  },
+  {
+   "id": 96,
+   "stratum": "cubic",
+   "space_group_number": 224,
+   "setting": "Pn-3m:2",
+   "scaffold": "pbz",
+   "floppy": "toc-a"
+  },
+  {
+   "id": 97,
+   "stratum": "cubic",
+   "space_group_number": 225,
+   "setting": "Fm-3m",
+   "scaffold": "gdm-a",
+   "floppy": "urw"
+  },
+  {
+   "id": 98,
+   "stratum": "cubic",
+   "space_group_number": 229,
+   "setting": "Im-3m",
+   "scaffold": "bon",
+   "floppy": "pcb-e"
+  },
+  {
+   "id": 99,
+   "stratum": "cubic",
+   "space_group_number": 214,
+   "setting": "I4132",
+   "scaffold": "swq",
+   "floppy": "pmc"
+  },
+  {
+   "id": 100,
+   "stratum": "cubic",
+   "space_group_number": 230,
+   "setting": "Ia-3d",
+   "scaffold": "bcs-a",
+   "floppy": "pbg"
+  },
+  {
+   "id": 101,
+   "stratum": "cubic",
+   "space_group_number": 230,
+   "setting": "Ia-3d",
+   "scaffold": "bcs-a",
+   "floppy": "ukw"
+  },
+  {
+   "id": 102,
+   "stratum": "cubic",
+   "space_group_number": 221,
+   "setting": "Pm-3m",
+   "scaffold": "ucp-a",
+   "floppy": "urn-a"
+  },
+  {
+   "id": 103,
+   "stratum": "cubic",
+   "space_group_number": 221,
+   "setting": "Pm-3m",
+   "scaffold": "reo-t",
+   "floppy": "fut"
+  },
+  {
+   "id": 104,
+   "stratum": "cubic",
+   "space_group_number": 229,
+   "setting": "Im-3m",
+   "scaffold": "nju-a",
+   "floppy": "sho-a"
+  },
+  {
+   "id": 105,
+   "stratum": "cubic",
+   "space_group_number": 229,
+   "setting": "Im-3m",
+   "scaffold": "bcu-t",
+   "floppy": "kfi"
+  },
+  {
+   "id": 106,
+   "stratum": "cubic",
+   "space_group_number": 229,
+   "setting": "Im-3m",
+   "scaffold": "twf",
+   "floppy": "kce-a"
+  },
+  {
+   "id": 107,
+   "stratum": "cubic",
+   "space_group_number": 230,
+   "setting": "Ia-3d",
+   "scaffold": "pbg-l",
+   "floppy": "gat-a"
+  },
+  {
+   "id": 108,
+   "stratum": "cubic",
+   "space_group_number": 225,
+   "setting": "Fm-3m",
+   "scaffold": "xap",
+   "floppy": "ntt-a"
+  },
+  {
+   "id": 109,
+   "stratum": "cubic",
+   "space_group_number": 229,
+   "setting": "Im-3m",
+   "scaffold": "bcu-l",
+   "floppy": "ocu"
+  },
+  {
+   "id": 110,
+   "stratum": "cubic",
+   "space_group_number": 227,
+   "setting": "Fd-3m:2",
+   "scaffold": "dnz",
+   "floppy": "fuw"
+  },
+  {
+   "id": 111,
+   "stratum": "cubic",
+   "space_group_number": 229,
+   "setting": "Im-3m",
+   "scaffold": "dnu-a",
+   "floppy": "oge"
+  },
+  {
+   "id": 112,
+   "stratum": "cubic",
+   "space_group_number": 225,
+   "setting": "Fm-3m",
+   "scaffold": "ntu",
+   "floppy": "dnt"
+  },
+  {
+   "id": 113,
+   "stratum": "cubic",
+   "space_group_number": 225,
+   "setting": "Fm-3m",
+   "scaffold": "gdm-a",
+   "floppy": "dnt-a"
+  },
+  {
+   "id": 114,
+   "stratum": "cubic",
+   "space_group_number": 229,
+   "setting": "Im-3m",
+   "scaffold": "urf-a",
+   "floppy": "kce-a"
+  },
+  {
+   "id": 115,
+   "stratum": "cubic",
+   "space_group_number": 230,
+   "setting": "Ia-3d",
+   "scaffold": "sxn",
+   "floppy": "pbg-l"
+  },
+  {
+   "id": 116,
+   "stratum": "cubic",
+   "space_group_number": 221,
+   "setting": "Pm-3m",
+   "scaffold": "xxv",
+   "floppy": "urr"
+  },
+  {
+   "id": 117,
+   "stratum": "cubic",
+   "space_group_number": 229,
+   "setting": "Im-3m",
+   "scaffold": "kpl",
+   "floppy": "uro"
+  },
+  {
+   "id": 118,
+   "stratum": "cubic",
+   "space_group_number": 224,
+   "setting": "Pn-3m:2",
+   "scaffold": "xab",
+   "floppy": "fnp"
+  },
+  {
+   "id": 119,
+   "stratum": "cubic",
+   "space_group_number": 221,
+   "setting": "Pm-3m",
+   "scaffold": "tru",
+   "floppy": "the-a"
+  },
+  {
+   "id": 120,
+   "stratum": "cubic",
+   "space_group_number": 229,
+   "setting": "Im-3m",
+   "scaffold": "sdt",
+   "floppy": "lwh"
+  },
+  {
+   "id": 121,
+   "stratum": "cubic",
+   "space_group_number": 229,
+   "setting": "Im-3m",
+   "scaffold": "mct",
+   "floppy": "rra"
+  },
+  {
+   "id": 122,
+   "stratum": "cubic",
+   "space_group_number": 222,
+   "setting": "Pn-3n:2",
+   "scaffold": "swb",
+   "floppy": "svz"
+  },
+  {
+   "id": 123,
+   "stratum": "cubic",
+   "space_group_number": 225,
+   "setting": "Fm-3m",
+   "scaffold": "wzz",
+   "floppy": "urw-a"
+  },
+  {
+   "id": 124,
+   "stratum": "cubic",
+   "space_group_number": 229,
+   "setting": "Im-3m",
+   "scaffold": "sod-a-a-a",
+   "floppy": "llk"
+  },
+  {
+   "id": 125,
+   "stratum": "cubic",
+   "space_group_number": 229,
+   "setting": "Im-3m",
+   "scaffold": "viv",
+   "floppy": "mct"
+  },
+  {
+   "id": 126,
+   "stratum": "cubic",
+   "space_group_number": 216,
+   "setting": "F-43m",
+   "scaffold": "ttr",
+   "floppy": "omy"
+  },
+  {
+   "id": 127,
+   "stratum": "cubic",
+   "space_group_number": 221,
+   "setting": "Pm-3m",
+   "scaffold": "dpe-a",
+   "floppy": "ssd-e"
+  },
+  {
+   "id": 128,
+   "stratum": "cubic",
+   "space_group_number": 220,
+   "setting": "I-43d",
+   "scaffold": "fcr",
+   "floppy": "ctn-e"
+  },
+  {
+   "id": 129,
+   "stratum": "cubic",
+   "space_group_number": 206,
+   "setting": "Ia-3",
+   "scaffold": "pcu-g",
+   "floppy": "pcu-g-e"
+  },
+  {
+   "id": 130,
+   "stratum": "cubic",
+   "space_group_number": 229,
+   "setting": "Im-3m",
+   "scaffold": "oge-a",
+   "floppy": "twf-d-a"
+  },
+  {
+   "id": 131,
+   "stratum": "cubic",
+   "space_group_number": 223,
+   "setting": "Pm-3n",
+   "scaffold": "svl",
+   "floppy": "edq"
+  },
+  {
+   "id": 132,
+   "stratum": "cubic",
+   "space_group_number": 229,
+   "setting": "Im-3m",
+   "scaffold": "urp",
+   "floppy": "xaz"
+  },
+  {
+   "id": 133,
+   "stratum": "cubic",
+   "space_group_number": 211,
+   "setting": "I432",
+   "scaffold": "snr",
+   "floppy": "dni"
+  },
+  {
+   "id": 134,
+   "stratum": "cubic",
+   "space_group_number": 229,
+   "setting": "Im-3m",
+   "scaffold": "nso",
+   "floppy": "xad-a"
+  },
+  {
+   "id": 135,
+   "stratum": "cubic",
+   "space_group_number": 229,
+   "setting": "Im-3m",
+   "scaffold": "xar",
+   "floppy": "hef"
+  },
+  {
+   "id": 136,
+   "stratum": "cubic",
+   "space_group_number": 229,
+   "setting": "Im-3m",
+   "scaffold": "xag-a",
+   "floppy": "pzh"
+  },
+  {
+   "id": 137,
+   "stratum": "cubic",
+   "space_group_number": 230,
+   "setting": "Ia-3d",
+   "scaffold": "iac-e",
+   "floppy": "lcs-e"
+  },
+  {
+   "id": 138,
+   "stratum": "cubic",
+   "space_group_number": 227,
+   "setting": "Fd-3m:2",
+   "scaffold": "bav",
+   "floppy": "dda"
+  },
+  {
+   "id": 139,
+   "stratum": "cubic",
+   "space_group_number": 214,
+   "setting": "I4132",
+   "scaffold": "utc",
+   "floppy": "ssc-a"
+  },
+  {
+   "id": 140,
+   "stratum": "cubic",
+   "space_group_number": 229,
+   "setting": "Im-3m",
+   "scaffold": "urv-a",
+   "floppy": "pzh-a"
+  },
+  {
+   "id": 141,
+   "stratum": "cubic",
+   "space_group_number": 229,
+   "setting": "Im-3m",
+   "scaffold": "nju-a",
+   "floppy": "vvi"
+  },
+  {
+   "id": 142,
+   "stratum": "cubic",
+   "space_group_number": 214,
+   "setting": "I4132",
+   "scaffold": "ckq",
+   "floppy": "nfa"
+  },
+  {
+   "id": 143,
+   "stratum": "cubic",
+   "space_group_number": 206,
+   "setting": "Ia-3",
+   "scaffold": "fcd",
+   "floppy": "gsi"
+  },
+  {
+   "id": 144,
+   "stratum": "cubic",
+   "space_group_number": 229,
+   "setting": "Im-3m",
+   "scaffold": "nbo-a-e",
+   "floppy": "mct"
+  },
+  {
+   "id": 145,
+   "stratum": "cubic",
+   "space_group_number": 227,
+   "setting": "Fd-3m:2",
+   "scaffold": "hed",
+   "floppy": "mtn-e-a"
+  },
+  {
+   "id": 146,
+   "stratum": "cubic",
+   "space_group_number": 227,
+   "setting": "Fd-3m:2",
+   "scaffold": "met-a",
+   "floppy": "pyd"
+  },
+  {
+   "id": 147,
+   "stratum": "cubic",
+   "space_group_number": 227,
+   "setting": "Fd-3m:2",
+   "scaffold": "mgc-a",
+   "floppy": "dnf-a"
+  },
+  {
+   "id": 148,
+   "stratum": "cubic",
+   "space_group_number": 227,
+   "setting": "Fd-3m:2",
+   "scaffold": "nun",
+   "floppy": "ddb"
+  },
+  {
+   "id": 149,
+   "stratum": "cubic",
+   "space_group_number": 229,
+   "setting": "Im-3m",
+   "scaffold": "rhp",
+   "floppy": "bcu-t"
+  },
+  {
+   "id": 150,
+   "stratum": "cubic",
+   "space_group_number": 227,
+   "setting": "Fd-3m:2",
+   "scaffold": "fuw",
+   "floppy": "dia-a"
+  },
+  {
+   "id": 151,
+   "stratum": "cubic",
+   "space_group_number": 221,
+   "setting": "Pm-3m",
+   "scaffold": "fue",
+   "floppy": "siy"
+  },
+  {
+   "id": 152,
+   "stratum": "cubic",
+   "space_group_number": 214,
+   "setting": "I4132",
+   "scaffold": "siz",
+   "floppy": "ckq"
+  },
+  {
+   "id": 153,
+   "stratum": "cubic",
+   "space_group_number": 223,
+   "setting": "Pm-3n",
+   "scaffold": "lcx",
+   "floppy": "edq-a"
+  },
+  {
+   "id": 154,
+   "stratum": "cubic",
+   "space_group_number": 230,
+   "setting": "Ia-3d",
+   "scaffold": "lcs-e",
+   "floppy": "dpa-a"
+  },
+  {
+   "id": 155,
+   "stratum": "cubic",
+   "space_group_number": 221,
+   "setting": "Pm-3m",
+   "scaffold": "epn-a",
+   "floppy": "fuv"
+  },
+  {
+   "id": 156,
+   "stratum": "cubic",
+   "space_group_number": 205,
+   "setting": "Pa-3",
+   "scaffold": "sxg",
+   "floppy": "svn-d"
+  },
+  {
+   "id": 157,
+   "stratum": "cubic",
+   "space_group_number": 230,
+   "setting": "Ia-3d",
+   "scaffold": "gal-a",
+   "floppy": "jsb"
+  },
+  {
+   "id": 158,
+   "stratum": "cubic",
+   "space_group_number": 221,
+   "setting": "Pm-3m",
+   "scaffold": "tfe-a",
+   "floppy": "pcu-i"
+  },
+  {
+   "id": 159,
+   "stratum": "cubic",
+   "space_group_number": 229,
+   "setting": "Im-3m",
+   "scaffold": "xam",
+   "floppy": "url"
+  },
+  {
+   "id": 160,
+   "stratum": "cubic",
+   "space_group_number": 214,
+   "setting": "I4132",
+   "scaffold": "kgp",
+   "floppy": "utc"
+  },
+  {
+   "id": 161,
+   "stratum": "cubic",
+   "space_group_number": 230,
+   "setting": "Ia-3d",
+   "scaffold": "fcz",
+   "floppy": "fcx"
+  },
+  {
+   "id": 162,
+   "stratum": "cubic",
+   "space_group_number": 229,
+   "setting": "Im-3m",
+   "scaffold": "ses-a",
+   "floppy": "maw"
+  },
+  {
+   "id": 163,
+   "stratum": "cubic",
+   "space_group_number": 229,
+   "setting": "Im-3m",
+   "scaffold": "rra",
+   "floppy": "sst"
+  },
+  {
+   "id": 164,
+   "stratum": "cubic",
+   "space_group_number": 221,
+   "setting": "Pm-3m",
+   "scaffold": "tfe",
+   "floppy": "reo-t"
+  },
+  {
+   "id": 165,
+   "stratum": "cubic",
+   "space_group_number": 225,
+   "setting": "Fm-3m",
+   "scaffold": "ast-e",
+   "floppy": "tbo"
+  },
+  {
+   "id": 166,
+   "stratum": "cubic",
+   "space_group_number": 221,
+   "setting": "Pm-3m",
+   "scaffold": "xav",
+   "floppy": "epq"
+  },
+  {
+   "id": 167,
+   "stratum": "cubic",
+   "space_group_number": 229,
+   "setting": "Im-3m",
+   "scaffold": "bcu-x-a",
+   "floppy": "wpa"
+  },
+  {
+   "id": 168,
+   "stratum": "cubic",
+   "space_group_number": 229,
+   "setting": "Im-3m",
+   "scaffold": "dna",
+   "floppy": "dnu"
+  },
+  {
+   "id": 169,
+   "stratum": "cubic",
+   "space_group_number": 227,
+   "setting": "Fd-3m:2",
+   "scaffold": "dia-x",
+   "floppy": "dnz"
+  },
+  {
+   "id": 170,
+   "stratum": "cubic",
+   "space_group_number": 229,
+   "setting": "Im-3m",
+   "scaffold": "wpa",
+   "floppy": "bag"
+  },
+  {
+   "id": 171,
+   "stratum": "cubic",
+   "space_group_number": 227,
+   "setting": "Fd-3m:2",
+   "scaffold": "mgc",
+   "floppy": "kfo"
+  },
+  {
+   "id": 172,
+   "stratum": "cubic",
+   "space_group_number": 230,
+   "setting": "Ia-3d",
+   "scaffold": "gar",
+   "floppy": "ula"
+  },
+  {
+   "id": 173,
+   "stratum": "cubic",
+   "space_group_number": 229,
+   "setting": "Im-3m",
+   "scaffold": "twf-e",
+   "floppy": "rra"
+  },
+  {
+   "id": 174,
+   "stratum": "cubic",
+   "space_group_number": 229,
+   "setting": "Im-3m",
+   "scaffold": "pbp-l",
+   "floppy": "twf"
+  },
+  {
+   "id": 175,
+   "stratum": "cubic",
+   "space_group_number": 221,
+   "setting": "Pm-3m",
+   "scaffold": "tfe",
+   "floppy": "pcu"
+  },
+  {
+   "id": 176,
+   "stratum": "cubic",
+   "space_group_number": 229,
+   "setting": "Im-3m",
+   "scaffold": "viv-a",
+   "floppy": "kpl"
+  },
+  {
+   "id": 177,
+   "stratum": "cubic",
+   "space_group_number": 229,
+   "setting": "Im-3m",
+   "scaffold": "nbo-a",
+   "floppy": "uro-a"
+  },
+  {
+   "id": 178,
+   "stratum": "cubic",
+   "space_group_number": 230,
+   "setting": "Ia-3d",
+   "scaffold": "ibd-a",
+   "floppy": "ukw"
+  },
+  {
+   "id": 179,
+   "stratum": "cubic",
+   "space_group_number": 225,
+   "setting": "Fm-3m",
+   "scaffold": "uca",
+   "floppy": "ntx-a"
+  },
+  {
+   "id": 180,
+   "stratum": "cubic",
+   "space_group_number": 214,
+   "setting": "I4132",
+   "scaffold": "etp",
+   "floppy": "srs-f"
+  },
+  {
+   "id": 181,
+   "stratum": "cubic",
+   "space_group_number": 214,
+   "setting": "I4132",
+   "scaffold": "swn",
+   "floppy": "lcv-a"
+  },
+  {
+   "id": 182,
+   "stratum": "cubic",
+   "space_group_number": 225,
+   "setting": "Fm-3m",
+   "scaffold": "nts-a",
+   "floppy": "uca"
+  },
+  {
+   "id": 183,
+   "stratum": "cubic",
+   "space_group_number": 227,
+   "setting": "Fd-3m:2",
+   "scaffold": "nun",
+   "floppy": "fau-e"
+  },
+  {
+   "id": 184,
+   "stratum": "cubic",
+   "space_group_number": 224,
+   "setting": "Pn-3m:2",
+   "scaffold": "uks",
+   "floppy": "fuj"
+  },
+  {
+   "id": 185,
+   "stratum": "cubic",
+   "space_group_number": 229,
+   "setting": "Im-3m",
+   "scaffold": "nbo-h",
+   "floppy": "dna"
+  },
+  {
+   "id": 186,
+   "stratum": "cubic",
+   "space_group_number": 227,
+   "setting": "Fd-3m:2",
+   "scaffold": "crs-d",
+   "floppy": "hed"
+  },
+  {
+   "id": 187,
+   "stratum": "cubic",
+   "space_group_number": 225,
+   "setting": "Fm-3m",
+   "scaffold": "dnt",
+   "floppy": "xbv-a"
+  },
+  {
+   "id": 188,
+   "stratum": "cubic",
+   "space_group_number": 230,
+   "setting": "Ia-3d",
+   "scaffold": "act",
+   "floppy": "gal-a"
+  },
+  {
+   "id": 189,
+   "stratum": "cubic",
+   "space_group_number": 229,
+   "setting": "Im-3m",
+   "scaffold": "xag-a",
+   "floppy": "viv-a"
+  },
+  {
+   "id": 190,
+   "stratum": "cubic",
+   "space_group_number": 229,
+   "setting": "Im-3m",
+   "scaffold": "oge",
+   "floppy": "pbp-l"
+  },
+  {
+   "id": 191,
+   "stratum": "cubic",
+   "space_group_number": 202,
+   "setting": "Fm-3",
+   "scaffold": "sng",
+   "floppy": "ntw"
+  },
+  {
+   "id": 192,
+   "stratum": "cubic",
+   "space_group_number": 229,
+   "setting": "Im-3m",
+   "scaffold": "nbo",
+   "floppy": "llk"
+  },
+  {
+   "id": 193,
+   "stratum": "cubic",
+   "space_group_number": 227,
+   "setting": "Fd-3m:2",
+   "scaffold": "mtn-e",
+   "floppy": "met-a"
+  },
+  {
+   "id": 194,
+   "stratum": "cubic",
+   "space_group_number": 229,
+   "setting": "Im-3m",
+   "scaffold": "sod-t",
+   "floppy": "nha-a"
+  },
+  {
+   "id": 195,
+   "stratum": "cubic",
+   "space_group_number": 227,
+   "setting": "Fd-3m:2",
+   "scaffold": "mgd",
+   "floppy": "mtn"
+  },
+  {
+   "id": 196,
+   "stratum": "cubic",
+   "space_group_number": 229,
+   "setting": "Im-3m",
+   "scaffold": "she-a",
+   "floppy": "rhr"
+  },
+  {
+   "id": 197,
+   "stratum": "cubic",
+   "space_group_number": 230,
+   "setting": "Ia-3d",
+   "scaffold": "gal-a",
+   "floppy": "gar-e"
+  },
+  {
+   "id": 198,
+   "stratum": "cubic",
+   "space_group_number": 227,
+   "setting": "Fd-3m:2",
+   "scaffold": "jag",
+   "floppy": "dnz-a"
+  },
+  {
+   "id": 199,
+   "stratum": "cubic",
+   "space_group_number": 229,
+   "setting": "Im-3m",
+   "scaffold": "fub",
+   "floppy": "vvi-a"
+  },
+  {
+   "id": 200,
+   "stratum": "cubic",
+   "space_group_number": 214,
+   "setting": "I4132",
+   "scaffold": "srs",
+   "floppy": "srs-a-e"
+  },
+  {
+   "id": 201,
+   "stratum": "cubic",
+   "space_group_number": 205,
+   "setting": "Pa-3",
+   "scaffold": "fiq",
+   "floppy": "fvs"
+  },
+  {
+   "id": 202,
+   "stratum": "cubic",
+   "space_group_number": 225,
+   "setting": "Fm-3m",
+   "scaffold": "xbi",
+   "floppy": "wzz"
+  },
+  {
+   "id": 203,
+   "stratum": "cubic",
+   "space_group_number": 229,
+   "setting": "Im-3m",
+   "scaffold": "she-a",
+   "floppy": "uro"
+  },
+  {
+   "id": 204,
+   "stratum": "cubic",
+   "space_group_number": 230,
+   "setting": "Ia-3d",
+   "scaffold": "pbg",
+   "floppy": "ana-a"
+  },
+  {
+   "id": 205,
+   "stratum": "cubic",
+   "space_group_number": 221,
+   "setting": "Pm-3m",
+   "scaffold": "urk",
+   "floppy": "xbn-a"
+  },
+  {
+   "id": 206,
+   "stratum": "cubic",
+   "space_group_number": 211,
+   "setting": "I432",
+   "scaffold": "unw",
+   "floppy": "utx"
+  },
+  {
+   "id": 207,
+   "stratum": "cubic",
+   "space_group_number": 204,
+   "setting": "Im-3",
+   "scaffold": "csi",
+   "floppy": "tfh"
+  },
+  {
+   "id": 208,
+   "stratum": "cubic",
+   "space_group_number": 223,
+   "setting": "Pm-3n",
+   "scaffold": "lcw-x",
+   "floppy": "sky"
+  },
+  {
+   "id": 209,
+   "stratum": "cubic",
+   "space_group_number": 227,
+   "setting": "Fd-3m:2",
+   "scaffold": "pyd",
+   "floppy": "epy"
+  },
+  {
+   "id": 210,
+   "stratum": "cubic",
+   "space_group_number": 227,
+   "setting": "Fd-3m:2",
+   "scaffold": "dia-a",
+   "floppy": "mcx"
+  },
+  {
+   "id": 211,
+   "stratum": "cubic",
+   "space_group_number": 230,
+   "setting": "Ia-3d",
+   "scaffold": "pbg-l",
+   "floppy": "lcs"
+  },
+  {
+   "id": 212,
+   "stratum": "cubic",
+   "space_group_number": 221,
+   "setting": "Pm-3m",
+   "scaffold": "gee",
+   "floppy": "fty"
+  },
+  {
+   "id": 213,
+   "stratum": "cubic",
+   "space_group_number": 229,
+   "setting": "Im-3m",
+   "scaffold": "kfi-e",
+   "floppy": "oge"
+  },
+  {
+   "id": 214,
+   "stratum": "cubic",
+   "space_group_number": 225,
+   "setting": "Fm-3m",
+   "scaffold": "ubt",
+   "floppy": "dpd"
+  },
+  {
+   "id": 215,
+   "stratum": "cubic",
+   "space_group_number": 214,
+   "setting": "I4132",
+   "scaffold": "fcm",
+   "floppy": "utz"
+  },
+  {
+   "id": 216,
+   "stratum": "cubic",
+   "space_group_number": 223,
+   "setting": "Pm-3n",
+   "scaffold": "hbo",
+   "floppy": "pdp-a"
+  },
+  {
+   "id": 217,
+   "stratum": "cubic",
+   "space_group_number": 229,
+   "setting": "Im-3m",
+   "scaffold": "pzh",
+   "floppy": "she-d"
+  },
+  {
+   "id": 218,
+   "stratum": "cubic",
+   "space_group_number": 222,
+   "setting": "Pn-3n:2",
+   "scaffold": "swa",
+   "floppy": "fdb"
+  },
+  {
+   "id": 219,
+   "stratum": "cubic",
+   "space_group_number": 229,
+   "setting": "Im-3m",
+   "scaffold": "xik",
+   "floppy": "xij"
+  },
+  {
+   "id": 220,
+   "stratum": "cubic",
+   "space_group_number": 230,
+   "setting": "Ia-3d",
+   "scaffold": "icd-a",
+   "floppy": "anl"
+  },
+  {
+   "id": 221,
+   "stratum": "cubic",
+   "space_group_number": 229,
+   "setting": "Im-3m",
+   "scaffold": "fui",
+   "floppy": "uro"
+  },
+  {
+   "id": 222,
+   "stratum": "cubic",
+   "space_group_number": 225,
+   "setting": "Fm-3m",
+   "scaffold": "dnd",
+   "floppy": "xbh"
+  },
+  {
+   "id": 223,
+   "stratum": "cubic",
+   "space_group_number": 229,
+   "setting": "Im-3m",
+   "scaffold": "wpa",
+   "floppy": "sdt-e"
+  },
+  {
+   "id": 224,
+   "stratum": "cubic",
+   "space_group_number": 221,
+   "setting": "Pm-3m",
+   "scaffold": "pcu-i",
+   "floppy": "urr"
+  },
+  {
+   "id": 225,
+   "stratum": "cubic",
+   "space_group_number": 229,
+   "setting": "Im-3m",
+   "scaffold": "bah",
+   "floppy": "soc-a"
+  },
+  {
+   "id": 226,
+   "stratum": "cubic",
+   "space_group_number": 229,
+   "setting": "Im-3m",
+   "scaffold": "epe",
+   "floppy": "twf-e"
+  },
+  {
+   "id": 227,
+   "stratum": "cubic",
+   "space_group_number": 229,
+   "setting": "Im-3m",
+   "scaffold": "bax",
+   "floppy": "kpl"
+  },
+  {
+   "id": 228,
+   "stratum": "cubic",
+   "space_group_number": 230,
+   "setting": "Ia-3d",
+   "scaffold": "gar-a",
+   "floppy": "jsb"
+  },
+  {
+   "id": 229,
+   "stratum": "cubic",
+   "space_group_number": 225,
+   "setting": "Fm-3m",
+   "scaffold": "urm",
+   "floppy": "wzz-a"
+  },
+  {
+   "id": 230,
+   "stratum": "cubic",
+   "space_group_number": 229,
+   "setting": "Im-3m",
+   "scaffold": "sod-f",
+   "floppy": "ses-a"
+  },
+  {
+   "id": 231,
+   "stratum": "cubic",
+   "space_group_number": 229,
+   "setting": "Im-3m",
+   "scaffold": "rhr",
+   "floppy": "dnx"
+  },
+  {
+   "id": 232,
+   "stratum": "cubic",
+   "space_group_number": 229,
+   "setting": "Im-3m",
+   "scaffold": "nha",
+   "floppy": "dnv-a"
+  },
+  {
+   "id": 233,
+   "stratum": "cubic",
+   "space_group_number": 225,
+   "setting": "Fm-3m",
+   "scaffold": "flu-e",
+   "floppy": "xbu-a"
+  },
+  {
+   "id": 234,
+   "stratum": "cubic",
+   "space_group_number": 229,
+   "setting": "Im-3m",
+   "scaffold": "uro-a",
+   "floppy": "urf-a"
+  },
+  {
+   "id": 235,
+   "stratum": "cubic",
+   "space_group_number": 225,
+   "setting": "Fm-3m",
+   "scaffold": "ntt-a",
+   "floppy": "fab"
+  },
+  {
+   "id": 236,
+   "stratum": "cubic",
+   "space_group_number": 227,
+   "setting": "Fd-3m:2",
+   "scaffold": "dia-a-a",
+   "floppy": "bav"
+  },
+  {
+   "id": 237,
+   "stratum": "cubic",
+   "space_group_number": 221,
+   "setting": "Pm-3m",
+   "scaffold": "thf",
+   "floppy": "qnc-a"
+  },
+  {
+   "id": 238,
+   "stratum": "cubic",
+   "space_group_number": 229,
+   "setting": "Im-3m",
+   "scaffold": "xik",
+   "floppy": "xar"
+  },
+  {
+   "id": 239,
+   "stratum": "cubic",
+   "space_group_number": 220,
+   "setting": "I-43d",
+   "scaffold": "thp-x",
+   "floppy": "czz-a"
+  },
+  {
+   "id": 240,
+   "stratum": "cubic",
+   "space_group_number": 221,
+   "setting": "Pm-3m",
+   "scaffold": "uru-a",
+   "floppy": "xbb"
+  },
+  {
+   "id": 241,
+   "stratum": "cubic",
+   "space_group_number": 227,
+   "setting": "Fd-3m:2",
+   "scaffold": "mtn",
+   "floppy": "fau-e"
+  },
+  {
+   "id": 242,
+   "stratum": "cubic",
+   "space_group_number": 228,
+   "setting": "Fd-3c:2",
+   "scaffold": "sxl",
+   "floppy": "smo"
+  },
+  {
+   "id": 243,
+   "stratum": "cubic",
+   "space_group_number": 224,
+   "setting": "Pn-3m:2",
+   "scaffold": "toc-e",
+   "floppy": "cot-a"
+  },
+  {
+   "id": 244,
+   "stratum": "cubic",
+   "space_group_number": 223,
+   "setting": "Pm-3n",
+   "scaffold": "qms",
+   "floppy": "bva"
+  },
+  {
+   "id": 245,
+   "stratum": "cubic",
+   "space_group_number": 229,
+   "setting": "Im-3m",
+   "scaffold": "sod-a-a",
+   "floppy": "sst-e"
+  },
+  {
+   "id": 246,
+   "stratum": "cubic",
+   "space_group_number": 221,
+   "setting": "Pm-3m",
+   "scaffold": "gee-a",
+   "floppy": "xav"
+  },
+  {
+   "id": 247,
+   "stratum": "cubic",
+   "space_group_number": 223,
+   "setting": "Pm-3n",
+   "scaffold": "pto-d",
+   "floppy": "buh"
+  },
+  {
+   "id": 248,
+   "stratum": "cubic",
+   "space_group_number": 221,
+   "setting": "Pm-3m",
+   "scaffold": "xbb",
+   "floppy": "ssd-e"
+  },
+  {
+   "id": 249,
+   "stratum": "cubic",
+   "space_group_number": 225,
+   "setting": "Fm-3m",
+   "scaffold": "ott",
+   "floppy": "tbd"
+  },
+  {
+   "id": 250,
+   "stratum": "cubic",
+   "space_group_number": 229,
+   "setting": "Im-3m",
+   "scaffold": "pbp",
+   "floppy": "nbo-a-e"
+  },
+  {
+   "id": 251,
+   "stratum": "cubic",
+   "space_group_number": 225,
+   "setting": "Fm-3m",
+   "scaffold": "ntx-a",
+   "floppy": "gdl-a"
+  },
+  {
+   "id": 252,
+   "stratum": "cubic",
+   "space_group_number": 225,
+   "setting": "Fm-3m",
+   "scaffold": "gdl-a",
+   "floppy": "dnk"
+  },
+  {
+   "id": 253,
+   "stratum": "cubic",
+   "space_group_number": 216,
+   "setting": "F-43m",
+   "scaffold": "jai",
+   "floppy": "dnb-a"
+  },
+  {
+   "id": 254,
+   "stratum": "cubic",
+   "space_group_number": 229,
+   "setting": "Im-3m",
+   "scaffold": "dnw-a",
+   "floppy": "bcu-t"
+  },
+  {
+   "id": 255,
+   "stratum": "cubic",
+   "space_group_number": 229,
+   "setting": "Im-3m",
+   "scaffold": "viv",
+   "floppy": "dnw"
+  },
+  {
+   "id": 256,
+   "stratum": "cubic",
+   "space_group_number": 229,
+   "setting": "Im-3m",
+   "scaffold": "nha",
+   "floppy": "pzh-a"
+  },
+  {
+   "id": 257,
+   "stratum": "cubic",
+   "space_group_number": 214,
+   "setting": "I4132",
+   "scaffold": "srs-a",
+   "floppy": "fcn"
+  },
+  {
+   "id": 258,
+   "stratum": "cubic",
+   "space_group_number": 210,
+   "setting": "F4132",
+   "scaffold": "unx",
+   "floppy": "fcf"
+  },
+  {
+   "id": 259,
+   "stratum": "cubic",
+   "space_group_number": 229,
+   "setting": "Im-3m",
+   "scaffold": "mjt",
+   "floppy": "baw"
+  },
+  {
+   "id": 260,
+   "stratum": "cubic",
+   "space_group_number": 221,
+   "setting": "Pm-3m",
+   "scaffold": "nba",
+   "floppy": "epq"
+  },
+  {
+   "id": 261,
+   "stratum": "cubic",
+   "space_group_number": 221,
+   "setting": "Pm-3m",
+   "scaffold": "eps",
+   "floppy": "the-a"
+  },
+  {
+   "id": 262,
+   "stratum": "cubic",
+   "space_group_number": 221,
+   "setting": "Pm-3m",
+   "scaffold": "tfe-a",
+   "floppy": "tfg"
+  },
+  {
+   "id": 263,
+   "stratum": "cubic",
+   "space_group_number": 229,
+   "setting": "Im-3m",
+   "scaffold": "uro-a",
+   "floppy": "xam"
+  },
+  {
+   "id": 264,
+   "stratum": "cubic",
+   "space_group_number": 229,
+   "setting": "Im-3m",
+   "scaffold": "pbp-l",
+   "floppy": "maw"
+  },
+  {
+   "id": 265,
+   "stratum": "cubic",
+   "space_group_number": 215,
+   "setting": "P-43m",
+   "scaffold": "bor-a",
+   "floppy": "qzh"
+  },
+  {
+   "id": 266,
+   "stratum": "cubic",
+   "space_group_number": 230,
+   "setting": "Ia-3d",
+   "scaffold": "gal",
+   "floppy": "fdc"
+  },
+  {
+   "id": 267,
+   "stratum": "cubic",
+   "space_group_number": 225,
+   "setting": "Fm-3m",
+   "scaffold": "xbv",
+   "floppy": "hmc"
+  },
+  {
+   "id": 268,
+   "stratum": "cubic",
+   "space_group_number": 230,
+   "setting": "Ia-3d",
+   "scaffold": "jan",
+   "floppy": "icd-a"
+  },
+  {
+   "id": 269,
+   "stratum": "cubic",
+   "space_group_number": 230,
+   "setting": "Ia-3d",
+   "scaffold": "gar",
+   "floppy": "jan"
+  },
+  {
+   "id": 270,
+   "stratum": "cubic",
+   "space_group_number": 229,
+   "setting": "Im-3m",
+   "scaffold": "ocu-e",
+   "floppy": "xaf"
+  },
+  {
+   "id": 271,
+   "stratum": "cubic",
+   "space_group_number": 227,
+   "setting": "Fd-3m:2",
+   "scaffold": "dia-a-a",
+   "floppy": "fnf"
+  },
+  {
+   "id": 272,
+   "stratum": "cubic",
+   "space_group_number": 229,
+   "setting": "Im-3m",
+   "scaffold": "vvi",
+   "floppy": "pcb"
+  },
+  {
+   "id": 273,
+   "stratum": "cubic",
+   "space_group_number": 229,
+   "setting": "Im-3m",
+   "scaffold": "pcb-e",
+   "floppy": "bax"
+  },
+  {
+   "id": 274,
+   "stratum": "cubic",
+   "space_group_number": 229,
+   "setting": "Im-3m",
+   "scaffold": "bah",
+   "floppy": "bon"
+  },
+  {
+   "id": 275,
+   "stratum": "cubic",
+   "space_group_number": 200,
+   "setting": "Pm-3",
+   "scaffold": "fvj",
+   "floppy": "ffi-a"
+  },
+  {
+   "id": 276,
+   "stratum": "cubic",
+   "space_group_number": 214,
+   "setting": "I4132",
+   "scaffold": "ulf",
+   "floppy": "uky"
+  },
+  {
+   "id": 277,
+   "stratum": "cubic",
+   "space_group_number": 229,
+   "setting": "Im-3m",
+   "scaffold": "viv",
+   "floppy": "sst-a"
+  },
+  {
+   "id": 278,
+   "stratum": "cubic",
+   "space_group_number": 229,
+   "setting": "Im-3m",
+   "scaffold": "urp",
+   "floppy": "pbp"
+  },
+  {
+   "id": 279,
+   "stratum": "cubic",
+   "space_group_number": 214,
+   "setting": "I4132",
+   "scaffold": "lcv",
+   "floppy": "fcl"
+  },
+  {
+   "id": 280,
+   "stratum": "cubic",
+   "space_group_number": 229,
+   "setting": "Im-3m",
+   "scaffold": "xii",
+   "floppy": "soc-a"
+  },
+  {
+   "id": 281,
+   "stratum": "cubic",
+   "space_group_number": 221,
+   "setting": "Pm-3m",
+   "scaffold": "ucp-a",
+   "floppy": "gee"
+  },
+  {
+   "id": 282,
+   "stratum": "cubic",
+   "space_group_number": 225,
+   "setting": "Fm-3m",
+   "scaffold": "ntv",
+   "floppy": "nts-d"
+  },
+  {
+   "id": 283,
+   "stratum": "cubic",
+   "space_group_number": 221,
+   "setting": "Pm-3m",
+   "scaffold": "cab-a",
+   "floppy": "urn-a"
+  },
+  {
+   "id": 284,
+   "stratum": "cubic",
+   "space_group_number": 229,
+   "setting": "Im-3m",
+   "scaffold": "fub",
+   "floppy": "nju-a"
+  },
+  {
+   "id": 285,
+   "stratum": "cubic",
+   "space_group_number": 229,
+   "setting": "Im-3m",
+   "scaffold": "ocu-a",
+   "floppy": "pbp-l"
+  },
+  {
+   "id": 286,
+   "stratum": "cubic",
+   "space_group_number": 229,
+   "setting": "Im-3m",
+   "scaffold": "txt-a",
+   "floppy": "dnw"
+  },
+  {
+   "id": 287,
+   "stratum": "cubic",
+   "space_group_number": 227,
+   "setting": "Fd-3m:2",
+   "scaffold": "crd",
+   "floppy": "dda"
+  },
+  {
+   "id": 288,
+   "stratum": "cubic",
+   "space_group_number": 221,
+   "setting": "Pm-3m",
+   "scaffold": "urn",
+   "floppy": "ddy"
+  },
+  {
+   "id": 289,
+   "stratum": "cubic",
+   "space_group_number": 230,
+   "setting": "Ia-3d",
+   "scaffold": "fcz",
+   "floppy": "ana"
+  },
+  {
+   "id": 290,
+   "stratum": "cubic",
+   "space_group_number": 225,
+   "setting": "Fm-3m",
+   "scaffold": "wzz",
+   "floppy": "xap"
+  },
+  {
+   "id": 291,
+   "stratum": "cubic",
+   "space_group_number": 230,
+   "setting": "Ia-3d",
+   "scaffold": "bpr",
+   "floppy": "ukx"
+  },
+  {
+   "id": 292,
+   "stratum": "cubic",
+   "space_group_number": 229,
+   "setting": "Im-3m",
+   "scaffold": "dnv-a",
+   "floppy": "bag"
+  },
+  {
+   "id": 293,
+   "stratum": "cubic",
+   "space_group_number": 224,
+   "setting": "Pn-3m:2",
+   "scaffold": "xbt",
+   "floppy": "cot-a"
+  },
+  {
+   "id": 294,
+   "stratum": "cubic",
+   "space_group_number": 229,
+   "setting": "Im-3m",
+   "scaffold": "soc-a",
+   "floppy": "nbo-a-e"
+  },
+  {
+   "id": 295,
+   "stratum": "cubic",
+   "space_group_number": 229,
+   "setting": "Im-3m",
+   "scaffold": "urf",
+   "floppy": "ses"
+  },
+  {
+   "id": 296,
+   "stratum": "cubic",
+   "space_group_number": 223,
+   "setting": "Pm-3n",
+   "scaffold": "sky",
+   "floppy": "fvi"
+  },
+  {
+   "id": 297,
+   "stratum": "cubic",
+   "space_group_number": 227,
+   "setting": "Fd-3m:2",
+   "scaffold": "bau",
+   "floppy": "kfo"
+  },
+  {
+   "id": 298,
+   "stratum": "cubic",
+   "space_group_number": 230,
+   "setting": "Ia-3d",
+   "scaffold": "pbg-l",
+   "floppy": "iac"
+  },
+  {
+   "id": 299,
+   "stratum": "cubic",
+   "space_group_number": 229,
+   "setting": "Im-3m",
+   "scaffold": "dnv-a",
+   "floppy": "epp-a"
+  },
+  {
+   "id": 300,
+   "stratum": "cubic",
+   "space_group_number": 229,
+   "setting": "Im-3m",
+   "scaffold": "xik",
+   "floppy": "she"
+  },
+  {
+   "id": 301,
+   "stratum": "cubic",
+   "space_group_number": 229,
+   "setting": "Im-3m",
+   "scaffold": "nha-a",
+   "floppy": "sod-a-a-a"
+  },
+  {
+   "id": 302,
+   "stratum": "cubic",
+   "space_group_number": 224,
+   "setting": "Pn-3m:2",
+   "scaffold": "xab",
+   "floppy": "pbz-m"
+  },
+  {
+   "id": 303,
+   "stratum": "cubic",
+   "space_group_number": 229,
+   "setting": "Im-3m",
+   "scaffold": "lwh",
+   "floppy": "pbp"
+  },
+  {
+   "id": 304,
+   "stratum": "cubic",
+   "space_group_number": 221,
+   "setting": "Pm-3m",
+   "scaffold": "the",
+   "floppy": "tfe-a"
+  },
+  {
+   "id": 305,
+   "stratum": "cubic",
+   "space_group_number": 229,
+   "setting": "Im-3m",
+   "scaffold": "dnw",
+   "floppy": "hef"
+  },
+  {
+   "id": 306,
+   "stratum": "cubic",
+   "space_group_number": 221,
+   "setting": "Pm-3m",
+   "scaffold": "xae",
+   "floppy": "fug"
+  },
+  {
+   "id": 307,
+   "stratum": "cubic",
+   "space_group_number": 229,
+   "setting": "Im-3m",
+   "scaffold": "kfi-e",
+   "floppy": "oge-a"
+  },
+  {
+   "id": 308,
+   "stratum": "cubic",
+   "space_group_number": 225,
+   "setting": "Fm-3m",
+   "scaffold": "dpd-a",
+   "floppy": "xbh"
+  },
+  {
+   "id": 309,
+   "stratum": "cubic",
+   "space_group_number": 230,
+   "setting": "Ia-3d",
+   "scaffold": "bcv",
+   "floppy": "ana-e"
+  },
+  {
+   "id": 310,
+   "stratum": "cubic",
+   "space_group_number": 229,
+   "setting": "Im-3m",
+   "scaffold": "sod-a-a",
+   "floppy": "baq"
+  },
+  {
+   "id": 311,
+   "stratum": "cubic",
+   "space_group_number": 225,
+   "setting": "Fm-3m",
+   "scaffold": "urm",
+   "floppy": "nty-a"
+  },
+  {
+   "id": 312,
+   "stratum": "cubic",
+   "space_group_number": 223,
+   "setting": "Pm-3n",
+   "scaffold": "fvi",
+   "floppy": "ith"
+  },
+  {
+   "id": 313,
+   "stratum": "cubic",
+   "space_group_number": 227,
+   "setting": "Fd-3m:2",
+   "scaffold": "gng",
+   "floppy": "dia"
+  },
+  {
+   "id": 314,
+   "stratum": "cubic",
+   "space_group_number": 229,
+   "setting": "Im-3m",
+   "scaffold": "fvx",
+   "floppy": "oge-a"
+  },
+  {
+   "id": 315,
+   "stratum": "cubic",
+   "space_group_number": 214,
+   "setting": "I4132",
+   "scaffold": "ssc-a",
+   "floppy": "tes"
+  },
+  {
+   "id": 316,
+   "stratum": "cubic",
+   "space_group_number": 224,
+   "setting": "Pn-3m:2",
+   "scaffold": "pbz",
+   "floppy": "fnp"
+  },
+  {
+   "id": 317,
+   "stratum": "cubic",
+   "space_group_number": 221,
+   "setting": "Pm-3m",
+   "scaffold": "dpe",
+   "floppy": "tfg-a"
+  },
+  {
+   "id": 318,
+   "stratum": "cubic",
+   "space_group_number": 229,
+   "setting": "Im-3m",
+   "scaffold": "dnv",
+   "floppy": "dna-a"
+  },
+  {
+   "id": 319,
+   "stratum": "cubic",
+   "space_group_number": 229,
+   "setting": "Im-3m",
+   "scaffold": "sod-a-a",
+   "floppy": "maw"
+  },
+  {
+   "id": 320,
+   "stratum": "cubic",
+   "space_group_number": 227,
+   "setting": "Fd-3m:2",
+   "scaffold": "fav",
+   "floppy": "dng"
+  },
+  {
+   "id": 321,
+   "stratum": "cubic",
+   "space_group_number": 230,
+   "setting": "Ia-3d",
+   "scaffold": "ula",
+   "floppy": "ukx"
+  },
+  {
+   "id": 322,
+   "stratum": "cubic",
+   "space_group_number": 205,
+   "setting": "Pa-3",
+   "scaffold": "bwt",
+   "floppy": "pyr-a"
+  },
+  {
+   "id": 323,
+   "stratum": "cubic",
+   "space_group_number": 229,
+   "setting": "Im-3m",
+   "scaffold": "mjt",
+   "floppy": "sod-t"
+  },
+  {
+   "id": 324,
+   "stratum": "cubic",
+   "space_group_number": 221,
+   "setting": "Pm-3m",
+   "scaffold": "tfe",
+   "floppy": "xba"
+  },
+  {
+   "id": 325,
+   "stratum": "cubic",
+   "space_group_number": 229,
+   "setting": "Im-3m",
+   "scaffold": "twf-d",
+   "floppy": "urv"
+  },
+  {
+   "id": 326,
+   "stratum": "cubic",
+   "space_group_number": 227,
+   "setting": "Fd-3m:2",
+   "scaffold": "fnf",
+   "floppy": "bav"
+  },
+  {
+   "id": 327,
+   "stratum": "cubic",
+   "space_group_number": 223,
+   "setting": "Pm-3n",
+   "scaffold": "edq",
+   "floppy": "tep"
+  },
+  {
+   "id": 328,
+   "stratum": "cubic",
+   "space_group_number": 214,
+   "setting": "I4132",
+   "scaffold": "sgn",
+   "floppy": "pmc"
+  },
+  {
+   "id": 329,
+   "stratum": "cubic",
+   "space_group_number": 229,
+   "setting": "Im-3m",
+   "scaffold": "vvi-a",
+   "floppy": "oge-a"
+  },
+  {
+   "id": 330,
+   "stratum": "cubic",
+   "space_group_number": 229,
+   "setting": "Im-3m",
+   "scaffold": "bax",
+   "floppy": "twf-d"
+  },
+  {
+   "id": 331,
+   "stratum": "cubic",
+   "space_group_number": 225,
+   "setting": "Fm-3m",
+   "scaffold": "xbv-a",
+   "floppy": "urm"
+  },
+  {
+   "id": 332,
+   "stratum": "cubic",
+   "space_group_number": 229,
+   "setting": "Im-3m",
+   "scaffold": "she",
+   "floppy": "oge"
+  },
+  {
+   "id": 333,
+   "stratum": "cubic",
+   "space_group_number": 204,
+   "setting": "Im-3",
+   "scaffold": "odf",
+   "floppy": "fnb"
+  },
+  {
+   "id": 334,
+   "stratum": "hexagonal",
+   "space_group_number": 191,
+   "setting": "P6/mmm",
+   "scaffold": "bzd",
+   "floppy": "cen-a"
+  },
+  {
+   "id": 335,
+   "stratum": "hexagonal",
+   "space_group_number": 194,
+   "setting": "P63/mmc",
+   "scaffold": "tca",
+   "floppy": "hyb"
+  },
+  {
+   "id": 336,
+   "stratum": "hexagonal",
+   "space_group_number": 191,
+   "setting": "P6/mmm",
+   "scaffold": "ttx",
+   "floppy": "cen-a"
+  },
+  {
+   "id": 337,
+   "stratum": "hexagonal",
+   "space_group_number": 193,
+   "setting": "P63/mcm",
+   "scaffold": "umk",
+   "floppy": "swk"
+  },
+  {
+   "id": 338,
+   "stratum": "hexagonal",
+   "space_group_number": 191,
+   "setting": "P6/mmm",
+   "scaffold": "mds",
+   "floppy": "ffb"
+  },
+  {
+   "id": 339,
+   "stratum": "hexagonal",
+   "space_group_number": 194,
+   "setting": "P63/mmc",
+   "scaffold": "hyb",
+   "floppy": "nia-a"
+  },
+  {
+   "id": 340,
+   "stratum": "hexagonal",
+   "space_group_number": 191,
+   "setting": "P6/mmm",
+   "scaffold": "ced-a",
+   "floppy": "fsa"
+  },
+  {
+   "id": 341,
+   "stratum": "hexagonal",
+   "space_group_number": 194,
+   "setting": "P63/mmc",
+   "scaffold": "cej",
+   "floppy": "can-e"
+  },
+  {
+   "id": 342,
+   "stratum": "hexagonal",
+   "space_group_number": 191,
+   "setting": "P6/mmm",
+   "scaffold": "yav-d",
+   "floppy": "cew"
+  },
+  {
+   "id": 343,
+   "stratum": "hexagonal",
+   "space_group_number": 194,
+   "setting": "P63/mmc",
+   "scaffold": "smv",
+   "floppy": "mgz-x"
+  },
+  {
+   "id": 344,
+   "stratum": "hexagonal",
+   "space_group_number": 194,
+   "setting": "P63/mmc",
+   "scaffold": "cfc-e-a",
+   "floppy": "tck"
+  },
+  {
+   "id": 345,
+   "stratum": "hexagonal",
+   "space_group_number": 180,
+   "setting": "P6222",
+   "scaffold": "rkf",
+   "floppy": "wjf"
+  },
+  {
+   "id": 346,
+   "stratum": "hexagonal",
+   "space_group_number": 191,
+   "setting": "P6/mmm",
+   "scaffold": "zra-d",
+   "floppy": "nin-d"
+  },
+  {
+   "id": 347,
+   "stratum": "hexagonal",
+   "space_group_number": 194,
+   "setting": "P63/mmc",
+   "scaffold": "dtd",
+   "floppy": "ken-a"
+  },
+  {
+   "id": 348,
+   "stratum": "hexagonal",
+   "space_group_number": 191,
+   "setting": "P6/mmm",
+   "scaffold": "dnp",
+   "floppy": "tfp"
+  },
+  {
+   "id": 349,
+   "stratum": "hexagonal",
+   "space_group_number": 191,
+   "setting": "P6/mmm",
+   "scaffold": "yav-a",
+   "floppy": "dnr"
+  },
+  {
+   "id": 350,
+   "stratum": "hexagonal",
+   "space_group_number": 169,
+   "setting": "P61",
+   "scaffold": "wkw",
+   "floppy": "smt"
+  },
+  {
+   "id": 351,
+   "stratum": "hexagonal",
+   "space_group_number": 178,
+   "setting": "P6122",
+   "scaffold": "ece",
+   "floppy": "wkx"
+  },
+  {
+   "id": 352,
+   "stratum": "hexagonal",
+   "space_group_number": 194,
+   "setting": "P63/mmc",
+   "scaffold": "eab",
+   "floppy": "kex-a"
+  },
+  {
+   "id": 353,
+   "stratum": "hexagonal",
+   "space_group_number": 194,
+   "setting": "P63/mmc",
+   "scaffold": "edc",
+   "floppy": "icm-e"
+  },
+  {
+   "id": 354,
+   "stratum": "hexagonal",
+   "space_group_number": 191,
+   "setting": "P6/mmm",
+   "scaffold": "bam",
+   "floppy": "cew-a"
+  },
+  {
+   "id": 355,
+   "stratum": "hexagonal",
+   "space_group_number": 194,
+   "setting": "P63/mmc",
+   "scaffold": "nia-d",
+   "floppy": "eca"
+  },
+  {
+   "id": 356,
+   "stratum": "hexagonal",
+   "space_group_number": 194,
+   "setting": "P63/mmc",
+   "scaffold": "cat",
+   "floppy": "baz"
+  },
+  {
+   "id": 357,
+   "stratum": "hexagonal",
+   "space_group_number": 194,
+   "setting": "P63/mmc",
+   "scaffold": "cej-a",
+   "floppy": "znz"
+  },
+  {
+   "id": 358,
+   "stratum": "hexagonal",
+   "space_group_number": 194,
+   "setting": "P63/mmc",
+   "scaffold": "lni",
+   "floppy": "urx-a"
+  },
+  {
+   "id": 359,
+   "stratum": "hexagonal",
+   "space_group_number": 191,
+   "setting": "P6/mmm",
+   "scaffold": "pek",
+   "floppy": "fwz"
+  },
+  {
+   "id": 360,
+   "stratum": "hexagonal",
+   "space_group_number": 194,
+   "setting": "P63/mmc",
+   "scaffold": "eri",
+   "floppy": "edc"
+  },
+  {
+   "id": 361,
+   "stratum": "hexagonal",
+   "space_group_number": 194,
+   "setting": "P63/mmc",
+   "scaffold": "nia-d",
+   "floppy": "kex"
+  },
+  {
+   "id": 362,
+   "stratum": "hexagonal",
+   "space_group_number": 191,
+   "setting": "P6/mmm",
+   "scaffold": "ood-a",
+   "floppy": "odj"
+  },
+  {
+   "id": 363,
+   "stratum": "hexagonal",
+   "space_group_number": 180,
+   "setting": "P6222",
+   "scaffold": "qtz-g",
+   "floppy": "uof"
+  },
+  {
+   "id": 364,
+   "stratum": "hexagonal",
+   "space_group_number": 191,
+   "setting": "P6/mmm",
+   "scaffold": "bnn-a",
+   "floppy": "stp"
+  },
+  {
+   "id": 365,
+   "stratum": "hexagonal",
+   "space_group_number": 193,
+   "setting": "P63/mcm",
+   "scaffold": "swj",
+   "floppy": "fvm"
+  },
+  {
+   "id": 366,
+   "stratum": "hexagonal",
+   "space_group_number": 191,
+   "setting": "P6/mmm",
+   "scaffold": "alb",
+   "floppy": "alb-a"
+  },
+  {
+   "id": 367,
+   "stratum": "hexagonal",
+   "space_group_number": 191,
+   "setting": "P6/mmm",
+   "scaffold": "doh",
+   "floppy": "bby"
+  },
+  {
+   "id": 368,
+   "stratum": "hexagonal",
+   "space_group_number": 191,
+   "setting": "P6/mmm",
+   "scaffold": "fst",
+   "floppy": "xai-a"
+  },
+  {
+   "id": 369,
+   "stratum": "hexagonal",
+   "space_group_number": 191,
+   "setting": "P6/mmm",
+   "scaffold": "yav-d",
+   "floppy": "aea-a"
+  },
+  {
+   "id": 370,
+   "stratum": "hexagonal",
+   "space_group_number": 191,
+   "setting": "P6/mmm",
+   "scaffold": "cee",
+   "floppy": "cex-a"
+  },
+  {
+   "id": 371,
+   "stratum": "hexagonal",
+   "space_group_number": 187,
+   "setting": "P-6m2",
+   "scaffold": "off",
+   "floppy": "bab"
+  },
+  {
+   "id": 372,
+   "stratum": "hexagonal",
+   "space_group_number": 194,
+   "setting": "P63/mmc",
+   "scaffold": "ken",
+   "floppy": "gme-e"
+  },
+  {
+   "id": 373,
+   "stratum": "hexagonal",
+   "space_group_number": 191,
+   "setting": "P6/mmm",
+   "scaffold": "xly-a",
+   "floppy": "ase"
+  },
+  {
+   "id": 374,
+   "stratum": "hexagonal",
+   "space_group_number": 180,
+   "setting": "P6222",
+   "scaffold": "qdl-e",
+   "floppy": "wjq"
+  },
+  {
+   "id": 375,
+   "stratum": "hexagonal",
+   "space_group_number": 191,
+   "setting": "P6/mmm",
+   "scaffold": "bbb",
+   "floppy": "ltl"
+  },
+  {
+   "id": 376,
+   "stratum": "hexagonal",
+   "space_group_number": 191,
+   "setting": "P6/mmm",
+   "scaffold": "kag",
+   "floppy": "kew-a"
+  },
+  {
+   "id": 377,
+   "stratum": "hexagonal",
+   "space_group_number": 194,
+   "setting": "P63/mmc",
+   "scaffold": "ats-a",
+   "floppy": "can"
+  },
+  {
+   "id": 378,
+   "stratum": "hexagonal",
+   "space_group_number": 191,
+   "setting": "P6/mmm",
+   "scaffold": "kew-a",
+   "floppy": "shb-a"
+  },
+  {
+   "id": 379,
+   "stratum": "hexagonal",
+   "space_group_number": 191,
+   "setting": "P6/mmm",
+   "scaffold": "dum",
+   "floppy": "shp-a"
+  },
+  {
+   "id": 380,
+   "stratum": "hexagonal",
+   "space_group_number": 191,
+   "setting": "P6/mmm",
+   "scaffold": "tfs",
+   "floppy": "sqs-a"
+  },
+  {
+   "id": 381,
+   "stratum": "hexagonal",
+   "space_group_number": 194,
+   "setting": "P63/mmc",
+   "scaffold": "eab",
+   "floppy": "acs-a"
+  },
+  {
+   "id": 382,
+   "stratum": "hexagonal",
+   "space_group_number": 192,
+   "setting": "P6/mcc",
+   "scaffold": "afi-e",
+   "floppy": "swg"
+  },
+  {
+   "id": 383,
+   "stratum": "hexagonal",
+   "space_group_number": 194,
+   "setting": "P63/mmc",
+   "scaffold": "urx",
+   "floppy": "nia-e"
+  },
+  {
+   "id": 384,
+   "stratum": "hexagonal",
+   "space_group_number": 194,
+   "setting": "P63/mmc",
+   "scaffold": "sta",
+   "floppy": "smv"
+  },
+  {
+   "id": 385,
+   "stratum": "hexagonal",
+   "space_group_number": 178,
+   "setting": "P6122",
+   "scaffold": "smi",
+   "floppy": "uni-d"
+  },
+  {
+   "id": 386,
+   "stratum": "hexagonal",
+   "space_group_number": 182,
+   "setting": "P6322",
+   "scaffold": "acs-g",
+   "floppy": "wme"
+  },
+  {
+   "id": 387,
+   "stratum": "hexagonal",
+   "space_group_number": 191,
+   "setting": "P6/mmm",
+   "scaffold": "eye",
+   "floppy": "stp"
+  },
+  {
+   "id": 388,
+   "stratum": "hexagonal",
+   "space_group_number": 180,
+   "setting": "P6222",
+   "scaffold": "phx",
+   "floppy": "uon"
+  },
+  {
+   "id": 389,
+   "stratum": "hexagonal",
+   "space_group_number": 194,
+   "setting": "P63/mmc",
+   "scaffold": "cek-a",
+   "floppy": "ken"
+  },
+  {
+   "id": 390,
+   "stratum": "hexagonal",
+   "space_group_number": 191,
+   "setting": "P6/mmm",
+   "scaffold": "dnr-a",
+   "floppy": "yav"
+  },
+  {
+   "id": 391,
+   "stratum": "hexagonal",
+   "space_group_number": 194,
+   "setting": "P63/mmc",
+   "scaffold": "gwe-a",
+   "floppy": "sty-a"
+  },
+  {
+   "id": 392,
+   "stratum": "hexagonal",
+   "space_group_number": 194,
+   "setting": "P63/mmc",
+   "scaffold": "npo-a",
+   "floppy": "std"
+  },
+  {
+   "id": 393,
+   "stratum": "hexagonal",
+   "space_group_number": 194,
+   "setting": "P63/mmc",
+   "scaffold": "gme",
+   "floppy": "cek-a"
+  },
+  {
+   "id": 394,
+   "stratum": "hexagonal",
+   "space_group_number": 191,
+   "setting": "P6/mmm",
+   "scaffold": "alb-x-d",
+   "floppy": "shp-a"
+  },
+  {
+   "id": 395,
+   "stratum": "hexagonal",
+   "space_group_number": 194,
+   "setting": "P63/mmc",
+   "scaffold": "cek-a",
+   "floppy": "hcp"
+  },
+  {
+   "id": 396,
+   "stratum": "hexagonal",
+   "space_group_number": 194,
+   "setting": "P63/mmc",
+   "scaffold": "mgz-x",
+   "floppy": "xax"
+  },
+  {
+   "id": 397,
+   "stratum": "hexagonal",
+   "space_group_number": 194,
+   "setting": "P63/mmc",
+   "scaffold": "cev-a",
+   "floppy": "xat"
+  },
+  {
+   "id": 398,
+   "stratum": "hexagonal",
+   "space_group_number": 180,
+   "setting": "P6222",
+   "scaffold": "qtz-x",
+   "floppy": "umj"
+  },
+  {
+   "id": 399,
+   "stratum": "hexagonal",
+   "space_group_number": 178,
+   "setting": "P6122",
+   "scaffold": "wkn",
+   "floppy": "wjz"
+  },
+  {
+   "id": 400,
+   "stratum": "hexagonal",
+   "space_group_number": 194,
+   "setting": "P63/mmc",
+   "scaffold": "xcb",
+   "floppy": "xby"
+  },
+  {
+   "id": 401,
+   "stratum": "hexagonal",
+   "space_group_number": 180,
+   "setting": "P6222",
+   "scaffold": "wiz",
+   "floppy": "twt"
+  },
+  {
+   "id": 402,
+   "stratum": "hexagonal",
+   "space_group_number": 191,
+   "setting": "P6/mmm",
+   "scaffold": "bba",
+   "floppy": "ase"
+  },
+  {
+   "id": 403,
+   "stratum": "hexagonal",
+   "space_group_number": 191,
+   "setting": "P6/mmm",
+   "scaffold": "dnr-a",
+   "floppy": "xci"
+  },
+  {
+   "id": 404,
+   "stratum": "hexagonal",
+   "space_group_number": 194,
+   "setting": "P63/mmc",
+   "scaffold": "cfc",
+   "floppy": "znz"
+  },
+  {
+   "id": 405,
+   "stratum": "hexagonal",
+   "space_group_number": 191,
+   "setting": "P6/mmm",
+   "scaffold": "eye",
+   "floppy": "cen"
+  },
+  {
+   "id": 406,
+   "stratum": "hexagonal",
+   "space_group_number": 194,
+   "setting": "P63/mmc",
+   "scaffold": "xax",
+   "floppy": "cej-a"
+  },
+  {
+   "id": 407,
+   "stratum": "hexagonal",
+   "space_group_number": 187,
+   "setting": "P-6m2",
+   "scaffold": "qna-a",
+   "floppy": "hms"
+  },
+  {
+   "id": 408,
+   "stratum": "hexagonal",
+   "space_group_number": 191,
+   "setting": "P6/mmm",
+   "scaffold": "spp-a",
+   "floppy": "alb-a"
+  },
+  {
+   "id": 409,
+   "stratum": "hexagonal",
+   "space_group_number": 193,
+   "setting": "P63/mcm",
+   "scaffold": "fnw",
+   "floppy": "odl"
+  },
+  {
+   "id": 410,
+   "stratum": "hexagonal",
+   "space_group_number": 191,
+   "setting": "P6/mmm",
+   "scaffold": "csq",
+   "floppy": "bao"
+  },
+  {
+   "id": 411,
+   "stratum": "hexagonal",
+   "space_group_number": 191,
+   "setting": "P6/mmm",
+   "scaffold": "gcc",
+   "floppy": "ttw"
+  },
+  {
+   "id": 412,
+   "stratum": "hexagonal",
+   "space_group_number": 180,
+   "setting": "P6222",
+   "scaffold": "sjt-a",
+   "floppy": "sjt"
+  },
+  {
+   "id": 413,
+   "stratum": "hexagonal",
+   "space_group_number": 191,
+   "setting": "P6/mmm",
+   "scaffold": "bay",
+   "floppy": "alb-d"
+  },
+  {
+   "id": 414,
+   "stratum": "hexagonal",
+   "space_group_number": 194,
+   "setting": "P63/mmc",
+   "scaffold": "eri",
+   "floppy": "std"
+  },
+  {
+   "id": 415,
+   "stratum": "hexagonal",
+   "space_group_number": 194,
+   "setting": "P63/mmc",
+   "scaffold": "yao",
+   "floppy": "mgz-x"
+  },
+  {
+   "id": 416,
+   "stratum": "hexagonal",
+   "space_group_number": 178,
+   "setting": "P6122",
+   "scaffold": "wku",
+   "floppy": "wjo"
+  },
+  {
+   "id": 417,
+   "stratum": "hexagonal",
+   "space_group_number": 194,
+   "setting": "P63/mmc",
+   "scaffold": "qnd-a",
+   "floppy": "nia-d-a"
+  },
+  {
+   "id": 418,
+   "stratum": "hexagonal",
+   "space_group_number": 194,
+   "setting": "P63/mmc",
+   "scaffold": "mgz-x-d",
+   "floppy": "tse"
+  },
+  {
+   "id": 419,
+   "stratum": "hexagonal",
+   "space_group_number": 194,
+   "setting": "P63/mmc",
+   "scaffold": "fvc",
+   "floppy": "ybh"
+  },
+  {
+   "id": 420,
+   "stratum": "hexagonal",
+   "space_group_number": 194,
+   "setting": "P63/mmc",
+   "scaffold": "xcb",
+   "floppy": "nia-d-a"
+  },
+  {
+   "id": 421,
+   "stratum": "hexagonal",
+   "space_group_number": 194,
+   "setting": "P63/mmc",
+   "scaffold": "cev-a",
+   "floppy": "kex-a"
+  },
+  {
+   "id": 422,
+   "stratum": "hexagonal",
+   "space_group_number": 191,
+   "setting": "P6/mmm",
+   "scaffold": "kag",
+   "floppy": "fwz"
+  },
+  {
+   "id": 423,
+   "stratum": "hexagonal",
+   "space_group_number": 180,
+   "setting": "P6222",
+   "scaffold": "wkk",
+   "floppy": "umj"
+  },
+  {
+   "id": 424,
+   "stratum": "hexagonal",
+   "space_group_number": 180,
+   "setting": "P6222",
+   "scaffold": "phw-a",
+   "floppy": "bto"
+  },
+  {
+   "id": 425,
+   "stratum": "hexagonal",
+   "space_group_number": 191,
+   "setting": "P6/mmm",
+   "scaffold": "cee",
+   "floppy": "cec-a"
+  },
+  {
+   "id": 426,
+   "stratum": "hexagonal",
+   "space_group_number": 194,
+   "setting": "P63/mmc",
+   "scaffold": "eri",
+   "floppy": "npo"
+  },
+  {
+   "id": 427,
+   "stratum": "hexagonal",
+   "space_group_number": 191,
+   "setting": "P6/mmm",
+   "scaffold": "ttx-a",
+   "floppy": "bam"
+  },
+  {
+   "id": 428,
+   "stratum": "hexagonal",
+   "space_group_number": 194,
+   "setting": "P63/mmc",
+   "scaffold": "ybh",
+   "floppy": "mgz"
+  },
+  {
+   "id": 429,
+   "stratum": "hexagonal",
+   "space_group_number": 191,
+   "setting": "P6/mmm",
+   "scaffold": "cee-a",
+   "floppy": "csq"
+  },
+  {
+   "id": 430,
+   "stratum": "hexagonal",
+   "space_group_number": 194,
+   "setting": "P63/mmc",
+   "scaffold": "tpd",
+   "floppy": "kex-a"
+  },
+  {
+   "id": 431,
+   "stratum": "hexagonal",
+   "space_group_number": 191,
+   "setting": "P6/mmm",
+   "scaffold": "sqs",
+   "floppy": "fwz"
+  },
+  {
+   "id": 432,
+   "stratum": "hexagonal",
+   "space_group_number": 191,
+   "setting": "P6/mmm",
+   "scaffold": "alc",
+   "floppy": "ase-a"
+  },
+  {
+   "id": 433,
+   "stratum": "hexagonal",
+   "space_group_number": 191,
+   "setting": "P6/mmm",
+   "scaffold": "bzd",
+   "floppy": "nin"
+  },
+  {
+   "id": 434,
+   "stratum": "hexagonal",
+   "space_group_number": 194,
+   "setting": "P63/mmc",
+   "scaffold": "yao",
+   "floppy": "std"
+  },
+  {
+   "id": 435,
+   "stratum": "hexagonal",
+   "space_group_number": 180,
+   "setting": "P6222",
+   "scaffold": "umj",
+   "floppy": "sxc"
+  },
+  {
+   "id": 436,
+   "stratum": "hexagonal",
+   "space_group_number": 191,
+   "setting": "P6/mmm",
+   "scaffold": "xlz",
+   "floppy": "dno"
+  },
+  {
+   "id": 437,
+   "stratum": "hexagonal",
+   "space_group_number": 191,
+   "setting": "P6/mmm",
+   "scaffold": "tfp-a",
+   "floppy": "gcc"
+  },
+  {
+   "id": 438,
+   "stratum": "hexagonal",
+   "space_group_number": 191,
+   "setting": "P6/mmm",
+   "scaffold": "bca",
+   "floppy": "pek"
+  },
+  {
+   "id": 439,
+   "stratum": "hexagonal",
+   "space_group_number": 191,
+   "setting": "P6/mmm",
+   "scaffold": "ood",
+   "floppy": "dno-a"
+  },
+  {
+   "id": 440,
+   "stratum": "hexagonal",
+   "space_group_number": 180,
+   "setting": "P6222",
+   "scaffold": "wjn",
+   "floppy": "phx-a"
+  },
+  {
+   "id": 441,
+   "stratum": "hexagonal",
+   "space_group_number": 191,
+   "setting": "P6/mmm",
+   "scaffold": "cel",
+   "floppy": "spp-a"
+  },
+  {
+   "id": 442,
+   "stratum": "hexagonal",
+   "space_group_number": 191,
+   "setting": "P6/mmm",
+   "scaffold": "fst",
+   "floppy": "tdd"
+  },
+  {
+   "id": 443,
+   "stratum": "hexagonal",
+   "space_group_number": 180,
+   "setting": "P6222",
+   "scaffold": "umm",
+   "floppy": "bto"
+  },
+  {
+   "id": 444,
+   "stratum": "hexagonal",
+   "space_group_number": 191,
+   "setting": "P6/mmm",
+   "scaffold": "bao",
+   "floppy": "cel-a"
+  },
+  {
+   "id": 445,
+   "stratum": "hexagonal",
+   "space_group_number": 193,
+   "setting": "P63/mcm",
+   "scaffold": "msd",
+   "floppy": "cet"
+  },
+  {
+   "id": 446,
+   "stratum": "hexagonal",
+   "space_group_number": 194,
+   "setting": "P63/mmc",
+   "scaffold": "aca-a",
+   "floppy": "lon-a"
+  },
+  {
+   "id": 447,
+   "stratum": "hexagonal",
+   "space_group_number": 191,
+   "setting": "P6/mmm",
+   "scaffold": "ttx",
+   "floppy": "kag-d"
+  },
+  {
+   "id": 448,
+   "stratum": "hexagonal",
+   "space_group_number": 194,
+   "setting": "P63/mmc",
+   "scaffold": "lon-e",
+   "floppy": "ken-a"
+  },
+  {
+   "id": 449,
+   "stratum": "hexagonal",
+   "space_group_number": 191,
+   "setting": "P6/mmm",
+   "scaffold": "stp",
+   "floppy": "tpz-a"
+  },
+  {
+   "id": 450,
+   "stratum": "hexagonal",
+   "space_group_number": 191,
+   "setting": "P6/mmm",
+   "scaffold": "kag-d",
+   "floppy": "xai"
+  },
+  {
+   "id": 451,
+   "stratum": "hexagonal",
+   "space_group_number": 194,
+   "setting": "P63/mmc",
+   "scaffold": "lon",
+   "floppy": "cfc"
+  },
+  {
+   "id": 452,
+   "stratum": "hexagonal",
+   "space_group_number": 194,
+   "setting": "P63/mmc",
+   "scaffold": "maz",
+   "floppy": "znz"
+  },
+  {
+   "id": 453,
+   "stratum": "hexagonal",
+   "space_group_number": 191,
+   "setting": "P6/mmm",
+   "scaffold": "fst",
+   "floppy": "dum"
+  },
+  {
+   "id": 454,
+   "stratum": "hexagonal",
+   "space_group_number": 194,
+   "setting": "P63/mmc",
+   "scaffold": "tca",
+   "floppy": "fvc"
+  },
+  {
+   "id": 455,
+   "stratum": "hexagonal",
+   "space_group_number": 191,
+   "setting": "P6/mmm",
+   "scaffold": "nin",
+   "floppy": "cee-a"
+  },
+  {
+   "id": 456,
+   "stratum": "hexagonal",
+   "space_group_number": 191,
+   "setting": "P6/mmm",
+   "scaffold": "yav-d-a",
+   "floppy": "tps-a"
+  },
+  {
+   "id": 457,
+   "stratum": "hexagonal",
+   "space_group_number": 194,
+   "setting": "P63/mmc",
+   "scaffold": "ecg",
+   "floppy": "tck"
+  },
+  {
+   "id": 458,
+   "stratum": "hexagonal",
+   "space_group_number": 191,
+   "setting": "P6/mmm",
+   "scaffold": "cex-a",
+   "floppy": "hbr"
+  },
+  {
+   "id": 459,
+   "stratum": "hexagonal",
+   "space_group_number": 187,
+   "setting": "P-6m2",
+   "scaffold": "bab",
+   "floppy": "kem-a"
+  },
+  {
+   "id": 460,
+   "stratum": "hexagonal",
+   "space_group_number": 194,
+   "setting": "P63/mmc",
+   "scaffold": "aca-a",
+   "floppy": "xat"
+  },
+  {
+   "id": 461,
+   "stratum": "hexagonal",
+   "space_group_number": 191,
+   "setting": "P6/mmm",
+   "scaffold": "alc-a",
+   "floppy": "hex"
+  },
+  {
+   "id": 462,
+   "stratum": "hexagonal",
+   "space_group_number": 178,
+   "setting": "P6122",
+   "scaffold": "smj",
+   "floppy": "wkc"
+  },
+  {
+   "id": 463,
+   "stratum": "hexagonal",
+   "space_group_number": 194,
+   "setting": "P63/mmc",
+   "scaffold": "ssa-a",
+   "floppy": "dtd"
+  },
+  {
+   "id": 464,
+   "stratum": "hexagonal",
+   "space_group_number": 194,
+   "setting": "P63/mmc",
+   "scaffold": "gea-a",
+   "floppy": "mgz-x-d"
+  },
+  {
+   "id": 465,
+   "stratum": "hexagonal",
+   "space_group_number": 180,
+   "setting": "P6222",
+   "scaffold": "sjt-a",
+   "floppy": "umj"
+  },
+  {
+   "id": 466,
+   "stratum": "hexagonal",
+   "space_group_number": 194,
+   "setting": "P63/mmc",
+   "scaffold": "fnr",
+   "floppy": "acs"
+  },
+  {
+   "id": 467,
+   "stratum": "hexagonal",
+   "space_group_number": 190,
+   "setting": "P-62c",
+   "scaffold": "jjt",
+   "floppy": "jcy"
+  },
+  {
+   "id": 468,
+   "stratum": "hexagonal",
+   "space_group_number": 191,
+   "setting": "P6/mmm",
+   "scaffold": "cew-a",
+   "floppy": "ase-a"
+  },
+  {
+   "id": 469,
+   "stratum": "hexagonal",
+   "space_group_number": 194,
+   "setting": "P63/mmc",
+   "scaffold": "aca",
+   "floppy": "zme"
+  },
+  {
+   "id": 470,
+   "stratum": "hexagonal",
+   "space_group_number": 194,
+   "setting": "P63/mmc",
+   "scaffold": "xbd",
+   "floppy": "hcp"
+  },
+  {
+   "id": 471,
+   "stratum": "hexagonal",
+   "space_group_number": 187,
+   "setting": "P-6m2",
+   "scaffold": "cei-a",
+   "floppy": "qna"
+  },
+  {
+   "id": 472,
+   "stratum": "hexagonal",
+   "space_group_number": 194,
+   "setting": "P63/mmc",
+   "scaffold": "lon-e-a",
+   "floppy": "eri"
+  },
+  {
+   "id": 473,
+   "stratum": "hexagonal",
+   "space_group_number": 194,
+   "setting": "P63/mmc",
+   "scaffold": "agw",
+   "floppy": "nia-a"
+  },
+  {
+   "id": 474,
+   "stratum": "hexagonal",
+   "space_group_number": 180,
+   "setting": "P6222",
+   "scaffold": "sxc",
+   "floppy": "pth"
+  },
+  {
+   "id": 475,
+   "stratum": "hexagonal",
+   "space_group_number": 194,
+   "setting": "P63/mmc",
+   "scaffold": "yao-a",
+   "floppy": "ats"
+  },
+  {
+   "id": 476,
+   "stratum": "hexagonal",
+   "space_group_number": 191,
+   "setting": "P6/mmm",
+   "scaffold": "bnn-t",
+   "floppy": "bba"
+  },
+  {
+   "id": 477,
+   "stratum": "hexagonal",
+   "space_group_number": 194,
+   "setting": "P63/mmc",
+   "scaffold": "ucn",
+   "floppy": "afx"
+  },
+  {
+   "id": 478,
+   "stratum": "hexagonal",
+   "space_group_number": 191,
+   "setting": "P6/mmm",
+   "scaffold": "gcc",
+   "floppy": "bam"
+  },
+  {
+   "id": 479,
+   "stratum": "hexagonal",
+   "space_group_number": 194,
+   "setting": "P63/mmc",
+   "scaffold": "fvc",
+   "floppy": "xbd"
+  },
+  {
+   "id": 480,
+   "stratum": "hexagonal",
+   "space_group_number": 194,
+   "setting": "P63/mmc",
+   "scaffold": "smv",
+   "floppy": "eri"
+  },
+  {
+   "id": 481,
+   "stratum": "hexagonal",
+   "space_group_number": 180,
+   "setting": "P6222",
+   "scaffold": "fns",
+   "floppy": "sml"
+  },
+  {
+   "id": 482,
+   "stratum": "hexagonal",
+   "space_group_number": 194,
+   "setting": "P63/mmc",
+   "scaffold": "nia-d-a",
+   "floppy": "tsa-a"
+  },
+  {
+   "id": 483,
+   "stratum": "hexagonal",
+   "space_group_number": 180,
+   "setting": "P6222",
+   "scaffold": "iss",
+   "floppy": "eta"
+  },
+  {
+   "id": 484,
+   "stratum": "hexagonal",
+   "space_group_number": 194,
+   "setting": "P63/mmc",
+   "scaffold": "acs",
+   "floppy": "cek-a"
+  },
+  {
+   "id": 485,
+   "stratum": "hexagonal",
+   "space_group_number": 191,
+   "setting": "P6/mmm",
+   "scaffold": "xly",
+   "floppy": "ury"
+  },
+  {
+   "id": 486,
+   "stratum": "hexagonal",
+   "space_group_number": 191,
+   "setting": "P6/mmm",
+   "scaffold": "kew",
+   "floppy": "shb-a"
+  },
+  {
+   "id": 487,
+   "stratum": "hexagonal",
+   "space_group_number": 191,
+   "setting": "P6/mmm",
+   "scaffold": "sss-a",
+   "floppy": "yav"
+  },
+  {
+   "id": 488,
+   "stratum": "hexagonal",
+   "space_group_number": 194,
+   "setting": "P63/mmc",
+   "scaffold": "cek",
+   "floppy": "zmd"
+  },
+  {
+   "id": 489,
+   "stratum": "hexagonal",
+   "space_group_number": 180,
+   "setting": "P6222",
+   "scaffold": "wjw",
+   "floppy": "ukh"
+  },
+  {
+   "id": 490,
+   "stratum": "hexagonal",
+   "space_group_number": 191,
+   "setting": "P6/mmm",
+   "scaffold": "dnp",
+   "floppy": "sss"
+  },
+  {
+   "id": 491,
+   "stratum": "hexagonal",
+   "space_group_number": 191,
+   "setting": "P6/mmm",
+   "scaffold": "sss-a",
+   "floppy": "ttx-a"
+  },
+  {
+   "id": 492,
+   "stratum": "hexagonal",
+   "space_group_number": 194,
+   "setting": "P63/mmc",
+   "scaffold": "xat-a",
+   "floppy": "ste"
+  },
+  {
+   "id": 493,
+   "stratum": "hexagonal",
+   "space_group_number": 191,
+   "setting": "P6/mmm",
+   "scaffold": "xlz",
+   "floppy": "cel-a"
+  },
+  {
+   "id": 494,
+   "stratum": "hexagonal",
+   "space_group_number": 194,
+   "setting": "P63/mmc",
+   "scaffold": "muh",
+   "floppy": "edc-a"
+  },
+  {
+   "id": 495,
+   "stratum": "hexagonal",
+   "space_group_number": 191,
+   "setting": "P6/mmm",
+   "scaffold": "kag-d",
+   "floppy": "cew"
+  },
+  {
+   "id": 496,
+   "stratum": "hexagonal",
+   "space_group_number": 190,
+   "setting": "P-62c",
+   "scaffold": "jcy",
+   "floppy": "smu"
+  },
+  {
+   "id": 497,
+   "stratum": "hexagonal",
+   "space_group_number": 178,
+   "setting": "P6122",
+   "scaffold": "wjp",
+   "floppy": "nsp"
+  },
+  {
+   "id": 498,
+   "stratum": "hexagonal",
+   "space_group_number": 191,
+   "setting": "P6/mmm",
+   "scaffold": "kew",
+   "floppy": "tpz-a"
+  },
+  {
+   "id": 499,
+   "stratum": "hexagonal",
+   "space_group_number": 194,
+   "setting": "P63/mmc",
+   "scaffold": "cej",
+   "floppy": "dtc"
+  },
+  {
+   "id": 500,
+   "stratum": "hexagonal",
+   "space_group_number": 180,
+   "setting": "P6222",
+   "scaffold": "wjv",
+   "floppy": "pth-a"
+  },
+  {
+   "id": 501,
+   "stratum": "hexagonal",
+   "space_group_number": 178,
+   "setting": "P6122",
+   "scaffold": "wjo",
+   "floppy": "wkn"
+  },
+  {
+   "id": 502,
+   "stratum": "hexagonal",
+   "space_group_number": 194,
+   "setting": "P63/mmc",
+   "scaffold": "cej-a",
+   "floppy": "cek"
+  },
+  {
+   "id": 503,
+   "stratum": "hexagonal",
+   "space_group_number": 180,
+   "setting": "P6222",
+   "scaffold": "uoo",
+   "floppy": "qtz"
+  },
+  {
+   "id": 504,
+   "stratum": "hexagonal",
+   "space_group_number": 191,
+   "setting": "P6/mmm",
+   "scaffold": "shb",
+   "floppy": "cex-a"
+  },
+  {
+   "id": 505,
+   "stratum": "hexagonal",
+   "space_group_number": 194,
+   "setting": "P63/mmc",
+   "scaffold": "afx",
+   "floppy": "snx"
+  },
+  {
+   "id": 506,
+   "stratum": "hexagonal",
+   "space_group_number": 194,
+   "setting": "P63/mmc",
+   "scaffold": "ssa",
+   "floppy": "mgz"
+  },
+  {
+   "id": 507,
+   "stratum": "hexagonal",
+   "space_group_number": 180,
+   "setting": "P6222",
+   "scaffold": "qtz-g",
+   "floppy": "wjw"
+  },
+  {
+   "id": 508,
+   "stratum": "hexagonal",
+   "space_group_number": 193,
+   "setting": "P63/mcm",
+   "scaffold": "wjb",
+   "floppy": "cet-a"
+  },
+  {
+   "id": 509,
+   "stratum": "hexagonal",
+   "space_group_number": 194,
+   "setting": "P63/mmc",
+   "scaffold": "gme",
+   "floppy": "lnj"
+  },
+  {
+   "id": 510,
+   "stratum": "hexagonal",
+   "space_group_number": 191,
+   "setting": "P6/mmm",
+   "scaffold": "aea-a",
+   "floppy": "cec"
+  },
+  {
+   "id": 511,
+   "stratum": "hexagonal",
+   "space_group_number": 194,
+   "setting": "P63/mmc",
+   "scaffold": "ecf",
+   "floppy": "acs-a"
+  },
+  {
+   "id": 512,
+   "stratum": "hexagonal",
+   "space_group_number": 194,
+   "setting": "P63/mmc",
+   "scaffold": "tca",
+   "floppy": "tcj"
+  },
+  {
+   "id": 513,
+   "stratum": "hexagonal",
+   "space_group_number": 191,
+   "setting": "P6/mmm",
+   "scaffold": "shb",
+   "floppy": "mds"
+  },
+  {
+   "id": 514,
+   "stratum": "hexagonal",
+   "space_group_number": 194,
+   "setting": "P63/mmc",
+   "scaffold": "lni",
+   "floppy": "icm-e"
+  },
+  {
+   "id": 515,
+   "stratum": "hexagonal",
+   "space_group_number": 191,
+   "setting": "P6/mmm",
+   "scaffold": "dum",
+   "floppy": "spp"
+  },
+  {
+   "id": 516,
+   "stratum": "hexagonal",
+   "space_group_number": 180,
+   "setting": "P6222",
+   "scaffold": "uoo",
+   "floppy": "ukh"
+  },
+  {
+   "id": 517,
+   "stratum": "hexagonal",
+   "space_group_number": 194,
+   "setting": "P63/mmc",
+   "scaffold": "gea-a",
+   "floppy": "icm"
+  },
+  {
+   "id": 518,
+   "stratum": "hexagonal",
+   "space_group_number": 194,
+   "setting": "P63/mmc",
+   "scaffold": "cfd",
+   "floppy": "xcb"
+  },
+  {
+   "id": 519,
+   "stratum": "hexagonal",
+   "space_group_number": 191,
+   "setting": "P6/mmm",
+   "scaffold": "fst",
+   "floppy": "knb-a"
+  },
+  {
+   "id": 520,
+   "stratum": "hexagonal",
+   "space_group_number": 194,
+   "setting": "P63/mmc",
+   "scaffold": "fnr",
+   "floppy": "cnd"
+  },
+  {
+   "id": 521,
+   "stratum": "hexagonal",
+   "space_group_number": 191,
+   "setting": "P6/mmm",
+   "scaffold": "alb-x",
+   "floppy": "bay"
+  },
+  {
+   "id": 522,
+   "stratum": "hexagonal",
+   "space_group_number": 191,
+   "setting": "P6/mmm",
+   "scaffold": "xci",
+   "floppy": "ury"
+  },
+  {
+   "id": 523,
+   "stratum": "hexagonal",
+   "space_group_number": 191,
+   "setting": "P6/mmm",
+   "scaffold": "sqs",
+   "floppy": "bca"
+  },
+  {
+   "id": 524,
+   "stratum": "hexagonal",
+   "space_group_number": 191,
+   "setting": "P6/mmm",
+   "scaffold": "tfz-d",
+   "floppy": "ced-a"
+  },
+  {
+   "id": 525,
+   "stratum": "hexagonal",
+   "space_group_number": 180,
+   "setting": "P6222",
+   "scaffold": "sjt",
+   "floppy": "qdl-e"
+  },
+  {
+   "id": 526,
+   "stratum": "hexagonal",
+   "space_group_number": 194,
+   "setting": "P63/mmc",
+   "scaffold": "sta",
+   "floppy": "urx-a"
+  },
+  {
+   "id": 527,
+   "stratum": "hexagonal",
+   "space_group_number": 191,
+   "setting": "P6/mmm",
+   "scaffold": "ffb",
+   "floppy": "shb"
+  },
+  {
+   "id": 528,
+   "stratum": "hexagonal",
+   "space_group_number": 191,
+   "setting": "P6/mmm",
+   "scaffold": "alc",
+   "floppy": "yav-d-a"
+  },
+  {
+   "id": 529,
+   "stratum": "hexagonal",
+   "space_group_number": 194,
+   "setting": "P63/mmc",
+   "scaffold": "xcb",
+   "floppy": "hcp-d"
+  },
+  {
+   "id": 530,
+   "stratum": "hexagonal",
+   "space_group_number": 187,
+   "setting": "P-6m2",
+   "scaffold": "tsj",
+   "floppy": "cef"
+  },
+  {
+   "id": 531,
+   "stratum": "hexagonal",
+   "space_group_number": 193,
+   "setting": "P63/mcm",
+   "scaffold": "cet-a",
+   "floppy": "umk"
+  },
+  {
+   "id": 532,
+   "stratum": "hexagonal",
+   "space_group_number": 194,
+   "setting": "P63/mmc",
+   "scaffold": "xby-a",
+   "floppy": "cev-a"
+  },
+  {
+   "id": 533,
+   "stratum": "hexagonal",
+   "space_group_number": 191,
+   "setting": "P6/mmm",
+   "scaffold": "yav-d-a",
+   "floppy": "cel-a"
+  },
+  {
+   "id": 534,
+   "stratum": "hexagonal",
+   "space_group_number": 194,
+   "setting": "P63/mmc",
+   "scaffold": "dtd",
+   "floppy": "lon-e"
+  },
+  {
+   "id": 535,
+   "stratum": "hexagonal",
+   "space_group_number": 191,
+   "setting": "P6/mmm",
+   "scaffold": "tfz",
+   "floppy": "zra-d"
+  },
+  {
+   "id": 536,
+   "stratum": "hexagonal",
+   "space_group_number": 191,
+   "setting": "P6/mmm",
+   "scaffold": "stp",
+   "floppy": "ttx-a"
+  },
+  {
+   "id": 537,
+   "stratum": "hexagonal",
+   "space_group_number": 194,
+   "setting": "P63/mmc",
+   "scaffold": "nia-d",
+   "floppy": "hcp-d"
+  },
+  {
+   "id": 538,
+   "stratum": "hexagonal",
+   "space_group_number": 194,
+   "setting": "P63/mmc",
+   "scaffold": "cat",
+   "floppy": "tca"
+  },
+  {
+   "id": 539,
+   "stratum": "hexagonal",
+   "space_group_number": 194,
+   "setting": "P63/mmc",
+   "scaffold": "urx-a",
+   "floppy": "gme"
+  },
+  {
+   "id": 540,
+   "stratum": "hexagonal",
+   "space_group_number": 194,
+   "setting": "P63/mmc",
+   "scaffold": "bbq",
+   "floppy": "mgz-x"
+  },
+  {
+   "id": 541,
+   "stratum": "hexagonal",
+   "space_group_number": 194,
+   "setting": "P63/mmc",
+   "scaffold": "xby",
+   "floppy": "ats-a"
+  },
+  {
+   "id": 542,
+   "stratum": "hexagonal",
+   "space_group_number": 191,
+   "setting": "P6/mmm",
+   "scaffold": "ttx-a",
+   "floppy": "bao"
+  },
+  {
+   "id": 543,
+   "stratum": "hexagonal",
+   "space_group_number": 194,
+   "setting": "P63/mmc",
+   "scaffold": "ecf",
+   "floppy": "ftg"
+  },
+  {
+   "id": 544,
+   "stratum": "hexagonal",
+   "space_group_number": 191,
+   "setting": "P6/mmm",
+   "scaffold": "xai",
+   "floppy": "alc"
+  },
+  {
+   "id": 545,
+   "stratum": "hexagonal",
+   "space_group_number": 194,
+   "setting": "P63/mmc",
+   "scaffold": "mgz-x-d-e",
+   "floppy": "agw-a"
+  },
+  {
+   "id": 546,
+   "stratum": "hexagonal",
+   "space_group_number": 194,
+   "setting": "P63/mmc",
+   "scaffold": "lon-e",
+   "floppy": "mgz"
+  },
+  {
+   "id": 547,
+   "stratum": "hexagonal",
+   "space_group_number": 192,
+   "setting": "P6/mcc",
+   "scaffold": "kez",
+   "floppy": "fnz"
+  },
+  {
+   "id": 548,
+   "stratum": "hexagonal",
+   "space_group_number": 191,
+   "setting": "P6/mmm",
+   "scaffold": "xlz",
+   "floppy": "ase-a"
+  },
+  {
+   "id": 549,
+   "stratum": "hexagonal",
+   "space_group_number": 180,
+   "setting": "P6222",
+   "scaffold": "wje",
+   "floppy": "wjk"
+  },
+  {
+   "id": 550,
+   "stratum": "hexagonal",
+   "space_group_number": 191,
+   "setting": "P6/mmm",
+   "scaffold": "dum",
+   "floppy": "yav"
+  },
+  {
+   "id": 551,
+   "stratum": "hexagonal",
+   "space_group_number": 191,
+   "setting": "P6/mmm",
+   "scaffold": "zra",
+   "floppy": "kag-d"
+  },
+  {
+   "id": 552,
+   "stratum": "hexagonal",
+   "space_group_number": 180,
+   "setting": "P6222",
+   "scaffold": "eta",
+   "floppy": "anh"
+  },
+  {
+   "id": 553,
+   "stratum": "hexagonal",
+   "space_group_number": 191,
+   "setting": "P6/mmm",
+   "scaffold": "tfp-a",
+   "floppy": "tpz"
+  },
+  {
+   "id": 554,
+   "stratum": "hexagonal",
+   "space_group_number": 194,
+   "setting": "P63/mmc",
+   "scaffold": "xbd",
+   "floppy": "agw"
+  },
+  {
+   "id": 555,
+   "stratum": "hexagonal",
+   "space_group_number": 194,
+   "setting": "P63/mmc",
+   "scaffold": "cek",
+   "floppy": "tca"
+  },
+  {
+   "id": 556,
+   "stratum": "hexagonal",
+   "space_group_number": 191,
+   "setting": "P6/mmm",
+   "scaffold": "bzd",
+   "floppy": "dnr-a"
+  },
+  {
+   "id": 557,
+   "stratum": "hexagonal",
+   "space_group_number": 194,
+   "setting": "P63/mmc",
+   "scaffold": "nia-e",
+   "floppy": "lni"
+  },
+  {
+   "id": 558,
+   "stratum": "hexagonal",
+   "space_group_number": 194,
+   "setting": "P63/mmc",
+   "scaffold": "xbd",
+   "floppy": "tcj"
+  },
+  {
+   "id": 559,
+   "stratum": "hexagonal",
+   "space_group_number": 191,
+   "setting": "P6/mmm",
+   "scaffold": "ury",
+   "floppy": "odh"
+  },
+  {
+   "id": 560,
+   "stratum": "hexagonal",
+   "space_group_number": 194,
+   "setting": "P63/mmc",
+   "scaffold": "urx",
+   "floppy": "urx-a"
+  },
+  {
+   "id": 561,
+   "stratum": "hexagonal",
+   "space_group_number": 194,
+   "setting": "P63/mmc",
+   "scaffold": "sty-a",
+   "floppy": "xat-a"
+  },
+  {
+   "id": 562,
+   "stratum": "hexagonal",
+   "space_group_number": 194,
+   "setting": "P63/mmc",
+   "scaffold": "qnd-a",
+   "floppy": "xcb"
+  },
+  {
+   "id": 563,
+   "stratum": "hexagonal",
+   "space_group_number": 191,
+   "setting": "P6/mmm",
+   "scaffold": "bzd",
+   "floppy": "tfp"
+  },
+  {
+   "id": 564,
+   "stratum": "hexagonal",
+   "space_group_number": 194,
+   "setting": "P63/mmc",
+   "scaffold": "hyb",
+   "floppy": "tcj"
+  },
+  {
+   "id": 565,
+   "stratum": "hexagonal",
+   "space_group_number": 187,
+   "setting": "P-6m2",
+   "scaffold": "tsg",
+   "floppy": "zmc"
+  },
+  {
+   "id": 566,
+   "stratum": "hexagonal",
+   "space_group_number": 194,
+   "setting": "P63/mmc",
+   "scaffold": "hcp",
+   "floppy": "gme-e"
+  },
+  {
+   "id": 567,
+   "stratum": "hexagonal",
+   "space_group_number": 191,
+   "setting": "P6/mmm",
+   "scaffold": "dno",
+   "floppy": "yav"
+  },
+  {
+   "id": 568,
+   "stratum": "hexagonal",
+   "space_group_number": 191,
+   "setting": "P6/mmm",
+   "scaffold": "ury",
+   "floppy": "dum"
+  },
+  {
+   "id": 569,
+   "stratum": "hexagonal",
+   "space_group_number": 191,
+   "setting": "P6/mmm",
+   "scaffold": "ced",
+   "floppy": "odh"
+  },
+  {
+   "id": 570,
+   "stratum": "hexagonal",
+   "space_group_number": 193,
+   "setting": "P63/mcm",
+   "scaffold": "ceu-a",
+   "floppy": "ceo"
+  },
+  {
+   "id": 571,
+   "stratum": "hexagonal",
+   "space_group_number": 180,
+   "setting": "P6222",
+   "scaffold": "wjf",
+   "floppy": "wiz"
+  },
+  {
+   "id": 572,
+   "stratum": "hexagonal",
+   "space_group_number": 191,
+   "setting": "P6/mmm",
+   "scaffold": "stp-a",
+   "floppy": "knb-a"
+  },
+  {
+   "id": 573,
+   "stratum": "hexagonal",
+   "space_group_number": 194,
+   "setting": "P63/mmc",
+   "scaffold": "ssa-a",
+   "floppy": "etc"
+  },
+  {
+   "id": 574,
+   "stratum": "hexagonal",
+   "space_group_number": 191,
+   "setting": "P6/mmm",
+   "scaffold": "cel",
+   "floppy": "bao"
+  },
+  {
+   "id": 575,
+   "stratum": "hexagonal",
+   "space_group_number": 191,
+   "setting": "P6/mmm",
+   "scaffold": "ase",
+   "floppy": "aea-a"
+  },
+  {
+   "id": 576,
+   "stratum": "hexagonal",
+   "space_group_number": 178,
+   "setting": "P6122",
+   "scaffold": "wkt",
+   "floppy": "wjl"
+  },
+  {
+   "id": 577,
+   "stratum": "hexagonal",
+   "space_group_number": 191,
+   "setting": "P6/mmm",
+   "scaffold": "hex",
+   "floppy": "bzd"
+  },
+  {
+   "id": 578,
+   "stratum": "hexagonal",
+   "space_group_number": 180,
+   "setting": "P6222",
+   "scaffold": "sjt",
+   "floppy": "wju"
+  },
+  {
+   "id": 579,
+   "stratum": "hexagonal",
+   "space_group_number": 191,
+   "setting": "P6/mmm",
+   "scaffold": "sss-a",
+   "floppy": "cel"
+  },
+  {
+   "id": 580,
+   "stratum": "hexagonal",
+   "space_group_number": 178,
+   "setting": "P6122",
+   "scaffold": "wki",
+   "floppy": "lhh"
+  },
+  {
+   "id": 581,
+   "stratum": "hexagonal",
+   "space_group_number": 194,
+   "setting": "P63/mmc",
+   "scaffold": "aca-a",
+   "floppy": "fnr"
+  },
+  {
+   "id": 582,
+   "stratum": "hexagonal",
+   "space_group_number": 191,
+   "setting": "P6/mmm",
+   "scaffold": "stp",
+   "floppy": "bam"
+  },
+  {
+   "id": 583,
+   "stratum": "hexagonal",
+   "space_group_number": 180,
+   "setting": "P6222",
+   "scaffold": "uoo",
+   "floppy": "qtz-g"
+  },
+  {
+   "id": 584,
+   "stratum": "hexagonal",
+   "space_group_number": 191,
+   "setting": "P6/mmm",
+   "scaffold": "zra-d",
+   "floppy": "cec-a"
+  },
+  {
+   "id": 585,
+   "stratum": "hexagonal",
+   "space_group_number": 191,
+   "setting": "P6/mmm",
+   "scaffold": "zra",
+   "floppy": "alb-a"
+  },
+  {
+   "id": 586,
+   "stratum": "hexagonal",
+   "space_group_number": 191,
+   "setting": "P6/mmm",
+   "scaffold": "tfz",
+   "floppy": "xly-a"
+  },
+  {
+   "id": 587,
+   "stratum": "hexagonal",
+   "space_group_number": 194,
+   "setting": "P63/mmc",
+   "scaffold": "aca-a",
+   "floppy": "ken-a"
+  },
+  {
+   "id": 588,
+   "stratum": "hexagonal",
+   "space_group_number": 178,
+   "setting": "P6122",
+   "scaffold": "wkt",
+   "floppy": "wix"
+  },
+  {
+   "id": 589,
+   "stratum": "hexagonal",
+   "space_group_number": 180,
+   "setting": "P6222",
+   "scaffold": "twt-e",
+   "floppy": "phx-a"
+  },
+  {
+   "id": 590,
+   "stratum": "hexagonal",
+   "space_group_number": 191,
+   "setting": "P6/mmm",
+   "scaffold": "aea",
+   "floppy": "ood"
+  },
+  {
+   "id": 591,
+   "stratum": "hexagonal",
+   "space_group_number": 194,
+   "setting": "P63/mmc",
+   "scaffold": "lni",
+   "floppy": "kex"
+  },
+  {
+   "id": 592,
+   "stratum": "hexagonal",
+   "space_group_number": 191,
+   "setting": "P6/mmm",
+   "scaffold": "dnr",
+   "floppy": "ffb"
+  },
+  {
+   "id": 593,
+   "stratum": "hexagonal",
+   "space_group_number": 194,
+   "setting": "P63/mmc",
+   "scaffold": "gfy-a",
+   "floppy": "ats"
+  },
+  {
+   "id": 594,
+   "stratum": "hexagonal",
+   "space_group_number": 191,
+   "setting": "P6/mmm",
+   "scaffold": "ury-a",
+   "floppy": "tfs"
+  },
+  {
+   "id": 595,
+   "stratum": "hexagonal",
+   "space_group_number": 180,
+   "setting": "P6222",
+   "scaffold": "fns",
+   "floppy": "wjv"
+  },
+  {
+   "id": 596,
+   "stratum": "hexagonal",
+   "space_group_number": 194,
+   "setting": "P63/mmc",
+   "scaffold": "cnd",
+   "floppy": "lon-e-a"
+  },
+  {
+   "id": 597,
+   "stratum": "hexagonal",
+   "space_group_number": 194,
+   "setting": "P63/mmc",
+   "scaffold": "ssa-a",
+   "floppy": "seh"
+  },
+  {
+   "id": 598,
+   "stratum": "hexagonal",
+   "space_group_number": 194,
+   "setting": "P63/mmc",
+   "scaffold": "fvc",
+   "floppy": "hms-t"
+  },
+  {
+   "id": 599,
+   "stratum": "hexagonal",
+   "space_group_number": 178,
+   "setting": "P6122",
+   "scaffold": "smh",
+   "floppy": "umo"
+  },
+  {
+   "id": 600,
+   "stratum": "hexagonal",
+   "space_group_number": 194,
+   "setting": "P63/mmc",
+   "scaffold": "hms-t",
+   "floppy": "ste-a"
+  },
+  {
+   "id": 601,
+   "stratum": "hexagonal",
+   "space_group_number": 191,
+   "setting": "P6/mmm",
+   "scaffold": "bnn-t",
+   "floppy": "aea"
+  },
+  {
+   "id": 602,
+   "stratum": "hexagonal",
+   "space_group_number": 178,
+   "setting": "P6122",
+   "scaffold": "wku",
+   "floppy": "elf"
+  },
+  {
+   "id": 603,
+   "stratum": "hexagonal",
+   "space_group_number": 191,
+   "setting": "P6/mmm",
+   "scaffold": "ase-a",
+   "floppy": "ury"
+  },
+  {
+   "id": 604,
+   "stratum": "hexagonal",
+   "space_group_number": 194,
+   "setting": "P63/mmc",
+   "scaffold": "mgz-x",
+   "floppy": "agw-a"
+  },
+  {
+   "id": 605,
+   "stratum": "hexagonal",
+   "space_group_number": 194,
+   "setting": "P63/mmc",
+   "scaffold": "std-a",
+   "floppy": "dnn-a"
+  },
+  {
+   "id": 606,
+   "stratum": "hexagonal",
+   "space_group_number": 191,
+   "setting": "P6/mmm",
+   "scaffold": "cee-a",
+   "floppy": "bam"
+  },
+  {
+   "id": 607,
+   "stratum": "hexagonal",
+   "space_group_number": 193,
+   "setting": "P63/mcm",
+   "scaffold": "ceu",
+   "floppy": "fny"
+  },
+  {
+   "id": 608,
+   "stratum": "hexagonal",
+   "space_group_number": 194,
+   "setting": "P63/mmc",
+   "scaffold": "qnd",
+   "floppy": "mgz-x-d-e"
+  },
+  {
+   "id": 609,
+   "stratum": "hexagonal",
+   "space_group_number": 191,
+   "setting": "P6/mmm",
+   "scaffold": "dno-a",
+   "floppy": "cex"
+  },
+  {
+   "id": 610,
+   "stratum": "hexagonal",
+   "space_group_number": 191,
+   "setting": "P6/mmm",
+   "scaffold": "bby",
+   "floppy": "cel-a"
+  },
+  {
+   "id": 611,
+   "stratum": "hexagonal",
+   "space_group_number": 194,
+   "setting": "P63/mmc",
+   "scaffold": "cfd",
+   "floppy": "gwe-a"
+  },
+  {
+   "id": 612,
+   "stratum": "hexagonal",
+   "space_group_number": 180,
+   "setting": "P6222",
+   "scaffold": "wjf",
+   "floppy": "wnl"
+  },
+  {
+   "id": 613,
+   "stratum": "hexagonal",
+   "space_group_number": 191,
+   "setting": "P6/mmm",
+   "scaffold": "shp",
+   "floppy": "bba"
+  },
+  {
+   "id": 614,
+   "stratum": "hexagonal",
+   "space_group_number": 191,
+   "setting": "P6/mmm",
+   "scaffold": "tpz-a",
+   "floppy": "alb-a"
+  },
+  {
+   "id": 615,
+   "stratum": "hexagonal",
+   "space_group_number": 191,
+   "setting": "P6/mmm",
+   "scaffold": "xlz-a",
+   "floppy": "ood-a"
+  },
+  {
+   "id": 616,
+   "stratum": "hexagonal",
+   "space_group_number": 191,
+   "setting": "P6/mmm",
+   "scaffold": "ase",
+   "floppy": "ltl"
+  },
+  {
+   "id": 617,
+   "stratum": "hexagonal",
+   "space_group_number": 178,
+   "setting": "P6122",
+   "scaffold": "wkv",
+   "floppy": "lhh"
+  },
+  {
+   "id": 618,
+   "stratum": "hexagonal",
+   "space_group_number": 180,
+   "setting": "P6222",
+   "scaffold": "fnt",
+   "floppy": "anh"
+  },
+  {
+   "id": 619,
+   "stratum": "hexagonal",
+   "space_group_number": 180,
+   "setting": "P6222",
+   "scaffold": "ukf",
+   "floppy": "pth-a"
+  },
+  {
+   "id": 620,
+   "stratum": "hexagonal",
+   "space_group_number": 194,
+   "setting": "P63/mmc",
+   "scaffold": "baz-a",
+   "floppy": "etc"
+  },
+  {
+   "id": 621,
+   "stratum": "hexagonal",
+   "space_group_number": 194,
+   "setting": "P63/mmc",
+   "scaffold": "aca",
+   "floppy": "hcp-d"
+  },
+  {
+   "id": 622,
+   "stratum": "hexagonal",
+   "space_group_number": 180,
+   "setting": "P6222",
+   "scaffold": "ukh",
+   "floppy": "tcc-x"
+  },
+  {
+   "id": 623,
+   "stratum": "hexagonal",
+   "space_group_number": 180,
+   "setting": "P6222",
+   "scaffold": "wiz",
+   "floppy": "qdl-e-a"
+  },
+  {
+   "id": 624,
+   "stratum": "hexagonal",
+   "space_group_number": 191,
+   "setting": "P6/mmm",
+   "scaffold": "csq-a",
+   "floppy": "kna-a"
+  },
+  {
+   "id": 625,
+   "stratum": "hexagonal",
+   "space_group_number": 191,
+   "setting": "P6/mmm",
+   "scaffold": "dnp-a",
+   "floppy": "cec"
+  },
+  {
+   "id": 626,
+   "stratum": "hexagonal",
+   "space_group_number": 194,
+   "setting": "P63/mmc",
+   "scaffold": "gfy",
+   "floppy": "ste"
+  },
+  {
+   "id": 627,
+   "stratum": "hexagonal",
+   "space_group_number": 191,
+   "setting": "P6/mmm",
+   "scaffold": "ttx-a",
+   "floppy": "alb-d"
+  },
+  {
+   "id": 628,
+   "stratum": "hexagonal",
+   "space_group_number": 191,
+   "setting": "P6/mmm",
+   "scaffold": "dnp",
+   "floppy": "alc-a"
+  },
+  {
+   "id": 629,
+   "stratum": "hexagonal",
+   "space_group_number": 194,
+   "setting": "P63/mmc",
+   "scaffold": "nia",
+   "floppy": "ats"
+  },
+  {
+   "id": 630,
+   "stratum": "hexagonal",
+   "space_group_number": 180,
+   "setting": "P6222",
+   "scaffold": "uog",
+   "floppy": "wjk"
+  },
+  {
+   "id": 631,
+   "stratum": "hexagonal",
+   "space_group_number": 191,
+   "setting": "P6/mmm",
+   "scaffold": "tfz",
+   "floppy": "sss"
+  },
+  {
+   "id": 632,
+   "stratum": "hexagonal",
+   "space_group_number": 194,
+   "setting": "P63/mmc",
+   "scaffold": "mgz-x-d-e",
+   "floppy": "npo"
+  },
+  {
+   "id": 633,
+   "stratum": "hexagonal",
+   "space_group_number": 194,
+   "setting": "P63/mmc",
+   "scaffold": "tse",
+   "floppy": "mgz"
+  },
+  {
+   "id": 634,
+   "stratum": "hexagonal",
+   "space_group_number": 191,
+   "setting": "P6/mmm",
+   "scaffold": "alb-x-d",
+   "floppy": "hbr"
+  },
+  {
+   "id": 635,
+   "stratum": "hexagonal",
+   "space_group_number": 180,
+   "setting": "P6222",
+   "scaffold": "wjt",
+   "floppy": "wkk"
+  },
+  {
+   "id": 636,
+   "stratum": "hexagonal",
+   "space_group_number": 191,
+   "setting": "P6/mmm",
+   "scaffold": "eye-a",
+   "floppy": "hex"
+  },
+  {
+   "id": 637,
+   "stratum": "hexagonal",
+   "space_group_number": 191,
+   "setting": "P6/mmm",
+   "scaffold": "pek-a",
+   "floppy": "knb"
+  },
+  {
+   "id": 638,
+   "stratum": "hexagonal",
+   "space_group_number": 194,
+   "setting": "P63/mmc",
+   "scaffold": "cev",
+   "floppy": "hms-t"
+  },
+  {
+   "id": 639,
+   "stratum": "hexagonal",
+   "space_group_number": 194,
+   "setting": "P63/mmc",
+   "scaffold": "lon-a",
+   "floppy": "gea"
+  },
+  {
+   "id": 640,
+   "stratum": "hexagonal",
+   "space_group_number": 194,
+   "setting": "P63/mmc",
+   "scaffold": "gme",
+   "floppy": "yac"
+  },
+  {
+   "id": 641,
+   "stratum": "hexagonal",
+   "space_group_number": 191,
+   "setting": "P6/mmm",
+   "scaffold": "kag-d",
+   "floppy": "tdd"
+  },
+  {
+   "id": 642,
+   "stratum": "hexagonal",
+   "space_group_number": 194,
+   "setting": "P63/mmc",
+   "scaffold": "cnd",
+   "floppy": "xcb"
+  },
+  {
+   "id": 643,
+   "stratum": "hexagonal",
+   "space_group_number": 191,
+   "setting": "P6/mmm",
+   "scaffold": "tps-a",
+   "floppy": "cec"
+  },
+  {
+   "id": 644,
+   "stratum": "hexagonal",
+   "space_group_number": 180,
+   "setting": "P6222",
+   "scaffold": "pth-a",
+   "floppy": "tcc"
+  },
+  {
+   "id": 645,
+   "stratum": "hexagonal",
+   "space_group_number": 194,
+   "setting": "P63/mmc",
+   "scaffold": "xax",
+   "floppy": "cek"
+  },
+  {
+   "id": 646,
+   "stratum": "hexagonal",
+   "space_group_number": 191,
+   "setting": "P6/mmm",
+   "scaffold": "shb",
+   "floppy": "cee-a"
+  },
+  {
+   "id": 647,
+   "stratum": "hexagonal",
+   "space_group_number": 194,
+   "setting": "P63/mmc",
+   "scaffold": "std",
+   "floppy": "fnr"
+  },
+  {
+   "id": 648,
+   "stratum": "hexagonal",
+   "space_group_number": 191,
+   "setting": "P6/mmm",
+   "scaffold": "xly-a",
+   "floppy": "cex"
+  },
+  {
+   "id": 649,
+   "stratum": "hexagonal",
+   "space_group_number": 194,
+   "setting": "P63/mmc",
+   "scaffold": "mgz-x-d",
+   "floppy": "cej"
+  },
+  {
+   "id": 650,
+   "stratum": "hexagonal",
+   "space_group_number": 194,
+   "setting": "P63/mmc",
+   "scaffold": "maz",
+   "floppy": "edc-a"
+  },
+  {
+   "id": 651,
+   "stratum": "hexagonal",
+   "space_group_number": 194,
+   "setting": "P63/mmc",
+   "scaffold": "snx",
+   "floppy": "mgz-x"
+  },
+  {
+   "id": 652,
+   "stratum": "hexagonal",
+   "space_group_number": 194,
+   "setting": "P63/mmc",
+   "scaffold": "ecg",
+   "floppy": "tsa"
+  },
+  {
+   "id": 653,
+   "stratum": "hexagonal",
+   "space_group_number": 194,
+   "setting": "P63/mmc",
+   "scaffold": "ssa-a",
+   "floppy": "cfd"
+  },
+  {
+   "id": 654,
+   "stratum": "hexagonal",
+   "space_group_number": 180,
+   "setting": "P6222",
+   "scaffold": "phx-a",
+   "floppy": "sml"
+  },
+  {
+   "id": 655,
+   "stratum": "hexagonal",
+   "space_group_number": 178,
+   "setting": "P6122",
+   "scaffold": "wka",
+   "floppy": "wjy"
+  },
+  {
+   "id": 656,
+   "stratum": "hexagonal",
+   "space_group_number": 191,
+   "setting": "P6/mmm",
+   "scaffold": "ury-a",
+   "floppy": "dnr"
+  },
+  {
+   "id": 657,
+   "stratum": "hexagonal",
+   "space_group_number": 191,
+   "setting": "P6/mmm",
+   "scaffold": "xly-a",
+   "floppy": "bnn"
+  },
+  {
+   "id": 658,
+   "stratum": "hexagonal",
+   "space_group_number": 193,
+   "setting": "P63/mcm",
+   "scaffold": "zyg-a",
+   "floppy": "kms-a"
+  },
+  {
+   "id": 659,
+   "stratum": "hexagonal",
+   "space_group_number": 191,
+   "setting": "P6/mmm",
+   "scaffold": "bbz",
+   "floppy": "cex-a"
+  },
+  {
+   "id": 660,
+   "stratum": "hexagonal",
+   "space_group_number": 194,
+   "setting": "P63/mmc",
+   "scaffold": "aca-a",
+   "floppy": "bbq"
+  },
+  {
+   "id": 661,
+   "stratum": "hexagonal",
+   "space_group_number": 191,
+   "setting": "P6/mmm",
+   "scaffold": "gcc",
+   "floppy": "yav-d-a"
+  },
+  {
+   "id": 662,
+   "stratum": "hexagonal",
+   "space_group_number": 194,
+   "setting": "P63/mmc",
+   "scaffold": "cfc-e-a",
+   "floppy": "std"
+  },
+  {
+   "id": 663,
+   "stratum": "hexagonal",
+   "space_group_number": 191,
+   "setting": "P6/mmm",
+   "scaffold": "sqs",
+   "floppy": "xly"
+  },
+  {
+   "id": 664,
+   "stratum": "hexagonal",
+   "space_group_number": 191,
+   "setting": "P6/mmm",
+   "scaffold": "xly-a",
+   "floppy": "bbz"
+  },
+  {
+   "id": 665,
+   "stratum": "hexagonal",
+   "space_group_number": 191,
+   "setting": "P6/mmm",
+   "scaffold": "bao",
+   "floppy": "ltl"
+  },
+  {
+   "id": 666,
+   "stratum": "hexagonal",
+   "space_group_number": 191,
+   "setting": "P6/mmm",
+   "scaffold": "spp-a",
+   "floppy": "brl"
+  },
+  {
+   "id": 667,
+   "stratum": "tetragonal",
+   "space_group_number": 142,
+   "setting": "I41/acd:2",
+   "scaffold": "xfs",
+   "floppy": "wis"
+  },
+  {
+   "id": 668,
+   "stratum": "tetragonal",
+   "space_group_number": 141,
+   "setting": "I41/amd:2",
+   "scaffold": "vtx",
+   "floppy": "xfd"
+  },
+  {
+   "id": 669,
+   "stratum": "tetragonal",
+   "space_group_number": 141,
+   "setting": "I41/amd:2",
+   "scaffold": "ban",
+   "floppy": "snw"
+  },
+  {
+   "id": 670,
+   "stratum": "tetragonal",
+   "space_group_number": 141,
+   "setting": "I41/amd:2",
+   "scaffold": "ant",
+   "floppy": "wih"
+  },
+  {
+   "id": 671,
+   "stratum": "tetragonal",
+   "space_group_number": 123,
+   "setting": "P4/mmm",
+   "scaffold": "tty",
+   "floppy": "hbl"
+  },
+  {
+   "id": 672,
+   "stratum": "tetragonal",
+   "space_group_number": 142,
+   "setting": "I41/acd:2",
+   "scaffold": "nfc",
+   "floppy": "utm"
+  },
+  {
+   "id": 673,
+   "stratum": "tetragonal",
+   "space_group_number": 98,
+   "setting": "I4122",
+   "scaffold": "jsm",
+   "floppy": "dia-g"
+  },
+  {
+   "id": 674,
+   "stratum": "tetragonal",
+   "space_group_number": 98,
+   "setting": "I4122",
+   "scaffold": "uoy",
+   "floppy": "mdf"
+  },
+  {
+   "id": 675,
+   "stratum": "tetragonal",
+   "space_group_number": 139,
+   "setting": "I4/mmm",
+   "scaffold": "bbo",
+   "floppy": "flt-a"
+  },
+  {
+   "id": 676,
+   "stratum": "tetragonal",
+   "space_group_number": 139,
+   "setting": "I4/mmm",
+   "scaffold": "bbn",
+   "floppy": "mer"
+  },
+  {
+   "id": 677,
+   "stratum": "tetragonal",
+   "space_group_number": 141,
+   "setting": "I41/amd:2",
+   "scaffold": "zfx",
+   "floppy": "thh"
+  },
+  {
+   "id": 678,
+   "stratum": "tetragonal",
+   "space_group_number": 88,
+   "setting": "I41/a:2",
+   "scaffold": "wfc",
+   "floppy": "xfg"
+  },
+  {
+   "id": 679,
+   "stratum": "tetragonal",
+   "space_group_number": 141,
+   "setting": "I41/amd:2",
+   "scaffold": "fnl",
+   "floppy": "zrc-a"
+  },
+  {
+   "id": 680,
+   "stratum": "tetragonal",
+   "space_group_number": 142,
+   "setting": "I41/acd:2",
+   "scaffold": "isf",
+   "floppy": "yfr"
+  },
+  {
+   "id": 681,
+   "stratum": "tetragonal",
+   "space_group_number": 142,
+   "setting": "I41/acd:2",
+   "scaffold": "ecj",
+   "floppy": "yfr"
+  },
+  {
+   "id": 682,
+   "stratum": "tetragonal",
+   "space_group_number": 141,
+   "setting": "I41/amd:2",
+   "scaffold": "umu",
+   "floppy": "ngc"
+  },
+  {
+   "id": 683,
+   "stratum": "tetragonal",
+   "space_group_number": 139,
+   "setting": "I4/mmm",
+   "scaffold": "ftj",
+   "floppy": "tfj"
+  },
+  {
+   "id": 684,
+   "stratum": "tetragonal",
+   "space_group_number": 139,
+   "setting": "I4/mmm",
+   "scaffold": "flt-a",
+   "floppy": "sqp"
+  },
+  {
+   "id": 685,
+   "stratum": "tetragonal",
+   "space_group_number": 131,
+   "setting": "P42/mmc",
+   "scaffold": "svd",
+   "floppy": "knc"
+  },
+  {
+   "id": 686,
+   "stratum": "tetragonal",
+   "space_group_number": 142,
+   "setting": "I41/acd:2",
+   "scaffold": "svc",
+   "floppy": "eti"
+  },
+  {
+   "id": 687,
+   "stratum": "tetragonal",
+   "space_group_number": 142,
+   "setting": "I41/acd:2",
+   "scaffold": "tie",
+   "floppy": "wil"
+  },
+  {
+   "id": 688,
+   "stratum": "tetragonal",
+   "space_group_number": 139,
+   "setting": "I4/mmm",
+   "scaffold": "mdh",
+   "floppy": "crb"
+  },
+  {
+   "id": 689,
+   "stratum": "tetragonal",
+   "space_group_number": 139,
+   "setting": "I4/mmm",
+   "scaffold": "sas",
+   "floppy": "sqp-a"
+  },
+  {
+   "id": 690,
+   "stratum": "tetragonal",
+   "space_group_number": 141,
+   "setting": "I41/amd:2",
+   "scaffold": "zfw",
+   "floppy": "xfd"
+  },
+  {
+   "id": 691,
+   "stratum": "tetragonal",
+   "space_group_number": 139,
+   "setting": "I4/mmm",
+   "scaffold": "pfm",
+   "floppy": "crb"
+  },
+  {
+   "id": 692,
+   "stratum": "tetragonal",
+   "space_group_number": 141,
+   "setting": "I41/amd:2",
+   "scaffold": "ftd",
+   "floppy": "lul"
+  },
+  {
+   "id": 693,
+   "stratum": "tetragonal",
+   "space_group_number": 142,
+   "setting": "I41/acd:2",
+   "scaffold": "wgh",
+   "floppy": "eti"
+  },
+  {
+   "id": 694,
+   "stratum": "tetragonal",
+   "space_group_number": 141,
+   "setting": "I41/amd:2",
+   "scaffold": "ths-e",
+   "floppy": "wuy"
+  },
+  {
+   "id": 695,
+   "stratum": "tetragonal",
+   "space_group_number": 142,
+   "setting": "I41/acd:2",
+   "scaffold": "yfv",
+   "floppy": "svc"
+  },
+  {
+   "id": 696,
+   "stratum": "tetragonal",
+   "space_group_number": 139,
+   "setting": "I4/mmm",
+   "scaffold": "pfm-a",
+   "floppy": "tsq-a"
+  },
+  {
+   "id": 697,
+   "stratum": "tetragonal",
+   "space_group_number": 141,
+   "setting": "I41/amd:2",
+   "scaffold": "asf",
+   "floppy": "dia-f"
+  },
+  {
+   "id": 698,
+   "stratum": "tetragonal",
+   "space_group_number": 136,
+   "setting": "P42/mnm",
+   "scaffold": "odk",
+   "floppy": "tfn"
+  },
+  {
+   "id": 699,
+   "stratum": "tetragonal",
+   "space_group_number": 121,
+   "setting": "I-42m",
+   "scaffold": "ofp-a",
+   "floppy": "tsx-a"
+  },
+  {
+   "id": 700,
+   "stratum": "tetragonal",
+   "space_group_number": 141,
+   "setting": "I41/amd:2",
+   "scaffold": "iph",
+   "floppy": "fnl"
+  },
+  {
+   "id": 701,
+   "stratum": "tetragonal",
+   "space_group_number": 140,
+   "setting": "I4/mcm",
+   "scaffold": "svq",
+   "floppy": "ctt-a"
+  },
+  {
+   "id": 702,
+   "stratum": "tetragonal",
+   "space_group_number": 122,
+   "setting": "I-42d",
+   "scaffold": "lxx",
+   "floppy": "ukk"
+  },
+  {
+   "id": 703,
+   "stratum": "tetragonal",
+   "space_group_number": 142,
+   "setting": "I41/acd:2",
+   "scaffold": "flg-a",
+   "floppy": "yft"
+  },
+  {
+   "id": 704,
+   "stratum": "tetragonal",
+   "space_group_number": 142,
+   "setting": "I41/acd:2",
+   "scaffold": "isu",
+   "floppy": "wil"
+  },
+  {
+   "id": 705,
+   "stratum": "tetragonal",
+   "space_group_number": 141,
+   "setting": "I41/amd:2",
+   "scaffold": "ant",
+   "floppy": "mon-e"
+  },
+  {
+   "id": 706,
+   "stratum": "tetragonal",
+   "space_group_number": 139,
+   "setting": "I4/mmm",
+   "scaffold": "hof",
+   "floppy": "ftn"
+  },
+  {
+   "id": 707,
+   "stratum": "tetragonal",
+   "space_group_number": 132,
+   "setting": "P42/mcm",
+   "scaffold": "abr",
+   "floppy": "cds-t"
+  },
+  {
+   "id": 708,
+   "stratum": "tetragonal",
+   "space_group_number": 139,
+   "setting": "I4/mmm",
+   "scaffold": "xao",
+   "floppy": "epc"
+  },
+  {
+   "id": 709,
+   "stratum": "tetragonal",
+   "space_group_number": 141,
+   "setting": "I41/amd:2",
+   "scaffold": "wii",
+   "floppy": "umi"
+  },
+  {
+   "id": 710,
+   "stratum": "tetragonal",
+   "space_group_number": 131,
+   "setting": "P42/mmc",
+   "scaffold": "pts-a",
+   "floppy": "tfi-a"
+  },
+  {
+   "id": 711,
+   "stratum": "tetragonal",
+   "space_group_number": 139,
+   "setting": "I4/mmm",
+   "scaffold": "zll-a",
+   "floppy": "hbk-a"
+  },
+  {
+   "id": 712,
+   "stratum": "tetragonal",
+   "space_group_number": 142,
+   "setting": "I41/acd:2",
+   "scaffold": "wir",
+   "floppy": "sno"
+  },
+  {
+   "id": 713,
+   "stratum": "tetragonal",
+   "space_group_number": 141,
+   "setting": "I41/amd:2",
+   "scaffold": "lun",
+   "floppy": "deh-d"
+  },
+  {
+   "id": 714,
+   "stratum": "tetragonal",
+   "space_group_number": 123,
+   "setting": "P4/mmm",
+   "scaffold": "scu-h",
+   "floppy": "asd"
+  },
+  {
+   "id": 715,
+   "stratum": "tetragonal",
+   "space_group_number": 139,
+   "setting": "I4/mmm",
+   "scaffold": "fuo",
+   "floppy": "stu"
+  },
+  {
+   "id": 716,
+   "stratum": "tetragonal",
+   "space_group_number": 141,
+   "setting": "I41/amd:2",
+   "scaffold": "asf-a",
+   "floppy": "hqy"
+  },
+  {
+   "id": 717,
+   "stratum": "tetragonal",
+   "space_group_number": 139,
+   "setting": "I4/mmm",
+   "scaffold": "keb-a",
+   "floppy": "ecl"
+  },
+  {
+   "id": 718,
+   "stratum": "tetragonal",
+   "space_group_number": 142,
+   "setting": "I41/acd:2",
+   "scaffold": "yfn",
+   "floppy": "utn"
+  },
+  {
+   "id": 719,
+   "stratum": "tetragonal",
+   "space_group_number": 91,
+   "setting": "P4122",
+   "scaffold": "utk",
+   "floppy": "zfs"
+  },
+  {
+   "id": 720,
+   "stratum": "tetragonal",
+   "space_group_number": 142,
+   "setting": "I41/acd:2",
+   "scaffold": "wgi",
+   "floppy": "wio"
+  },
+  {
+   "id": 721,
+   "stratum": "tetragonal",
+   "space_group_number": 141,
+   "setting": "I41/amd:2",
+   "scaffold": "sqc-a",
+   "floppy": "deh-d"
+  },
+  {
+   "id": 722,
+   "stratum": "tetragonal",
+   "space_group_number": 141,
+   "setting": "I41/amd:2",
+   "scaffold": "fnl",
+   "floppy": "med"
+  },
+  {
+   "id": 723,
+   "stratum": "tetragonal",
+   "space_group_number": 131,
+   "setting": "P42/mmc",
+   "scaffold": "cli",
+   "floppy": "cdm-e"
+  },
+  {
+   "id": 724,
+   "stratum": "tetragonal",
+   "space_group_number": 123,
+   "setting": "P4/mmm",
+   "scaffold": "lib",
+   "floppy": "mou"
+  },
+  {
+   "id": 725,
+   "stratum": "tetragonal",
+   "space_group_number": 139,
+   "setting": "I4/mmm",
+   "scaffold": "keb-a",
+   "floppy": "stu-a"
+  },
+  {
+   "id": 726,
+   "stratum": "tetragonal",
+   "space_group_number": 141,
+   "setting": "I41/amd:2",
+   "scaffold": "sqc",
+   "floppy": "deh-d"
+  },
+  {
+   "id": 727,
+   "stratum": "tetragonal",
+   "space_group_number": 139,
+   "setting": "I4/mmm",
+   "scaffold": "atn-e",
+   "floppy": "epz-a"
+  },
+  {
+   "id": 728,
+   "stratum": "tetragonal",
+   "space_group_number": 139,
+   "setting": "I4/mmm",
+   "scaffold": "hhb",
+   "floppy": "yfy"
+  },
+  {
+   "id": 729,
+   "stratum": "tetragonal",
+   "space_group_number": 141,
+   "setting": "I41/amd:2",
+   "scaffold": "ftd",
+   "floppy": "nat"
+  },
+  {
+   "id": 730,
+   "stratum": "tetragonal",
+   "space_group_number": 131,
+   "setting": "P42/mmc",
+   "scaffold": "cdm-e",
+   "floppy": "nkd"
+  },
+  {
+   "id": 731,
+   "stratum": "tetragonal",
+   "space_group_number": 142,
+   "setting": "I41/acd:2",
+   "scaffold": "wgo",
+   "floppy": "zni"
+  },
+  {
+   "id": 732,
+   "stratum": "tetragonal",
+   "space_group_number": 141,
+   "setting": "I41/amd:2",
+   "scaffold": "lul",
+   "floppy": "xfc"
+  },
+  {
+   "id": 733,
+   "stratum": "tetragonal",
+   "space_group_number": 139,
+   "setting": "I4/mmm",
+   "scaffold": "pfm-a",
+   "floppy": "crb"
+  },
+  {
+   "id": 734,
+   "stratum": "tetragonal",
+   "space_group_number": 139,
+   "setting": "I4/mmm",
+   "scaffold": "xan",
+   "floppy": "tcs"
+  },
+  {
+   "id": 735,
+   "stratum": "tetragonal",
+   "space_group_number": 141,
+   "setting": "I41/amd:2",
+   "scaffold": "bsn",
+   "floppy": "wgd"
+  },
+  {
+   "id": 736,
+   "stratum": "tetragonal",
+   "space_group_number": 139,
+   "setting": "I4/mmm",
+   "scaffold": "zcc",
+   "floppy": "sqp"
+  },
+  {
+   "id": 737,
+   "stratum": "tetragonal",
+   "space_group_number": 142,
+   "setting": "I41/acd:2",
+   "scaffold": "yfr",
+   "floppy": "wit"
+  },
+  {
+   "id": 738,
+   "stratum": "tetragonal",
+   "space_group_number": 142,
+   "setting": "I41/acd:2",
+   "scaffold": "wio",
+   "floppy": "wgj"
+  },
+  {
+   "id": 739,
+   "stratum": "tetragonal",
+   "space_group_number": 141,
+   "setting": "I41/amd:2",
+   "scaffold": "lun",
+   "floppy": "ths-e"
+  },
+  {
+   "id": 740,
+   "stratum": "tetragonal",
+   "space_group_number": 141,
+   "setting": "I41/amd:2",
+   "scaffold": "lum",
+   "floppy": "lig"
+  },
+  {
+   "id": 741,
+   "stratum": "tetragonal",
+   "space_group_number": 142,
+   "setting": "I41/acd:2",
+   "scaffold": "ubo-a",
+   "floppy": "wis"
+  },
+  {
+   "id": 742,
+   "stratum": "tetragonal",
+   "space_group_number": 142,
+   "setting": "I41/acd:2",
+   "scaffold": "uoe",
+   "floppy": "uox"
+  },
+  {
+   "id": 743,
+   "stratum": "tetragonal",
+   "space_group_number": 139,
+   "setting": "I4/mmm",
+   "scaffold": "ecl",
+   "floppy": "svg"
+  },
+  {
+   "id": 744,
+   "stratum": "tetragonal",
+   "space_group_number": 123,
+   "setting": "P4/mmm",
+   "scaffold": "mou",
+   "floppy": "msq"
+  },
+  {
+   "id": 745,
+   "stratum": "tetragonal",
+   "space_group_number": 123,
+   "setting": "P4/mmm",
+   "scaffold": "fqr",
+   "floppy": "bcf"
+  },
+  {
+   "id": 746,
+   "stratum": "tetragonal",
+   "space_group_number": 131,
+   "setting": "P42/mmc",
+   "scaffold": "cds-a",
+   "floppy": "nkc"
+  },
+  {
+   "id": 747,
+   "stratum": "tetragonal",
+   "space_group_number": 137,
+   "setting": "P42/nmc:2",
+   "scaffold": "ntb",
+   "floppy": "odi"
+  },
+  {
+   "id": 748,
+   "stratum": "tetragonal",
+   "space_group_number": 141,
+   "setting": "I41/amd:2",
+   "scaffold": "lig",
+   "floppy": "ant"
+  },
+  {
+   "id": 749,
+   "stratum": "tetragonal",
+   "space_group_number": 139,
+   "setting": "I4/mmm",
+   "scaffold": "pfm-a",
+   "floppy": "ftn"
+  },
+  {
+   "id": 750,
+   "stratum": "tetragonal",
+   "space_group_number": 142,
+   "setting": "I41/acd:2",
+   "scaffold": "xfm",
+   "floppy": "umr"
+  },
+  {
+   "id": 751,
+   "stratum": "tetragonal",
+   "space_group_number": 141,
+   "setting": "I41/amd:2",
+   "scaffold": "svr",
+   "floppy": "hqy"
+  },
+  {
+   "id": 752,
+   "stratum": "tetragonal",
+   "space_group_number": 140,
+   "setting": "I4/mcm",
+   "scaffold": "umq",
+   "floppy": "eck"
+  },
+  {
+   "id": 753,
+   "stratum": "tetragonal",
+   "space_group_number": 139,
+   "setting": "I4/mmm",
+   "scaffold": "lwg",
+   "floppy": "stw-a"
+  },
+  {
+   "id": 754,
+   "stratum": "tetragonal",
+   "space_group_number": 139,
+   "setting": "I4/mmm",
+   "scaffold": "xbe",
+   "floppy": "stj-a"
+  },
+  {
+   "id": 755,
+   "stratum": "tetragonal",
+   "space_group_number": 141,
+   "setting": "I41/amd:2",
+   "scaffold": "nat",
+   "floppy": "zfv"
+  },
+  {
+   "id": 756,
+   "stratum": "tetragonal",
+   "space_group_number": 139,
+   "setting": "I4/mmm",
+   "scaffold": "llj",
+   "floppy": "tmd"
+  },
+  {
+   "id": 757,
+   "stratum": "tetragonal",
+   "space_group_number": 141,
+   "setting": "I41/amd:2",
+   "scaffold": "iph",
+   "floppy": "wih"
+  },
+  {
+   "id": 758,
+   "stratum": "tetragonal",
+   "space_group_number": 139,
+   "setting": "I4/mmm",
+   "scaffold": "ecl",
+   "floppy": "urt-a"
+  },
+  {
+   "id": 759,
+   "stratum": "tetragonal",
+   "space_group_number": 139,
+   "setting": "I4/mmm",
+   "scaffold": "tsq",
+   "floppy": "llj"
+  },
+  {
+   "id": 760,
+   "stratum": "tetragonal",
+   "space_group_number": 123,
+   "setting": "P4/mmm",
+   "scaffold": "kty-a",
+   "floppy": "mou"
+  },
+  {
+   "id": 761,
+   "stratum": "tetragonal",
+   "space_group_number": 122,
+   "setting": "I-42d",
+   "scaffold": "uki",
+   "floppy": "wig"
+  },
+  {
+   "id": 762,
+   "stratum": "tetragonal",
+   "space_group_number": 141,
+   "setting": "I41/amd:2",
+   "scaffold": "fnl",
+   "floppy": "tsl"
+  },
+  {
+   "id": 763,
+   "stratum": "tetragonal",
+   "space_group_number": 141,
+   "setting": "I41/amd:2",
+   "scaffold": "xfe",
+   "floppy": "asf"
+  },
+  {
+   "id": 764,
+   "stratum": "tetragonal",
+   "space_group_number": 142,
+   "setting": "I41/acd:2",
+   "scaffold": "wiq",
+   "floppy": "isu"
+  },
+  {
+   "id": 765,
+   "stratum": "tetragonal",
+   "space_group_number": 142,
+   "setting": "I41/acd:2",
+   "scaffold": "ukd",
+   "floppy": "yfr"
+  },
+  {
+   "id": 766,
+   "stratum": "tetragonal",
+   "space_group_number": 139,
+   "setting": "I4/mmm",
+   "scaffold": "bbv",
+   "floppy": "stw-a"
+  },
+  {
+   "id": 767,
+   "stratum": "tetragonal",
+   "space_group_number": 141,
+   "setting": "I41/amd:2",
+   "scaffold": "nat",
+   "floppy": "wfq"
+  },
+  {
+   "id": 768,
+   "stratum": "tetragonal",
+   "space_group_number": 123,
+   "setting": "P4/mmm",
+   "scaffold": "eft-a",
+   "floppy": "fsc"
+  },
+  {
+   "id": 769,
+   "stratum": "tetragonal",
+   "space_group_number": 141,
+   "setting": "I41/amd:2",
+   "scaffold": "uoz",
+   "floppy": "ftc"
+  },
+  {
+   "id": 770,
+   "stratum": "tetragonal",
+   "space_group_number": 139,
+   "setting": "I4/mmm",
+   "scaffold": "ssb",
+   "floppy": "sca"
+  },
+  {
+   "id": 771,
+   "stratum": "tetragonal",
+   "space_group_number": 139,
+   "setting": "I4/mmm",
+   "scaffold": "ftj",
+   "floppy": "tsq-a"
+  },
+  {
+   "id": 772,
+   "stratum": "tetragonal",
+   "space_group_number": 109,
+   "setting": "I41md",
+   "scaffold": "luo",
+   "floppy": "sda"
+  },
+  {
+   "id": 773,
+   "stratum": "tetragonal",
+   "space_group_number": 139,
+   "setting": "I4/mmm",
+   "scaffold": "ttd",
+   "floppy": "sas"
+  },
+  {
+   "id": 774,
+   "stratum": "tetragonal",
+   "space_group_number": 139,
+   "setting": "I4/mmm",
+   "scaffold": "stw",
+   "floppy": "hbk-a"
+  },
+  {
+   "id": 775,
+   "stratum": "tetragonal",
+   "space_group_number": 141,
+   "setting": "I41/amd:2",
+   "scaffold": "umi",
+   "floppy": "ant-a"
+  },
+  {
+   "id": 776,
+   "stratum": "tetragonal",
+   "space_group_number": 141,
+   "setting": "I41/amd:2",
+   "scaffold": "gis",
+   "floppy": "whw"
+  },
+  {
+   "id": 777,
+   "stratum": "tetragonal",
+   "space_group_number": 141,
+   "setting": "I41/amd:2",
+   "scaffold": "wfl",
+   "floppy": "xbj"
+  },
+  {
+   "id": 778,
+   "stratum": "tetragonal",
+   "space_group_number": 139,
+   "setting": "I4/mmm",
+   "scaffold": "urt-a",
+   "floppy": "ttd"
+  },
+  {
+   "id": 779,
+   "stratum": "tetragonal",
+   "space_group_number": 141,
+   "setting": "I41/amd:2",
+   "scaffold": "zfv",
+   "floppy": "lig"
+  },
+  {
+   "id": 780,
+   "stratum": "tetragonal",
+   "space_group_number": 141,
+   "setting": "I41/amd:2",
+   "scaffold": "thh",
+   "floppy": "ant-a"
+  },
+  {
+   "id": 781,
+   "stratum": "tetragonal",
+   "space_group_number": 139,
+   "setting": "I4/mmm",
+   "scaffold": "ftj",
+   "floppy": "epc"
+  },
+  {
+   "id": 782,
+   "stratum": "tetragonal",
+   "space_group_number": 142,
+   "setting": "I41/acd:2",
+   "scaffold": "xfr",
+   "floppy": "wgm"
+  },
+  {
+   "id": 783,
+   "stratum": "tetragonal",
+   "space_group_number": 142,
+   "setting": "I41/acd:2",
+   "scaffold": "umr",
+   "floppy": "wik"
+  },
+  {
+   "id": 784,
+   "stratum": "tetragonal",
+   "space_group_number": 139,
+   "setting": "I4/mmm",
+   "scaffold": "xll-a",
+   "floppy": "flt-a"
+  },
+  {
+   "id": 785,
+   "stratum": "tetragonal",
+   "space_group_number": 141,
+   "setting": "I41/amd:2",
+   "scaffold": "deh",
+   "floppy": "zfx"
+  },
+  {
+   "id": 786,
+   "stratum": "tetragonal",
+   "space_group_number": 141,
+   "setting": "I41/amd:2",
+   "scaffold": "scp",
+   "floppy": "mon"
+  },
+  {
+   "id": 787,
+   "stratum": "tetragonal",
+   "space_group_number": 141,
+   "setting": "I41/amd:2",
+   "scaffold": "scp-a",
+   "floppy": "wia"
+  },
+  {
+   "id": 788,
+   "stratum": "tetragonal",
+   "space_group_number": 142,
+   "setting": "I41/acd:2",
+   "scaffold": "wik",
+   "floppy": "wio"
+  },
+  {
+   "id": 789,
+   "stratum": "tetragonal",
+   "space_group_number": 141,
+   "setting": "I41/amd:2",
+   "scaffold": "wuy",
+   "floppy": "bkt"
+  },
+  {
+   "id": 790,
+   "stratum": "tetragonal",
+   "space_group_number": 142,
+   "setting": "I41/acd:2",
+   "scaffold": "wgm",
+   "floppy": "sno"
+  },
+  {
+   "id": 791,
+   "stratum": "tetragonal",
+   "space_group_number": 91,
+   "setting": "P4122",
+   "scaffold": "zfs",
+   "floppy": "zfr"
+  },
+  {
+   "id": 792,
+   "stratum": "tetragonal",
+   "space_group_number": 141,
+   "setting": "I41/amd:2",
+   "scaffold": "zrc-a",
+   "floppy": "wga"
+  },
+  {
+   "id": 793,
+   "stratum": "tetragonal",
+   "space_group_number": 142,
+   "setting": "I41/acd:2",
+   "scaffold": "wgl",
+   "floppy": "wgr"
+  },
+  {
+   "id": 794,
+   "stratum": "tetragonal",
+   "space_group_number": 131,
+   "setting": "P42/mmc",
+   "scaffold": "pts-e",
+   "floppy": "pts-a"
+  },
+  {
+   "id": 795,
+   "stratum": "tetragonal",
+   "space_group_number": 139,
+   "setting": "I4/mmm",
+   "scaffold": "lwg-a",
+   "floppy": "urt"
+  },
+  {
+   "id": 796,
+   "stratum": "tetragonal",
+   "space_group_number": 139,
+   "setting": "I4/mmm",
+   "scaffold": "llj-a",
+   "floppy": "urt"
+  },
+  {
+   "id": 797,
+   "stratum": "tetragonal",
+   "space_group_number": 139,
+   "setting": "I4/mmm",
+   "scaffold": "dgp",
+   "floppy": "pfm-a"
+  },
+  {
+   "id": 798,
+   "stratum": "tetragonal",
+   "space_group_number": 142,
+   "setting": "I41/acd:2",
+   "scaffold": "uoe",
+   "floppy": "yfq"
+  },
+  {
+   "id": 799,
+   "stratum": "tetragonal",
+   "space_group_number": 142,
+   "setting": "I41/acd:2",
+   "scaffold": "upd",
+   "floppy": "wip"
+  },
+  {
+   "id": 800,
+   "stratum": "tetragonal",
+   "space_group_number": 123,
+   "setting": "P4/mmm",
+   "scaffold": "kty",
+   "floppy": "scu-a"
+  },
+  {
+   "id": 801,
+   "stratum": "tetragonal",
+   "space_group_number": 141,
+   "setting": "I41/amd:2",
+   "scaffold": "iph",
+   "floppy": "ant"
+  },
+  {
+   "id": 802,
+   "stratum": "tetragonal",
+   "space_group_number": 139,
+   "setting": "I4/mmm",
+   "scaffold": "bbn",
+   "floppy": "ttf"
+  },
+  {
+   "id": 803,
+   "stratum": "tetragonal",
+   "space_group_number": 139,
+   "setting": "I4/mmm",
+   "scaffold": "fsx",
+   "floppy": "bct"
+  },
+  {
+   "id": 804,
+   "stratum": "tetragonal",
+   "space_group_number": 123,
+   "setting": "P4/mmm",
+   "scaffold": "xal",
+   "floppy": "kty-a"
+  },
+  {
+   "id": 805,
+   "stratum": "tetragonal",
+   "space_group_number": 139,
+   "setting": "I4/mmm",
+   "scaffold": "keb-a",
+   "floppy": "sas"
+  },
+  {
+   "id": 806,
+   "stratum": "tetragonal",
+   "space_group_number": 139,
+   "setting": "I4/mmm",
+   "scaffold": "mer-e",
+   "floppy": "xan"
+  },
+  {
+   "id": 807,
+   "stratum": "tetragonal",
+   "space_group_number": 136,
+   "setting": "P42/mnm",
+   "scaffold": "dag-a",
+   "floppy": "isq"
+  },
+  {
+   "id": 808,
+   "stratum": "tetragonal",
+   "space_group_number": 131,
+   "setting": "P42/mmc",
+   "scaffold": "tfk",
+   "floppy": "svd"
+  },
+  {
+   "id": 809,
+   "stratum": "tetragonal",
+   "space_group_number": 131,
+   "setting": "P42/mmc",
+   "scaffold": "cdn",
+   "floppy": "cdm-e"
+  },
+  {
+   "id": 810,
+   "stratum": "tetragonal",
+   "space_group_number": 123,
+   "setting": "P4/mmm",
+   "scaffold": "asd",
+   "floppy": "bcd"
+  },
+  {
+   "id": 811,
+   "stratum": "tetragonal",
+   "space_group_number": 110,
+   "setting": "I41cd",
+   "scaffold": "yfw",
+   "floppy": "wgt"
+  },
+  {
+   "id": 812,
+   "stratum": "tetragonal",
+   "space_group_number": 141,
+   "setting": "I41/amd:2",
+   "scaffold": "wgd",
+   "floppy": "lun"
+  },
+  {
+   "id": 813,
+   "stratum": "tetragonal",
+   "space_group_number": 139,
+   "setting": "I4/mmm",
+   "scaffold": "tfj-a",
+   "floppy": "xak"
+  },
+  {
+   "id": 814,
+   "stratum": "tetragonal",
+   "space_group_number": 140,
+   "setting": "I4/mcm",
+   "scaffold": "zfe",
+   "floppy": "svf"
+  },
+  {
+   "id": 815,
+   "stratum": "tetragonal",
+   "space_group_number": 88,
+   "setting": "I41/a:2",
+   "scaffold": "wfc",
+   "floppy": "isg"
+  },
+  {
+   "id": 816,
+   "stratum": "tetragonal",
+   "space_group_number": 88,
+   "setting": "I41/a:2",
+   "scaffold": "xfg",
+   "floppy": "wid"
+  },
+  {
+   "id": 817,
+   "stratum": "tetragonal",
+   "space_group_number": 139,
+   "setting": "I4/mmm",
+   "scaffold": "hhb",
+   "floppy": "xak"
+  },
+  {
+   "id": 818,
+   "stratum": "tetragonal",
+   "space_group_number": 123,
+   "setting": "P4/mmm",
+   "scaffold": "xah",
+   "floppy": "msq"
+  },
+  {
+   "id": 819,
+   "stratum": "tetragonal",
+   "space_group_number": 123,
+   "setting": "P4/mmm",
+   "scaffold": "bcd",
+   "floppy": "ssf-e"
+  },
+  {
+   "id": 820,
+   "stratum": "tetragonal",
+   "space_group_number": 142,
+   "setting": "I41/acd:2",
+   "scaffold": "yfr",
+   "floppy": "uka"
+  },
+  {
+   "id": 821,
+   "stratum": "tetragonal",
+   "space_group_number": 136,
+   "setting": "P42/mnm",
+   "scaffold": "llz",
+   "floppy": "jaj"
+  },
+  {
+   "id": 822,
+   "stratum": "tetragonal",
+   "space_group_number": 142,
+   "setting": "I41/acd:2",
+   "scaffold": "ukd",
+   "floppy": "yfu"
+  },
+  {
+   "id": 823,
+   "stratum": "tetragonal",
+   "space_group_number": 141,
+   "setting": "I41/amd:2",
+   "scaffold": "nat",
+   "floppy": "xfe"
+  },
+  {
+   "id": 824,
+   "stratum": "tetragonal",
+   "space_group_number": 131,
+   "setting": "P42/mmc",
+   "scaffold": "dft-e",
+   "floppy": "tfk"
+  },
+  {
+   "id": 825,
+   "stratum": "tetragonal",
+   "space_group_number": 139,
+   "setting": "I4/mmm",
+   "scaffold": "stw",
+   "floppy": "snq"
+  },
+  {
+   "id": 826,
+   "stratum": "tetragonal",
+   "space_group_number": 122,
+   "setting": "I-42d",
+   "scaffold": "wgb",
+   "floppy": "lxx"
+  },
+  {
+   "id": 827,
+   "stratum": "tetragonal",
+   "space_group_number": 130,
+   "setting": "P4/ncc:2",
+   "scaffold": "whk",
+   "floppy": "whj"
+  },
+  {
+   "id": 828,
+   "stratum": "tetragonal",
+   "space_group_number": 141,
+   "setting": "I41/amd:2",
+   "scaffold": "uoz",
+   "floppy": "sgt"
+  },
+  {
+   "id": 829,
+   "stratum": "tetragonal",
+   "space_group_number": 136,
+   "setting": "P42/mnm",
+   "scaffold": "ela",
+   "floppy": "zea"
+  },
+  {
+   "id": 830,
+   "stratum": "tetragonal",
+   "space_group_number": 139,
+   "setting": "I4/mmm",
+   "scaffold": "fth",
+   "floppy": "stx"
+  },
+  {
+   "id": 831,
+   "stratum": "tetragonal",
+   "space_group_number": 141,
+   "setting": "I41/amd:2",
+   "scaffold": "ant",
+   "floppy": "med"
+  },
+  {
+   "id": 832,
+   "stratum": "tetragonal",
+   "space_group_number": 88,
+   "setting": "I41/a:2",
+   "scaffold": "cua",
+   "floppy": "wfc"
+  },
+  {
+   "id": 833,
+   "stratum": "tetragonal",
+   "space_group_number": 131,
+   "setting": "P42/mmc",
+   "scaffold": "clj",
+   "floppy": "dmd"
+  },
+  {
+   "id": 834,
+   "stratum": "tetragonal",
+   "space_group_number": 139,
+   "setting": "I4/mmm",
+   "scaffold": "stx-a",
+   "floppy": "etn-a"
+  },
+  {
+   "id": 835,
+   "stratum": "tetragonal",
+   "space_group_number": 132,
+   "setting": "P42/mcm",
+   "scaffold": "eed-a",
+   "floppy": "umd"
+  },
+  {
+   "id": 836,
+   "stratum": "tetragonal",
+   "space_group_number": 121,
+   "setting": "I-42m",
+   "scaffold": "xfz",
+   "floppy": "tsx-a"
+  },
+  {
+   "id": 837,
+   "stratum": "tetragonal",
+   "space_group_number": 141,
+   "setting": "I41/amd:2",
+   "scaffold": "wih",
+   "floppy": "ddi"
+  },
+  {
+   "id": 838,
+   "stratum": "tetragonal",
+   "space_group_number": 142,
+   "setting": "I41/acd:2",
+   "scaffold": "yfv",
+   "floppy": "wip"
+  },
+  {
+   "id": 839,
+   "stratum": "tetragonal",
+   "space_group_number": 123,
+   "setting": "P4/mmm",
+   "scaffold": "asv",
+   "floppy": "zmj"
+  },
+  {
+   "id": 840,
+   "stratum": "tetragonal",
+   "space_group_number": 131,
+   "setting": "P42/mmc",
+   "scaffold": "pts-e",
+   "floppy": "snp"
+  },
+  {
+   "id": 841,
+   "stratum": "tetragonal",
+   "space_group_number": 123,
+   "setting": "P4/mmm",
+   "scaffold": "nyn",
+   "floppy": "hbl"
+  },
+  {
+   "id": 842,
+   "stratum": "tetragonal",
+   "space_group_number": 88,
+   "setting": "I41/a:2",
+   "scaffold": "ssm",
+   "floppy": "wfn"
+  },
+  {
+   "id": 843,
+   "stratum": "tetragonal",
+   "space_group_number": 142,
+   "setting": "I41/acd:2",
+   "scaffold": "xfm",
+   "floppy": "ubo-a"
+  },
+  {
+   "id": 844,
+   "stratum": "tetragonal",
+   "space_group_number": 123,
+   "setting": "P4/mmm",
+   "scaffold": "tty",
+   "floppy": "ssf"
+  },
+  {
+   "id": 845,
+   "stratum": "tetragonal",
+   "space_group_number": 141,
+   "setting": "I41/amd:2",
+   "scaffold": "xfd",
+   "floppy": "ant-a"
+  },
+  {
+   "id": 846,
+   "stratum": "tetragonal",
+   "space_group_number": 131,
+   "setting": "P42/mmc",
+   "scaffold": "ftk",
+   "floppy": "pts-g"
+  },
+  {
+   "id": 847,
+   "stratum": "tetragonal",
+   "space_group_number": 141,
+   "setting": "I41/amd:2",
+   "scaffold": "dia-f",
+   "floppy": "scp"
+  },
+  {
+   "id": 848,
+   "stratum": "tetragonal",
+   "space_group_number": 139,
+   "setting": "I4/mmm",
+   "scaffold": "svg",
+   "floppy": "xak"
+  },
+  {
+   "id": 849,
+   "stratum": "tetragonal",
+   "space_group_number": 141,
+   "setting": "I41/amd:2",
+   "scaffold": "hqy",
+   "floppy": "bkt"
+  },
+  {
+   "id": 850,
+   "stratum": "tetragonal",
+   "space_group_number": 131,
+   "setting": "P42/mmc",
+   "scaffold": "nkd",
+   "floppy": "tfk-a"
+  },
+  {
+   "id": 851,
+   "stratum": "tetragonal",
+   "space_group_number": 136,
+   "setting": "P42/mnm",
+   "scaffold": "odk",
+   "floppy": "jaj"
+  },
+  {
+   "id": 852,
+   "stratum": "tetragonal",
+   "space_group_number": 131,
+   "setting": "P42/mmc",
+   "scaffold": "cdl",
+   "floppy": "tfk-a"
+  },
+  {
+   "id": 853,
+   "stratum": "tetragonal",
+   "space_group_number": 131,
+   "setting": "P42/mmc",
+   "scaffold": "psp",
+   "floppy": "nke"
+  },
+  {
+   "id": 854,
+   "stratum": "tetragonal",
+   "space_group_number": 139,
+   "setting": "I4/mmm",
+   "scaffold": "urt-a",
+   "floppy": "mgg"
+  },
+  {
+   "id": 855,
+   "stratum": "tetragonal",
+   "space_group_number": 139,
+   "setting": "I4/mmm",
+   "scaffold": "sqp-a",
+   "floppy": "crb-e"
+  },
+  {
+   "id": 856,
+   "stratum": "tetragonal",
+   "space_group_number": 136,
+   "setting": "P42/mnm",
+   "scaffold": "jaj",
+   "floppy": "sig"
+  },
+  {
+   "id": 857,
+   "stratum": "tetragonal",
+   "space_group_number": 141,
+   "setting": "I41/amd:2",
+   "scaffold": "wgd",
+   "floppy": "tfm"
+  },
+  {
+   "id": 858,
+   "stratum": "tetragonal",
+   "space_group_number": 142,
+   "setting": "I41/acd:2",
+   "scaffold": "yfu",
+   "floppy": "zni"
+  },
+  {
+   "id": 859,
+   "stratum": "tetragonal",
+   "space_group_number": 133,
+   "setting": "P42/nbc:2",
+   "scaffold": "umz",
+   "floppy": "yfc"
+  },
+  {
+   "id": 860,
+   "stratum": "tetragonal",
+   "space_group_number": 139,
+   "setting": "I4/mmm",
+   "scaffold": "fuo",
+   "floppy": "crb-e"
+  },
+  {
+   "id": 861,
+   "stratum": "tetragonal",
+   "space_group_number": 141,
+   "setting": "I41/amd:2",
+   "scaffold": "svr",
+   "floppy": "gis-e"
+  },
+  {
+   "id": 862,
+   "stratum": "tetragonal",
+   "space_group_number": 123,
+   "setting": "P4/mmm",
+   "scaffold": "asd-a",
+   "floppy": "fte"
+  },
+  {
+   "id": 863,
+   "stratum": "tetragonal",
+   "space_group_number": 139,
+   "setting": "I4/mmm",
+   "scaffold": "zll",
+   "floppy": "flt-a"
+  },
+  {
+   "id": 864,
+   "stratum": "tetragonal",
+   "space_group_number": 131,
+   "setting": "P42/mmc",
+   "scaffold": "tfk",
+   "floppy": "cds-f"
+  },
+  {
+   "id": 865,
+   "stratum": "tetragonal",
+   "space_group_number": 141,
+   "setting": "I41/amd:2",
+   "scaffold": "iab-a",
+   "floppy": "xbj"
+  },
+  {
+   "id": 866,
+   "stratum": "tetragonal",
+   "space_group_number": 123,
+   "setting": "P4/mmm",
+   "scaffold": "mou",
+   "floppy": "urs-a"
+  },
+  {
+   "id": 867,
+   "stratum": "tetragonal",
+   "space_group_number": 141,
+   "setting": "I41/amd:2",
+   "scaffold": "dei",
+   "floppy": "bda"
+  },
+  {
+   "id": 868,
+   "stratum": "tetragonal",
+   "space_group_number": 139,
+   "setting": "I4/mmm",
+   "scaffold": "stj-a",
+   "floppy": "fuo"
+  },
+  {
+   "id": 869,
+   "stratum": "tetragonal",
+   "space_group_number": 142,
+   "setting": "I41/acd:2",
+   "scaffold": "utm",
+   "floppy": "ecj"
+  },
+  {
+   "id": 870,
+   "stratum": "tetragonal",
+   "space_group_number": 139,
+   "setting": "I4/mmm",
+   "scaffold": "flt",
+   "floppy": "flt-a"
+  },
+  {
+   "id": 871,
+   "stratum": "tetragonal",
+   "space_group_number": 141,
+   "setting": "I41/amd:2",
+   "scaffold": "xfc",
+   "floppy": "snl"
+  },
+  {
+   "id": 872,
+   "stratum": "tetragonal",
+   "space_group_number": 141,
+   "setting": "I41/amd:2",
+   "scaffold": "svr",
+   "floppy": "iab-a"
+  },
+  {
+   "id": 873,
+   "stratum": "tetragonal",
+   "space_group_number": 141,
+   "setting": "I41/amd:2",
+   "scaffold": "dia-f",
+   "floppy": "zrc-a"
+  },
+  {
+   "id": 874,
+   "stratum": "tetragonal",
+   "space_group_number": 141,
+   "setting": "I41/amd:2",
+   "scaffold": "wga",
+   "floppy": "bkt"
+  },
+  {
+   "id": 875,
+   "stratum": "tetragonal",
+   "space_group_number": 141,
+   "setting": "I41/amd:2",
+   "scaffold": "wia",
+   "floppy": "vtx"
+  },
+  {
+   "id": 876,
+   "stratum": "tetragonal",
+   "space_group_number": 133,
+   "setting": "P42/nbc:2",
+   "scaffold": "zfj",
+   "floppy": "utj"
+  },
+  {
+   "id": 877,
+   "stratum": "tetragonal",
+   "space_group_number": 139,
+   "setting": "I4/mmm",
+   "scaffold": "hof",
+   "floppy": "tee-a"
+  },
+  {
+   "id": 878,
+   "stratum": "tetragonal",
+   "space_group_number": 123,
+   "setting": "P4/mmm",
+   "scaffold": "bbd",
+   "floppy": "urs-a"
+  },
+  {
+   "id": 879,
+   "stratum": "tetragonal",
+   "space_group_number": 138,
+   "setting": "P42/ncm:2",
+   "scaffold": "cgc",
+   "floppy": "jxj"
+  },
+  {
+   "id": 880,
+   "stratum": "tetragonal",
+   "space_group_number": 141,
+   "setting": "I41/amd:2",
+   "scaffold": "ddi",
+   "floppy": "ant-a"
+  },
+  {
+   "id": 881,
+   "stratum": "tetragonal",
+   "space_group_number": 141,
+   "setting": "I41/amd:2",
+   "scaffold": "ths-e",
+   "floppy": "snl"
+  },
+  {
+   "id": 882,
+   "stratum": "tetragonal",
+   "space_group_number": 141,
+   "setting": "I41/amd:2",
+   "scaffold": "hua",
+   "floppy": "epf"
+  },
+  {
+   "id": 883,
+   "stratum": "tetragonal",
+   "space_group_number": 141,
+   "setting": "I41/amd:2",
+   "scaffold": "yfm",
+   "floppy": "ngc"
+  },
+  {
+   "id": 884,
+   "stratum": "tetragonal",
+   "space_group_number": 139,
+   "setting": "I4/mmm",
+   "scaffold": "xbe",
+   "floppy": "bbn"
+  },
+  {
+   "id": 885,
+   "stratum": "tetragonal",
+   "space_group_number": 98,
+   "setting": "I4122",
+   "scaffold": "lll",
+   "floppy": "jsm"
+  },
+  {
+   "id": 886,
+   "stratum": "tetragonal",
+   "space_group_number": 141,
+   "setting": "I41/amd:2",
+   "scaffold": "sqc-a",
+   "floppy": "scp"
+  },
+  {
+   "id": 887,
+   "stratum": "tetragonal",
+   "space_group_number": 141,
+   "setting": "I41/amd:2",
+   "scaffold": "wfm",
+   "floppy": "wih"
+  },
+  {
+   "id": 888,
+   "stratum": "tetragonal",
+   "space_group_number": 131,
+   "setting": "P42/mmc",
+   "scaffold": "knc",
+   "floppy": "nkc"
+  },
+  {
+   "id": 889,
+   "stratum": "tetragonal",
+   "space_group_number": 142,
+   "setting": "I41/acd:2",
+   "scaffold": "uoe",
+   "floppy": "wip"
+  },
+  {
+   "id": 890,
+   "stratum": "tetragonal",
+   "space_group_number": 139,
+   "setting": "I4/mmm",
+   "scaffold": "atn",
+   "floppy": "lwg"
+  },
+  {
+   "id": 891,
+   "stratum": "tetragonal",
+   "space_group_number": 139,
+   "setting": "I4/mmm",
+   "scaffold": "keb-a",
+   "floppy": "mgg"
+  },
+  {
+   "id": 892,
+   "stratum": "tetragonal",
+   "space_group_number": 141,
+   "setting": "I41/amd:2",
+   "scaffold": "hqy",
+   "floppy": "svh"
+  },
+  {
+   "id": 893,
+   "stratum": "tetragonal",
+   "space_group_number": 142,
+   "setting": "I41/acd:2",
+   "scaffold": "wgj",
+   "floppy": "und"
+  },
+  {
+   "id": 894,
+   "stratum": "tetragonal",
+   "space_group_number": 141,
+   "setting": "I41/amd:2",
+   "scaffold": "ftd",
+   "floppy": "fnl"
+  },
+  {
+   "id": 895,
+   "stratum": "tetragonal",
+   "space_group_number": 133,
+   "setting": "P42/nbc:2",
+   "scaffold": "zfk",
+   "floppy": "zfm"
+  },
+  {
+   "id": 896,
+   "stratum": "tetragonal",
+   "space_group_number": 139,
+   "setting": "I4/mmm",
+   "scaffold": "xll-a",
+   "floppy": "urt"
+  },
+  {
+   "id": 897,
+   "stratum": "tetragonal",
+   "space_group_number": 142,
+   "setting": "I41/acd:2",
+   "scaffold": "uto",
+   "floppy": "wgn"
+  },
+  {
+   "id": 898,
+   "stratum": "tetragonal",
+   "space_group_number": 139,
+   "setting": "I4/mmm",
+   "scaffold": "stx",
+   "floppy": "ftn"
+  },
+  {
+   "id": 899,
+   "stratum": "tetragonal",
+   "space_group_number": 139,
+   "setting": "I4/mmm",
+   "scaffold": "stx-a",
+   "floppy": "fth"
+  },
+  {
+   "id": 900,
+   "stratum": "tetragonal",
+   "space_group_number": 139,
+   "setting": "I4/mmm",
+   "scaffold": "ylf",
+   "floppy": "etn"
+  },
+  {
+   "id": 901,
+   "stratum": "tetragonal",
+   "space_group_number": 131,
+   "setting": "P42/mmc",
+   "scaffold": "fdu-a",
+   "floppy": "cdq"
+  },
+  {
+   "id": 902,
+   "stratum": "tetragonal",
+   "space_group_number": 141,
+   "setting": "I41/amd:2",
+   "scaffold": "fur",
+   "floppy": "wuy"
+  },
+  {
+   "id": 903,
+   "stratum": "tetragonal",
+   "space_group_number": 142,
+   "setting": "I41/acd:2",
+   "scaffold": "wip",
+   "floppy": "yfr"
+  },
+  {
+   "id": 904,
+   "stratum": "tetragonal",
+   "space_group_number": 139,
+   "setting": "I4/mmm",
+   "scaffold": "xak",
+   "floppy": "tfj"
+  },
+  {
+   "id": 905,
+   "stratum": "tetragonal",
+   "space_group_number": 141,
+   "setting": "I41/amd:2",
+   "scaffold": "deh",
+   "floppy": "wgd"
+  },
+  {
+   "id": 906,
+   "stratum": "tetragonal",
+   "space_group_number": 142,
+   "setting": "I41/acd:2",
+   "scaffold": "wis",
+   "floppy": "wgh"
+  },
+  {
+   "id": 907,
+   "stratum": "tetragonal",
+   "space_group_number": 139,
+   "setting": "I4/mmm",
+   "scaffold": "pfm",
+   "floppy": "xak"
+  },
+  {
+   "id": 908,
+   "stratum": "tetragonal",
+   "space_group_number": 141,
+   "setting": "I41/amd:2",
+   "scaffold": "wia",
+   "floppy": "gis-e"
+  },
+  {
+   "id": 909,
+   "stratum": "tetragonal",
+   "space_group_number": 131,
+   "setting": "P42/mmc",
+   "scaffold": "psp-a",
+   "floppy": "nkf"
+  },
+  {
+   "id": 910,
+   "stratum": "tetragonal",
+   "space_group_number": 139,
+   "setting": "I4/mmm",
+   "scaffold": "dgp",
+   "floppy": "bbv"
+  },
+  {
+   "id": 911,
+   "stratum": "tetragonal",
+   "space_group_number": 121,
+   "setting": "I-42m",
+   "scaffold": "whd",
+   "floppy": "wff"
+  },
+  {
+   "id": 912,
+   "stratum": "tetragonal",
+   "space_group_number": 88,
+   "setting": "I41/a:2",
+   "scaffold": "whv",
+   "floppy": "wfj"
+  },
+  {
+   "id": 913,
+   "stratum": "tetragonal",
+   "space_group_number": 141,
+   "setting": "I41/amd:2",
+   "scaffold": "ngc",
+   "floppy": "xfc"
+  },
+  {
+   "id": 914,
+   "stratum": "tetragonal",
+   "space_group_number": 139,
+   "setting": "I4/mmm",
+   "scaffold": "fth",
+   "floppy": "crb-a"
+  },
+  {
+   "id": 915,
+   "stratum": "tetragonal",
+   "space_group_number": 126,
+   "setting": "P4/nnc:2",
+   "scaffold": "bcu-j",
+   "floppy": "bcu-g"
+  },
+  {
+   "id": 916,
+   "stratum": "tetragonal",
+   "space_group_number": 123,
+   "setting": "P4/mmm",
+   "scaffold": "bcb",
+   "floppy": "sse"
+  },
+  {
+   "id": 917,
+   "stratum": "tetragonal",
+   "space_group_number": 139,
+   "setting": "I4/mmm",
+   "scaffold": "stw",
+   "floppy": "mgg"
+  },
+  {
+   "id": 918,
+   "stratum": "tetragonal",
+   "space_group_number": 142,
+   "setting": "I41/acd:2",
+   "scaffold": "xfn",
+   "floppy": "wit"
+  },
+  {
+   "id": 919,
+   "stratum": "tetragonal",
+   "space_group_number": 122,
+   "setting": "I-42d",
+   "scaffold": "cbt",
+   "floppy": "ecm"
+  },
+  {
+   "id": 920,
+   "stratum": "tetragonal",
+   "space_group_number": 131,
+   "setting": "P42/mmc",
+   "scaffold": "urj-a",
+   "floppy": "urj"
+  },
+  {
+   "id": 921,
+   "stratum": "tetragonal",
+   "space_group_number": 141,
+   "setting": "I41/amd:2",
+   "scaffold": "wfm",
+   "floppy": "hua"
+  },
+  {
+   "id": 922,
+   "stratum": "tetragonal",
+   "space_group_number": 141,
+   "setting": "I41/amd:2",
+   "scaffold": "med",
+   "floppy": "xfc"
+  },
+  {
+   "id": 923,
+   "stratum": "tetragonal",
+   "space_group_number": 142,
+   "setting": "I41/acd:2",
+   "scaffold": "xfr",
+   "floppy": "yfv"
+  },
+  {
+   "id": 924,
+   "stratum": "tetragonal",
+   "space_group_number": 141,
+   "setting": "I41/amd:2",
+   "scaffold": "umi",
+   "floppy": "whu"
+  },
+  {
+   "id": 925,
+   "stratum": "tetragonal",
+   "space_group_number": 131,
+   "setting": "P42/mmc",
+   "scaffold": "cdl-e",
+   "floppy": "pts-f"
+  },
+  {
+   "id": 926,
+   "stratum": "tetragonal",
+   "space_group_number": 142,
+   "setting": "I41/acd:2",
+   "scaffold": "svb",
+   "floppy": "wis"
+  },
+  {
+   "id": 927,
+   "stratum": "tetragonal",
+   "space_group_number": 141,
+   "setting": "I41/amd:2",
+   "scaffold": "bsn",
+   "floppy": "tsl"
+  },
+  {
+   "id": 928,
+   "stratum": "tetragonal",
+   "space_group_number": 141,
+   "setting": "I41/amd:2",
+   "scaffold": "dia-f",
+   "floppy": "umi"
+  },
+  {
+   "id": 929,
+   "stratum": "tetragonal",
+   "space_group_number": 141,
+   "setting": "I41/amd:2",
+   "scaffold": "wfm",
+   "floppy": "iab-a"
+  },
+  {
+   "id": 930,
+   "stratum": "tetragonal",
+   "space_group_number": 122,
+   "setting": "I-42d",
+   "scaffold": "yfk",
+   "floppy": "asp"
+  },
+  {
+   "id": 931,
+   "stratum": "tetragonal",
+   "space_group_number": 141,
+   "setting": "I41/amd:2",
+   "scaffold": "hqy",
+   "floppy": "snk"
+  },
+  {
+   "id": 932,
+   "stratum": "tetragonal",
+   "space_group_number": 139,
+   "setting": "I4/mmm",
+   "scaffold": "snq",
+   "floppy": "mer-e"
+  },
+  {
+   "id": 933,
+   "stratum": "tetragonal",
+   "space_group_number": 141,
+   "setting": "I41/amd:2",
+   "scaffold": "asf-a",
+   "floppy": "hua"
+  },
+  {
+   "id": 934,
+   "stratum": "tetragonal",
+   "space_group_number": 88,
+   "setting": "I41/a:2",
+   "scaffold": "wfk",
+   "floppy": "wib"
+  },
+  {
+   "id": 935,
+   "stratum": "tetragonal",
+   "space_group_number": 139,
+   "setting": "I4/mmm",
+   "scaffold": "hhb",
+   "floppy": "tfj"
+  },
+  {
+   "id": 936,
+   "stratum": "tetragonal",
+   "space_group_number": 142,
+   "setting": "I41/acd:2",
+   "scaffold": "wgq",
+   "floppy": "wgr"
+  },
+  {
+   "id": 937,
+   "stratum": "tetragonal",
+   "space_group_number": 142,
+   "setting": "I41/acd:2",
+   "scaffold": "ubo",
+   "floppy": "wip"
+  },
+  {
+   "id": 938,
+   "stratum": "tetragonal",
+   "space_group_number": 142,
+   "setting": "I41/acd:2",
+   "scaffold": "wgr",
+   "floppy": "wim"
+  },
+  {
+   "id": 939,
+   "stratum": "tetragonal",
+   "space_group_number": 98,
+   "setting": "I4122",
+   "scaffold": "uoy",
+   "floppy": "yan"
+  },
+  {
+   "id": 940,
+   "stratum": "tetragonal",
+   "space_group_number": 131,
+   "setting": "P42/mmc",
+   "scaffold": "fvw",
+   "floppy": "cli"
+  },
+  {
+   "id": 941,
+   "stratum": "tetragonal",
+   "space_group_number": 140,
+   "setting": "I4/mcm",
+   "scaffold": "urz-a",
+   "floppy": "ctt"
+  },
+  {
+   "id": 942,
+   "stratum": "tetragonal",
+   "space_group_number": 142,
+   "setting": "I41/acd:2",
+   "scaffold": "xfs",
+   "floppy": "ubo"
+  },
+  {
+   "id": 943,
+   "stratum": "tetragonal",
+   "space_group_number": 139,
+   "setting": "I4/mmm",
+   "scaffold": "crb-a",
+   "floppy": "bbo"
+  },
+  {
+   "id": 944,
+   "stratum": "tetragonal",
+   "space_group_number": 139,
+   "setting": "I4/mmm",
+   "scaffold": "atn-e",
+   "floppy": "sca"
+  },
+  {
+   "id": 945,
+   "stratum": "tetragonal",
+   "space_group_number": 141,
+   "setting": "I41/amd:2",
+   "scaffold": "fnj",
+   "floppy": "uoz"
+  },
+  {
+   "id": 946,
+   "stratum": "tetragonal",
+   "space_group_number": 123,
+   "setting": "P4/mmm",
+   "scaffold": "fit-e",
+   "floppy": "sse-e"
+  },
+  {
+   "id": 947,
+   "stratum": "tetragonal",
+   "space_group_number": 123,
+   "setting": "P4/mmm",
+   "scaffold": "mot-a",
+   "floppy": "ssf"
+  },
+  {
+   "id": 948,
+   "stratum": "tetragonal",
+   "space_group_number": 141,
+   "setting": "I41/amd:2",
+   "scaffold": "thh",
+   "floppy": "wia"
+  },
+  {
+   "id": 949,
+   "stratum": "tetragonal",
+   "space_group_number": 141,
+   "setting": "I41/amd:2",
+   "scaffold": "lun",
+   "floppy": "ant-a"
+  },
+  {
+   "id": 950,
+   "stratum": "tetragonal",
+   "space_group_number": 123,
+   "setting": "P4/mmm",
+   "scaffold": "eft-a",
+   "floppy": "bcb"
+  },
+  {
+   "id": 951,
+   "stratum": "tetragonal",
+   "space_group_number": 142,
+   "setting": "I41/acd:2",
+   "scaffold": "ukc",
+   "floppy": "zni"
+  },
+  {
+   "id": 952,
+   "stratum": "tetragonal",
+   "space_group_number": 139,
+   "setting": "I4/mmm",
+   "scaffold": "urt",
+   "floppy": "ftj"
+  },
+  {
+   "id": 953,
+   "stratum": "tetragonal",
+   "space_group_number": 141,
+   "setting": "I41/amd:2",
+   "scaffold": "dei",
+   "floppy": "snw"
+  },
+  {
+   "id": 954,
+   "stratum": "tetragonal",
+   "space_group_number": 142,
+   "setting": "I41/acd:2",
+   "scaffold": "sno",
+   "floppy": "wgs"
+  },
+  {
+   "id": 955,
+   "stratum": "tetragonal",
+   "space_group_number": 141,
+   "setting": "I41/amd:2",
+   "scaffold": "uoz",
+   "floppy": "scp-a"
+  },
+  {
+   "id": 956,
+   "stratum": "tetragonal",
+   "space_group_number": 141,
+   "setting": "I41/amd:2",
+   "scaffold": "bda",
+   "floppy": "wga"
+  },
+  {
+   "id": 957,
+   "stratum": "tetragonal",
+   "space_group_number": 141,
+   "setting": "I41/amd:2",
+   "scaffold": "ngc",
+   "floppy": "zfv"
+  },
+  {
+   "id": 958,
+   "stratum": "tetragonal",
+   "space_group_number": 139,
+   "setting": "I4/mmm",
+   "scaffold": "zll-a",
+   "floppy": "tcs"
+  },
+  {
+   "id": 959,
+   "stratum": "tetragonal",
+   "space_group_number": 141,
+   "setting": "I41/amd:2",
+   "scaffold": "nat",
+   "floppy": "med"
+  },
+  {
+   "id": 960,
+   "stratum": "tetragonal",
+   "space_group_number": 139,
+   "setting": "I4/mmm",
+   "scaffold": "stu",
+   "floppy": "ttd"
+  },
+  {
+   "id": 961,
+   "stratum": "tetragonal",
+   "space_group_number": 139,
+   "setting": "I4/mmm",
+   "scaffold": "tfj",
+   "floppy": "bbo"
+  },
+  {
+   "id": 962,
+   "stratum": "tetragonal",
+   "space_group_number": 139,
+   "setting": "I4/mmm",
+   "scaffold": "sas",
+   "floppy": "zll-a"
+  },
+  {
+   "id": 963,
+   "stratum": "tetragonal",
+   "space_group_number": 141,
+   "setting": "I41/amd:2",
+   "scaffold": "lvt",
+   "floppy": "zfw"
+  },
+  {
+   "id": 964,
+   "stratum": "tetragonal",
+   "space_group_number": 122,
+   "setting": "I-42d",
+   "scaffold": "ecm",
+   "floppy": "wgc"
+  },
+  {
+   "id": 965,
+   "stratum": "tetragonal",
+   "space_group_number": 139,
+   "setting": "I4/mmm",
+   "scaffold": "keb",
+   "floppy": "lbt"
+  },
+  {
+   "id": 966,
+   "stratum": "tetragonal",
+   "space_group_number": 139,
+   "setting": "I4/mmm",
+   "scaffold": "lwg-a",
+   "floppy": "epz-a"
+  },
+  {
+   "id": 967,
+   "stratum": "tetragonal",
+   "space_group_number": 139,
+   "setting": "I4/mmm",
+   "scaffold": "hhb",
+   "floppy": "etn"
+  },
+  {
+   "id": 968,
+   "stratum": "tetragonal",
+   "space_group_number": 123,
+   "setting": "P4/mmm",
+   "scaffold": "ssf",
+   "floppy": "sse"
+  },
+  {
+   "id": 969,
+   "stratum": "tetragonal",
+   "space_group_number": 91,
+   "setting": "P4122",
+   "scaffold": "yfg",
+   "floppy": "unc"
+  },
+  {
+   "id": 970,
+   "stratum": "tetragonal",
+   "space_group_number": 141,
+   "setting": "I41/amd:2",
+   "scaffold": "ftc",
+   "floppy": "xfd"
+  },
+  {
+   "id": 971,
+   "stratum": "tetragonal",
+   "space_group_number": 141,
+   "setting": "I41/amd:2",
+   "scaffold": "hqy",
+   "floppy": "wih"
+  },
+  {
+   "id": 972,
+   "stratum": "tetragonal",
+   "space_group_number": 131,
+   "setting": "P42/mmc",
+   "scaffold": "tfk-a",
+   "floppy": "cds"
+  },
+  {
+   "id": 973,
+   "stratum": "tetragonal",
+   "space_group_number": 139,
+   "setting": "I4/mmm",
+   "scaffold": "tee",
+   "floppy": "xll-a"
+  },
+  {
+   "id": 974,
+   "stratum": "tetragonal",
+   "space_group_number": 139,
+   "setting": "I4/mmm",
+   "scaffold": "stx-a",
+   "floppy": "stw"
+  },
+  {
+   "id": 975,
+   "stratum": "tetragonal",
+   "space_group_number": 139,
+   "setting": "I4/mmm",
+   "scaffold": "mer",
+   "floppy": "fit"
+  },
+  {
+   "id": 976,
+   "stratum": "tetragonal",
+   "space_group_number": 88,
+   "setting": "I41/a:2",
+   "scaffold": "whz",
+   "floppy": "yfi"
+  },
+  {
+   "id": 977,
+   "stratum": "tetragonal",
+   "space_group_number": 139,
+   "setting": "I4/mmm",
+   "scaffold": "tee-a",
+   "floppy": "ecl"
+  },
+  {
+   "id": 978,
+   "stratum": "tetragonal",
+   "space_group_number": 141,
+   "setting": "I41/amd:2",
+   "scaffold": "ban",
+   "floppy": "ths"
+  },
+  {
+   "id": 979,
+   "stratum": "tetragonal",
+   "space_group_number": 142,
+   "setting": "I41/acd:2",
+   "scaffold": "yfr",
+   "floppy": "yfs"
+  },
+  {
+   "id": 980,
+   "stratum": "tetragonal",
+   "space_group_number": 139,
+   "setting": "I4/mmm",
+   "scaffold": "epz-a",
+   "floppy": "stu"
+  },
+  {
+   "id": 981,
+   "stratum": "tetragonal",
+   "space_group_number": 130,
+   "setting": "P4/ncc:2",
+   "scaffold": "whj",
+   "floppy": "wfg"
+  },
+  {
+   "id": 982,
+   "stratum": "tetragonal",
+   "space_group_number": 139,
+   "setting": "I4/mmm",
+   "scaffold": "yfy",
+   "floppy": "pfm-a"
+  },
+  {
+   "id": 983,
+   "stratum": "tetragonal",
+   "space_group_number": 123,
+   "setting": "P4/mmm",
+   "scaffold": "bce",
+   "floppy": "urs-a"
+  },
+  {
+   "id": 984,
+   "stratum": "tetragonal",
+   "space_group_number": 142,
+   "setting": "I41/acd:2",
+   "scaffold": "yfp",
+   "floppy": "wgr"
+  },
+  {
+   "id": 985,
+   "stratum": "tetragonal",
+   "space_group_number": 87,
+   "setting": "I4/m",
+   "scaffold": "ncf",
+   "floppy": "wgx"
+  },
+  {
+   "id": 986,
+   "stratum": "tetragonal",
+   "space_group_number": 141,
+   "setting": "I41/amd:2",
+   "scaffold": "uos",
+   "floppy": "tsl"
+  },
+  {
+   "id": 987,
+   "stratum": "tetragonal",
+   "space_group_number": 139,
+   "setting": "I4/mmm",
+   "scaffold": "etn-a",
+   "floppy": "xao"
+  },
+  {
+   "id": 988,
+   "stratum": "tetragonal",
+   "space_group_number": 126,
+   "setting": "P4/nnc:2",
+   "scaffold": "yfa",
+   "floppy": "yfb"
+  },
+  {
+   "id": 989,
+   "stratum": "tetragonal",
+   "space_group_number": 87,
+   "setting": "I4/m",
+   "scaffold": "ncf",
+   "floppy": "tce"
+  },
+  {
+   "id": 990,
+   "stratum": "tetragonal",
+   "space_group_number": 123,
+   "setting": "P4/mmm",
+   "scaffold": "mou",
+   "floppy": "mjy"
+  },
+  {
+   "id": 991,
+   "stratum": "tetragonal",
+   "space_group_number": 141,
+   "setting": "I41/amd:2",
+   "scaffold": "snw",
+   "floppy": "sqc-a"
+  },
+  {
+   "id": 992,
+   "stratum": "tetragonal",
+   "space_group_number": 137,
+   "setting": "P42/nmc:2",
+   "scaffold": "fon-a",
+   "floppy": "zsn"
+  },
+  {
+   "id": 993,
+   "stratum": "tetragonal",
+   "space_group_number": 139,
+   "setting": "I4/mmm",
+   "scaffold": "stu-a",
+   "floppy": "mdh"
+  },
+  {
+   "id": 994,
+   "stratum": "tetragonal",
+   "space_group_number": 139,
+   "setting": "I4/mmm",
+   "scaffold": "urt",
+   "floppy": "stx-a"
+  },
+  {
+   "id": 995,
+   "stratum": "tetragonal",
+   "space_group_number": 139,
+   "setting": "I4/mmm",
+   "scaffold": "xao",
+   "floppy": "fva"
+  },
+  {
+   "id": 996,
+   "stratum": "tetragonal",
+   "space_group_number": 142,
+   "setting": "I41/acd:2",
+   "scaffold": "ukc",
+   "floppy": "isu"
+  },
+  {
+   "id": 997,
+   "stratum": "tetragonal",
+   "space_group_number": 141,
+   "setting": "I41/amd:2",
+   "scaffold": "dei",
+   "floppy": "wfl"
+  },
+  {
+   "id": 998,
+   "stratum": "tetragonal",
+   "space_group_number": 139,
+   "setting": "I4/mmm",
+   "scaffold": "xll",
+   "floppy": "epz-a"
+  },
+  {
+   "id": 999,
+   "stratum": "tetragonal",
+   "space_group_number": 133,
+   "setting": "P42/nbc:2",
+   "scaffold": "whm",
+   "floppy": "whl"
+  }
+ ]
+}

@@ -1,0 +1,43 @@
+{
+ "frozen_classifier": {
+  "path": "classifier/flat_classifier.py",
+  "SHA-256": "cdb601e1c1c00d92b18a33aa3576f4981b5535a88978aeb077a8e5e44c8711d7",
+  "python_version": "3.12.10",
+  "numpy_version": "2.5.3",
+  "scipy_version": "1.18.1",
+  "spglib_version": "2.7.0"
+ },
+ "development": "Retrospective geometry/rank checks on the ten known exact pairs. No prospective pair outcomes computed.",
+ "protocol": {
+  "tolerance_relative": 1e-08,
+  "classifier_q_seed": 20261120,
+  "classifier_nq": 12,
+  "outcome_q_seed": 20261122,
+  "outcome_nq": 32,
+  "rank": "singular value > 1e-8 * largest singular value",
+  "lifting": "all eig(Pi S Pi) > 1e-8 * ||S||2",
+  "flatness": "maximum sorted branch range / ||S||2 <= 1e-8; all branches including constant zeros",
+  "coverage": "Predicted-flat / actually flat in qualified sample; also report call-rate / all qualified",
+  "false_positive": "Predicted-flat but nonflat, among qualified predicted-flat; exact one-sided 95% CP upper plus two-sided 95% upper",
+  "intervals": "Wilson 95% for coverage and call-rate; IID pair interpretation, catalogue-specific"
+ },
+ "order": "For each test: the classifier was frozen with its checksum recorded; the sample was drawn and recorded; every prediction was made from geometry alone and the prediction file was sealed with its checksum; only then were lifted spectra computed. The classifier file here is byte-identical to the frozen file.",
+ "test_1": {
+  "n": 300,
+  "classifier_matches_frozen": true,
+  "outcome_calculation_started_at_seal": false
+ },
+ "test_2": {
+  "n": 1000,
+  "classifier_matches_frozen": true,
+  "geometry_errors_at_seal": 0,
+  "input_corrections": [
+   "tep"
+  ],
+  "outcome_calculation_started_at_seal": false,
+  "sample_sealed_before_predictions": true,
+  "all_predictions_finished_before_seal": true,
+  "all_outcomes_started_after_seal": true,
+  "classifier_unchanged_at_count": true
+ }
+}

@@ -1,0 +1,27 @@
+{
+ "units": [
+  {
+   "endpoint": "C",
+   "unit_mass": 113.42399999999999,
+   "t_cross": 0.01175530164104011,
+   "contact_translation": 0.45451957676343957,
+   "contact_rotation": 0.8439062806724146
+  },
+  {
+   "endpoint": "N",
+   "unit_mass": 121.40799999999999,
+   "t_cross": 0.010982252679669655,
+   "contact_translation": -0.5477228185417043,
+   "contact_rotation": 0.3797376552570322
+  }
+ ],
+ "kinetic_shares": [
+  0.48300061320433335,
+  0.5169993867956666
+ ],
+ "translation_doublet": -0.06363912702993993,
+ "recorded_doublet": [
+  -0.0636391270299665,
+  -0.06363912702991492
+ ]
+}

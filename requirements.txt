@@ -1,0 +1,8 @@
+numpy==2.5.3
+scipy==1.18.1
+gemmi==0.7.5
+spglib==2.7.0
+# optional, only for zinc_cyanide/ (force constants with a machine-learned potential):
+# ase
+# phonopy
+# mace-torch
